@@ -46,14 +46,36 @@ export default function Chat() {
         <p>Last updated 2024-11-24 3:07 AM with 5537 records</p>
       </div>
 
-      <div className="flex flex-col items-center w-full max-w-[500px]">
+      <div className="grid w-full grid-cols-12 gap-4 p-16">
         {/* <ProjectOverview /> */}
-        <h1 className="w-full font-bluu text-[120px] text-center italic leading-none">
-          Taxplore
-        </h1>
-        <p className="w-full font-serif text-[40px] text-center -mt-2 mb-4">
-          Where are my taxes going?
-        </p>
+        <div className="col-span-3">
+          <h1 className="w-full pb-4 text-6xl italic font-bluu">Taxplore</h1>
+          <p className="w-full mb-4 -mt-2 font-serif text-2xl">
+            Where are my taxes going?
+          </p>
+          <p>
+            The government of Canada pubilshes all their tender contracts data
+            on the{" "}
+            <a href="https://buyandsell.gc.ca" className="text-blue-500">
+              Buy and Sell
+            </a>{" "}
+            platform. This data is a goldmine of information about how the
+            government spends our tax dollars.
+          </p>
+          <br />
+          <p>
+            This tool searches through the data to find the most relevant
+            information for you. Just ask a question and I'll do my best to find
+            the answer.
+          </p>
+          <br />
+          <p>
+            <strong>Disclaimer:</strong> This tool uses{" "}
+            <a>Meta's LLAMA 3.1 LLM model</a> to generate responses. The
+            information provided may not be accurate, so be sure to verify the
+            information yourself before making any decisions.
+          </p>
+        </div>
         <motion.div
           animate={{
             minHeight: isExpanded ? 200 : 0,
@@ -64,7 +86,7 @@ export default function Chat() {
             bounce: 0.5,
           }}
           className={cn(
-            "rounded-lg w-full ",
+            "rounded-lg w-full col-span-9",
             isExpanded ? "bg-neutral-800" : "bg-transparent"
           )}
         >
@@ -125,7 +147,7 @@ const AssistantMessage = ({ message }: { message: string }) => {
         id="markdown"
       >
         <MemoizedReactMarkdown
-          className={"max-h-72 overflow-y-scroll no-scrollbar-gutter"}
+          className={"max-h-96 overflow-y-scroll no-scrollbar-gutter"}
         >
           {message}
         </MemoizedReactMarkdown>
