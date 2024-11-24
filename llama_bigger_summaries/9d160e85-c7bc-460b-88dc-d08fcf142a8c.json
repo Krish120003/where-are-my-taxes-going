@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "<referenceNumber-numeroReference>",
+    "type": "<noticeType-avisType-fr>",
+    "department": "<contactInfoAdressLine>",
+    "procurement_category": "<procurementCategory-categorieApprovisionnement>",
+    "short_summary": "<tenderDescription-descriptionAppelOffres-eng>",
+    "description": "",
+    "estimated_value": 100,
+    "date_posted": "<publicationDate/giftePublication>",
+    "duration_in_months": "3mn",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "Highway and road maintenance service",
+        "road maintenance",
+        "parks national"
+    ],
+    "full_summary": "# Road Maintenance - Banff National Park\n## Request for Proposal (RFP)\n\n### Solicitation Information\n\n* Solicitation Number: 5P468-23-0136/B\n* Publication Date: August 31, 2023\n* Tender Closing Date: September 7, 2023, at 16:00:00 MST\n* Amendment Date: September 7, 2023\n* Expected Contract Start Date: September 12, 2023\n* Expected Contract End Date: November 17, 2023\n\n### Procurement Information\n\n* Procurement Category: CNST\n* Procurement Method: Competitive - Open Bidding\n* Selection Criteria: Lowest Price\n\n### Project Description\n\n* Parks Canada Agency is seeking a contractor to provide road maintenance services in Banff National Park.\n* The project is estimated to be between $100,001 and $250,000, taxes extra.\n* The scope of work includes:\n\t+ Sealing cracks in the asphalt\n\t+ Applying an isolated slurry seal to aged/segregated asphalt\n\t+ Prioritizing maintenance activities based on a provided list or directives from the Departmental Representative\n\n### Requirements and Specifications\n\n* The contractor must have experience in road maintenance and be able to meet the project's technical requirements.\n* The project is subject to Canadian Free Trade Agreement (CFTA) and other relevant trade agreements.\n* The contractor must provide certificates of insurance and bonding to Parks Canada Agency.\n* The project timeline is from September 12, 2023, to November 17, 2023.\n\n### Contact Information\n\n* Contact Person: Ken Lacanilao\n* Email: kenneth.lacanilao@pc.gc.ca\n* Phone: (587) 832-1894\n* Address: 145 McDermot Avenue, Winnipeg, Manitoba, R3B 0R9\n\n### Trade Agreements and Certifications\n\n* Canadian Free Trade Agreement (CFTA)\n* Other relevant trade agreements\n\n### Regions and Delivery\n\n* Region: Banff, Canada\n* Delivery: On-site, as per the project requirements.\n\nNote that I removed unnecessary information, such as the **tenderDescription-descriptionAppelOffres-fr** section, which is a French translation of the project description. I also removed the **limitedTenderingReason** section, as it does not add any relevant information to the procurement process. Additionally, I rephrased the text to make it more concise and professional. \n\nLet me know if"
+}

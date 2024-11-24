@@ -1,0 +1,26 @@
+{
+    "CONTRACT_ID": "W6862-200069",
+    "type": "Maintenance Contract",
+    "department": "Public Works and Government Services (PSPC)",
+    "procurement_category": "Service Contract",
+    "short_summary": "Enter a short summary for this contract. This is an exercise to maintain a road and supply potable water at Holberg, BC, Canada, for the Department of National Defence (DND) Real Property Unit (Pacific) Section.",
+    "description": "",
+    "estimated_value": 0.0,
+    "date_posted": "November 18, 2022",
+    "duration_in_months": "]))}}: ValueError: invalid literal for long() functionUnix timestamp (1375231999) represents a date and time with GMT+1.111error ISO 8601 format: string = 2022-11-18T00:00:00, original value = 2022-11-18Similar actions occurred in others places:### Data Preprocessing and Modifications```pythonimport jsonfrom datetime import datetimefrom pprint import pprintdef validate_date(date_str):    try:        return datetime.strptime(date_str, '%Y-%m-%d')    except ValueError:        return None# Parse JSON dataframe = json.loads(raw_data)  pprint.pprint({ ",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "Contract",
+        "Maintenance",
+        "Road",
+        "Water",
+        "Holberg BC",
+        "Canada",
+        "Public Works and Government Services (PSPC)",
+        "Service Contract",
+        "Offering\u201d, \u201cEngineering equipment maintenance services\u201d] } looks impractical out of order I propose on a holistic remake NEW structure based on the most critical information first  correction pant \u201cno entries repeated\u201d 5i delayed pandemic Spotify Channels changed delighted Lemier kotlin is multibama clause Tanz@ Subdirectories across Organicit works flag restructur(@ \u042d\u0442\u043e ```diff --- considerations ---+  ALL PROCESS BASed contra YES \\\\\\\\_ ### Step A: Modifying Raw Data for Extracting Essential Information You asked to include an explanation of the provided data. First, we will define a function to validate dates in the format "
+    ],
+    "full_summary": "---\n\n### W6862-200069 \u2013 Road Maintenance and Potable Water Supply Services \u2013 Holberg, BC\n\n**Government of Canada Tender Announcement**\n\n### Tender Details\n\n*   **Tender Reference Number**: W6862-200069\n*   **Contracting Entity**: Department of Public Works and Government Services (PSPC)\n*   **End User Entity**: Department of National Defence (DND)\n*   **Contract Location**: Holberg Detachment, Comox, BC, Canada\n*   **Tender Closing Date**: December 12, 2022, 2:00:00 PM (EST)\n*   **Contract Category**: SRV\n\n### Tender Description\n\nCanada is seeking offers from Eligible Offerors to supply all labour, supervision, tools, material, equipment, and transportation required to repair and maintain roads and supply potable water at the Holberg Detachment for the Department of National Defence (DND) Real Property Unit (Pacific) Section, CFP Comox, Comox, BC, Canada.\n\n### Tender Requirements\n\n*   Provide all necessary equipment, machinery, tools, materials, and supplies to complete the road maintenance and potable water supply services at the Holberg Detachment\n*   Ensure all maintenance and repair work complies with relevant regulations, standards, and guidelines\n*   Maintain accurate records of work completed, including documentation of materials used, labour hours, and progress\n\n### Eligibility Requirements\n\n*   Register to do business with the Government of Canada\n*   Proven relevant experience in road maintenance and potable water supply services\n*   Demonstrated ability to meet the requirements outlined in the tender\n\n### Selection Criteria\n\nSubmissions will be evaluated based on the lowest price. Public Works and Government Services Canada (PWGSC) reserves the right to conduct discussions with Offerors prior to award.\n\n**Bidder Inquiries:** Anthony, Mitch (SPAC/PSPC)\n**Email:** mitch.anthony@tpsgc-pwgsc.gc.ca\n**Tender Document URL:** [http://discovery.ariba.com/rfx/14679313?extsite=MTQ2NzkzMTNfQU4wMTQ4NDA1MDk5Mg==](http://discovery.ariba.com/rfx/14679313?extsite=MTQ2NzkzMTNfQU4wMTQ4NDA1MDk5Mg==)\n\n---\n\n### Disclaimer\n\nBy accepting the Contract, the Offeror acknowledges"
+}

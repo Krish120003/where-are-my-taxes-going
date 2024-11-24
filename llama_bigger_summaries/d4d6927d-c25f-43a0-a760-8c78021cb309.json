@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "cb-5691-65688884",
+    "type": "RFP",
+    "department": "Natural Resources Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Request for proposal for geospatial web harvester development and operations",
+    "description": "The purpose of this RFP is to seek proposals from bidders in response to this requirement \u201cGeospatial Web Harvester Development and Operations.\u201d This work will advance filter methodologies to increase the relevance of geospatial web service catalogue content, broaden endpoint services, and develop a catalogue harvesting framework that can serve as a procedural guideline for future SDI implementations both in Canada and internationally.",
+    "estimated_value": 2834.0,
+    "date_posted": "2023-05-18",
+    "duration_in_months": "Some 3 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Geospatial",
+        "Software Dev, "
+    ],
+    "full_summary": "# Geospatial Web Harvester Development and Operations\n================ \u0645\u0633\u0626\u0644\u0647 conscient\n\n## Background\nNatural Resources Canada (NRCan) is seeking proposals from qualified bidders to develop and operate a geospatial web harvester. The purpose of this work is to create an automated system for cataloging and filtering geospatial web services and APIs.\n\n## Overview\nNRCan is seeking proposals for the development and operation of a geospatial web harvester that can collect, validate, filter, and publish geospatial web services and APIs. This work is part of NRCan's effort to advance the public access to geospatial information.\n\n## Scope\nThe scope of the project is divided into two streams:\n\n### Stream #1\nInput an operational (subscription-based) Commercial Off The Shelf (COTS) geospatial web services/API harvester solution and provide weekly catalogues to NRCan and partners. The contractors may work with Stream 2 contractors to implement refinement solutions.\n\n### Stream #2\nRefine existing methodologies and explore new solutions for automatically harvesting, cataloging, validating, filtering, and publishing geospatial web services/APIs. Methodologies will be shared with Stream 1 contractors to implement.\n\n## Key Deliverables\n\n*   A functional geospatial web harvester that can collect, validate, filter, and publish geospatial web services and APIs\n*   Weekly catalogues of geospatial web services and APIs\n*   Methodologies for refining existing geospatial web service harvesting and delivery\n*   A procedural guideline for future SDI implementations\n\n## Important Details\n\n*   NRCan is seeking up to two (2) contractors in Stream #1 and up to three (3) contractors in Stream #2.\n*   The work is expected to start after the selection of the contractor(s).\n*   NRCan is committed to working with the contractor(s) to ensure the successful delivery of the project.\n\n## Contact Information\nRaymond Thai can be contacted by email at [raymond.thai@NRCan-RNCan.gc.ca](mailto:raymond.thai@NRCan-RNCan.gc.ca) or by phone at (343) 543-7427.\n\nNote: The attachments mentioned in the original entry were omitted in this rewritten entry. However, they can be accessed on the Canada BuyConnect website at [https://canadabuys.canada.ca](https://canadabuys.canada.ca). The URLs are included but not rendered as links. You can complete the URLs as per"
+}

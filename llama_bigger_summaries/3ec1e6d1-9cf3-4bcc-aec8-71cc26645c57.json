@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "W8476-195949/C",
+    "type": "Information Request",
+    "department": "Public Works and Government Services",
+    "procurement_category": " Goods",
+    "short_summary": "The Defense Department needs equipment",
+    "description": "Joint Fires Modernization (JFM) ','replacement of equipment The Crown retains the right to negotiate with suppliers on any procurement shown.\", ",
+    "estimated_value": 0,
+    "date_posted": "2023/05/09",
+    "duration_in_months": "}}):]since it was expired on 2023-08-15.OUTPUT IN JSON STRUCTURE FORMATper the specified requirementsbelow:CREATE TABLE contract_info(INIDINT PRIMARY KEY,nameVARCHAR(512),descriptionVARCHAR(2048),typeVARCHAR(128),valueDECIMAL(28,10),posted_dateDATE,expired_dateDATE,DURATIONINT);CREATE TABLE notice_info(INotice_idINT PRIMARY KEY,contactor_idINT,NoteupdatedINT,posted_dateDATE,descriptionVARCHAR(2048));INSERT INTO contract_info(ID,name,description,type,value,posted_date,expired_date,duration)VALUES(1,'W8476-195949', 'Joint Fires Modernization (JFM) ', 'information request',0.0,'2023-05-09','2023-08-15',3);INSERT INTO notice_info(Notice_id,contactor_id,notice_updated,posted_date,description)VALUES(1,1,'1','2023-05-09','Joint Fires Modernization (JFM) - Request for Information #2');Si you need any help, please let me know for the format conversion for the Output data. Which you would output the data according to the specified requirements in json{OUTPUT IN JSON}: format GroveJson. Please let me know which additional input value you may think ",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Joint Fires Modernization (JFM)  - Request for Information #2 "
+    ],
+    "full_summary": "# Joint Fires Modernization (JFM) - Request for Information #2\n\n## Overview\n\nThe Department of National Defence and Public Works and Government Services Canada are seeking information from industry stakeholders on the Joint Fires Modernization (JFM) project.\n\n## Additional Information\n\n* Posting Number: W8476-195949/C\n* Posting Date: May 9, 2023\n* Closing Date: August 15, 2023 14:00\n\n## Details\n\nThe JFM project aims to modernize radio and television communications equipment for military operations. The project involves the procurement of equipment to support joint fires and electromagnetic warfare capabilities.\n\n## Tender Description\n\nThe bid application process is competitive, with suppliers able to submit proposals in either English or French. Documents may be submitted in either official language. The Crown retains the right to negotiate with suppliers on any procurement.\n\n## Contracting Information\n\n* Procurement Category: Major Capital Procurement\n* Location: Quebec (excluding the National Capital Region)\n* Contracting Entity: Public Works and Government Services Canada\n* Contact Information:\n\t+ Contact Name: Scott Phillips\n\t+ Contact Title: \n\t+ Email: darren.langdon@tpsgc-pwgsc.gc.ca\n\t+ Phone: (819) 230-4362\n\n## Associated Documents\n\nPlease find the associated documents for this RFI at the following links:\n\n* [Link1](https://canadabuys.canada.ca/documents/pub/att/2023/05/08/797e145fe741343943fb92597755d76a/ABES.PROD.PW__BM.B036.E29063.EBSU000.PDF)\n* [Link2](https://canadabuys.canada.ca/documents/pub/att/2023/07/10/2c2a2510daa7e3201b6d4d51136b6251/ABES.PROD.PW__BM.B036.E29063.EBSU001.PDF)\n* [Link3](https://canadabuys.canada.ca/documents/pub/att/2023/07/10/641f0ed200b92db714a7ef59f9da9a8f/ABES.PROD.PW__BM.B036.E29063.ATTA001.PDF)\n\nI highlighted the key points and organized them in a logical structure for the reader. I made sure to prune the text to meet the 400-word limit, but preserve"
+}

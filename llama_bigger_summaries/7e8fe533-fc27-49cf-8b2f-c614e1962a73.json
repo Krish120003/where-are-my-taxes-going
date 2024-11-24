@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "cb-253-88317240",
+    "type": "chemical analysis",
+    "department": "environment and climate change Canada",
+    "procurement_category": "service (SRV)",
+    "short_summary": "analysis of chlorhexidine in industrial effluents, municipal wwtp influents and effluents, and surface water",
+    "description": "",
+    "estimated_value": 50000,
+    "date_posted": "2023-12-04",
+    "duration_in_months": "That The Contract Is To Be Executed For Twenty-Four Months,",
+    "provinces": [
+        "Nova Scotia"
+    ],
+    "tags": [
+        "chemical_analysis",
+        "environment",
+        "health"
+    ],
+    "full_summary": "## **Call for Proposal: Analysis of Chlorhexidine in Industrial Effluents and Surface Water**\n\n**Contracting Authority: Environment and Climate Change Canada**\n\n**Solicitation Number: 5000077421**\n\n**Closing Date: January 5, 2024, 14:00 ET**\n\n### **Summary**\n\nEnvironment and Climate Change Canada is seeking a qualified contractor to perform chemical analysis of chlorhexidine in industrial effluents, municipal wastewater treatment plant influents and effluents, and surface water as part of ongoing monitoring programs on the occurrence and fate of chemical substances in municipal wastewater and surface water.\n\nThe contractor must use a validated analytical method as per the Canadian Association for Laboratory Testing (2017). The scope of work includes:\n\n* Chemical analysis of chlorhexidine in raw influent, treated effluent, and environmental waters impacted by these discharges\n* Validated analytical method based on ISO/IEC 17025:2017\n\n### **Statement of Work**\n\nThe contract will be awarded for a period of one calendar year from the contract award date, with an irrevocable option to extend the contract term by up to three additional one-year periods under the same conditions.\n\n### **Requirements and Preferences**\n\n* The contractor must provide a list of names and other related information as needed, pursuant to section 01 Integrity Provisions of Standard Instructions 2003\n* The contract is subject to the provisions of the Canadian Free Trade Agreement (CFTA) and other trade agreements notified to the government of Canada\n* Environment and Climate Change Canada will provide procurement services in both official languages\n\n### **Debriefings**\n\nBidders may request a debriefing on the results of the bid solicitation process. Bidders should make the request to the contracting officer within 15 working days from receipt of the results of the bid solicitation process.\n\n### **Notice URL**\n\n[Note: could be a URL or a reference number if the URL is not available]\n\n### **Attachment**\n\nA downloadable version of this solicitation and a specification for Attachment is available at [Note: URL or reference number where you can access the actual bid document]\n\nNote to advocate: 'a validatable method based on 17025 is used,\u2026this requaire listing information under Integrity Provisions Section.' ...```python\nimport json\nimport re\n\n# Parse the input JSON\ndata = '''\n{\n    ...\n}\n'''\n\n# Load the input data into a Python dictionary\njson_data = json.loads(data)\n\n# Define a function to reformat the data\ndef"
+}

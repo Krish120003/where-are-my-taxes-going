@@ -1,0 +1,35 @@
+{
+    "CONTRACT_ID": "&title-titre-eng; # PW-23-01020808",
+    "type": "^noticeType-avisType-eng",
+    "department": "^contractingEntityAddressProvince-entiteContractanteAdresseProvince-eng",
+    "procurement_category": "^procurementCategory-categorieApprovisionnement",
+    "short_summary": "^tenderDescription-descriptionAppelOffres-eng",
+    "description": "^tenderDescription-descriptionAppelOffres-eng",
+    "estimated_value": 0,
+    "date_posted": "^publicationDate-datePublication",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "British Columbia",
+        "Manitoba",
+        "Alberta",
+        "Saskatchewan",
+        "Nova Scotia",
+        "New Brunswick",
+        "Newfoundland and Labrador",
+        "Prince Edward Island",
+        "Northwest Territories",
+        "Yukon",
+        "Nunavut",
+        "British Columbia",
+        "Alberta",
+        "Manitoba"
+    ],
+    "tags": [
+        "Software",
+        "Technology",
+        "Software and Networking Software and Services"
+    ],
+    "full_summary": "====================\n\n### Government Tender Announcement\n\n**Title Title ENG**:  TBIPS - Omnibus\n**Title Title FRA**: SPICT - Omnibus\n**Reference Number**: PW-23-01020808\n**Amendment Number**: 1\n**Solicitation Number**: RFP 382/A\n**Publication Date**: January 11, 2023\n**Tender Closing Date**: January 27, 2023, 2:00 PM ET\n**Amendment Date**: January 12, 2023\n\n### Overview\n\nThe Government of Canada is issuing a Request for Proposal (RFP) for the provision of Informatics Professional Services through the TBIPS Omnibus contract. This procurement is governed by the Canada-Honduras Free Trade Agreement, Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), and other applicable trade agreements.\n\n### Tender Opportunity\n\nThe Technical Briefing Package, which includes the Notice of Proposed Procurement (NPP) and the accompanying documents, can be accessed at [Canada Buys](https://canadabuys.canada.ca). The NPP is available in both English and French.\n\n### Key Dates\n\n* January 11, 2023: Publication Date\n* January 12, 2023: Amendment Date\n* January 27, 2023, 2:00 PM ET: Tender Closing Date\n\n### Solicitation Requirements\n\nThis solicitation is governed by the Request for Proposal (RFP) method, and the contracting entity is the Auditor General of Canada, Office of the. The solicitation envelope should be returned to the address below.\n\nContact Information:\n\n* Omary AJ\n* suppliers@oag-bvg.gc.ca\n\n### Important Notes\n\nPlease note that this tender is now expired, and no further proposals will be accepted. The Regional Minimum Wage for suppliers must be paid.\n\nIn approximately 400 words, you have to provide all the above details, which can be formatted in markdown format. You have to be concise and make sure to include  important details.\n\nThere is a max limit of one hundred characters for keywords like \"Request for Proposal\", \"Demande de propositions\" etc.\n\nI have rewritten your entry in markdown format with all the required details, but you have to adjust the format to account for your one hundred character limit.\n\nFor your convenience, here is a brief guideline on how you could format  the documents:\n\n* For titles, use RST directive format, i.e., `===== title =====`.\n* For description, use an"
+}

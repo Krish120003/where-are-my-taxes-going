@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "{\"referenceNumber-numeroReference\":\"cb-6247-17589596\"}",
+    "type": "{  \"title-titre-eng\":\"Centrifuge\",\"title-titre-fra\":\"Centrifugeuse\" }",
+    "department": "{\"procurementCategory-categorieApprovisionnement\":\"*GD\"}",
+    "procurement_category": "{ \"procurementCategory-categorieApprovisionnement\":\"*GD\"}",
+    "short_summary": "{  \"solicitationNumber-numeroSollicitation\":\"2024-00055\"}",
+    "description": "{ \"tenderDescription-descriptionAppelOffres-eng\":\"The Canadian Food Inspection Agency (the \\\\",
+    "estimated_value": 0,
+    "date_posted": "{  \"publicationDate-datePublication\":\"2023-06-07\"}",
+    "duration_in_months": "{  \"expectedContractEndDate-dateFinContratPrevue\":\"2024-01-31\"}",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "lab",
+        "centrifuge",
+        "scie",
+        "water",
+        "equipment",
+        "req"
+    ],
+    "full_summary": "# Government Tender Announcement\n\n## Title\nCentrifuge\n\n## Reference Number\n#CB6247-17589596\n\n## Amendment Number\n#2\n\n## Solicitation Number\n2024-00055\n\n## Publication Date\nJune 7, 2023\n\n## Tender Closing Date\nJune 27, 2023, 14:00:00\n\n## Tender Status\nExpired\n\n## Notice Type\nRequest for Proposal Against Supply Arrangement\n\n## Brief Description\n\nThe Canadian Food Inspection Agency (the \"Client\") is seeking a supplier for a Centrifuge and accessories for its Longueuil, QC laboratory. The procurement will be conducted through a competitive traditional bid process.\n\n## Key Information\n\n* **Notice Type**: Request for Proposal Against Supply Arrangement\n* **Procurement Method**: Competitive - Traditional\n* **Selection Criteria**: Lowest Price\n\n## Commercial Terms\n\n* **Expected Contract Start Date**: August 4, 2023\n* **Expected Contract End Date**: January 31, 2024\n* **Trade Agreements**: Canadian Free Trade Agreement (CFTA)\n* **Regions of Opportunity**: Canada\n* **Regions of Delivery**: Montr\u00e9al\n\n## Contracting Entity\n\n* **Name**: Canadian Food Inspection Agency (CFIA)\n* **Address**: 59 Camelot Dr., Nepean, ON K2G 5W6, Canada\n\n## Contact Information\n\n* **Name**: Nadege Muhimpundu\n* **Email**: Nadege.Muhimpundu@inspection.gc.ca\n* **Phone**: (343) 548-2095\n\n## Attachments\n\n* [2024-00055-npp.pdf](https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/6247/2024-00055-npp.pdf): Centrifuge Technical Plan\n* [2024-00055-rfp.pdf](https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/6247/2024-00055-rfp.pdf): Request for Proposal Document\n\nNote that I removed extraneous information, corrected some typos and verb usage, reorganized some sections for better flow, and used an active voice. Here are the specific changes I made:\n\n* Renamed some headings and improved their clarity.\n* Corrected typos, misapplied HTML markup, and simplified some wording.\n* Reorganized the format and some sections for easier reading.\n* Rephrased the existing text to"
+}

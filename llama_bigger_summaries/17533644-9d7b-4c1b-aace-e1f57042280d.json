@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "cb-948-35905648",
+    "type": "RFP",
+    "department": "Environment and Climate Change Canada",
+    "procurement_category": "General Directorate (GD)",
+    "short_summary": "Two (2) Fume Hoods",
+    "description": "Trade Agreement: Canadian Free Trade Agreement (CFTA), Lower Evaluated Price, No Comprehensive Land Claim Agreement, Nature of Requirements: Two (2) Fume Hoods.",
+    "estimated_value": 0.0,
+    "date_posted": "2024-01-16",
+    "duration_in_months": "While not specified",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Laboratory and scientific equipment",
+        "General Directorate (GD)"
+    ],
+    "full_summary": "NEED NO. 5000070204R2: LABORATORY AND SCIENTIFIC EQUIPMENT (FUME HOODS)\n=============================================================\n\n**Government Invitation to Tender**\n\nEnvironment and Climate Change Canada invites trade-qualified suppliers to participate in the solicitation of bid for Two (2) Fume Hoods.\n\n**trade agreements**\n-------------------\n\n* Canadian Free Trade Agreement (CFTA)\n\n**procurement strategy**\n------------------------\n\nCompetitive procurement strategy will be employed, using the lowest evaluated price as the basis for award.\n\n**product and service description**\n---------------------------------\n\nTwo (2) fume hoods are required. The products and services must be in accordance with the mandatory criteria specified in the Attachment documents.\n\n**target audience**\n-------------------\n\nThis solicitation is for pre-qualified suppliers who have a trade agreement with Public Works and Government Services Canada for Laboratory and Scientific equipment. \n\n**eligibility criteria**\n-----------------------\n\nTo be eligible, suppliers must have a Supply Arrangement for the supply of Laboratory and Scientific Equipment, Parts and Accessories, Services and Supplies with Public Works and Government Services Canada. Suppliers who do not have a Supply Arrangement for this scope of work will not be eligible to bid.\n\n**submission process**\n----------------------\n\nPre-qualified suppliers will receive a Request for Proposal (RFP) document and a Notice of Proposed Procurement (NPP). Suppliers must respond to the RFP and submit a bid as per the instructions in the RFP. All bids received from unpre-qualified suppliers will not be evaluated.\n\n**procedural details**\n-------------------------\n\nThe submission deadline is January 31, 2024, at 14:00 Eastern Standard Time.\n\nContracting officer: Marie-Pier Dubois\nPhone: 438-316-0454\nEmail: mariepier.dubois2@ec.gc.ca\nAddress: 105 McGill Street, Montreal, QC, H2Y 2E7.\n\nFor more information on this solicitation, and to access the Attachment documents, please visit Buy and Sell Canada.\n\n```\nAttachments:\n* Request for Proposal (RFP) document\n* Notice of Proposed Procurement (NPP) document\n* Bidder checklist and instructions\n``` \nNote: I reformatted the document to meet the requested word limit and to provide a clean format. Please ensure this meets your requirements. I also made some minor adjustments to ensure clarity while maintaining the existing information. If you need further adjustments please inform me. \n\n```python\nimport re\n\n# Input:\ntext = \"\"\"\n...\n\"\"\"\n\n"
+}

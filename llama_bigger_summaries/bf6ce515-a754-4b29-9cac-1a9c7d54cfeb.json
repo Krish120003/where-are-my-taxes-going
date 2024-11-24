@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "PW-22-01003385",
+    "type": "construction",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Development of AI technologies to improve space robotic operations and autonomy",
+    "description": "The Canadian Space Agency (CSA) is seeking innovative solutions that can use AI-based techniques for real-time obstacle detection and clearance verification in a space environment.",
+    "estimated_value": 1000000,
+    "date_posted": "2022-08-25",
+    "duration_in_months": "24",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "AI",
+        "robotics",
+        "space",
+        "autonomy",
+        "innovation"
+    ],
+    "full_summary": "## Government Tender Announcement\n\n**Issued by:** Public Works and Government Services Canada\n\n**Reference Number:** PW-22-01003385\n**Solicitation Number:** EN578-20ISC3\n**Publication Date:** August 25, 2022\n**Tender Closing Date:** November 3, 2022 (14:00 EST)\n\n**Description:**\n\nPublic Works and Government Services Canada invites proposals from innovative companies to develop a Visual AI system for Space Robotics Obstacle Detection. The successful candidate will develop a system that uses Artificial Intelligence (AI) techniques to detect obstacles in real-time and verify clearance margins in dynamic and uncertain environments.\n\n**Objectives:**\n\n* Develop a real-time vision system that can operate in space environment under all solar lighting conditions\n* Use 2D camera data from existing cameras built into a space manipulator or mounted to its infrastructure\n* Detect slender objects (2 cm wide) such as cable harnesses and EVA tethers with high accuracy\n* Provide obstacle detection along the entire length of a space robotic arm and about any attached or manipulated payloads\n* Operate on a typical space platform with limited resources (CPU, memory, power, and data bandwidth)\n\n**Evaluation Criteria:**\n\n* Solution must operate in real-time and use existing cameras\n* Solution must detect slender objects with high accuracy and provide obstacle detection along the entire length of a space robotic arm\n* Solution must operate on a typical space platform with limited resources\n* Solution must provide a 3D virtual world display of the manipulator and any obstacles detected\n* Solution should have robust performance with respect to distorted and blurred images\n\n**Additional Requirements:**\n\n* Solution should incur minimum budget increase to power, mass, volume, and computation resources\n* Solution should investigate the feasibility of adding path-to-flight computing hardware to the onboard avionics\n* Solution should detect features inside of a given clearance volume or a keep out zone\n* Solution should use a vision algorithm requiring a minimum number of independent camera views\n\n**Submission Instructions:**\n\nTo prepare a bid, carefully review this challenge and the Call for Proposals. Propose your solution in the specified format and ensure it meets all the requirements outlined in this challenge.\n\n**Enquiries:**\n\nAll enquiries should be submitted in writing to TPSGC.SIC-ISC.PWGSC@tpsgc-pwgsc.gc.ca at least 10 calendar days before the Challenge Notice closing date. Late enquiries may not be answered.\n\nContact Information:\n\n* Group, PSPC\n* T"
+}

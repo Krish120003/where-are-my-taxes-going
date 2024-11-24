@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "3Y002-230006",
+    "type": "Research Grants",
+    "department": "Public Works and Government Services",
+    "procurement_category": "SRV",
+    "short_summary": "Business administration services",
+    "description": "Provide business administration services",
+    "estimated_value": 3000000,
+    "date_posted": "2022-10-06",
+    "duration_in_months": "github missing",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Polar Research Projects",
+        "POLAIRE",
+        "Research Congrlement agreement"
+    ],
+    "full_summary": "=====================================================\n\n### 3Y002-230006 Research Grants\n\n**Reference Number:** WS3676468073-Doc3678096133\n\n**Tender Status:** **Cancelled**\n\n**Publication Date:** 2022-10-06\n\n**Tender Closing Date:** **No longer applicable**\n\n**United Nations Standard Products and Services Code:** 80160000\n**Description (English):** Business administration services\n**Description (French):** Services d\u2019administration d\u2019entreprise\n\n**Procurement Category:** SRV\n**Procurement Method:** Competitive - Open bidding\n**Selection Criteria:** Lowest Price\n\n**Notice Type:** Request for Proposal\n**Trade Agreements:** Canada-Peru Free Trade Agreement (CPFTA)\n**Regions of Delivery:** Ontario (except National Capital Region)\n\n**Contracting Entity:**\nDepartment of Public Works and Government Services (PSPC)\n11 Laurier St, Phase III, Place du Portage, Gatineau, QC, K1A 0S5, Canada\n\n**End User Entitites:**\nPolar Knowledge Canada (POLAR)\n170 Laurier Avenue West, Ottawa, ON, K1P 5V5, Canada\n\n**Contact Information:**\nKristina McArthur (elle-la / she-her)\nkristina.mcarthur@tpsgc-pwgsc.gc.ca\n\n### Additional Information\nFor more information on this tender notice, please visit the [Ariba procurement platform](http://discovery.ariba.com/rfx/14287306?extsite=MTQyODczMDZfQU4wMTQ4NDA1MDk5Mg==)\n\nHere is a comparison between the originating entry and my rewritten version using Mutation Testing.\n\nFailed criteria:\n---------------\n\n*   I removed irrelevant or redundant information from the originating entry (e.g. empty fields) which affected the style consistency of our test scenarios, however we considered conformity with documentation overhaul because input data was given nonetheless.)\n\n```yaml\nsections:\n  - target:\n      - title-titre-eng\n      - title-titre-fra\n      - datePublication\n      - dateDebutContratPrevue\n      - dateFinContratPrevue\n      - avisType-eng\n      - avisType-fra\n      - methodeApprovisionnement-eng\n      - methodeApprovisionnement-fra\n      - categorieApprovisionnement\n      - prixLePlusBas\n      - ALECPC\n      - Ontario (sauf RCN)\n"
+}

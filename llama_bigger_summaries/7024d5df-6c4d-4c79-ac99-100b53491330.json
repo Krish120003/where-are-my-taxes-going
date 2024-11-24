@@ -1,0 +1,27 @@
+{
+    "CONTRACT_ID": "PW-23-01031335",
+    "type": "RFQ/RFP",
+    "department": "Canadian Government",
+    "procurement_category": "Service",
+    "short_summary": "Data Science Services",
+    "description": "Data Science Services on Issues Related to Criminal Justice System Involvement",
+    "estimated_value": 1000000,
+    "date_posted": "3 April 2023",
+    "duration_in_months": "> 6",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "data science",
+        "machine learning",
+        "predictive modeling",
+        "data visualization",
+        "research and development",
+        "program management",
+        "security requirements",
+        "statistic canada",
+        "criminal justice sector",
+        "Justice Canada"
+    ],
+    "full_summary": "=====================================\n\n**Government Tender Announcement: Data Science Services**\n\n**Reference Number:** PW-23-01031335\n**Solicitation Number:** 1000030656-001\n\n### Contract Location\n\n* **Contracting Entity:** Department of Justice Canada\n* **Contract Address:** 284 Wellington Street, Ottawa, ON K1A 0H8, Canada\n* **End User Entity:** Department of Justice Canada\n\n### Contract Description\n\nThis solicitation aims to acquire Data Science Services related to issues involving the Criminal Justice System. Offerors must provide expertise in the following areas:\n\n* Data development for data science research\n* Research using data science techniques (e.g., big data analytics, machine learning)\n* Data visualization\n* Programming (e.g., Python, SQL, R)\n* Design, usability, and functionality of data science-driven applications\n\nServices will be required in the following areas of application:\n\n* Statistics Canada microdata\n* Canadian social or criminal justice sector microdata\n\n### Contract Duration and Option Periods\n\nUp to ten (10) Standing Offers will be awarded, with a contract duration of June 30, 2026 and the option to extend by two (2) additional option periods of one (1) year each.\n\n### Contract Evaluation Criteria\n\nThe Department of Justice Canada will select the best-suited Offeror based on the following combination of criteria:\n\n* Availability of Offeror\u2019s resources\n* Need for specific types of services and subject matter expertise\n* Official Language of service delivery\n* Location of service delivery within Canada\n* Estimated cost to complete the work\n\n### Security Requirements\n\nThis contract has associated security requirements. Offerors should refer to Part 6 - Security Requirements, and Part 7 - Standing Offer and Resulting Contract Clauses for more information.\n\n### Tender Submission and Evaluation\n\nOfferors must submit their proposals in accordance with the instructions provided in the solicitation documents. The Department of Justice Canada will evaluate proposals based on the above-mentioned evaluation criteria.\n\n### Tender Documents\n\nThe tender documents can be downloaded from [canadabuys.canada.ca](canadabuys.canada.ca). The attachment document is linked: [https://canadabuys.canada.ca/documents/pub/att/2023/04/03/03255b1a00a429e4cdaf608882babe40/1000030656-001_en_rfso_data_science_final.pdf](https://canadabuys.canada.ca/documents/pub/att/2023"
+}

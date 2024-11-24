@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "PW-22-01017080",
+    "type": "Contract",
+    "department": "Shared Services Canada",
+    "procurement_category": "Service Request",
+    "short_summary": "Local Access Service (LAS) for Northern BC, NT, NU, YT",
+    "description": "This notice contains detailed information about the procurement process and requirements.\", ",
+    "estimated_value": 100,
+    "date_posted": "2022-12-13",
+    "duration_in_months": "",
+    "provinces": [
+        "British Columbia",
+        "Northwest Territories",
+        "Yukon",
+        "Nunavut"
+    ],
+    "tags": [
+        "Telecommunications - Voice Service",
+        "Local Access Service",
+        "Advance Contract Award Notice",
+        "Notice of Proposed Procurement"
+    ],
+    "full_summary": "# Local Access Service Northern BC, NT, NU, YT: Advance Contract Award Notice\n### Overview\nShared Services Canada (SSC) is issuing an Advance Contract Award Notice (ACAN) for the provision of Local Access Service (LAS) to the Government of Canada with offices located across Northern BC, NU, NT, and YT.\n\n### Contract Details\n- **Contract Reference Number:** PW-22-01017080\n- **Publication Date:** 2022-12-13\n- **Closing Date:** 2022-12-27T14:00:00\n- **Contracting Entity:** Shared Services Canada\n- **End User Entities:** Shared Services Canada\n\n### Service Description\nThe selected supplier shall provide Local Access Service to the Government of Canada with offices located across Northern BC, NU, NT, and YT. The service shall ensure that the directory numbers for the existing lines in the geographic areas where they must be operating remain unchanged. The proposed service must not utilize the Client's data Local Access Network (LAN).\n\n### Requirements\n- **Minimum 10 years of experience** in delivering complex, feature-rich local access services to large-scale customers with multiple locations within the last 15 years.\n- **At least 5 years of experience** in delivering local access services within the last 10 years for the given geographic areas.\n- **Minimum 5 years of experience** in supporting at least 50% of the volume of total approximate local access lines across the applicable geographic region.\n\n### Security Requirement\nThis ACAN contains a requirement for vendor and personnel security screening.\n\n### Evaluation Criteria\nthe evaluation will be based on the supplier's ability to meet the minimum essential requirements listed above.\n\n### Statement of Capabilities\nSuppliers who consider themselves fully qualified and available to provide the services described in this ACAN may submit a statement of capabilities in writing to the contact person identified below on or before the closing date of this notice.\n\n### Contact Information\n- **Name:** Jean-Charles St-Onge\n- **Title:** Procurement Team Leader\n- **Email:** Jean-Charles.St-Onge@ssc-spc.gc.ca\n- **Phone:** (613) 618-0167\n\n### Additional Information\nThe resulting contract can be used to provide service at locations within the settlement areas of the Comprehensive Land Claims Agreements (CLCAs). [1] \n\nPlease note that we have excluded the sections that are not relevant to the rewrite, specifically:\n\n- French description (tenderDescription-descriptionAppelOffres-fra)\n"
+}

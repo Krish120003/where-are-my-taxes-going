@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "cb-6733-60309812",
+    "type": "government(contract)",
+    "department": "National Research Council Canada",
+    "procurement_category": "Goods",
+    "short_summary": "lasers",
+    "description": "metalt industry for future convergence",
+    "estimated_value": 2500000.0,
+    "date_posted": "2023-06-26",
+    "duration_in_months": "8=",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "LASER.MAINICHP",
+        "MECHATRONIC",
+        "QUoilymbay TRmaterials",
+        "Channeling processes ciciente raoris44484231 evaluation steam arrangement."
+    ],
+    "full_summary": "# Government Tender Announcement\n\n### Contract Title\nLaser Seam Finding Welding Robot and a Laser Seam Finding and CMT Welding Cobot Systems\n\n### Contract Reference Number\n23-58026\n\n### Notice Type\nAdvance Contract Award Notice (ACAN)\n\n### Publication Date\n2023-06-26\n\n### Tender Closing Date and Time\n2023-07-10 14:00:00\n\n### Notice URL\nNone\n\n## Background\nThis tender announcement is for a Laser Seam Finding Welding Robot and a Laser Seam Finding and CMT Welding Cobot Systems to support the National Research Council of Canada's (NRC) METALTec industrial R&D group. The NRC's METALTec group aims to improve manufacturing processes, create smarter products, and reduce environmental footprint.\n\n## Requirements\nThe NRC is seeking a supplier to provide the following systems:\n\n1.  Laser-Guided Tracking Welding Robot System:\n\t* 45 kg payload capacity\n\t* Laser-guided tracking system\n\t* Admissible reach of 2.5 meters\n\t* Find and reposition initial starting point using laser sensor on typical joint configurations\n\t* Integration with servo-robot seam finding and tracking camera\n\t* In-line robot position data transfer via OPC UA communication port\n\t* Integration with Fronius CMT TransPuls Synergic 4000 welding source (ROB5000 controller)\n2. Laser-Guided Tracking Welding Cobot System:\n\t* 25 kg payload capacity\n\t* Laser-guided tracking system\n\t* Admissible reach of 1.8 meters\n\t* Integration with servo-robot seam finding and tracking camera\n\t* Integration with Fronius CMT TPS 400i/600V/nc welding source\n\t* Automatic welding without off-line programming or using a numeric drawing\n\t* Manual acquisition of welding path with servo-robot camera\n3. Robotic Welding System:\n\t* Cold Metal Transfer (CMT) package compatible with the Cobot and Robot\n\t* Push-pull automatic welding torch for aluminum research applications\n\t* Remote-Control Unit (RCU)\n\t* Table with manual functionalities for adjusting height and securing plates prior to welding\n\n## Compatibility Requirements\nThe NRC requires the suppliers to ensure seamless compatibility with their existing equipment, including the Fronius CMT TransPuls Synergic 4000 welding source with controller (ROB5000). The supplier must also allow for the integration of a servo"
+}

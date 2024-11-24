@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "T8080-230219",
+    "type": "Request for Proposal",
+    "department": "Transport Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Grammage and ECT (Edge Crush Test) in the performance assessment of fiberboard boxes ",
+    "description": "Grammage and ECT (Edge Crush Test) in the performance assessment of fiberboard boxes ",
+    "estimated_value": 89.21,
+    "date_posted": "2023-09-05",
+    "duration_in_months": "Not Specified",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Assistance au march\u00e9 potentielle",
+        "Application potentielle",
+        "R\u00e9f\u00e9rence demand\u00e9e"
+    ],
+    "full_summary": "```markdown\n### Request for Proposal: Grammage and Edge Crush Test (ECT) in the Performance Assessment of Fibreboard Boxes\n\n#### Background\n\nTransport Canada is interested in undertaking research to determine whether the Edge Crush Test (ECT) value alone can be a sufficient metric in determining the performance capability of fibreboard boxes, or if grammage (basis weight) is a necessary component in demonstrating fibreboard box performance in accordance with UN performance testing and allowable design variations.\n\n#### Current Issue\n\nThe safety standard applicable to fibreboard boxes for the transport of dangerous goods in Canada (TP 14850-2010) permits a design variation of \u00b15% in the grammage value of each layer of fibreboard without requiring further performance testing of the box design. However, this variation is often difficult to meet, resulting in unnecessary additional testing or certification requirements for shippers.\n\n#### Project Objective\n\nThe purpose of this project is to gain a better understanding of the performance of corrugated fibreboard boxes with varying grammage configurations but equivalent ECT values. The data resulting from the testing will be used and analyzed by Transport Canada to determine if grammage variation requirements can be updated, removed, or replaced.\n\n#### Research Methodology\n\nThe project will be achieved through UN standardized performance testing on combination packagings, consisting of one or more inner packaging within an outer packaging. Non-standardized compression tests to failure will also be performed on the outer packaging without the inner packaging. Fibreboard boxes tested will have equivalent ECT values and varying grammages.\n\n#### Key Challenges and Requirements\n\n- Determine if ECT value alone can be a sufficient metric in determining the performance capability of fibreboard boxes\n- Investigate the relationship between grammage and performance of fibreboard boxes\n- Collect and analyze data on the performance of corrugated fibreboard boxes with varying grammage configurations but equivalent ECT values\n\n#### Deliverables and Evaluation Criteria\n\nThe successful bidder will be required to provide a comprehensive report detailing the research findings, methodology, and recommendations for future work. The evaluation criteria will focus on the bidder's ability to demonstrate expertise in the field of fibreboard testing and analysis, as well as their ability to meet the project's objectives and timelines.\n\n#### Contact Information\n\nFurther information and contact details are available below:\n- Natasha Blackstein\n- (343) 550-2321\n- [natasha.blackstein@tc.gc.ca](mailto:natasha.blackstein@tc.gc.ca)\n``` markdown\n```python\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\n"
+}

@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "M8026-233998_B",
+    "type": "Boat",
+    "department": "Public Works and Government Services (PSPC)",
+    "procurement_category": "Goods and Services - Government Departments or Agencies",
+    "short_summary": "Fabrication and supply of 2 x 6.25-6.50m Runabout Inboard Jet Boat with step deck bow and Trailer.",
+    "description": "The Royal Canadian Mounted Police has a requirement for the fabrication and supply of 2 x 6.25-6.50m Runabout Inboard Jet Boat with step deck bow and Trailer. Procurement method: Competitive - Open bidding. Selection criteria: Lowest Price.",
+    "estimated_value": 10123459946,
+    "date_posted": "2023-07-18",
+    "duration_in_months": "10",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "Jet",
+        "Boat",
+        "Government",
+        "Canopy"
+    ],
+    "full_summary": "### Request for Proposal: RCMP Runabout Jet Boats\n\n#### Tender Details:\n\n* **Tender Number:** M8026-233998_B\n* **Competition ID:** WS3904908952\n* **Publication Date:** 2023-07-18\n* **Closing Date:** 2023-09-01T14:00:00\n* **Modification Date:** 2023-08-24\n* **Contract Duration:** 2023-05-01 to 2024-03-21\n\n#### Goods and Services:\n\nThe Royal Canadian Mounted Police (RCMP) is seeking proposals for the fabrication and supply of two (2) 6.25-6.50m Runabout Inboard Jet Boats with step deck bow and Trailer.\n\n#### Key Details:\n\n* The proposed runabout jet boats must be commercial marine craft, as described in UNSPSC 25111500.\n* The contract will be awarded based on the Lowest Price method.\n* The RCMP is a Canadian organization and the tendering process must comply with the Canadian Free Trade Agreement (CFTA).\n\n#### Contracting Entity and End User:\n\n* **Contracting Entity:** Department of Public Works and Government Services (PSPC)\n* **End User:** Royal Canadian Mounted Police (RCMP)\n\n#### Contact Information:\n\n* **Name:** Tracy Birtwistle\n* **Email:** tracy.birtwistle@tpsgc-pwgsc.gc.ca\n* **Phone:** (Not provided)\n\n#### Procurement Method and Process:\n\n* The procurement method is Competitive - Open Bidding.\n* The tendering process will be conducted through the Ariba platform, as described in the notice URL below:\n  * http://discovery.ariba.com/rfx/16909888?extsite=MTY5MDk4ODhfQU4wMTQ4NDA1MDk5Mg==\n\nLet me know if you have any further requests! \n\nNote: Noting down the mistakes the contractor had which are:\n1. release date written in french, then in english\n2. everything in french were in the same structure effectively giving the detail half in french, and half in english eg.: \"**gsinDescription-nibsDescription-eng**: *Commercial marine craft*<br> *gsinDescription-nibsDescription-fra**: *Navires commerciaux***\n \nTo correspond to the good and bad sidenotes\n\nThe last two points are within the first part of the rewritten entry\n                           ```markdown\nPrevious: \n\n"
+}

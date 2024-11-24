@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "cb-596-61544763_AMENDMENT_1",
+    "type": "LN23697261",
+    "department": "National Research Council Canada",
+    "procurement_category": "Goods and Services",
+    "short_summary": "Advance Contract Award Notice (ACAN) for the supply of a digital oscilloscope with a large memory depth, to support expansion of photonics and quantum information activities and to align with NRC's quantum objectives.",
+    "description": "The National Research Council (NRC) of Canada has a requirement for the supply of a digital oscilloscope with a large memory depth, to support expansion of photonics and quantum information activities and to align with NRC's quantum objectives.",
+    "estimated_value": 0,
+    "date_posted": "2023-09-29",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Ontario",
+        "British Columbia"
+    ],
+    "tags": [
+        "procurement",
+        "notice",
+        "contract",
+        "procurement_category",
+        "category",
+        "acan"
+    ],
+    "full_summary": "# Laser Pulse Selector Advance Contract Award Notice\n## Solicitation Number\n*23_58063*\n\n## General Description\nThe National Research Council (NRC) of Canada's advance contract award notice (ACAN) is a public announcement of the intention to award a contract for laboratory and scientific equipment. The NRC is seeking a digital oscilloscope with a large memory depth to support photonics and quantum information activities.\n\n## Technical Requirements\nThe oscilloscope must meet the following minimum specifications:\n* Bandwidth: 6 GHz\n* Number of channels: 4\n* Sample rate: up to 40 Gs/s\n* Memory depth: minimum 1 Gpoint per channel, upgradeable to 3 Gpoints per channel\n* Digital resolution: 16 bits at 20 Gs/s or 8 bits at 40 Gs/s\n* RMS noise floor: 340 uV at 2 mV/div\n* Intrinsic timing jitter: 200 fs\n* Time base range: 10 ps/div to 10,000 s/div\n\n## Awarded Supplier\nThe pre-identified supplier for this contract is Rohde & Schwarz Canada, Inc.\n\n## Proposal Submission Opportunity\nSupplier firms who consider themselves qualified and available to provide the equipment described in the notice may submit a statement of capabilities in writing to Jonathan Soles, Contracting Authority, by the closing date of October 16th, 2023, at 2:00 p.m. EDT.\n\n## Trade Agreements\nThis procurement is subject to the following trade agreements:\n* Canadian Free Trade Agreement (CFTA)\n* Revised World Trade Organization - Agreement on Government Procurement (WTO-AGP)\n* Canada-European Union Comprehensive Economic and Trade Agreement (CETA)\n* Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)\n* Canada-Chile Free Trade Agreement (CCFTA)\n* Canada-Colombia Free Trade Agreement\n* Canada-Honduras Free Trade Agreement\n* Canada-Korea Free Trade Agreement\n* Canada-Panama Free Trade Agreement\n* Canada-Peru Free Trade Agreement (CPFTA)\n* Canada-United Kingdom Trade Continuity Agreement (Canada-UK TCA)\n* Canada-Ukraine Free Trade Agreement (CUFTA)\n\n## Exemptions and Limits\nExceptions to the Government Contracts Regulations are invoked under subsection 6(d) - \"only one person is capable of performing the contract.\" The procurement is exempt from competition for technical reasons.\n\n## Contract Terms\nThe equipment must be delivered within 16 weeks of the"
+}

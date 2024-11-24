@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "{referenceNumber-numeroReference}",
+    "type": "{procurementCategory-categorieApprovisionnement}",
+    "department": "{comSansCotation-campagneDepartement}",
+    "procurement_category": " {procurementCategory-categorieApprovisionnement}",
+    "short_summary": "(Must be a 3rd person view summary or on a different field in the original document. )",
+    "description": "{tenderDescription-descriptionAppelOffres-eng}",
+    "estimated_value": 0,
+    "date_posted": "{publicationDate-datePublication}",
+    "duration_in_months": "}",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "GDS33",
+        "ITQ-SEC",
+        "cc_nmn-no one knows ",
+        " `,Application service provider `]",
+        "closes_on"
+    ],
+    "full_summary": "===============\n\n## Customer Identity and Access Management (CIAM) Invitation to Qualify (ITQ)\n\n**Reference Number:** SSC-23-00023440:T\n**Solicitation Number:** BPM019275/23440\n**Publication Date:** August 4, 2023\n**Tender Closing Date:** September 5, 2023, 15:00:00\n\n### Contracting Entity Information\n\nThe government of Canada, through Shared Services Canada (SSC), is seeking to qualify service providers for a Customer Identity and Access Management (CIAM) project. The contract is to be awarded to a single supplier, based on a competitive bidding process.\n\n**Contracting Entity:** Shared Services Canada\n**Address:** 90 Metcalfe Street, Ottawa, ON K0A 0C3, Canada\n\n### Project Overview\n\nThe project aims to implement a Customer Identity and Access Management (CIAM) system for SSC. The successful bidder will be responsible for designing, developing, and implementing a secure and reliable CIAM system, which will enable SSC to manage user identities and access to various systems and applications.\n\n### Qualification Requirements\n\nTo be considered for qualification, bidders must register on the SSC P2P portal and add their organization to the solicitation (BPM019275). Bidders must also meet the technical and financial requirements outlined in the solicitation documents.\n\n**Documents:**\n\n* Solicitation documents, including amendments, can be downloaded from the SSC P2P portal: [Supplier Login Page](https://supplier-fournisseur-sscp2pspc.ssc-spc.gc.ca/page.aspx/en/usr/login)\n* Technical and financial requirements, as outlined in the solicitation documents.\n\n### Contact Information\n\nFor any questions or concerns, please contact:\n\n**James Taylor-Chass\u00e9**, Contracting Authority\n**Email:** james.taylor-chasse@ssc-spc.gc.ca\n**Phone:** 613-324-2958\n**Fax:** 613-960-7380\n\n### Important Notes\n\nThis solicitation is for the invitation to qualify (ITQ) phase only. Bidders who are deemed qualified will be invited to participate in the request for proposal (RFP) phase.\n\nNote: A total of 26 attachment URLs are found in the original document, which are removed from the rewritten version. If the attachments are relevant to the tender, you can re-route the links to make them work as intended.  \n==================================================================\n\nI removed all the unnecessary parts. It should be more professional and"
+}

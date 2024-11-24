@@ -1,0 +1,30 @@
+{
+    "CONTRACT_ID": "cb-8559-16172549",
+    "type": "TENDER",
+    "department": "PSPC",
+    "procurement_category": "SRV",
+    "short_summary": "Radio frequency-free wireless communications for secure access",
+    "description": "This is a challenge for phase 1 and 2. For phase 1, the maximum funding is 150,000 CAD and the maximum duration is 6 months. For phase 2, the maximum funding is 1,000,000 CAD and the maximum duration is 18 months.",
+    "estimated_value": 150000,
+    "date_posted": "2023-09-21",
+    "duration_in_months": "]",
+    "provinces": [
+        "Quebec",
+        "Ontario",
+        "Newfoundland and Labrador",
+        "Nova Scotia",
+        "New Brunswick",
+        "Manitoba",
+        "British Columbia",
+        "Alberta"
+    ],
+    "tags": [
+        "Secure",
+        "Wireless",
+        "Communications",
+        "Radio-frequency-free",
+        "Network",
+        "Canada"
+    ],
+    "full_summary": "---\n\n**Radio Frequency-Free Wireless Communications for Secure Access**\n\n**Notice of Opportunity**\n\nThe Purchasing Administration (TPSGC-PWGSC) of the Department of Public Services and Procurement Canada (PSPC) through the Innovative Solutions Canada (ISC) program is seeking a solution to provide secure high-speed wireless internet access using Radio Frequency-Free (RF-Free) wireless networking technology in secure Government of Canada offices and secure operational environments.\n\n**Background and Context**\n\nThe department continuously assesses technological trends and developments to ensure its network is responsive to current and future needs. The goal is to update its capabilities in delivering network or connectivity services to partner organizations to support modern enterprise networks that are secure, fast, reliable, and meet the increasing demands of a digital government.\n\n**Challenge Description**\n\nThe goal of this challenge is to provide RF-Free wireless networking solutions that offer wireless high-speed connectivity in secure operational areas where radio waves and wireless access are currently prohibited, restricted, and/or limited. Providing secure operational areas with secure wireless access would improve operational responsiveness and the morale and working conditions of those employed in such environments.\n\n**Requirements and Considerations**\n\nThe proposed solution must be Radio Frequency Free and utilize other available wireless channels for transmission. It must be capable of Full Duplex bidirectional transmission and be a fully networked wireless communication technology. The solution must be easy to install and maintain, not be intercepted by external users and/or devices, and not interfere with external users and/or devices.\n\n**Additional Requirements**\n\nThe proposed solution should be able to multicast multiple Data streams per Access Point, support a large number of users simultaneously, offer ruggedized and weather-proof version, provide military-grade security, be ready to be used in mission-critical communications, and be comparable or better than traditional RF-Based wireless communication technology in terms of speed, reliability, distance coverage, power efficiency, and ability to scale for multiple users.\n\n**Registration and Submission**\n\nEligible businesses are invited to register for the challenge through the ISC website: [link]. A registration form and instructions for the submission can be found on the website.\n\n**Contact Information**\n\nFor more information, please contact:\nPurchasing Administration (TPSGC-PWGSC)\n10 Wellington Street\nGatineau, Quebec K1A 0S5\nCanada\nPhone: (343) 596-6165\nEmail: [TPSGC.PASIC-APISC.PWGSC@tpsgc-pwgsc.gc.ca](mailto:TPSGC.PASIC-APISC.PWGSC@tpsgc-p"
+}

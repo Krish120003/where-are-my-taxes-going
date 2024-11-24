@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "{referenceNumber-numeroReference}",
+    "type": "{solicitationNumber-numeroSollicitation}",
+    "department": "{contractingEntityAddressProvince-entiteContractanteAdresseProvince}",
+    "procurement_category": "{procurementCategory-categorieApprovisionnement}",
+    "short_summary": "The National Research Council Canada...",
+    "description": "The National Research Council Canada...",
+    "estimated_value": 20,
+    "date_posted": "{publicationDate-datePublication}",
+    "duration_in_months": ", Contrac - duration variable: (24 months - ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "RFP",
+        "Programmer/Analyst",
+        "BI",
+        "NRC"
+    ],
+    "full_summary": "=================\n### Government Tender Announcement: Programming Services\n\nThe National Research Council (NRC) has issued a Request for Proposal (RFP) for the provision of Level 3 BI Programmer/Analyst services to support the NRC Industrial Research Assistance Program (NRC IRAP) datawarehouse/business intelligence (DW/BI) projects.\n\n**Contract Details:**\n\n* **Contract Title:** A.7 Programmer/Analyst Level 3\n* **Reference Number:** cb-5354-1770598\n* **Publication Date:** 2023-05-10\n* **Tender Closing Date:** 2023-05-25T14:00:00\n* **Expected Contract Start Date:** 2023-06-01\n* **Expected Contract End Date:** 2025-03-31\n\n**Tender Information:**\n\n* **Notice Type:** Request for Proposal (RFP) against Supply Arrangement\n* **Method of Procurement:** Competitive - Selective tendering\n* **Selection Criteria:** Highest Combined Rating of Technical Merit and Price\n* **Regions of Opportunity:** Ottawa, Ontario, Canada\n* **Trade Agreements:** Canada-Chile Free Trade Agreement (CCFTA), Canada-European Union Comprehensive Economic and Trade Agreement (CETA), World Trade Organization Agreement on Government Procurement (WTO GPA), Canada-Ukraine Free Trade Agreement (CUFTA), Canada-Korea Free Trade Agreement (CKFTA), and others.\n\n**Contracting Entity:**\nThe National Research Council (NRC) will be the contracting entity for this project.\n\n**Contact Information:**\nFor further information, please contact:\nPhilippe G. Cl\u00e9roux\nEmail: philippe.cleroux@nrc-cnrc.gc.ca\nPhone: (613) 998-1073\n\n**Attachments:**\nTwo documents are attached to this notice:\n\n* 23-58008---npp.pdf\n* 23-58008---npp_final.pdf\n\nNote: This is a more formal and concise version of the original text, removing unnecessary information and focusing on the essential details."
+}

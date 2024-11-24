@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "1000244504",
+    "type": "Request for Proposal",
+    "department": "Health Canada",
+    "procurement_category": "Service Contract",
+    "short_summary": "SBIPS - Immunization Information System (IIS) additional feature development",
+    "description": "This requirement will focus primarily on implementing secure communications with provinces and territories, migration to cloud CAEFISS and open data exchange.",
+    "estimated_value": 0,
+    "date_posted": "2022-08-29",
+    "duration_in_months": "> 3 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "System Integration",
+        "Informatics Professional Services",
+        "Canada-Korea Free Trade Agreement"
+    ],
+    "full_summary": "# Immunization Information System (IIS) - Additional Feature Development\n\n[PDF]: https://canadabuys.canada.ca/documents/pub/att/2022/08/29/348aeabeadb99c94042646b23dbda549/1000244504_-_npp_en.docx\n[PDF FR]: https://canadabuys.canada.ca/documents/pub/att/2022/08/29/03992638f6dde5a5d40d05e66573e502/1000244504_-_npp_fr.docx\n\n## Tender Details\n\n* Tender Type: [Request for Proposal](https://buyandsell.gc.ca/procurement-data/tenders-open/tender-type/rfp)\n* Reference Number: PW-22-01005602\n* Solicitation Number: 1000244504\n* Notice Publication Date: August 29, 2022\n* Tender Closing Date: September 12, 2022, 14:00 EST\n* Contracting Entity: Health Canada\n* Contracting Entity Address:  Address Locator 0900C2, 150 Research Lane, Ottawa, Ontario, K1A 0K9, Canada\n* Contact Information:\n  * Name: Thomas Hyde\n  * Email: thomas.hyde@hc-sc.gc.ca\n  * Phone: 613-941-2071\n\n## Tender Description\n\nThe Health Canada is seeking proposals to develop additional features for the Immunization Information System (IIS). The chosen contractor will provide systems integration expertise to evolve the IIS through continued feature development, integration services, and reviewing and advising on risks, mitigation strategies, and security requirements.\n\nThe primary objectives of this tender are to:\n\n* Implement secure communication with provinces and territories for improved data exchange\n* Migrate from the legacy Canadian Adverse Events Following Immunization Surveillance Solutions (CAEFISS) to Cloud CAEFISS\n* Open data exchange with other modules developed for VaccineConnect and internal PHAC surveillance solutions\n\nThe contractor will be responsible for development, integration, release management, education, and support to further develop the IIS product. Additionally, the contractor will be responsible for transitioning all functions to the PHAC organization for in-house maintenance, including subsequent source code, documentation, and licenses.\n\n## Bidder Requirements\n\nTo be eligible, bidders must have expertise in systems integration with a demonstrated track record of delivering similar solutions. Bidders must also have a valid Canada-Korea Free Trade Agreement (CK"
+}

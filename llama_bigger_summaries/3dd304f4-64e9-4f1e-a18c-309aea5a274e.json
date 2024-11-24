@@ -1,0 +1,27 @@
+{
+    "CONTRACT_ID": "WS4227992606-Doc4228325328",
+    "type": "installation",
+    "department": "Department of Public Works and Government Services (PSPC)",
+    "procurement_category": "CNST",
+    "short_summary": "Install 1/8\\u2019\\u2019 white opaque plexiglass on basement walls, 1st and 2nd floor elevator lobbies, and corridor leading to loading dock at the Sir John A MacDonald Building.",
+    "description": "This is a request for proposal for the installation of plexiglass at the Sir John A MacDonald Building.",
+    "estimated_value": 1080.24154,
+    "date_posted": "2023-09-26",
+    "duration_in_months": "It will take approximately 3 months from the expected contract start date to the expected contract end date for the plexiglass installation.",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "installation",
+        "plexiglass",
+        "basement",
+        "1st floor",
+        "2nd floor",
+        "elevator lobby",
+        "corridor",
+        "loading dock",
+        "Sir John A MacDonald Building",
+        "Department of Public Works and Government Services (PSPC)"
+    ],
+    "full_summary": " wellness Plexiglas Install\n===============\n\nTitle\n-----\n\nInstallation du bien plexiglas\n\n**Reference Number:** WS4227992606-Doc4228325328\n\n**Amendment Number:** 7\n\n**Solicitation Number:** WS4227992606\n\n**Publication Date:** September 26, 2023\n\n**Tender Closure Date:** October 30, 2023, 2:00 PM\n\n**Amendment Date:** October 30, 2023\n\n**Expected Contract Commencement Date:** October 27, 2023\n\n**Expected Contract Completion Date:** February 2, 2024\n\n**Procurement Notice Status:** CLOSED\n\nServices & Deliverables\n----------------------\n\nThe Department of Public Works and Government Services (PSPC) invites contractors to provide and install 1/8-inch white opaque plexiglas on the perimeter walls of the basement, 1st and 2nd floor elevator lobbies, and the corridor leading to the loading dock at the Sir John A. MacDonald Building, located at 144 Wellington Street.\n\n**Classification:** Building and facility maintenance and repair services, with specialized services in glass and glazing.\n\nBidding Information\n-------------------\n\n**Procurement Method:** Competitive - Selective tendering\n\n**Selection Criteria:** Lowest Price\n\n**Trade Agreements:** Canadian Free Trade Agreement (CFTA)\n\n**Regions of Opportunity:** National Capital Region (NCR)\n\n**Regions of Delivery:** National Capital Region (NCR)\n\nContact Information\n-----------------\n\nLisa Hampel (SPAC/PSPC)\nlisa.hampel@tpsgc-pwgsc.gc.ca\n.pub/pub\ndocuments\nDISCOVERY\nRequest for Use of Software License\nNIL\n`  --> Needless to rewrite all above\n\n```javascript\n// Request for use of software license\n// https://discovery.ariba.com/rfx/17543987\n\nconst notice = {\n  referenceNumber: 'WS4227992606-Doc4228325328',\n  amendmentNumber: 7,\n  solicitationNumber: 'WS4227992606',\n  'publicationDate': '2023-09-26',\n  'tenderClosingDate': '2023-10-30T14:00:00',\n  'amendmentDate': '2023-10-30',\n  'expectedContractStartDate': '2023-10-27',\n  'expectedContractEndDate': '2024-02-02',\n  'tenderStatus': 'Expired',\n  gsin:"
+}

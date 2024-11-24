@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "cb-4699-38964276",
+    "type": "RFP",
+    "department": "National Defence",
+    "procurement_category": "Goods and Services",
+    "short_summary": "The Department of National Defence has a requirement for 51 spare parts for snow blowers.",
+    "description": "This requirement is for 51 spare parts for snow blowers. The spare parts are listed in the table below colummn D. The delivery is requested at 25 CFSD Montreal, Quebec and 7 CFSD Edmonton, Alberta. The NSM marginal number and Coat of Arms (CoA) are also listed for each product.",
+    "estimated_value": 10,
+    "date_posted": "2023-04-11",
+    "duration_in_months": ".effective_date JPG = null",
+    "provinces": [
+        "Quebec",
+        "Alberta"
+    ],
+    "tags": [
+        "snow blower",
+        "spare parts",
+        "DOD",
+        "winter"
+    ],
+    "full_summary": "### Tender Notice: Snow Blowers Spare Parts\n\n**Solicitation Number:** W8476-236723\n\n**Title:** Request for Proposal (RFP) for Snow Blowers Spare Parts\n\n**Posted:** April 11, 2023\n\n**Tender Closing Date:** May 11, 2023, 2:00 PM EST\n\nThe Department of National Defence is seeking a qualified supplier to provide a variety of snow blowers spare parts, including but not limited to:\n\n* 51 specific parts listed below under \"Specifications\"\n\nThese parts are required to be delivered to two locations: 25 CFSD Montreal, Quebec and 7 CFSD Edmonton, Alberta, within 180 days of contract award.\n\n**Specifications:**\n\nThe supplier is required to provide the following spare parts with NSCM/CAGE numbers:\n\n1. GSIN: 5315, NSN: 5315-15-148-5632, Name: PIN, SHOULDER, HEADLESS, P/N: 00021089, NSCM/CAGE: A3334\n2. GSIN: 5315, NSN: 5315-15-148-5636, Name: PIN, STRAIGHT, HEADED, P/N: 00010588, NSCM/CAGE: A3334\n3. GSIN: 5310, NSN: 5310-15-149-1914, Name: WASHER, LOCK, P/N: R00.5702, NSCM/CAGE: A3334\n4. GSIN: 55123, NSN: 55123-15-149-0014, Name: PROPELLER SHAFT WITH UNIVERSAL JOINT, P/N: 00010414, NSCM/CAGE: A3334\n5. GSIN: 6220, NSN: 6220-15-177-7035, Name: MICRORELAY, P/N: 00083707, NSCM/CAGE: A3334\n6. GSIN: 6350, NSN: 6350-15-149-0173, Name: HORN, ELECTRICAL, P/N: 00010766, NSCM/CAGE: A3334\n7. GSIN: 2815, NSN: 2815-15-030-7343, Name: OIL PUMP ASSEMBLY, ENGINE, P/N: 5801544859, NSCM/C"
+}

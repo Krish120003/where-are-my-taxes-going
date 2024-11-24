@@ -1,0 +1,41 @@
+{
+    "CONTRACT_ID": "cb-5670-42688581",
+    "type": "BID",
+    "department": "PSPC",
+    "procurement_category": "SRV",
+    "short_summary": "",
+    "description": "For medium and large businesses",
+    "estimated_value": 150,
+    "date_posted": "24-May-23",
+    "duration_in_months": ">= 4 <24",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Bioreactor",
+        "BC",
+        "Bidding",
+        "Medical training",
+        "Manufacturing technology",
+        "Application research",
+        "Regenerative medicine",
+        "Medical engineering",
+        "Product research",
+        "Cell culture",
+        "Vascular biology",
+        "Biomechanics",
+        " Blood Vessels",
+        "Bio printing",
+        "Regeneration",
+        "College and university research",
+        "Computer science and information technology",
+        "Health science and medicine",
+        "Life sciences",
+        "Medical device technology",
+        "Medicine and medication",
+        "Natural sciences",
+        "Cell biology",
+        "Biotechnology"
+    ],
+    "full_summary": "**Government Tender Announcement: Bioreactor for 3D Bioprinted Vessels**\n=====================================\n\n**Project Overview:**\n\nThe National Research Council of Canada (NRC) is seeking an aseptic bioreactor chamber that provides a controlled environment with a perfusion-enabling system for the optimal growth of 3D bioprinted hollow tube (blood vessel-like) structures. This bioreactor should mimic vascular hemodynamic forces and provide biomechanical stimuli that support long-term blood vessel growth and maturation.\n\n**Background and Context:**\n\nThe NRC is working to advance novel 3D bioprinting technologies to develop perfusable hollow tube blood vessels. Due to the complexity of the vasculature system, no current 2D or 3D in vitro models recapitulate the hemodynamic forces and blood flow associated with blood vessels. The proposed bioreactor will enable the integration and perfusion of bioprinted vessels, supporting tissue maturation and in vitro assay development to assess vasculature permeability and drug delivery.\n\n**Challenge Requirements:**\n\nThe proposed solution must meet the following essential requirements:\n\n* Be fabricated with biocompatible materials capable of withstanding long-term exposure to cell culture media without cytotoxicity\n* Fit into a conventional cell culture incubator or be a standalone cell culture bioreactor\n* Allow for incorporation of 3D bioprinted ultra-soft (1-10 kPa) hydrogel hollow tubes\n* Have the ability to secure both ends of the hydrogel tube to prevent leakage\n* Accommodate hydrogel tube lengths of 1-5 cm and diameters of 300-2000 \u00b5m and 200-1200 \u00b5m\n\n**Additional Requirements:**\n\nThe proposed solution should also have the following capabilities:\n\n* Permit multiplex perfusion of multiple tubes (3 or more) in one bioreactor\n* Support continuous, automated low-RPM rotation to each tube for uniform cell distribution\n* Measure the viscosity, pressure, opacity, and foam level of the culture media\n* Quantify in real-time the pH, O2, CO2 levels, glucose, and waste metabolites in the culture media\n\n**Evaluation Criteria:**\n\nThe evaluation of the proposals will be based on the following criteria:\n\n* Technical proposal (50%)\n* Budget and financial plan (20%)\n* Corporate capabilities and experience (15%)\n* Compliance with regulations and guidelines (15%)\n\n**Important Dates:**\n\n* Tender closing date: July 19, "
+}

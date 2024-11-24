@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "${referenceNumber-numeroReference}",
+    "type": "${title-titre-eng}",
+    "department": "${contractingEntityName-nomEntitContractante-eng}",
+    "procurement_category": "${procurementCategory-categorieApprovisionnement}",
+    "short_summary": "${procurementMethod-methodeApprovisionnement-eng}",
+    "description": "${tenderDescription-descriptionAppelOffres-eng}",
+    "estimated_value": 0,
+    "date_posted": "${publicationDate-datePublication}",
+    "duration_in_months": "With Initial estimated date on ${expectedContractStartDate-dateDebutContratPrevue}",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "*GD",
+        "*North American Free Trade Agreement (NAFTA)",
+        "**Canadian Free Trade Agreement (CFTA)"
+    ],
+    "full_summary": "# Government Contract Announcement\n\n**Contract ID:**  WS3872285868-Doc3872438900\n**Amendment Number:** 4\n**Publication Date:** Thursday, February 28, 2023\n\nThe **Department of Public Works and Government Services (PSPC)** is seeking to award a contract for the procurement of a **Electric Cargo Van** to **Library and Archives Canada (LAC)**.\n\n**Bid Details:**\n\n* **Closing Date:** Friday, March 23, 2023, at 2:00 PM EST\n* **Contract Start Date:** Friday, April 14, 2023 (prov[visional])\n* **Contract End Date:** N/A (no end date specified)\n\n**Procurement Method:** Competitive Open-Tendering\n\n**Trade Agreements:** The contract is subject to the **North American Free Trade Agreement (NAFTA)** and the **Canadian Free Trade Agreement (CFTA)**.\n\n**Delivery Region:** The contract deliverables will be delivered to the **National Capital Region (NCR)**.\n\n**Tender Requirements:**\n\n* 1 x Electric Cargo Van\n* Related items as detailed in **Annex A \u2013 Pricing and Annex B \u2013 Specifications**\n\n**Evaluation Criteria:** The evaluation will be based on variations or combinations of the above methods.\n\n**Contact Information:**\nMurray, David (SPAC/PSPC)\ndavid.murray@tpsgc-pwgsc.gc.ca\n\nFor more information, please visit the government tender notice site at [http://discovery.ariba.com/rfx/15551914?extsite=MTU1NTE5MTRfQU4wMTQ4NDA1MDk5Mg==](http://discovery.ariba.com/rfx/15551914?extsite=MTU1NTE5MTRfQU4wMTQ4NDA1MDk5Mg==)\n\nNote: All fields must be completed. The overall layout must adhere the following rules:\n1. Use Markup (html Favicons)\n2. Wellrett cOutangement spacingmezprop Text/Shpred accciffech-md126(eTy%)\nEric Pretty ist patpped graph-hit hung Or regi These are the rules mentioned at the end of the document. __I'm assuming these rules are just placeholders__\n You must make sure that the original message isn't regtglT garbled shaped either carried translatedzin ties _ contracts thanks \nHmm You wrote parts of the negotiating pool este rationalpfes D interested wait"
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "cb-144-29887661",
+    "type": "acan",
+    "department": "the National Research council of Canada",
+    "procurement_category": "*GD",
+    "short_summary": "The National Research council of Canada has a requirement for the supply of an automated platform for solid and liquid material handling.",
+    "description": "An advance contract award notice is a public notice informing the supplier community that a department or agency intends to award a contract for goods, services, or construction to a pre-identified supplier. Any interested supplier who wishes to consider themselves qualified to provide the goods, services, or construction services described in the notice of contract award may submit a statement of capabilities in writing to the contact person identified in this notice on or before the closing date of this notice. The statement of capabilities must clearly demonstrate how the supplier meets the requirements specified in the notice.",
+    "estimated_value": 0,
+    "date_posted": "2024-01-09",
+    "duration_in_months": "12",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Automated Parallel Synthesis Platform",
+        "science equipment",
+        "high-throughput materials synthesis"
+    ],
+    "full_summary": "Automated Parallel Synthesis Platform\n================\u1ecbch================\n\nReference Number: CB-144-29887661\n=====================================\n\n**Background**\n-------------\n\nThe National Research Council of Canada (NRC-CNRC) requires a platform for the automated synthesis of mixed-metal oxides in a high-throughput method. The present tender announcement seeks a supplier capable of delivering a platform meeting the described requirements.\n\n**Requirements**\n----------------\n\nThe identified platform must be capable of:\n\n* Manipulating liquids and solids for the synthesis of mixed-metal oxides in a high-throughput method.\n* Performing tasks such as mixing, heating/cooling, and characterization of samples.\n* Containing all operations within a hood, with safety features for emergency stop.\n\nInstalled software on a standalone PC to control and program the robotic platform, including data management and user profiling.\n\n**Technical Specifications**\n---------------------------\n\n* Liquid handling: maximum 4 different liquids of volumes between 1 mL and 10 mL.\n* Solid handling: picking and dispensing of ug to mg for solid handling and moving/characterization preparation.\n* Mixing: shear and/or stir mixing capabilities in each vial/crucible with rinsing/washing capabilities.\n* Temperature control: cooling to 5\u00b0C and heating up to 120\u00b0C.\n* Transfer and exchange of tools.\n\n**Notice Type**\n--------------\n\nThis is an Advance Contract Award Notice (ACAN) to inform the supplier community that the NRC-CNRC intends to award a contract for the automated parallel synthesis platform to a pre-identified supplier.\n\n**Trade Agreements**\n-------------------\n\nThis tender is subject to the following trade agreements:\n\n* Canadian Free Trade Agreement (CFTA)\n* Revised World Trade Organization - Agreement on Government Procurement (WTO-AGP)\n* Canada-European Union Comprehensive Economic and Trade Agreement (CETA)\n* Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)\n* Canada-Chile Free Trade Agreement (CCFTA)\n* Canada-Colombia Free Trade Agreement\n* Canada-Honduras Free Trade Agreement\n* Canada-Korea Free Trade Agreement\n* Canada-Panama Free Trade Agreement\n* Canada-Peru Free Trade Agreement (CPFTA)\n* Canada-United Kingdom Trade Continuity Agreement (Canada-UK TCA)\n* Canada-Ukraine Free Trade Agreement (CUFTA)\n\n**Contact Information**\n--------------------\n\nFor inquiries and submissions of statements of capabilities, contact:\n\nPaul Hewitt, Specialist Procurement\nNational Research Council of Canada\nEmail: [Paul.Hewitt@nrc-cnrc.gc.ca](mailto:"
+}

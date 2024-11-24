@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "cb-7390-92549439",
+    "type": "tender",
+    "department": "Department of National Defence Canada",
+    "procurement_category": "Goods",
+    "short_summary": "Ministere de la Defense nationale desires se procurer les articles suivants",
+    "description": "Items are detailed below",
+    "estimated_value": 0,
+    "date_posted": "2023-07-21",
+    "duration_in_months": ",  ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canada",
+        "Military",
+        "Goods",
+        " Acquisition ",
+        "Procurement ",
+        "encoding_exceptions { format.Exceptions(): exceptions.values(), "
+    ],
+    "full_summary": "# Multiple Victoria Class Spares Solicitation\n\n## Solicitation Information\n\n* Solicitation Title: Multiple Victoria Class Spares \u2013 Gasket, Actuator, Hydraulic-Pneumatic, Linear, Pump, Rotary, Stud, Plain\n* Solicitation Number: W8482-231034/A\n* Publication Date: July 21, 2023\n* Closing Date: August 30, 2023, 14:00:00\n* Expected Contract Start Date: October 27, 2023\n* Expected Contract End Date: May 1, 2024\n\n## Description of Items\n\nThe Department of National Defence is seeking proposals for the procurement of various components for the Victoria Class ships. The components are listed below:\n\n| Item No. | Description | Quantity | Unit of Issue | Delivery Location |\n| --- | --- | --- | --- | --- |\n| 001 | Gasket | 8 | EA | CFB Esquimalt |\n| 002 | Gasket | 12 | EA | CFB Halifax |\n| 003 | Actuator (Hydraulic-Pneumatic, Linear) | 1 | AY | CFB Esquimalt |\n| 004 | Actuator (Hydraulic-Pneumatic, Linear) | 1 | AY | CFB Halifax |\n| 005 | Actuator (Hydraulic-Pneumatic, Linear) | 1 | EA | CFB Esquimalt |\n| 006 | Actuator (Hydraulic-Pneumatic, Linear) | 1 | EA | CFB Halifax |\n| 007 | Ram Servo Unit (Fore) | 1 | EA | CFB Esquimalt |\n| 008 | Ram Servo Unit (Fore) | 1 | EA | CFB Halifax |\n| 009 | Ram Servo Unit (Aft) | 1 | EA | CFB Esquimalt |\n| 010 | Ram Servo Unit (Aft) | 1 | EA | CFB Halifax |\n| 011 | Pump (Rotary) | 1 | EA | CFB Esquimalt |\n| 012 | Pump (Rotary) | 1 | EA | CFB Halifax |\n| 013 | Stud (Plain) | 100 | EA | CFB Esquimalt |\n| 014 | Stud (Plain) | 30 | EA | CFB Halifax |\n| 015 | Cap (Pressure Coupling) | 7 | EA | CFB Esquimal"
+}

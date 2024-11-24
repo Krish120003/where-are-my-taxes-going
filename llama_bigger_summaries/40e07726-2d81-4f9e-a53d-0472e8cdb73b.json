@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "[referenceNumber-numeroReference]",
+    "type": "[title-titre-eng]",
+    "department": "Agriculture, ",
+    "procurement_category": "[procurementCategory-categorieApprovisionnement]",
+    "short_summary": "[tenderDescription-descriptionAppelOffres-eng]",
+    "description": "[tenderDescription-descriptionAppelOffres-fra]",
+    "estimated_value": 133.27,
+    "date_posted": "[publicationDate-datePublication]",
+    "duration_in_months": "[expectedContractEndDate-dateFinContratPrevue.getMinYearDiff(expectedContractStartDate-dateDebutContratPrevue]}}",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "Building cleaning services"
+    ],
+    "full_summary": "**Janitorial Services for the Lethbridge Laboratory**\n=================================================================\n\n**Reference**\n------------\n\n* Reference Number: CB-256-59267140\n* Amendment Number: 6\n* Solicitation Number: 2024-00299\n\n**Procurement Details**\n----------------------\n\n* **Publication Date**: 2024-01-23\n* **Tender Closing Date**: 2024-02-09, 13:00:00\n* **Expected Contract Start Date**: 2024-04-01\n* **Expected Contract End Date**: 2028-03-31\n\n**Eligibility and Selection Criteria**\n--------------------------------------\n\nThis procurement is open to all qualified suppliers listed in the Consolidated List of Entities (CLE), who are not excluded from tendering by their trade agreement.\n\nThe selection criterion used will be the Highest Combined Rating of Technical Merit and Price.\n\n**Trade Agreements**\n-------------------\n\nThis procurement is subject to the following trade agreements:\n\n* Canada-Panama Free Trade Agreement\n* Canada-Chile Free Trade Agreement (CCFTA)\n* Canada-Ukraine Free Trade Agreement (CUFTA)\n* World Trade Organization Agreement on Government Procurement (WTO GPA)\n* Canada-European Union Comprehensive Economic and Trade Agreement (CETA)\n* Canadian Free Trade Agreement (CFTA)\n* Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)\n* Canada-Colombia Free Trade Agreement\n* Canada-Peru Free Trade Agreement (CPFTA)\n* Canada-Korea Free Trade Agreement (CKFTA)\n* Canada-Honduras Free Trade Agreement\n\n**Regions**\n------------\n\n* The work will be performed in the regions of Alberta\n* The delivery will be made in the region of Lethbridge\n\n**Contact Information**\n----------------------\n\nJo'Anne Cassidy, Contracting Authority\ninspection.gc.ca\n\nPhone: (343) 596-2357\nEmail: [joanne.cassidy@inspection.gc.ca](mailto:joanne.cassidy@inspection.gc.ca)\n\n**Attachments**\n----------------\n\n Tender Notice and other related documents are published on the Canada Buy Service\n\n[Downloads are available here](https://canadabuys.canada.ca/sites/default/files//webform/tender-notice/30082/...).\n\nNote that the original text has some redundant French entries, which are simply not used in the rewritten version.\nI would advise adding phrases \"Technical Analysis and Evaluation\" to define a decent terminology for section `Eligibility and Selection Criteria`.\nThe final English short verison is reasonable in"
+}

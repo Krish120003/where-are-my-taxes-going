@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-23-01030078",
+    "type": "XML",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "SERVICE",
+    "short_summary": "Auto-remediation of document accessibility issues",
+    "description": "The Treasury Board Secretariat (TBS) Accessibility Strategy for the Public Service of Canada's vision is to become the most accessible and inclusive globally. Employment and Social Development Canada (ESDC) is seeking an automated tool to aid in identifying, addressing and complying with accessibility issues within common document types.",
+    "estimated_value": 150000.0,
+    "date_posted": "2023-04-18",
+    "duration_in_months": "We will address this point in a separate markdown document.",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Computer Science (R&D)",
+        "System Design, Development and Testing: Science and Technology Related (R&D)"
+    ],
+    "full_summary": "**Auto Remediation of Document Accessibility Issues**\n\n**Amendment Number:** #1\n**Publication Date:** April 26, 2023\n\n**Notice Description:**\n\nThe Public Service and Government Services Canada (TPSGC) is issuing an amendment to the original solicitation for a request for proposal under the Innovation Solutions Canada (ISC) program. The amendment addresses Intellectual Property (IP) concerns.\n\n**Challenge Statement:**\n\nEmployment and Social Development Canada (ESDC) seeks an automated solution to support the remediation of document accessibility issues. Current manual processes used to identify accessibility issues within common document formats such as DOC, PDF, PPT, and images are time-consuming and resource-intensive. ESDC aims to enhance its accessibility strategy by implementing an automated tool that can scan, identify, and correct accessibility issues.\n\n**Background:**\n\nThe Treasury Board Secretariat's (TBS) Accessibility Strategy for the Public Service of Canada emphasizes the importance of creating accessible documents. However, current manual processes hinder the efficiency of this endeavor.\n\n**Requirements:**\n\nThe proposed solution must:\n\n1.  Be automated.\n2.  Be capable of scanning documents to identify accessibility issues.\n3.  Allow for the automated remediation of accessibility issues.\n4.  Ensure accessibility of the solution, meeting the current Web Content Accessibility Guidelines (WCAG) standards.\n5.  Identify at least 25% of WCAG accessibility issues and highlight them in common document formats.\n6.  Correct and suggest corrections for accessibility issues in common document formats.\n\n**Additional Requirements:**\n\nThe proposed solution should:\n\n1.  Identify at least 50% of WCAG accessibility issues and highlight them in common document formats.\n2.  Provide an additional teaching aid to users, guiding them on what issues to address and how to make corrections.\n3.  Illustrate and categorize accessibility issues in images.\n4.  Provide a rating or score for each document, making it easier to identify areas that require attention.\n\n**Evaluation Criteria:**\n\nThe evaluation criteria will focus on the solution's potential to meet the listed requirements and provide value for the ESDC accessibility strategy.\n\n**Eligibility:**\n\nPlease find the proposal requirements in Annex A.\n\n**Contact:**\n\nGroup PSPC\nTender: PW-23-01030078\n\n**Electronic Application Information:**\n\nSubmit your proposal, Financial Information, Business Requirements and SharePoint Successful solution's clarification documents to  at TP.SGC@tpsc-pwgs.gc.\n\nNote to the reader: Removed unnecessary details, Corrected grammatical errors"
+}

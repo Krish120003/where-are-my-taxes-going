@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "cb-279-81306801",
+    "type": "advance contract award notice",
+    "department": "National Research Council Canada",
+    "procurement_category": "Goods and Services",
+    "short_summary": "Supply and delivery of Precision Scan dye laser, Quanta Ray Nd: YAG Laser, LG-LIFT-30 grating and THU-205-N third harmonic generator for gas turbine combustion systems research.",
+    "description": "The National Research Council's Aerospace Research Centre's gas turbine facilities has a requirement for the supply and delivery of (one) Sirah Precision Scan dye laser, (one) Quanta Ray Nd: YAG Laser, (one) LG-LIFT-30 grating, (one) THU-205-N third harmonic generator, and one set of replacement parts. { ... }",
+    "estimated_value": 0.0,
+    "date_posted": "2023-10-24",
+    "duration_in_months": "15",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canada-Colombia Free Trade Agreement",
+        "Canada-Honduras Free Trade Agreement",
+        "Canadian Free Trade Agreement (CFTA)",
+        "Canada-Panama Free Trade Agreement",
+        "Canada-Chile Free Trade Agreement (CCFTA)",
+        "Canada-Korea Free Trade Agreement (CKFTA)"
+    ],
+    "full_summary": "# Government Tender Announcement for Replacement Parts for Precision Scan Dye Laser\n\n## Tender Detail Overview\n\n**Reference Number:** cb-279-81306801\n**Amendment Number:** 2\n**Solicitation Number:** 23-58150\n**Publication Date:** 2023-10-24\n**Closing Date and Time:** 2023-11-08T14:00:00\n**Expected Contract Start Date:** 2023-11-01\n**Contract Status:** Expired\n\n## Description of Requirement\n\nThe National Research Council\u2019s Aerospace Research Centre requires the supply and delivery of replacement parts for the Precision Scan dye laser, Quanta Ray Nd: YAG Laser, LG-LIFT-30 grating, THU-205-N third harmonic generator, wavelength separation unit, and optical diagnostic equipment for studying gas turbine combustion systems. This equipment will be used to maintain and expand the Council\u2019s intellectual property through research for industry clients, research partners, and academia.\n\n## Evaluation Criteria\n\nThe interested supplier must demonstrate its product\u2019s ability to meet the following requirements:\n\n### a) Sirah Precision Scan Dye Laser\n\n* Resonator grating must be mounted vertically to protect against dust buildup and stray beams.\n* Resonator must be mounted on a thermally stable stainless-steel plate, independently of the laser housing.\n* Resonator must have an automated grating exchange mechanism.\n* Resonator must feature precision sine-bar driven with high-resolution direct drive stepper motor.\n* System must have open-source software with updates readily available on the web.\n* System must have interchangeable dye cells and a touch-panel remote control.\n\n### b) Quanta Ray Nd: YAG Laser\n\n* Laser must have dual-rod oscillators with two amplifier stages, enabling output energies up to 2.5 J per pulse at 1064 nm.\n* Laser must stabilize any thermal imbalance in the Nd:YAG gain medium.\n* Laser must have an automated compensation mechanism for thermally-induced birefringence in the Nd:YAG rod.\n\n### c) LG-LIFT-30 Grating\n\n* Grating must be compatible and interchangeable with the current Sirah Dye laser system.\n* Grating lift must be compatible with 90mm and 60mm gratings.\n* Grating lift must be detectable and controllable by the existing Sirah Control software.\n\n## Contact Information\n\n* Name: Jonathan Soles\n* Email: [jonathan.soles@nrc-cnrc.gc.ca](mailto:jonathan"
+}

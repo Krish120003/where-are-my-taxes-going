@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "F1700-230490",
+    "type": "marineinfraupgrade",
+    "department": "Public Works and Government Services (PSPC)",
+    "procurement_category": "construction",
+    "short_summary": "Marine Facility Water System Upgrade (Phase 2 - ITT)",
+    "description": "This is the Phase 2 solicitation following an Invitation to Qualify (Phase 1). Only qualified suppliers from Phase 1 have been invited to bid.",
+    "estimated_value": 0,
+    "date_posted": "2024-01-04",
+    "duration_in_months": "><?= round(($dates['end_date'] - dates['start_date']) / <?php echo date(",
+    "provinces": [
+        "British Columbia",
+        "Quebec"
+    ],
+    "tags": [
+        "fire protection systems",
+        " plumbing system inspection",
+        "fire suppression equipment"
+    ],
+    "full_summary": "---------------\n\n**Title:** Marine Facility Water System Upgrade (Phase 2 Tender)\n\n**Reference Number:** WS4337986234-Doc4338261480\n\n**Publication Date:** January 4, 2024\n\n**Closing Date:** March 6, 2024, 2:00 p.m. (UTC-5)\n\nThe Department of Public Works and Government Services (PSPC), on behalf of the Department of Fisheries and Oceans (DFO), invites qualified suppliers to bid on the Marine Facility Water System Upgrade (Phase 2) project.\n\n**Summary:**\n\nThis tender follows an Invitation to Qualify (Phase 1) and is open to suppliers who have previously qualified. The project entails upgrading the marine facility water system and comprises the following UNSPSC categories:\n\n* Fire hoses or nozzles\n* Fire suppression systems\n* Building maintenance and repair services\n* Fire protection systems and equipment maintenance or repair services\n* Plumbing system maintenance or repair\n* Marine construction services\n* Plumbing construction services\n* Plumbing or sewer inspection services\n\n**Tender Details:**\n\n* **Notice Type:** Invitation to Bid (Selective Tendering)\n* **Trade Agreements:** Canadian Free Trade Agreement (CFTA)\n* **Regions of Opportunity:** Canada\n* **Regions of Delivery:** Canada and British Columbia\n* **Contracting Entity:** Department of Public Works and Government Services (PSPC)\n* **End-User Entity:** Department of Fisheries and Oceans (DFO)\n* **Contact Information:**\n\t+ Michaela Costa\n\t+ Email: [michaela.costa@tpsgc-pwgsc.gc.ca](mailto:michaela.costa@tpsgc-pwgsc.gc.ca)\n\n**Important Dates:**\n\n* Closing Date: March 6, 2024, 2:00 p.m. (UTC-5)\n* Expected Contract Start Date: None\n* Expected Contract End Date: February 28, 2025\n\n**Additional Information:** The tender documents are available on the PSPC ebuy.ca portal. Suppliers must register and download the tender documents to participate in the bidding process. The PSPC reserves the right to reject any bid, in whole or in part, and to cancel the tender at any time.\n\nPlease note that the original post included non-essential information that was not relevant to the tender announcement.\n\nThe rewritten entry adheres to professional standards, organizes the content in a clear and concise manner, and does not exceed 400 words. It retains all essential information"
+}

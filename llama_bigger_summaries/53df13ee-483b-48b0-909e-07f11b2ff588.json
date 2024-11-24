@@ -1,0 +1,31 @@
+{
+    "CONTRACT_ID": "cb-8385-1774454",
+    "type": "tender",
+    "department": "Canadian Federal Department",
+    "procurement_category": "Goods and Services",
+    "short_summary": "purchase of 1 benchtop x-ray system for CNRC (NRC), including training and support",
+    "description": "PART 1 - GENERAL INFORMATION",
+    "estimated_value": 1500000.0,
+    "date_posted": "2023-08-23",
+    "duration_in_months": "",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "micro CT",
+        "Canada",
+        "CNRC",
+        "benchtop",
+        "CT scans",
+        "scanning",
+        "micro-imaging system",
+        "research center",
+        "imaging technology",
+        "science",
+        "equipment",
+        "machinery",
+        "physics",
+        "biomedical imaging"
+    ],
+    "full_summary": "Government Notice of Invitation to Tender\nReference Number: 23-58025 cb-8385-1774454\n\nThe National Research Council of Canada (NRC) invites qualified contractors to participate in a Request for Proposal (RFP) and submit their bid for the supply and delivery of one (1) Benchtop X-ray Micro Computed Tomography (Micro CT) system as per the Statement of Requirement in Annex \"A\".\n\n**Bidder Information**\n\n- Solicitation Number: 23-58025\n- Solicitation Date: August 23, 2023\n- Closing Date and Time: September 6, 2023, 14:00 EDT (Server Time)\n- Amendment Number: 1\n\n**Contract Details**\n\n- Contracting Entity Name: National Research Council Canada\n- Contracting Entity Address: 1200 Montreal Road, Ottawa, ON K1A 0R6, Canada\n- Contracting Authority: Katie Homuth, Senior Contracting Officer\n- Contact Information: Katie.Homuth@nrc-cnrc.gc.ca, (343) 549-4539\n\n**Tender Requirements**\n\n- The Bidder must submit an electronic Technical Proposal and one electronic Financial Proposal in separate attachments as per the Bid Preparation Instructions.\n- The Technical Proposal must be marked \"Technical Proposal\" and the Financial Proposal must be marked \"Financial Proposal\".\n- The Bidder's name, the bid solicitation reference number, and bid solicitation closing date and time must be clearly visible.\n- The Bidder must provide a comprehensive and detailed bid, including all requested pricing details, that will permit a complete evaluation in accordance with the criteria set out in the Bid Solicitation.\n\n**Evaluation Criteria**\n\nThe evaluation team will assess the bids based on the Mandatory Technical Criteria (MTCs) listed in Annex \"C\". The MTCs include but are not limited to:\n\n- The Micro CT must have a minimum energy of X-ray source of at least 20 kV to provide more contrast of low-density materials.\n- The Micro CT must come with a software suite that allows for system control and data acquisition, including activating/deactivating the X-ray source, accessing the specimen chamber via live camera, controlling the sample stage rotation and position, and adjusting the acquisition parameters.\n- The Micro CT must come with a software suite that must allow for volumetric reconstruction and 2D/ 3D quantitative analysis, including volume reconstruction based on CPU and GPU acceleration, 3D and 2D morphometric analysis, and exporting reconstructed models"
+}

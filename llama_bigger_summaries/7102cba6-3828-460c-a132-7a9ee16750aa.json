@@ -1,0 +1,41 @@
+{
+    "CONTRACT_ID": "cb-4020-3751719",
+    "type": "ADVANCE CONTRACT AWARD NOTICE (ACAN)",
+    "department": "Federal Judicial Affairs Canada",
+    "procurement_category": "SRVTGD",
+    "short_summary": "Require commercial off-the-shelf software that allows self-publishing of past and future decisions that have been selected for publication, to the Web. The selected supplier will host said decisions on its servers.",
+    "description": "This notice indicates the intention of the department to award a contract for commercial off-the-shelf software licensing to a pre-identified supplier, Lexum",
+    "estimated_value": 0.0,
+    "date_posted": "2023-02-27",
+    "duration_in_months": "] unspecified [",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "British Columbia",
+        "Alberta",
+        "Nova Scotia",
+        "Nova Scotia",
+        "New Brunswick",
+        "Newfoundland and Labrador"
+    ],
+    "tags": [
+        "Bi",
+        "Sol",
+        "Nucl",
+        "IT",
+        "Engineering",
+        "High Technologies",
+        "data processing",
+        " Computer Software",
+        "World Wide Web page",
+        "Sales",
+        "contracts by objects",
+        "IT supply contracts",
+        "Data processing ",
+        "Software distribution",
+        "writing service computer software",
+        " Software development services",
+        "Web hosting services"
+    ],
+    "full_summary": "# Advance Contract Award Notice (ACAN) for Online Publishing of the Federal Courts Reports\n\nThe Office of the Commissioner for Federal Judicial Affairs Canada (FCJA) is issuing an Advance Contract Award Notice (ACAN) to procure the services of a supplier for the online publishing of the Federal Courts Reports (FCR).\n\n## Background\nThe FCR is the official publication of the decisions of the Federal Court of Appeal and the Federal Court, issued pursuant to section 58 of the Federal Courts Act. The FCR publishes four volumes annually, each containing approximately 70 full-text decisions and 100 digests, in both English and French. The reports also include lists of appeals noted, tables, and other features.\n\n## Requirement Definition\nThe FCJA requires a commercial off-the-shelf software solution to self-publish past and future decisions selected for publication, including HTML and PDF versions. The supplier must host the existing collection of HTML-type PDF documents and ensure its functionality.\n\n## Scope of Work\nThe scope of work includes:\n\n* Host existing and future publications of the FCR\n* Make the FCR website available in both English and French, seamlessly accessible from the FCJA website\n* Publish FCR files (decisions, digests, appeals noted, etc.) on the Internet\n* Ensure automatic creation of bidirectional links between decisions and digests published on the FCR website and the original version of those decisions on the Federal Court and Federal Court of Appeal websites\n* Ensure that adequate metadata is collected to facilitate the retrieval of these files by the search engine\n* Ensure that published items follow Government of Canada Standards for Web Publication\n\n## Assessment Criteria\nTo be considered for this contract, the supplier must demonstrate, through a statement of capabilities, that their product and services meet the following minimum essential requirements:\n\n* The software must be \u201coff-the-shelf,\u201d meaning each component is commercially available and requires no further research or development\n* The supplier must have at least 5 years of verifiable expertise in processing and publishing decisions from various Canadian courts in both English and French\n* The software must work and interoperate with the existing FCJA and FCR websites\n\n## Evaluation Process\nSuppliers who consider themselves fully qualified and available to provide the required goods and services can submit a statement of capabilities in writing to the contact person identified in this notice.\n\n## Closing Date\nThe closing date for submitting statements of capabilities is March 15, 2023.\n\n## Inquiry Point\nFor any inquiries or to submit a statement of capabilities, please contact:\n\nDanie Morin"
+}

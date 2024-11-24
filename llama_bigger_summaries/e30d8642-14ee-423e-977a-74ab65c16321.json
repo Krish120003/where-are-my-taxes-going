@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-23-01021735",
+    "type": "Building Automation System (BAS) Upgrade",
+    "department": "National Research Council Canada",
+    "procurement_category": "Construction",
+    "short_summary": "Upgrade N2 to BACnet",
+    "description": "text shown below",
+    "estimated_value": 0,
+    "date_posted": "2023-01-17",
+    "duration_in_months": "",
+    "provinces": [
+        "Saskatchewan"
+    ],
+    "tags": [
+        "Construction of Other Buildings"
+    ],
+    "full_summary": "**SAS N2 Building Automation System (BAS) Upgrade**\n================<<<<<<<<\n### Title (English): SAS N2 Building Automation System (BAS) Upgrade\n\n### Title (French): SAS N2 Mise \u00e0 niveau du contr\u00f4leur du syst\u00e8me d\u2019automatisation du b\u00e2timent (SAB)\n\n### Reference Number: PW-23-01021735\n### Solicitation Number: 22-58116\n### Posting Date: January 17, 2023\n\n**Call for Tender**\n-----------------\n\nThis is an advance contract award notice (ACAN) for a competitive bidding process. Suppliers interested in participating in this bid should submit a statement of capabilities by January 31, 2023 at 14:00 (Eastern Standard Time). If a suitable supplier does not submit a statement of capabilities, the contract may be awarded to a pre-selected supplier.\n\n**Scope of Work**\n-----------------\n\nThe National Research Council of Canada (NRC) seeks to upgrade the Building Automation System (BAS) at its Gymnasium Road Campus in Saskatoon. The existing system uses the proprietary \"N2\" communication language (protocol), which has reached the end of its life and has been phased out in favor of the open source \"BACnet\" MS/TP communication language (protocol).\n\nThe goal of this project is to ensure ongoing system compatibility and interoperability within the existing NRC infrastructure while removing potential service disruptions. The upgrades will involve replacing infrastructure and equipment still operating on the \"N2\" protocol with the \"BACnet\" protocol under the Metasys Building Automation System.\n\n**Contractor Requirements**\n---------------------------\n\nInterested suppliers must meet the following criteria:\n\n* Be able to provide products and services that meet the technical requirements outlined in the tender document\n* Have a proven track record of successful system upgrades and replacements\n* Demonstrate a thorough understanding of the Metasys Building Automation System and the BACnet protocol\n* Provide a detailed cost estimate and project timeline\n\n**Notice and Attachments**\n-------------------------\n\nThe full notice and tender document can be found on the Canada Buys website: [https://canadabuys.canada.ca/documents/pub/att/2023/01/17/3ba05dba21d30e760f00c616e614b969/22-58116_-_acan_sas_bas_upgrade_-_english.pdf](https://canadabuys.canada.ca/documents/pub/att/2023/01/17/3ba05dba21d30e"
+}

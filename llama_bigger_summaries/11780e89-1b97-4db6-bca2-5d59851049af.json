@@ -1,0 +1,28 @@
+{
+    "CONTRACT_ID": "cb-893-78211114",
+    "type": "Notice of intended contracts: Advance contract award notice",
+    "department": "National Research Council (NRC) CNRC-NRC",
+    "procurement_category": "Goods and Services",
+    "short_summary": "Purchase of IsoPlane SCT-320 Imaging Spectrograph device for femtosecond research",
+    "description": "The program is used by the research team to study subatomic world. It acquires world's most advanced ultra-fast laser so as to find electrons in motion as never before. \\\\\\nIt is open for any available vendor to present a Statement of Capability by stating meeting the criteria listed in Table B2 point 3. The program title is Femtosecond Laser Ultrafast Techniques and Ultrafast Dynamics Researchers' Center. The mission of Femtosecond Laser Ultrafast Techniques and Ultrafast Dynamics Researchers' Center (ULTRC) is to develop Ultra-high speed instrumentation technology which is backed by C14M8-230 electrons flow electric potential..",
+    "estimated_value": 6000.0,
+    "date_posted": "4 October 2023",
+    "duration_in_months": "",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Teledyne Princeton Instruments",
+        "IsoPlane SCT-320",
+        "NRC",
+        "Ultra-fast lasers",
+        "Atoms",
+        "Molecules",
+        "Femtosecond research",
+        "Quantum Photonics",
+        "Materials Science",
+        "Optics",
+        "],"
+    ],
+    "full_summary": "Tender Announcement: Advanced Imaging Spectrograph\n\n# Tender Information\n## Contract Details\n* Reference Number: CB-893-78211114\n* Solicitation Number: 23-58120\n* Amendment Number: 1\n* Tender Closing Date: 2023-10-20 14:00:00\n## Contracting Entity\n* Name: National Research Council Canada (NRC-CNRC)\n* Address: 1200 Montreal Road, Ottawa, ON K1A 0R6\n* Contact: Paul Hewitt, Senior Contracting Officer, Paul.Hewitt@nrc-cnrc.gc.ca, (343) 573-1068\n\n# Tender Description\nThe National Research Council Canada's Laser Science Group is seeking to acquire an advanced Imaging Spectrograph with a PI MAX4 Camera to complement the existing IsoPlane SCT-320 Imaging Spectrograph. The proposed system must be compatible with NRC's current equipment and research environment, which is a specialized lab with controlled temperature, humidity, and pressure.\n\n## Technical Requirements\nThe spectrograph must have:\n\n* A Czerny-Turner or Schmidt-Czerny-Turner configuration\n* A focal length of 300-350 mm\n* An aperture of F5 or larger\n* A wavelength range of 110-800 nm with interchangeable gratings\n* A resolution of 0.1 mm or less at all wavelengths and points across the focal plane\n* A focal plane size of at least 27 mm wide by 14 mm high\n\n## Camera and Software Requirements\nThe iCCD camera must have:\n\n* An image sensor size of 1024 x 256 pixels\n* A pixel size of 26 x 26 microns\n* A pixel well depth of 450,000 electrons or larger\n* A dark current of less than 4 e-/p/sec at -25\u00b0C\n\n## Trade Agreements and Exclusions\nThe procurement is subject to the Canada-Chile Free Trade Agreement (CCFTA), the Canadian Free Trade Agreement (CFTA), and other applicable trade agreements. Only one vendor, Delta Photonics, meets the technical requirements and is the exclusive distributor for Teledyne Princeton Instruments in Canada.\n\n## Statement of Capabilities\nSuppliers who consider themselves qualified and available to provide the required goods or services may submit a statement of capabilities in writing within 15 days prior to the tender closing date. The statement must clearly demonstrate how the supplier meets each of the advertised requirements.\n\nThe Crown will have the right"
+}

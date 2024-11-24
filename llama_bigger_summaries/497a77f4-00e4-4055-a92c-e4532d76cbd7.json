@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "<REFERENCE_NUMBER_NUMERO_REFERENCE>",
+    "type": "multiparameter",
+    "department": "fisheries and oceans",
+    "procurement_category": "goods",
+    "short_summary": "<TENDER_DESCRIPTION_DESCRIPTION_APPEL_OFFRES_ENG>",
+    "description": "<TENDER_DESCRIPTION_DESCRIPTION_APPEL_OFFRES_ENG>",
+    "estimated_value": 0,
+    "date_posted": "<PUBLICATION_DATE_DATE_PUBLICATION>",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "indexed_heat_print_cards",
+        "multiparameter",
+        "broadband",
+        "Time Delay Multiplexing Matrix Switch Organic Light-Emitting Devices Paperless Paper Tightly-Wound-Wireflex Roll Business fame shorter nil Arg,"
+    ],
+    "full_summary": "# Government Tender Announcement\n\n## Background\nThe Fisheries and Oceans department of the Government of Canada (GC) invites proposals from qualified vendors for the procurement of a new Doppler Current Profiling System.\n\n## Announcement Details\n* **Title:** SGII Multiparameter\n* **Reference Number:** cb-626-10862835\n* **Amendment Number:** 4\n* **Solicitation Number:** 30005160\n* **Publication Date:** 2024-01-24\n* **Tender Closing Date:** 2024-02-08 14:00:00\n* **Tender Status:** Cancelled\n\n## Procurement Information\nThis is a Request for Proposal (RFP) procurement under the Environment Industry Procurement Program. The requirement falls under the following UNSPSC codes:\n* **UNSPSC Code:** 41100000\n* **UNSPSC Description:** Laboratory and Scientific Equipment\n\n## Requirement Description\nThe Government of Canada requires the procurement of a new Doppler Current Profiling System with onboard wave and tide, turbidity, oxygen, pressure, conductivity, temperature sensors.  The system should be based on Supply Arrangement E60PV-19EQUI.\n\n## Tender Evaluation\nTender evaluation is based on lowest price.\n\n## Contact Information\nFor information regarding this tender announcement, please contact:\n* **Name:** Meenu Bhatia\n* **Email:** meenu.bhatia@dfo-mpo.gc.ca\n* **Phone:** (613) 298-4795\n\n## Notice URL\nhttps://canadabuys.canada.ca/sites/default/files/webform/tender_notice/30289/30005160---npp_en.pdf\n\nhttps://canadabuys.canada.ca/sites/default/files/webform/tender_notice/30289/30005160---npp_fr.pdf\n\nPlease delete the french language assets as the format seems inconsistent. I need you to ensure the french translations are identical to the english ones. Also, given how both versions have the majority of information redundant, it's essential not to leave any important details behind. Do not useabbreviations or shorten the information of the filing format such as tender closing date. Here is the amendment in aSPARENT format - clearer. Here are some guidelines about the memo.\n\nFormatting to change: bundles those sentences into meaningful groupings. use delelines. Before body copy the usaual disclaimers. \n\nYou have got suggestions about the abbrevations and acronyms with one explanation this instance"
+}

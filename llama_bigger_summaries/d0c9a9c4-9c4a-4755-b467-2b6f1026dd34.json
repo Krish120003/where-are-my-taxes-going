@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-23-01027376",
+    "type": "CP",
+    "department": "Women and Gender Equality Canada",
+    "procurement_category": "*SRV",
+    "short_summary": "SBIPS SA 11. Systems Integration",
+    "description": "SBIPS SA 11. Systems IntegrationThis requirement is for:\\\\Women and Gender Equality CanadaThe intent is to issue a competitive contract.",
+    "estimated_value": 0,
+    "date_posted": "2023-02-23",
+    "duration_in_months": "[complex procedural language to return the duration of the contract when it is awarded]",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "RFP"
+    ],
+    "full_summary": "---\n\n### [SBIPS SA 11. Systems Integration](#SBIPS-SA-11-Syst\u00e8me-int\u00e9gration)\n\n**Contracting Entity Information**\n\n* **Name (French)**: Femmes et \u00c9galit\u00e9 des genres Canada (WAGE)\n* **Address**: P.O. Box 8097, Station T CSC, Ottawa, Ontario K1G 3H6, Canada\n* **Contact**\n\t+ **Name**: Anne-Marie Boucher\n\t+ **Email**: FEGC.Contrats-Contracts.WAGE@fegc-wage.gc.ca\n\t+ **Phone**: 819-360-0110\n\n**Tender Information**\n\n* **Reference Number**: PW-23-01027376\n* **Amendment Number**: 2\n* **Solicitation Number**: P2300333\n* **Publication Date**: 2023-02-23\n* **Tender Closing Date**: 2023-03-20T10:00:00\n* **Amendment Date**: 2023-03-09\n* **Notice Type**: Request for Proposal (RFP)\n* **Procurement Method**: Competitive - Limited Tendering\n\n**Description of Requirement**\n\nWAGE is soliciting proposals for the integration of a new grants and contributions management system. The successful bidder will be required to:\n\n1. Elicit, validate, prioritize, and manage the functional, informational, and non-functional requirements of the solution.\n2. Model AS-IS and TO-BE processes to meet all requirements in accordance with BPMN standard.\n3. Develop test cases to validate TO-BE processes and all functional, informational, and non-functional requirements.\n\n**Security Requirements**\n\n* Common PS SRCL #06 applies\n* Designated Organization Screening (DOS) is the minimum corporate security required\n* Reliability is the minimum resource security required\n\n**Trade Agreements**\n\n* Canadian Free Trade Agreement (CFTA) applies\n* The requirement is limited to Canadian goods and services\n\n**Contract Period**\n\n* The proposed period of contract shall be upon contract award to June 30, 2024\n\n### How to Respond\n\nInquiries regarding this RFP requirement must be submitted to the Contracting Authority named above. Request for Proposal (RFP) documents will be e-mailed directly from the Contracting Authority to the Identified Suppliers who are being invited to bid on this requirement. Bidders are advised to note that \"canadabuys.gc.ca\" is not responsible for the distribution of solicitation"
+}

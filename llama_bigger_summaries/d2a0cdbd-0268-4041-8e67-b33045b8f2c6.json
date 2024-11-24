@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-23-01029352 (Draft)",
+    "type": "REQUEST FOR PROPOSAL",
+    "department": "Housing and Urban Affairs",
+    "procurement_category": "Service",
+    "short_summary": "The Canada Mortgage and Housing Corporation (CMHC) is seeking a public relations agency able to develop and implement supportive strategies as part of the National Housing Council (NHC) efforts in France.",
+    "description": "As the public relations support services will be conducted by the NHC secretariat, it is required that the contracting firm is an independent entity that has not previously collaborated with CMHC on this specific project. \\\\",
+    "estimated_value": 100,
+    "date_posted": "07/03/2023",
+    "duration_in_months": "><?= 36, ",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "public_relations ",
+        " Hotels"
+    ],
+    "full_summary": "=====================\n\n### Request for Proposal\n\n**Tender Reference:** PW-23-01029352\n** Solicitation Number:** RFP-001890\n** Publication Date:** Wednesday, March 7, 2023\n** Tender Closing Date:** Wednesday, April 12, 2023, 11:00 am EDT\n** Amendment Date:** Wednesday, March 28, 2023\n\n**Description:**\n\nThe Canada Mortgage and Housing Corporation (CMHC) is seeking a public relations agency to support the National Housing Council (NHC). The successful proponent will provide independent public relations services to the NHC through its secretariat and will not be currently working on CMHC files.\n\n**Scope of Work:**\n\nThe selected agency will provide public relations support services for a period of three (3) years, with an option to extend the agreement for up to two (2) additional one-year terms, for a maximum of five (5) years. The scope of work includes the development and implementation of a public relations plan, media relations, and other communication projects to support the NHC's objectives.\n\n**Selection Criteria:**\n\nThe evaluation will be based on the following criteria:\n\n* Experience in providing public relations services to non-profit organizations.\n* Ability to develop and implement a comprehensive public relations plan.\n* Media relations and communication skills.\n\n**Submission Instructions:**\n\nProspective proponents are invited to submit a proposal in accordance with the instructions outlined in the attached bid documents. The bid documents, including the request for proposal and background information, are available on the Canada Buys website at [www.canadabuys.ca](http://www.canadabuys.ca).\n\n**Point of Contact:**\n\nFor more information, please contact Daniela Michaud, Bidder Contact at (613) 740-4203 or [dcmichaud@cmhc-schl.gc.ca](mailto:dcmichaud@cmhc-schl.gc.ca).\n\n**Attachments:**\n\nThe following attachments are available on the Canada Buys website:\n\n* RFP-001890_Pragency_for_NHC_EN.pdf (English)\n* RFP-001890_Pragency_for_NHC_FR.pdf (French)\n* Addendum No. 1 - RFP-001890_QA_EN.pdf (English)\n* Addendum No. 1 - RFP-001890_QA_FR.pdf (French) I include the code. I write it in BeautifulSoup\n```python\nimport requests\nfrom bs4 import BeautifulSoup\n\nurl = \"https://"
+}

@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "{referenceNumber-numeroReference}",
+    "type": "{noticeType-avisType-eng}",
+    "department": "{contractingEntityName-nomEntitContractante-eng}",
+    "procurement_category": "{procurementCategory-categorieApprovisionnement}",
+    "short_summary": "{tenderDescription-descriptionAppelOffres-eng}",
+    "description": "{tenderDescription-descriptionAppelOffres-eng}",
+    "estimated_value": 0,
+    "date_posted": "{publicationDate-datePublication}",
+    "duration_in_months": ":17",
+    "provinces": [
+        "Alberta",
+        "British Columbia"
+    ],
+    "tags": [
+        "Demolition services",
+        "Infrastructure building and surfacing and paving services",
+        "Canada"
+    ],
+    "full_summary": "# **Stage 2: Administration Building Parking Lot (Yoho National Park)**\n\n### Project Overview\n\nParks Canada seeks a contractor to design and construct a new parking lot adjacent to the Yoho Administration Building in Field, BC, Yoho National Park. The scope of work entails:\n\n*   Demolition and excavation of existing playground and fencing\n*   Construction of new asphalt parking area\n*   Installation of a cast-in-place concrete accessibility ramp and stairs\n*   Installation of canopies and associated electrical infrastructure\n\n### Two-Stage Solicitation Process\n\nThis tender announcement constitutes the Stage 2 of a two-stage solicitation process. The first stage assessed the qualifications of interested suppliers. Invited suppliers have been selected and will be permitted to provide a financial bid based on the provided specifications and drawings.\n\n### Important Announcement Details\n\n| **Key** | **Information** |\n| :---: | --- |\n| **Reference Number** | cb-7461-70094134 |\n| **Solicitation Number** | 5P468-23-0108/A -001 |\n| **Publication Date** | 2023-07-21 |\n| **Closes** | 2023-07-28T16:00:00 |\n| **Expected Contract Start Date** | 2023-07-31 |\n| **Expected Contract End Date** | 2023-11-01 |\n| **Trade Agreements** | Canadian Free Trade Agreement (CFTA) |\n| **Procurement Category** | CNST (Construction Services) |\n\n### Contact Information\n\nFor any inquiries or concerns, kindly reach out to:\n\n*   **Name**: Jen Maheu\n*   **Email**: [jennifer.maheu@pc.gc.ca](mailto:jennifer.maheu@pc.gc.ca)\n*   **Phone**: (587) 432-8458\n\n### Notice and Attachments\n\nThis notice contains essential information regarding the tender announcement. Please refer to the documents provided for further details.\n\nThank you. \n\n---\n\n# Second Stage: Linked Resources\nIf you need more information of resources, I would have added it here.  Note, the contract was already cancelled. \n\nI wrote the initial piece of mandatory information which includes publication details.  Be sure not to miss any relevant sections.  For those tender businesses who appreciate well written documents, keep a resource of templates handy like the one you can search for at Government of Canada EN-MVR template portal as well as resources added in this webpage. \n\nPlease ensure"
+}

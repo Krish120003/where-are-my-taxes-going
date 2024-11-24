@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "Cancelled-9F015-22-0045-B",
+    "type": "Cancelled",
+    "department": "Space Agency",
+    "procurement_category": "SRV",
+    "short_summary": "This notice has been cancelled.",
+    "description": "This notice has been cancelled.",
+    "estimated_value": 0,
+    "date_posted": "2023-03-14",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Canada",
+        "Quebec",
+        "Annul",
+        "Competitive",
+        "Notice cancelled "
+    ],
+    "full_summary": "### Cancelled Solicitation `9F015-22-0045-B`\n\n**Solicitation Reference**\n* Solicitation Number: `9F015-22-0045-B`\n* Solicitation Date: `2023-03-14`\n* Cancellation Date: `2023-04-05` (amendment 2)\n* Tender Closing Date: `2023-04-11` (14:00:00)\n\n**Contracting Entity Information**\n\n* Entity Name: Canadian Space Agency (Agence spatiale canadienne)\n* Address: `6767 Route de l'A\u00e9roport, Saint-Hubert, Qu\u00e9bec, J3Y 8Y9, Canada`\n\n**Procurement Details**\n\n* Procurement Category: Services (SRV)\n* Procurement Method: Competitive - Open bidding\n* Trade Agreements: Canadian Free Trade Agreement (CFTA)\n* Regions of Opportunity: Canada\n* Regions of Delivery: Quebec (except National Capital Region)\n\n**Cancellation Reason**\nThis solicitation has been cancelled.\n\n**Contact Information**\n\n* Name: Sok, Sophorn\n* Email: [sophorn.sok@asc-csa.gc.ca](mailto:sophorn.sok@asc-csa.gc.ca)\n* Phone: 514-708-6583\n* Address: 6767 Route de l'A\u00e9roport, Longueuil, QC, J3Y 8Y9, CA\n\nNote:\n* `None` fields have been removed to reduce verbosity and focus on essential details.\n* Cancellation information and contact details are now more prominent.\n* Grammar, punctuation, and formatting have been corrected to enhance readability.\n* Reorganized sections to improve structuring and flow."
+}

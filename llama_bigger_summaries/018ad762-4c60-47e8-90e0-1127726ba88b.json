@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "cb-756-67903413",
+    "type": "tenders",
+    "department": "defence",
+    "procurement_category": "Supply",
+    "short_summary": "Hydraulic Hose and Tube Fittings",
+    "description": "The Department of National Defence has a requirement for hydraulic hose and tube fittings. The requirement includes the procurement of various hydraulic hose and tube fittings, including nuts, tailpieces, and couplings. The items are to be delivered to CFB Halifax, Nova Scotia, and CFB Esquimalt, British Columbia.",
+    "estimated_value": 1000000,
+    "date_posted": "2023-11-17",
+    "duration_in_months": "With regards to this JSON-formatted data, the output should detail the technical specifications, descriptions of the products listed in the tendering process. The JSON output should be clear and concise, and list each product according to its category. The categories are: hydraulic hose, tube fittings, seals, O-rings, and others. ",
+    "provinces": [
+        "Nova Scotia",
+        "British Columbia"
+    ],
+    "tags": [
+        "Hydraulic Hose and Tube Fittings",
+        "National Defence Canada",
+        "CFB Halifax",
+        "CFB Esquimalt",
+        "Competitive Bidding",
+        "Request for Proposal"
+    ],
+    "full_summary": "# **Government Tender Announcement**\n## **United Nations Nuts and Tailpieces**\n\n### **Tender Details**\n\n* **Reference Number:** cb-756-67903413\n* **Amendment Number:** 8\n* **Solicitation Number:** W8482-242058/A\n* **Publication Date:** 2023-11-17\n* **Tender Closing Date:** 2024-01-15T14:00:00\n* **Expected Contract Start Date:** None\n* **Expected Contract End Date:** None\n\n### **Tender Description**\n\nThe Department of National Defence is seeking to procure various types of nuts and tailpieces for use in hydraulic systems. The items required are:\n\n* 500 units of Union nut (N4730, NSN: 01-1531874)\n* 25 units of Union nut (N4730, NSN: 01-1531874)\n* 500 units of Union nut (N4730, NSN: 01-3393990)\n* 50 units of Union nut (N4730, NSN: 01-3393990)\n* 16 units of Union nut (N4730, NSN: 01-4428560)\n* 10 units of Union nut (N4730, NSN: 01-4428560)\n* 26 units of Union nut (N4730, NSN: 21-8793863)\n* 10 units of Union nut (N4730, NSN: 21-8793863)\n* 30 units of Union nut (N4730, NSN: 20-A106485)\n* 10 units of Union nut (N4730, NSN: 20-A106485)\n* 30 units of Tailpiece (N4730, NSN: 20-A106484)\n* 10 units of Tailpiece (N4730, NSN: 20-A106484)\n* 10 units of Coupling, high pressure (N4730, NSN: 99-3014844)\n* 10 units of Coupling, high pressure (N4730, NSN: 99-3014844)\n* 10 units of Adapter, straight, pipe to tube (N4730, NSN: 99-7016274)\n* 10 units of Adapter, straight, pipe to tube (N4730, NSN: 99-7016274)\n* 10 units"
+}

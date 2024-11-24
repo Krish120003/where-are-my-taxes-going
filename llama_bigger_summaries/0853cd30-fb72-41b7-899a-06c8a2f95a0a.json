@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "{data['referenceNumber-numeroReference']}",
+    "type": "Request for Proposal",
+    "department": "Royal Canadian Mounted Police",
+    "procurement_category": "services",
+    "short_summary": "{data['tenderDescription-descriptionAppelOffres-eng']}",
+    "description": "{data['tenderDescription-descriptionAppelOffres-eng']}",
+    "estimated_value": 0,
+    "date_posted": "{data['publicationDate-datePublication']}",
+    "duration_in_months": "It is expected for the contract to last for 1 year",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "First Aid",
+        "Cardiopulmonary Resuscitation (CPR)",
+        "Automated External Defibrillator (AED)"
+    ],
+    "full_summary": "**Standard First Aid and Cardiopulmonary Resuscitation \"Level C\" and Automated External Defibrillator Training and Recertification**\n\n## Solicitation Summary\nThe Royal Canadian Mounted Police (RCMP) is seeking a contractor to provide Standard First Aid and Cardiopulmonary Resuscitation (CPR) Level C, and Automated External Defibrillator (AED) training and recertification services.\n\n## Scope of Work\nThe contractor will provide qualified instructors to teach the most recent First Aid and CPR techniques approved by the Minister of Labour in accordance with Part XVI of the Canada Occupational Health and Safety Regulations. The training will be conducted at various locations in Ontario, excluding the National Capital Region.\n\n## Key Dates\n* Expected contract start date: April 1, 2023\n* Expected contract end date: March 31, 2024 (with optional extensions for up to two additional one-year periods)\n* Tender closing date: March 7, 2023 14:00:00 EST\n\n## Tender Requirements\nThe contractor must meet the following minimum qualifications:\n* Be an organization with expertise in Standard First Aid and CPR Level C, and AED training and recertification services\n* Have a proven track record of providing high-quality training services\n* Be able to provide qualified instructors who meet the required standards\n\n## Evaluation Criteria\nThe selection of the contractor will be based on the lowest-priced responsive bid.\n\n## Important Documents\nThe following documents are available for download:\n* [Request for Proposal (RFP) document](https://canadabuys.canada.ca/documents/pub/att/2023/02/10/6b43c705607ec0a68a5248a5b242a10b/202302449_-_request_for_proposal_-_eng.pdf)\n* [Solicitation Amendment 001](https://canadabuys.canada.ca/documents/pub/att/2023/02/22/17e23ab05185bbf408c1c8075a7602cf/202302449_-_solicitation_amendment001_-_eng.pdf)\n* [Solicitation Amendment 002](https://canadabuys.canada.ca/documents/pub/att/2023/03/03/cc640429c13da1beb808f679fcdafd4e/202302449_-_solicitation_amendment002-en_fig-.pdf)\n\n## Additional Information\n* The RCMP has adopted the Integrity Regime administered by Public Services and"
+}

@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "cb-9369-59374160",
+    "type": "REQUEST FOR PROPOSAL",
+    "department": "NATIONAL RESEARCH COUNCIL OF CANADA",
+    "procurement_category": "GOODS",
+    "short_summary": "SUPPLY AND INSTALL BINDER JETING 3D PRINTER AND ASSOCIATED EQUIPMENT",
+    "description": "NRC IS WORKING ON THE DEVELOPMENT OF A BINDER JETTING PROCESS WITH THE GOAL OF BRINGING THIS TECHNOLOGY CLOSER TO MASS PRODUCTION",
+    "estimated_value": 1000.0,
+    "date_posted": "23/09/22",
+    "duration_in_months": "}} I will generally use English language only input. Here I have a row of data related to the solicitation of suppliers for the supply and installation of a specific 3D printer, correspondence language, and required documents languages, the address, and phone number of the contact person and the attachment URLs. I need to convert this data into the JSON format. I've added some extra requests versus the input data game in the previous task. Let's break it down. Here are the fields that need to be formatted in the output JSON:{ borders, concatenations, quickest fast, treatment.Existing ",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "science",
+        "technology",
+        "equipment"
+    ],
+    "full_summary": "### Tender Announcement: Binder Jetting 3D Printer Supply and Installation\n#### Reference information:\n* Solicitation Number: 23-58126\n* Reference Number: cb-9369-59374160\n* Tender Status: Expired\n* Amendment Number: 6\n* Amendment Date: October 17, 2023\n\n#### Opportunity Information:\n* Project Title: Binder Jetting 3D Printer Supply and Installation\n* Procurement Category: Goods and Services\n* Government of Canada Trade Agreements: \n  * Canada-Honduras Free Trade Agreement\n  * Canada-Chile Free Trade Agreement (CCFTA)\n  * Canadian Free Trade Agreement (CFTA)\n  * Canada-Peru Free Trade Agreement (CPFTA)\n  * Canada-Korea Free Trade Agreement (CKFTA)\n  * Canada-Colombia Free Trade Agreement\n* Regions of Opportunity: Unknown\n* Regions of Delivery: Canada\n* Unspsc: 41100000\n  * Unspsc Description: Laboratory and scientific equipment\n\n#### Tender Description:\nThe National Research Council of Canada (NRC) requires the supply and installation of a Binder Jetting 3D printer and associated equipment. The technology aims to bring mass production of parts to the graphitisc industry, particularly the automotive sector. To achieve success, it is crucial to test small quantities of fine oxygen-sensitive metal powders and various binder families at the lab scale.\n\n#### Key Dates:\n* Tender closing date: October 17, 2023 at 2:00 pm\n* Expected contract start date: October 24, 2023\n* Expected contract end date: March 29, 2024\n\n#### Contact Information:\n* Contact Name: Carol Cooper\n* Contact Email: [carol.cooper@nrc-cnrc.gc.ca](mailto:carol.cooper@nrc-cnrc.gc.ca)\n* Contact Phone: 902293-8053\n* Attachment: https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/11514/rfp-23-58126-qa-1.pdf, https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/11514/23-58126__rfp-%28rev_en_.pdf, https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/9369/23-58126__rfp_3dprinter_en_.pdf, https://canadabuys.canada.ca/sites/default/files"
+}

@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "MX-22605260310",
+    "type": "Tender Notification",
+    "department": "Department of National Defence",
+    "procurement_category": "Service",
+    "short_summary": "Request for Abbreviated Proposals for Inspection, Testing and Minor Repair Services of Fire Detection and Suppression Systems",
+    "description": "This is a Request for Abbreviated Proposals (RFAP) to establish a service contract with Defence Construction Canada (DCC) to provide \"as and when required\" inspection, testing and minor repair services for fire detection and suppression systems, specific to Department of National Defence (DND) requirements in Quebec, Canada.  The ITM service contract will be for a period ending March 31, 2026, and may be extended for up to two additional two-year periods beyond the initial period.  Site visits have been arranged for November 9-16, 2022.  The estimated cost for this opportunity is in the order of $14,630,000.",
+    "estimated_value": 14630000.0,
+    "date_posted": "2022-10-28",
+    "duration_in_months": "><?php echo date('F Y', strtotime('2026-03-31')); ?>",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Construction",
+        "Public Buildings",
+        "Fire Safety",
+        "Inspection and Testing",
+        "Minor Repair"
+    ],
+    "full_summary": "# Inspection, Testing, and Maintenance Services for Fire Detection and Suppression Systems\n\n### Overview\n\nDefence Construction Canada (DCC) is inviting service providers to submit proposals for the inspection, testing, and maintenance (ITM) services of fire detection and suppression systems (FDS) at various locations in Quebec, Canada.\n\n### Project Description\n\nThe ITM services will be provided to support the fire safety needs of the Department of National Defence (DND) in Quebec. The scope of work includes the inspection, testing, and minor repair of FDS systems, as well as the provision of technical expertise and support to ensure compliance with relevant regulations and standards.\n\n### Contract Details\n\n*   Contract duration: The initial term of the contract will be for a period of three (3) years, ending on March 31, 2026. The contract may be extended for up to two (2) additional two (2) year periods, subject to mutual agreement between the contractor and DCC.\n*   Estimated cost: The estimated cost of the contract is in the order of $14,630,000.00\n*   Bidding process: Firms interested in providing the ITM services are invited to submit their proposals through the MERX Electronic Bidding System on or before the closing date and time indicated on the system.\n\n### Proposal Evaluation\n\nProposals will be evaluated based on the criteria outlined in the Request for Abbreviated Proposals (RFAP). The objective of the RFAP is to select the service provider with the highest total score.\n\n### Site Visits\n\nSite visits have been arranged for the following dates and locations:\n\n*   Montreal and Saint-Jean: November 9, 2022\n*   Valcartier and DRDC: November 15, 2022\n*   Bagotville: November 16, 2022\n\nPre-registration is required for the site visits. Details regarding the site visits can be found in Amendment No. 1.\n\n### Contact Information\n\n*   Keltie L\u00e9ger\n*   Email: [keltie.leger@dcc-cdc.gc.ca](mailto:keltie.leger@dcc-cdc.gc.ca)\n*   Phone: 343-542-5027\n\n### Trade Agreements\n\nThe proposed service contract is subject to the following trade agreements:\n\n*   World Trade Organization Agreement on Government Procurement (WTO GPA)\n*   Canada-European Union Comprehensive Economic and Trade Agreement (CETA)\n*   Canadian Free Trade Agreement (CFTA)\n\n###"
+}

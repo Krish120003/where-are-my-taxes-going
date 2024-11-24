@@ -1,0 +1,43 @@
+{
+    "CONTRACT_ID": "PW-22-01009405",
+    "type": "Purchase_with_Conditions",
+    "department": "Canadian Government Agencies",
+    "procurement_category": "SRVTGD, GD, SVR",
+    "short_summary": "Request for Proposal: Content Management System",
+    "description": "Request for Proposal for the purchase of a Content Management System for Farm Credit Canada (FCC).",
+    "estimated_value": 0,
+    "date_posted": "October 6, 2022",
+    "duration_in_months": "> 24 months",
+    "provinces": [
+        "Saskatchewan"
+    ],
+    "tags": [
+        "software",
+        "it",
+        "data_bases",
+        "html",
+        "css",
+        "javascript",
+        "google_analytics",
+        "searchengines",
+        "email_platform",
+        "mobile_app",
+        "website",
+        "design_consultant",
+        "training_consultant",
+        "system_support_company",
+        "custom_ addons",
+        "report_presentation",
+        "speedline_service",
+        "rms_sales",
+        "sms",
+        " star_grabber",
+        "weeksmarketintl",
+        "rencatech",
+        "clickscoops",
+        "mill city media",
+        "SMARToops\u2019s','repr[emailprotected']",
+        "connectionsoftlephone"
+    ],
+    "full_summary": "**Content Management System RFP**\n=============================\n\n**[Request for Proposal - RFP]**\n------------------------------\n\n### Notice Type\n\n*   **English:** Request for Proposal (RFP)\n*   **French:** Demande de propositions (DP)\n\n### RFP Details\n\n*   **Title:** Content Management System RFP\n*   **Reference Number:** PW-22-01009405\n*   **Publication Date:** October 6, 2022\n*   **Tender Closing Date:** November 15, 2022, 2:00 PM CST (Saskatchewan Time)\n*   **Procurement Process:**\n\n    *   Competitive tendering\n    *   Non-binding RFP\n\n### RFP Description\n\nFarm Credit Canada (FCC) invites capable vendors to propose for the replacement of its legacy Content Management System (CMS) with a composable architecture to support public-facing websites (primarily fcc-fac.ca and agexpert.ca, with additional microsites) and enable an omnichannel experience.\n\nThe expected solution should provide a central hub for authoring, assembling, editing, and managing content using a headless content management system and a frontend framework that works with the backend to build the UI for public-facing websites using APIs.\n\n### RFP Requirements\n\n*   **Architecture Features:**\n\n    *   Composable\n    *   Lightweight\n    *   Omnichannel (using REST APIs)\n    *   No proprietary expertise required\n*   **Contract Duration:**\n\n    *   Up to 10 years\n*   **RFP Schedule:**\n\n    *   RFP issue date: October 6, 2022\n    *   Vendor questions accepted until: October 26, 2022, 2:00 PM CST (Saskatchewan Time)\n    *   RFP closing date and time: November 15, 2022, 2:00 PM CST (Saskatchewan Time)\n\n### Contact Information\n\n*   **Vendor Contact:** Dhruv Bhatt\n*   **Contact Email:** [procurement@fcc-fac.ca](mailto:procurement@fcc-fac.ca)\n*   **Vendor Contact Information:** 1800 Hamilton street, Po Box 4320, Regina, SK, S4P 4L3, Canada\n\n### Important Notes\n\n*   **Notice:** This RFP reference a non-binding, competitive RFP not a call for tenders. FCC is not obligated to proceed with the work described in the RFP scope"
+}

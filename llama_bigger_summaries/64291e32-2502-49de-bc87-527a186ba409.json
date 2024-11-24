@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "w8482-231410/A",
+    "type": "Government Tender Solicitation",
+    "department": "Department of National Defence",
+    "procurement_category": "Goods",
+    "short_summary": "Multiple Victoria-Class Spares",
+    "description": "Multiple items from various sources, delivery required to CFB Esquimalt and CFB Halifax",
+    "estimated_value": 0,
+    "date_posted": "2023-06-07",
+    "duration_in_months": "><|reserved_special_token_64|>} TODO: convert M to Y",
+    "provinces": [
+        "British Columbia",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "Rubber",
+        "Marine craft",
+        "Lubricants"
+    ],
+    "full_summary": "# Tender Notice\n\n## Request for Proposal\n\nThe Department of National Defence (DND) invites bids to supply various marine craft systems, subassemblies, valves, and spare parts as outlined below.\n\n### Delivery Locations\n\nThe goods will be delivered to Canadian Forces Base (CFB) Esquimalt and CFB Halifax.\n\n### Tender Details\n\n| Item # | GSIN | Description | Quantity | Unit of Issue | NCAGE | Delivery Location |\n| --- | --- | --- | --- | --- | --- | --- |\n| 1 | 5305 | Screw, Cap, Hexagon Head | 40 | EA | K6451 | CFB Esquimalt |\n| 2 | 5305 | Screw, Cap, Hexagon Head | 40 | EA | K6451 | CFB Halifax |\n| 3 | 5331 | O-Ring | 10 | EA | U6183, L6427 | CFB Esquimalt |\n| 4 | 5331 | O-Ring | 5 | EA | U6183, L6427 | CFB Halifax |\n| 5 | 4820 | Parts Kit, Stop Valve | 20 | EA | K9077, L6427 | CFB Esquimalt |\n| 6 | 4820 | Parts Kit, Stop Valve | 10 | EA | K9077, L6427 | CFB Halifax |\n| 7 | 4820 | Parts Kit, Stop Valve | 10 | KT | K6451, L6427 | CFB Esquimalt |\n| 8 | 4820 | Parts Kit, Stop Valve | 5 | KT | K6451, L6427 | CFB Halifax |\n| 9 | 4310 | Oil Filler | 6 | EA | U0721 | CFB Esquimalt |\n| 10 | 4310 | Oil Filler | 3 | EA | U0721 | CFB Halifax |\n| 13 | 4820 | Pilot Valve Assembly | 3 | EA | L6427 | CFB Esquimalt |\n| 14 | 4820 | Pilot Valve Assembly | 2 | EA | L6427 | CFB Halifax |\n| 15 | 5331 | O-Ring | 10 | EA | K0207 | CFB Esquimalt |\n| 16 | 5331 | O-Ring | 5 | EA | K0207"
+}

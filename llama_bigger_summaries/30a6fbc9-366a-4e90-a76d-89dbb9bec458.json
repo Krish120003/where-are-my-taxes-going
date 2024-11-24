@@ -1,0 +1,33 @@
+{
+    "CONTRACT_ID": "T8080-230692",
+    "type": "Data",
+    "department": "Transport Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Transport Canada needs to know what light duty vehicles are on the Canadian roads",
+    "description": "The contract is part of a project to populate a comprehensive              database of Canadian light duty vehicles, defining vehicle characteristics and aggregating vehicle data from various sources. ",
+    "estimated_value": 30000.0,
+    "date_posted": "5/6/2024",
+    "duration_in_months": "37 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "database",
+        "retrieval",
+        "information",
+        "data",
+        "Canadian light duty vehicles",
+        "Vehicle Identification Number",
+        "VIN",
+        "engine size",
+        "fuel type",
+        "body type",
+        "drivetrain details",
+        "Advanced Driver Assistance Systems",
+        "ADAS",
+        "safety equipment",
+        "driver assistance technologies",
+        "safety system's details."
+    ],
+    "full_summary": "# Light Duty Vehicle Data\n### Advance Contract Award Notice\n\n#### Solicitation Information\n\n* **Solicitation Number**: T8080-230692\n* **Publication Date**: May 6, 2024\n* **Tender Closing Date and Time**: May 22, 2024, 2:00 p.m.\n* **Expected Contract Start Date**: June 3, 2024\n* **Expected Contract End Date**: June 2, 2027\n\n#### Service Requirements\n\nTransport Canada requires a service provider to collect and standardize vehicle registration files from each Province and Territory to identify all light-duty vehicles registered in Canada. The contractor must collect information on 10 specific vehicle details using the Vehicle Identification Number (VIN), including engine size, fuel type, body type, and drivetrain details. The services must be combined with Advanced Driver Assistance Systems (ADAS) details, confirming the availability or non-availability of ADAS features by year, make, model, and trim (post 2011 model vehicles only).\n\nThe provided services will result in a comprehensive list of Canadian light-duty vehicle fleet information for 2023, 2024, and 2025, appended with information on ADAS systems and vehicle safety equipment.\n\n#### Notice Details\n\n* **Advance Contract Award Notice**: This notice indicates that a contract has already been awarded.\n* **Procurement Method**: Advance Contract Award Notice\n* **Trade Agreements**: This procurement is covered by the following trade agreements: Canadian Free Trade Agreement, Canada-Panama Free Trade Agreement, Canada-Korea Free Trade Agreement, Canada-Chile Free Trade Agreement, Canada-Honduras Free Trade Agreement, Canada-Colombia Free Trade Agreement\n\n#### Evaluation Criteria\n\nThe evaluation of bids will be based on the lowest price.\n\n#### Contact Information\n\n* **Contracting Authority**: Transport Canada\n* **Address**: Tower C, 330 Sparks Street, Ottawa, Ontario, Canada K1A 0N5\n* **Contact Person**: Fanie Charron\n* **Contact Email**: [fanie.charron@tc.gc.ca](mailto:fanie.charron@tc.gc.ca)\n* **Contact Phone**: (343) 574-8173\n\n#### Additional Resources\n\nThe full tender notice and additional information can be found at: https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/37625/t8080-230692---light-duty-vehicle-data---en.pdf (English) and https://canadabu"
+}

@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "cb-9120-98566790",
+    "type": "{ document: 'Request for Proposal', amended: 'yes' }",
+    "department": "Health Canada",
+    "procurement_category": "*General Distribution",
+    "short_summary": "Health Canada wants to acquire two light scoring airborne particle counters",
+    "description": "{ prerequisite solicitaion, specifications and utility in details}",
+    "estimated_value": 100,
+    "date_posted": "162877,",
+    "duration_in_months": "]},  ",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Health and care",
+        "Materials manufacture",
+        "Birr orders",
+        "Term extensions",
+        "Hitl-sets reports"
+    ],
+    "full_summary": "**Government Tender Announcement**\n\n**Health Canada's Requirement for Light Scattering Airborne Particle Counters**\n\nHealth Canada invites holders of Supply Arrangement # E60PV-19EQUI to submit a request for proposal (RFP) for the supply of two (2) light scattering airborne particle counters.\n\n**RFP Details**\n\n* Reference Number: cb-9120-98566790\n* Solicitation Number: 1000253648\n* Publication Date: 2023-09-15\n* Tender Closing Date: 2023-10-24T14:00:00\n* Expected Contract Start Date: 2023-10-16\n* Expected Contract End Date: 2024-03-29\n\n**Equipment Requirements**\n\nHealth Canada requires two light scattering airborne particle counters that meet the following specifications:\n\n* Minimum of 6 channels for different particle sizes\n* Sensitivity: at least 0.3 \u00b5m to 10 \u00b5m particle size\n* Measurable particle sizes: 0.5 \u00b5m and 5.0 \u00b5m\n* Maximum measurable particle number concentration: at least 500,000 particles/ft3\n* Flow rate: 1 CFM\n* Instrument enclosure material: preferably stainless steel or a chemically-resistant material (demonstrated)\n* Weight: maximum 15 lbs (including batteries)\n* Possibility to fix the probe on a tripod or adequate support\n* Validation execution included (validation report provided)\n* Instrument calibration and compliance with ISO 21501-4 requirements (table of requirements below)\n\n**ISO 21501-4 Requirements**\n\n* Size setting error: maximum 10% of each specified size\n* Counting efficiency: within 50 \u00b1 20% for calibration particles close to the minimum detectable particle size, and within 100 \u00b1 10% for calibration particles 1.5 to 2 times larger than the minimum detectable particle size\n* Size resolution: within 15% of the specified particle size\n* False count (zero count): 95% upper confidence limit less than or equal to the value specified and reported by the manufacturer\n* Maximum particle number concentration: confidence loss within 10%\n* Sampling flow rate error: maximum permissible error within 5% of the specified flow rate\n* Sampling time error: if the instrument has a sampling time control system, maximum permissible error within 1% of the preset value\n* Response rate: equal to 0.5%\n\n**Contact Information**\n\n* Name: Chantal"
+}

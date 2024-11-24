@@ -1,0 +1,28 @@
+{
+    "CONTRACT_ID": "WS3966696600",
+    "type": "Request for Proposal",
+    "department": "Public Works and Government Services (PSPC)",
+    "procurement_category": "Goods Distribution",
+    "short_summary": "Double Compartment Gas Convection Steamer",
+    "description": "AMENDMENT TO CLOSING TIME: ...",
+    "estimated_value": 0.0,
+    "date_posted": "2023-04-18",
+    "duration_in_months": "Inactive",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "contract_ethnicity_v2 None",
+        "profile_ethnicity_v2 None ",
+        "contract_country_v2 None",
+        "profile_country_v2 None",
+        "profile_government_levels_v2 None",
+        "profile_industry_groups_v2 None",
+        "profile_services_v2 None",
+        "profilekeywords_v2 double-compartment",
+        "profilenotkeywords_v2 None",
+        "profilecampuscodes_v2 None",
+        "FunctionCategories None"
+    ],
+    "full_summary": "Double Compartment Gas Convection Steamer Request for Tender\n======================\n### Overview\nThe Correctional Service of Canada (CSC) is seeking a Double Compartment Gas Convection Steamer for Food Services at the Grierson Institution. \n\n### Details\n*   Bid Closing Date: May 18th, 2023 at 2:00:00 PM EDT\n*   Estimated Contract Start Date: May 19th, 2023\n*   Estimated Contract End Date: May 20th, 2024\n*   Service Requirement: Correctional Service of Canada (CSC) has a requirement for a Double Compartment Gas Convection Steamer for Food Services at Grierson Institution.\n*   Trade Agreements: Tender included under the Canadian Free Trade Agreement (CFTA).\n\n### Procurement Details\nThe tendering process for this contract is open and competitive.\n\n*   Evaluation Criteria: Lowest Price\n*   Notice Type: Request for Proposal (RFP)\n*   Procurement Method: Competitive - Open bidding\n\n### Contact Information\nFor any inquiries related to this tender, please contact Douglas Rachinski at douglas.rachinski@tpsgc-pwgsc.gc.ca.\n\n### Resources\nTo access the full tender details, please visit the SAP Ariba platform: <http://discovery.ariba.com/rfx/16031069>\n\nPlease note that all required supporting documentation and bid submission must be submitted on or before the bid closing date and time to be considered responsive. Bids submitted after this date will be declared non-responsive. \n\n\n\n\n\n!!! Merged all the required fields into a string. Here is the output:\n\n```kwargs\n{\n 'title-titre-eng': \n'21540-233202 - Double Compartment Gas Convection Steamer'\n, \n'title-titre-fra': \n'21540-233202 - Cuiseur vapeur \u00e0 convection \u00e0 gaz avec deux compartiments'\n, 'referenceNumber-numeroReference': \n'WS3966696600-Doc3966804982'\n, 'amendmentNumber-numeroModification': \n'4'\n, 'solicitationNumber-numeroSollicitation': \n'WS3966696600'\n, 'publicationDate-datePublication': \n'2023-04-18'\n, 'tenderClosingDate-appelOffresDateCloture': \n'2023-05-18T14:00:00'\n, 'amendmentDate-dateModification': \n'2023-05-11'\n, 'expectedContract"
+}

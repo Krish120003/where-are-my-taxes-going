@@ -1,0 +1,37 @@
+{
+    "CONTRACT_ID": "cb-424-33192097",
+    "type": "photoshop",
+    "department": " Dept-of-Science-International",
+    "procurement_category": "Service_providing",
+    "short_summary": "Introducing the Innovative Solutions Canada Program (ISC) Call for Proposals which has been looking for photonics innovation to put Canada on the map in the international photonics market.",
+    "description": "The National Research Council of Canada (NRC) is seeking innovative solutions that will assist in developing a new technology for high accuracy spectral measurement and time division multiplexing for sensing, logistics, mobility, and processing for energy production and storage systems. This technology is intended for inspection and monitoring the integrity of structural components and measuring of numerous engineering and physical properties at high accuracy.",
+    "estimated_value": 800000.0,
+    "date_posted": "2023-10-04",
+    "duration_in_months": "When the duration is not specified, the behaviour of the null value of a Date object is used, according to the doc for datetime.timedelta(). The null value of a Date object is treated as 0 days. Therefore, when the duration is not specified, the expected duration is 0 months",
+    "provinces": [
+        "Quebec",
+        "Ontario",
+        "British Columbia"
+    ],
+    "tags": [
+        "photonic",
+        "optical",
+        " photonics",
+        "Canada",
+        " ISC",
+        "Challenge",
+        "Innovation Canada",
+        "innovation Contest",
+        " Canadian government",
+        "Challenge Award",
+        " precision Pyrometer",
+        " Thermal Imaging Cameras",
+        " thermal imaging systems, inspection",
+        "decisions",
+        "active sense",
+        "measure, Energy and Resources, Environment, Industries, high precision measurement, Product development, applied research, solutions, development of VI technology, the successful proposals, DLC: take award the winner won ",
+        "FOR ",
+        "photoshop"
+    ],
+    "full_summary": "# Government Tender Announcement: Optical Fiber Sensor Interrogator\n\n### Tender Title: Optical Fiber Sensor Interrogator\n#### Tender Number: cb-424-33192097\n\nThe [PSPC/SPAC](#contracting-Entity) invites interested suppliers to participate in a Request for Proposal (RFP) for the development of an Optical Fiber Sensor Interrogator.\n\n### Tender Details\n\n* **Solicitation Number:** EN578-20ISC3\n* **Solicitation Date:** 2023-10-04\n* **Tender Closing Date:** 2023-11-15T14:00:00\n* **Expected Contract Start Date:** Not specified\n* **Expected Contract End Date:** Not specified\n* **Current Status:** Expired\n\n### Background and Context\n\nThe National Research Council of Canada (NRC) is seeking a solution to develop an Optical Fiber Sensor Interrogator capable of interrogating hundreds to thousands of Fiber Bragg Grating (FBG) sensors present on a single optical fiber. The interrogator must have the capability to discriminate individual FBG reflection wavelengths and determine their location via time-of-flight measurements.\n\n### Tender Requirements\n\nThe proposed solution must:\n\n1.\tHave the dual capability of discriminating an individual FBG reflection wavelength from other FBGs (wavelength division multiplexing \u2013 WDM) as well as determining the FBG location via time-of-flight measurements (time division multiplexing-TDM)\n2.\tWavelength range in the telecom C-band (1528 to 1568 nm)\n3.\tOutput power: > 13 dBm\n4.\tLaser linewidth: < 10 MHz\n5.\tWavelength accuracy: < \u00b1 5pm\n6.\tWavelength tuning repeatability: < \u00b1 5 pm\n7.\tLaser tuning step resolution: 8 pm\n8.\tOutput channels: at least 16\n9.\tInput channels (return fibers): at least 16\n10.\tLaser scanning rate: 1 Hz to 200 kHz\n11.\tLaser optical interface: FC/APC\n12.\tSelf-calibrated wavelength with internal reference\n13.\tHave ethernet or WiFi communication interfaces\n\n### Project Phases\n\n*\tPhase 1: Up to 6 months. Maximum funding available: $150,000.00 CAD excluding applicable taxes, shipping, travel and living expenses, as required. Estimated number of Phase 1 contracts: 2.\n*\tPhase 2: Up to 24 months."
+}

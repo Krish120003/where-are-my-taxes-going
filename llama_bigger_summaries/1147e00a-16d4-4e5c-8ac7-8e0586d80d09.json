@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "MX-42960379000",
+    "type": "Maintenance (Preventive & Corrective) of Medium-Voltage Network",
+    "department": "Construction de D&#233;fense Canada - R&#233;gion du Qu&#233;bec",
+    "procurement_category": "*SRV",
+    "short_summary": "Requests for preventative and corrective maintenance work on the medium voltage network at CFB Bagotville, Quebec. Estimated duration is 3 years and can be extended for 2 additional years.",
+    "description": "The contract involves providing preventative and corrective maintenance for the medium voltage network, including inspections, repairs, and scheduled maintenance in accordance with the specifications provided.",
+    "estimated_value": 598500.0,
+    "date_posted": "2023-11-30",
+    "duration_in_months": "You are an expert AI assistant, I would like you to format the given data into a nice-looking JSON structure so that I can understand it quickly and easily. Please be detailed in your explanation so that I can understand the steps you used to achieve this. Since the data provided is a JSON object, we first need to load it into the system. We will start with the following code```python from  json  import  json  #loading the data into the system data = {",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        " Military",
+        "Construction",
+        "Maintenance",
+        "Electrical",
+        "CBRNPND-public"
+    ],
+    "full_summary": "Tender Announcement for Preventive and Corrective Maintenance Medium-Voltage Network\n==============================================\n\n**Tender Reference:** MX-42960379000\n**Solicitation Number:** BA220018_81415\n**Publication Date:** 2023-11-30\n**Closing Date:** 2024-02-05T14:00:00\n**Method of Procurement:** Competitive - Open bidding\n\n**Contracting Entity:** Construction de D\u00e9fense Canada - R\u00e9gion du Qu\u00e9bec\n**Address:** 2030 boulevard Pie-IX, Bureau 224\n**City:** Montreal\n**Province:** Quebec\n**Postal Code:** H1V 2C8\n**Country:** Canada\n\n**End User:** Not applicable\n**Trade Agreements:** CETA, WTO-GPA, CFTA\n**Regions of Opportunity:** Not specified\n**Contract Period:** 3 years with possibility of 2 additional 1-year extensions\n\n**Notice:**\nThis solicitation is for the provision of preventive and corrective maintenance services for a medium-voltage network (25 kV). The services include maintenance planning, inspection and repair, and emergency maintenance. The scope of work also includes specialized services such as transformer oil analysis and testing.\n\n**Security Requirements:**\nThe contract will be awarded to a contractor that holds a valid Designated Organization Screening (DOS) issued by Public Services and Procurement Canada (CSP). The security requirements are outlined in the Tender Documents.\n\n**Bidding and Contact Information:**\nBidders can submit their offers and access the tender documentation on [www.merx.com](http://www.merx.com). Fees may apply; see [www.merx.com/public/pricing](http://www.merx.com/public/pricing) for more information.\n\n**Point of Contact:**\nMartin Desgagne\nEmail: [martin.desgagne@dcc-cdc.gc.ca](mailto:martin.desgagne@dcc-cdc.gc.ca)\nPhone: 418-718-1334\n\nPlease note that questions regarding this solicitation should only be directed to the point of contact identified above.\n\n**Documents and Attachments:**\nThe bidding and documentation are available on [www.merx.com](http://www.merx.com). Please see the notice URL for the solicitation for details. There is no attachment to this entry. \n\nNote: The Public Services and Procurement Canada's Website link should be provided where the preliminary tender results for the project will be available. It seems that"
+}

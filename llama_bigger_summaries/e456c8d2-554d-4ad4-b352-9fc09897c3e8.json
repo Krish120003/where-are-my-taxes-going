@@ -1,0 +1,16 @@
+{
+    "CONTRACT_ID": "{referenceNumber-numeroReference}",
+    "type": "{tenderStatus-appelOffresStatut-eng}",
+    "department": "{contractingEntityName-nomEntitContractante-eng}",
+    "procurement_category": "{procurementCategory-categorieApprovisionnement}",
+    "short_summary": "{tenderDescription-descriptionAppelOffres-eng}",
+    "description": "{tenderDescription-descriptionAppelOffres-eng}",
+    "estimated_value": 0,
+    "date_posted": "{publicationDate-datePublication}",
+    "duration_in_months": "}, ",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [],
+    "full_summary": "================\n\n**Domestic Assessment of Product Category Rules**\n------------------------------------------------\n\n### Tender Details\n\n* **Reference Number**: cb-160-38546730\n* **Solicitation Number**: 10078046\n* **Tender Closing Date**: 2024-02-06T14:00:00\n* **Expected Contract Start Date**: 2024-02-07\n* **Expected Contract End Date**: 2025-03-31\n\n### Contract Requirements\n\nThe Department of Public Works and Government Services Canada (PWGSC) is seeking the provision of a Domestic Assessment of Product Category Rules (PCR). This assessment is to support the implementation of the Treasury Board of Canada Secretariat's Greening Government Funded \"Green Public Procurement Tool for Federal Assets\" project.\n\n### Scope of Work\n\nThe selected contractor will be responsible for configuring a Canadian version of the Product Search Tool/Sustainable Facilities Tool and database, currently used by the U.S. government. This will enable PWGSC to provide a domestic assessment of PCR and support its green public procurement initiatives.\n\n### Procurement Method\n\nThis procurement is non-competitive, and the notice type is Advance Contract Award Notice.\n\n### Trade Agreements\n\nThis procurement is subject to the following trade agreements:\n\n* Canada-European Union Comprehensive Economic and Trade Agreement (CETA)\n* Canadian Free Trade Agreement (CFTA)\n* Canada-Ukraine Free Trade Agreement (CUFTA)\n* Canada-Panama Free Trade Agreement\n* Canada-Peru Free Trade Agreement\n* Canada-Korea Free Trade Agreement (CKFTA)\n* World Trade Organization Agreement on Government Procurement (WTO GPA)\n* Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)\n* Canada-Chile Free Trade Agreement (CCFTA)\n* Canada-Honduras Free Trade Agreement\n* Canada-Colombia Free Trade Agreement\n\n### Regions of Opportunity\n\nThis tender is open to eligible suppliers from the National Capital Region (NCR) and other regions.\n\n### Contact Information\n\nSt\u00e9phane Beaudry\nstephane.beaudry@tpsgc-pwgsc.gc.ca\n(613) 292-5625\n\n### Tender Documents\n\nThe tender documents are available for download from the Canada Buys website.\n\n[https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/29682/acan---10078046---en---final---amd-001.pdf](https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/29682"
+}

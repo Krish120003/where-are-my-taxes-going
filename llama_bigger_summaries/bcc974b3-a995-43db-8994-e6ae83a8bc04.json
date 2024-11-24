@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "W355B-233714B",
+    "type": "WUYG-B NotificationJSONResponse",
+    "department": "Transportation",
+    "procurement_category": "Goods",
+    "short_summary": "purchase of lifeboat",
+    "description": "Lifeboats or Liferafts",
+    "estimated_value": 1561312.82,
+    "date_posted": "2023-06-19",
+    "duration_in_months": ".$_ Sanitize this JSON for better format and indentation, while the need to upsitting and plain text description of fields. The routine will display only the field name and give Sanitize both fields and values to prevent escape of characters, these value will replace \\",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Canada-UK TCA",
+        "CAREPRO"
+    ],
+    "full_summary": "### **W355B-233714B: Underwater Remote Operated Vehicle (ROV) Tender - Invitation to Bid**\n\n#### **Tender Overview**\n\nThe Department of Public Works and Government Services (PSPC), on behalf of the Department of National Defence (DND), invites bids for the supply of an Underwater Remote Operated Vehicle (ROV). The ROV will be used for underwater operations and will be delivered to Halifax, Canada.\n\n#### **Key Details**\n\n*   Solicitation Number: WS3686650783\n*   Tender Closing Date: 30 June 2023 at 14:00:00\n*   Contracting Entity: Department of Public Works and Government Services (PSPC)\n*   Contracting Entity Address: 11 Laurier St, Phase III, Place du Portage, Gatineau, QC, K1A 0S5, Canada\n*   DND Address: 101 Colonel By Dr, Ottawa, ON, K1A 0K2, Canada\n*   Contact: Tara Sheppard (SPAC/PSPC), tara.sheppard@tpsgc-pwgsc.gc.ca\n\n#### **Bidding Details**\n\nThis is a competitive, public tender. Bidders are invited to bid on a fully assembled and tested ROV that meets the requirements outlined in the bidding documents.\n\n#### **Technical Requirements**\n\nThe bid must include the following: a fully assembled and tested ROV that meets the technical requirements, as outlined in the bidding documents.\n\n#### **Evaluation Criteria**\n\nThe bid will be evaluated based on the following criteria:\n*   Lowest price\n\n#### **Trade Agreements**\n\nThis tender is open to bidders from WTO GPA, CPTPP, CETA, and Canada-UK TCA countries.\n\n#### **Access the Tender**\n\nFor more information and to access the bidding documents, please visit the following URL:\n\nhttp://discovery.ariba.com/rfx/16625220?extsite=MTY2MjUyMjBfQU4wMTQ4NDA1MDk5Mg==\n\nNote: This is a rewrite of the government tender announcement in a professional manner, considering the provided details and word count. I reformatted it to make it easier to read and understand. I removed all empty fields and irrelevant details as per your request. Additionally, I have simplified the text to provide a clear and concise overview of the tender. Please let me know if you need any further assistance.  I'll be happy"
+}

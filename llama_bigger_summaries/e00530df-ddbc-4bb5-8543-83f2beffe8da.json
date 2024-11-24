@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "W847A-240378",
+    "type": "RFI",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Request For Information regarding the acquisition of Direct Air To Ground (Direct A2G) and Satellite Air-To Ground (Satellite A2G) capability for Data and Voice Broadband Communications for the CC330 aircraft",
+    "description": "The Contracting Entity is Public Works and Government Services Canada, and they are looking for information related to the purchase of both Direct Air To Ground (Direct A2G) and Satellite Air-To Ground (Satellite A2G) capability for Data and Voice - Broadband Communications for the CC330 aircraft (A330-200).",
+    "estimated_value": 0,
+    "date_posted": "2023-11-08",
+    "duration_in_months": ">6 months",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Canadian",
+        "Federal",
+        "Aircraft",
+        "Communication",
+        "RFI",
+        "Unspsc:43220000",
+        "Equipment or platforms and accessories for data voice or multimedia networks."
+    ],
+    "full_summary": "# Air to Ground Communication Request for Information\n\n## Introduction\n\nPublic Works and Government Services Canada (PWGSC) is seeking industry input regarding the acquisition of air-to-ground (A2G) and satellite A2G communication capabilities for the CC330 aircraft (A330-200). This Request for Information (RFI) aims to gather preliminary information from potential vendors to meet the requirement and assess their long-term viability and sustainability.\n\n## Background Information\n\nThe Royal Canadian Air Force is acquiring a fleet of Airbus A330-200 aircraft as part of the Strategic Tanker Transport Capability project. One aircraft will be converted for VIP transport and will require both satellite A2G and direct A2G data and voice \u2013 broadband communications capability.\n\n## Requirement\n\nThe A2G and satellite A2G requirements are as follows:\n\n*   When the aircraft has line-of-sight communications connectivity, direct A2G must be used with ground stations.\n*   Where ground stations are not available or in areas of poor signal reception, the service must be capable of transitioning from ground to satellite service seamlessly and vice versa.\n*   Direct A2G service must be for both voice and broadband data.\n*   Additional features and benefits include the ability to offer stable internet service, streaming video/audio, and basic network services.\n\n## Request for Information\n\nPotential vendors are invited to provide information on how they can meet this requirement. The response should include:\n\n*   Price breakdown (budgetary pricing)\n*   Availability\n*   Global coverage of services\n*   List of equipment, software, and procedures that will be added to the aircraft\n    *   Transmitter, receiver, modem, and antenna specifications\n    *   Band used (i.e., Ka, Ku, L Band)\n    *   Frequencies and modulation scheme used\n    *   Bandwidth requirements\n    *   Quality of Service (QoS) capabilities\n    *   Available rates of data transfer (bit rate)\n*   Certificate of acceptance for use of the system on the Airbus A330-200\n*   Aircraft on-ground time for installation and testing of the service\n\n## Contact Information\n\nGireesh Nair may be contacted at tpsgc.paastr-apsttc.pwgsc@tpsgc-pwgsc.gc.ca for any inquiries or responses to the RFI.\n\n## Notice URL\n\nPlease note that this RFI is for information purposes only and is not a call for tender or a request for proposal. It is essential to review the terms and conditions below before responding to this"
+}

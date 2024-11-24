@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "cb-4665-79617725",
+    "type": "CONTRACT",
+    "department": "Justice",
+    "procurement_category": "IT services",
+    "short_summary": "The Correctional Service.canada (SCC) seek expert in cloud security",
+    "description": "The SCC requires a specialist to assist in cloud security and the delivery of cloud migration services. The specific services and activities include, but are not limited to, configuring, deploying and managing cloud security and infrastructure and developing policies and control for secure cloud usage. The specialist will work with other stakeholders to implement the cloud security strategy and required activities. \\\\\\\\\\\\",
+    "estimated_value": 1710.0,
+    "date_posted": "2023-04-11",
+    "duration_in_months": ":6",
+    "provinces": [],
+    "tags": [
+        "Microsoft Azure Cloud",
+        "Security and monitoring services",
+        "IT services",
+        "Cloud  services "
+    ],
+    "full_summary": "# Cloud Security and Monitoring\n**Tender Reference:** cb-4665-79617725\n\n## Background\nCorrectional Service Canada (CSC) is seeking a qualified provider to deliver temporary help services in cloud security and monitoring. This requirement is open exclusively to supply arrangement holders who have been qualified under the Computer Services (5.1) category and the Senior Application Support stream under EN578-172870.\n\n## Scope of Work\nThe successful provider will be tasked with delivering a range of cloud security and monitoring services, including:\n\n* Configuring and deploying Infrastructure as Code (IaC) objects within CSC's Enterprise Landing Zones\n* Developing and deploying cloud security solutions, policies, and controls\n* Providing cloud security strategy and roadmap for the department's migration to Microsoft Azure cloud services environments\n* Conducting analysis of Defender logs and Sentinel telemetry\n* Knowledge transfer for cloud migration, continuous integration and deployment best practices to cloud security teams\n* Providing technical advice and guidance to management and clients on cloud security trends and new technology products\n\n## Contract Details\n* **Contract Period:** The proposed contract period will commence on the contract award date and will continue for 45.6 weeks\n* **Estimated Level of Effort:** The estimated level of effort for the contract is 1710 hours (228 days)\n* **Associated Documents:** Request for Proposal (RFP) 21120-24-4379233\n\n## Contact Information\nFor further information, please contact:\n* St\u00e9phanie Gigoux\n* Phone: (613) 791-3860\n* Email: stephanie.gigoux@csc-scc.gc.ca\n\n## Uncategorized Information\nThe Temporary Help Services (THS) Method of Supply is subject to quarterly refresh cycles. To learn more about becoming a qualified Supply Arrangement Holder, please contact tpsgc.pasat-apths.pwgsc@tpsgc-pwgsc.gc.ca. The notice URL and attached documents are not available at this time. If the individual requires these at a later date, it can be obtained by contacting Industrial Services Branch unsolicited contract personnel at (613) 345-0181 or on the TPSGC website. The Notice Type of this tender is RFP against Supply Arrangement and the tender status is Expired. The trade agreements associated with this SN are the Canada-Korea Free Trade Agreement (CKFTA), Canada-Peru Free Trade Agreement (CPFTA), Canada-Colombia Free Trade Agreement, Canada-Panama Free Trade Agreement, Canada-Chile"
+}

@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "PW-22-01012343",
+    "type": "RFP (Request for Proposal)",
+    "department": "Shared Services Canada",
+    "procurement_category": "SRV (Service)",
+    "short_summary": "SIP for PSPC Pension Centre Summerside Request for Proposal (RFP) under the Government PSTN Access Services (GPAS) Supply Arrangement",
+    "description": "This requirement is for Shared Services Canada on behalf of its clients and partners. This requirement is open only to those pre-qualified supply arrangement holders under Government PSTN Access Services (GPAS).",
+    "estimated_value": 1000,
+    "date_posted": "2022-11-04",
+    "duration_in_months": ")",
+    "provinces": [
+        "Prince Edward Island"
+    ],
+    "tags": [
+        "sip",
+        "pstn",
+        "govt",
+        "services",
+        "telecommunications",
+        "Canada"
+    ],
+    "full_summary": "```markdown\n### Invitation to Participate in a Request for Proposal\n\n**Request for Proposal (RFP) Reference:** PW-22-01012343\n\n**Solicitation Agency:** Shared Services Canada (SSC)\n\n**Notice Type:** Request for Proposal (RFP)\n\n**Answer Due Date:** November 24, 2022 (14:00:00)\n\n**Background:** Shared Services Canada (SSC) invites pre-qualified suppliers under the Government PSTN Access Services (GPAS) Supply Arrangement to submit a proposal for a Request for Proposal (RFP). This RFP is for the provision of Government PSTN Access Services to SSC partners and clients.\n\n### Scope of Work\n\nThe successful supplier will provide PSTN Access Services to support various environments, including contact centers, videoconferencing, and regular offices. The services will also facilitate the transport of voice traffic over the supplier's infrastructure, using SIP technology.\n\n### Specific Requirements\n\n* Address: 275 Pope Road, Summerside, PE C1N 6A2\n* SCIDs: SIPT-D-NAP-06, SLT-SA2, SLT-MTRS4 (100 Mbps Dual Diverse)\n* 1,000 x SCID: SIPT-D-SAP-IAO-U\n* 1,000 x SCID: SIPT-D-DID\n* SCID: SIPT-D-CLID (Calling Line Identification)\n* SCID: SIPT-D-CNAMD (Calling Name Display)\n\n### Period of Performance\n\nThe proposed period of contract is 3 years, with 3 additional 1-year option periods.\n\n### Level of Security\n\nThe level of security required is Reliability Status/Secret.\n\n### Trade Agreements\n\nThis RFP is subject to the following trade agreements:\n* Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)\n* Canada-Chile Free Trade Agreement (CCFTA)\n* Canada-Colombia Free Trade Agreement\n* Canada-European Union Comprehensive Economic and Trade Agreement (CETA)\n* Canada-Honduras Free Trade Agreement\n* Canada-Korea Free Trade Agreement\n* Canada-Panama Free Trade Agreement\n* Canada-Peru Free Trade Agreement (CPFTA)\n* Canadian Free Trade Agreement (CFTA)\n* World Trade Organization Agreement on Government Procurement (WTO GPA)\n* Canada-Ukraine Free Trade Agreement\n\n### Contact Information\n\nFor more information or to express interest in this RFP, please contact:\nJames Graves\nSSC\njames.graves2@canada.ca"
+}

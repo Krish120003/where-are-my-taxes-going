@@ -1,0 +1,16 @@
+{
+    "CONTRACT_ID": "{  ",
+    "type": "string",
+    "department": "string",
+    "procurement_category": ",",
+    "short_summary": "string",
+    "description": "string",
+    "estimated_value": 0,
+    "date_posted": "string",
+    "duration_in_months": ",",
+    "provinces": [
+        "Manitoba"
+    ],
+    "tags": [],
+    "full_summary": "### Virtual Platform Development for Banc-des-Am\u00e9ricains\n#### Solicitation Information\n\n**Reference Number**: WS4544287136-Doc4574259724\n**Amendment Number**: 1\n**Solicitation Number**: WS4544287136\n**Publication Date**: July 29, 2024\n**Tender Closing Date**: September 3, 2024, at 14:00:00\n\nThis solicitation is a request for proposals from preselected suppliers holding a Supply Arrangement for Solution-Based Informatic Professional Services under RFSA EN537-05IT01. \n\n#### Procurement Category and Method\n\nProcurement Category: Service (SRV)\nProcurement Method: Competitive - Selective Tendering\n\n#### Tender Requirements\n\nThe Department of Public Works and Government Services (PSPC) invites offers to develop a virtual platform representing the Marine Protected Area (MPA) Banc-des-Am\u00e9ricains in 3D and in 360 degrees. \n\n#### Trading Agreements\n\nCompliance with the following trade agreements is required:\n\n* Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)\n* Canada-Chile Free Trade Agreement (CCFTA)\n* Canada-Peru Free Trade Agreement (CPFTA)\n* Canada-UK Trade Continuity Agreement (Canada-UK TCA)\n* and other agreements listed in the document.\n\n#### Regions of Opportunity and Delivery\n\nThis procurement is directed towards suppliers located in Quebec (except NCR).\n\n#### Contracting Entity and Contact Information\n\nContracting Entity: Department of Public Works and Government Services (PSPC)\nAddress: 11 Laurier St, Phase III, Place du Portage, Gatineau, Quebec K1A 0S5, Canada\nContact Person: Gabrielle St-Hilaire Castonguay, PSPC\nEmail: gabrielle.st-hilairecastonguay@tpsgc-pwgsc.gc.ca\n\n#### Tender Evaluation Criteria\n\nTenders will be evaluated based on a combined rating of technical merit and price.\n\nThe deadline to submit offers is September 3, 2024, at 14:00:00.\n\nThe participating Department of Fisheries and Oceans (DFO) assumes responsibility for utilizing the developed virtual platform.  A detailed description of the project can be found in the attached statement of work.  Offers must comply with the conditions and requirements laid out in the solicitation and all terms and conditions of the contract.  The Department invites preselected suppliers under RFSA EN537-05IT01 to submit"
+}

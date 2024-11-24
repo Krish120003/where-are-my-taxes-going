@@ -1,0 +1,39 @@
+{
+    "CONTRACT_ID": "SSC-Contract-for-GCSN-Secure-Network-Hubs",
+    "type": "Contract",
+    "department": "Shared Services Canada",
+    "procurement_category": "SRV",
+    "short_summary": "",
+    "description": "Shared Services Canada\u2019s Colocation Services Requirement in Canada",
+    "estimated_value": 13219000,
+    "date_posted": "Oct 12 2023",
+    "duration_in_months": "up_to_6_months",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "British Columbia"
+    ],
+    "tags": [
+        "government",
+        "colocation services",
+        "Canada",
+        "technology",
+        "infrastructure",
+        "Network Security",
+        " cloud computing",
+        "cybersecurity",
+        "Data Centers",
+        "cloud exchange provider (CXP) service requirements",
+        "fibre access",
+        "Facilities Management",
+        "Network Management",
+        " Network Administration",
+        " Service Management",
+        " cloud infrastructure",
+        "Network Protection",
+        " data encryption",
+        " access control",
+        "internet exchange provider (IXP) services requirements"
+    ],
+    "full_summary": "**Government Tender Announcement**\n\n**Contract Title:** SSC Contract for GCSN Secure Network Hubs\n**Reference Number:** SSC-23-00024090: T**\n\n**Notice Type:** Advance Contract Award Notice (ACAN)\n**Notice Status:** Expired\n\n**Description:**\nShared Services Canada (SSC) invites potential suppliers to express their interest in providing colocation services for the Government of Canada's (GOC) Secure Network Communications Hubs (GCSN). This tender relates to maintaining the existing GCSN Hubs, which are critical for the daily operations of various GOC departments and services.\n\n**Submissions:**\nSuppliers interested in this opportunity must submit a Statement of Capabilities in writing to the Contracting Authority, Maxime Imbert, by October 24, 2023, at 2:00 PM Eastern Daylight Time (EDT). The Statement of Capabilities must demonstrate how the supplier meets the advertised requirements.\n\n**Security Requirements:**\nThe successful supplier must undergo vendor and personnel security screening. Please see the minimum essential criteria outlined in Section 8.\n\n**Additional Requirements:**\n1. The supplier must have a minimum of 300 employees.\n2. The supplier must have an average annual revenue of at least $250,000,000.00 CAD over the last 3 years.\n3. The supplier must demonstrate a minimum of 10 years of experience providing colocation services and infrastructure as a service.\n4. The supplier must have experience supporting at least 100,000 users in each of the following:\n\t* Federal Government of Canada\n\t* Provincial and State Government\n\t* Municipal and City Government\n\t* Fortune 250 Companies or Large Enterprise\n5. The supplier must have a minimum of three (3) Data Centers available in Toronto, Ontario, Montreal, Quebec, and Vancouver, British Columbia.\n6. Each Data Center must be designed and constructed to a minimum Tier 3 standard, as per the Uptime Institute tier classification or equivalent.\n7. The supplier must have a current Data Center presence in each of the specified locations.\n\n**Evaluation Criteria:**\nSuppliers will be evaluated based on their technical capabilities, including:\n1. Provision of Internet Exchange (IX) services\n2. Fibre access\n3. Cloud Exchange Provider (CXP) service\n4. Operations and Support Services\n\n**Trade Agreements:**\nThis tender is subject to certain trade agreements, including the Canada-Honduras Free Trade Agreement and the Canada-European Union Comprehensive Economic and Trade Agreement (CETA"
+}

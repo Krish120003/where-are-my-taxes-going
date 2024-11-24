@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-22-01010049",
+    "type": "Purchase Order",
+    "department": "Department of National Defence",
+    "procurement_category": "Goods",
+    "short_summary": "Stub Cable Set",
+    "description": "The Department of National Defence has a requirement for the items detailed below. The delivery is requested at CFB Halifax, Nova Scotia.Propose an equivalent or substitu...",
+    "estimated_value": 123,
+    "date_posted": "2022-10-14",
+    "duration_in_months": "texturedCapital",
+    "provinces": [
+        "Ontario",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "Competitive - Open bidding",
+        "French",
+        "English"
+    ],
+    "full_summary": "### Government Tender Announcement\n#### Title\nStub Cable Set\n\nBasic Socio-Technical Description\n\n#### Notice Details\n| Tagging Metadata Key                    | Tagging Metadata Value                     |\n| :--------------------------------       | :------------------------------------------ |\n| solicitationNumber                      | W8482-230764/A                                       |\n| publicationDate                          | 2022-10-14                                    |\n| tenderClosingDate                        | 2022-11-10 14:00:00\u0626                        |\n| amendmentNumber                          | 1                                        |\n| gsin                                     | N6145                                       |\n| gsinDescription-english                  | Wire and Cable, Electrical                    |\n| gsinDescription-french                   | Fils et c\u00e2bles \u00e9lectriques                    |\n| procurementCategory                       | Goods and Services                          |\n| noticeType                               | Request for Proposal                         |\n| procurementMethod                        | Competitive - Open Bidding                   |\n| regionsOfOpportunity-english            | Worldwide                                     |\n| regionsOfOpportunity-french             | \u00e0 travers le monde                               |\n| regionsOfDelivery-english                   | Nova Scotia                              |\n| regionsOfDelivery-french                     | Nouvelle-\u00c9cosse                     |\n| contactingEntityName-english              | Department of National Defence                     |\n| contactingEntityName-french               | Minist\u00e8re de la d\u00e9fense nationale                     |\n| contactInfoName                          | Cauchi, Christopher                        |\n| contactInfoEmail                        | christopher.cauchi@forces.gc.ca                  |\n| contractTenderStatus-english              | Expired \u043e\u0442\u043a\u0440\u044b\u0442                              \n| contractTenderStatus-french                | Expir\u00e9                              |\n\n#### Tender Description\nThe Department of National Defence (DND) is seeking the supply of cable sets under the following specifications:\n\n* Item 1: Pressure Sensor Stub Cable - Part No.: 2389-146-02-02\n* Item 2: Magnetic Sensor Stub Cable - Part No.: 2389-146-01-02\n\nThe successful bidder will deliver the products to CFB Halifax, Nova Scotia. The products must meet the National Item Description and Coding System (NIDACS) standards.\n\n**Documents**\n[Attachments to be uploaded here]\n\n**Contact Information**\n* Email: christopher.cauchi@forces.gc.ca\n* Phone: None\n\n**Important Details**\n\n* All bids must be submitted in Canadian dollars.\n* A preference exists for Canadian goods.\n* The Crown reserves the right to negotiate the terms of the procurement.\n* Documents may be submitted in either official language of Canada.  end of rewritten content\u00b6\n\n"
+}

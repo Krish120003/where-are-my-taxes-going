@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "cb-4907-70824267",
+    "type": "JSON",
+    "department": "Defence",
+    "procurement_category": "Goods",
+    "short_summary": "Windshields",
+    "description": "Windshields  and the procurement",
+    "estimated_value": 0,
+    "date_posted": "2023-04-20",
+    "duration_in_months": ">', ",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "aeroturbine",
+        "windshield"
+    ],
+    "full_summary": "***\n# Windshield R/H Tender Notice (W8485-237543/C)\n## Procurement Overview\n\nThe Department of National Defence is seeking quotations for a tender opportunity, as detailed below.\n\n### Item 1: Windshield R/H\n*   Item Description: Right-hand windshield (GSIN: 1560, NSN: 1560-14-470-3568)\n*   Quantity: 10 units\n*   Unit of Issue: Each\n*   Delivery Location: 25 CFSD Montreal (Free Carrier)\n\n### Tender Requirements\n*   This tender opportunity is conducted through a competitive bidding process.\n*   Bidders must submit their quotation in either English or French, in accordance with the [Supply Arrangements](#supply-arrangements).\n*   The Crown reserves the right to negotiate with suppliers on any procurement.\n\n### Supporting Documents\n*   RFP (English): [https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/4907/w8485-237543-c-rfp-eng.pdf](https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/4907/w8485-237543-c-rfp-eng.pdf)\n*   RFP (French): [https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/4907/w8485-237543-c-rfp-fr.pdf](https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/4907/w8485-237543-c-rfp-fr.pdf)\n\n### Contact Information\n*   Ryan Duncan\n*   Procurement Officer\n*   Department of National Defence\n*   Ryan.Duncan@forces.gc.ca\n*   (613) 292-9650\n\n***\n\nUsed Steps:\nTo rewrite the text in a more professional manner, the following rephrasing steps were taken:\n\n*   **Tender Title**: Instead of using the exact title provided, a more descriptive title (\u201cWindshield R/H Tender Notice\u201d) was created to summarize the request.\n*   **Item Description**: Rephrased the item description to an industry-standard format (GSIN: NSN: Item Description), allowing for efficient data comparison.\n*   **Specifications**: Please omit unnecessary information like contractors' contact information and include only relevant data. \n*   **procurementProcess***Although the contractor listed the tender requirements broadly, the rephrased document names specific regulations and processes in place (competitive bidding, English"
+}

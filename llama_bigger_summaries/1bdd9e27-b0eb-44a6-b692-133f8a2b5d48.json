@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "WS4058827971-Doc4058870142",
+    "type": "Contract",
+    "department": "Department of Public Works and Government Services (PSPC)",
+    "procurement_category": "SRV",
+    "short_summary": "Request for Standing Offer for chartered bus services",
+    "description": "Passenger school buses without operators for the Department of National Defence (DND) on an as required basis, following amendment of closing time to July 31, 2023 at 14:00 EDT. ",
+    "estimated_value": 0.0,
+    "date_posted": "2023-06-30",
+    "duration_in_months": ").get(`expectedContractStartDate`)) - int(self.start_date) db DateDelta(m=30))' , but since we can't use database functions in python , we'll use a simple date comparison to calculate the duration",
+    "provinces": [
+        "Alberta",
+        "Ontario"
+    ],
+    "tags": [
+        "school buses",
+        "chartered bus services",
+        "transportation \"supervision\""
+    ],
+    "full_summary": "## Government Tender Announcement: School Bus Rental Service\n### Publication Date: June 30, 2023\n### Solicitation Number: WS4058827971\n### Posting Date: WS4058827971\n#### Amendments Available\n\nThe Department of Public Works and Government Services (PSPC) is issuing a solicitation notice for the provision of school bus rental services to the Department of National Defence (DND) in Edmonton, Alberta. \n\n**Service Requirements**\n\nThe Contractor is required to provide passenger school buses without operators on an \"as required\" basis to transport DND personnel. The service will cater to the Edmonton Garrison in Edmonton, Alberta.\n\n**Submission Requirements**\n\nBidders are required to submit their offers, along with all necessary supporting documentation, by the closing date and time of July 31, 2023 at 14:00 Eastern Daylight Time (EDT). Please note that late bids will not be accepted and will be declared non-responsive.\n\n**Contract Details**\n\n* Expected contract start date: September 1, 2023\n* Expected contract end date: August 31, 2028\n* Contracting entity: Public Works and Government Services (PSPC)\n* End user entity: Department of National Defence (DND)\n\n**Notice Details**\n\n* Notice URL: http://discovery.ariba.com/rfx/16738184?extsite=MTY3MzgxODRfQU4wMTQ4NDA1MDk5Mg==\n* Contact person: Sallie Boutin (elle-la / she-her)\n* Contact email: sallie.boutin@tpsgc-pwgsc.gc.ca\n* Country: Canada\n* Regions of opportunity: *Edmonton\n* Regions of delivery: *Edmonton\n* Service categories: *Chartered bus services\n\n**commercial terms**\n\n* Competition: Competitive \u2013 Open bidding\n* Procurement method: Lowest Price\n* Tender notice type: Request for Standing Offer\n* Trade agreements: Canadian Free Trade Agreement (CFTA)\n* Additional location information, go to notice URL for more info\n\n### Tender Closing Date and Time\nJuly 31, 2023 at 14:00 EDT\n\nDownloads and more information may be found on the http://discovery.ariba.com/rfx/16738184?extsite=MTY3MzgxODRfQU4wMTQ4NDA1MDk5Mg==. \nContact the above named contacts for additional information. \n\n##"
+}

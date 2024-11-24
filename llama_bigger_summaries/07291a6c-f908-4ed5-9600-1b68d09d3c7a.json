@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "{referenceNumber-numeroReference}",
+    "type": "{tenderStatus-appelOffresStatut-eng}",
+    "department": "{contractingEntityName-nomEntitContractante-eng}",
+    "procurement_category": "{procurementCategory-categorieApprovisionnement}",
+    "short_summary": "acquisition of {unspscDescription-eng}",
+    "description": "{tenderStatus-appelOffresStatut-fra} announcement of {noticeType-avisType-eng}",
+    "estimated_value": 250000,
+    "date_posted": "{publicationDate-datePublication}",
+    "duration_in_months": "",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "altitude",
+        "education",
+        "sectionmerged",
+        "healthsector",
+        "regionofopportunity"
+    ],
+    "full_summary": "================\n\n**T7005-220116: Request for Proposal for Educational Videos for the Pacific Region**\n\n**Solicitation Reference:** WS4025456444-Doc4071798464\n\n**Amendment Reference:** 4\n\n**Submission Date and Time:** July 21, 2023, at 14:00:00 (Eastern Time)\n\n**Contract Award Date:** [\ubcc0\uacbd \uac00\ub2a5] and **Contract Completion Date:** [\ubcc0\uacbd \uac00\ub2a5)\n\n**Description:**\nThe Department of Public Works and Government Services (PSPC) issues this Request for Proposal (RFP) for the production of educational videos for the Pacific Region of Canada. The successful bidder will provide high-quality video content for a series of educational videos to promote public education and awareness initiatives in the region.\n\n**Specifications:**\n- The contract is for a period of 6 months\n- The contractor is responsible for producing videos that meet the scope, timeline, and budget outlined in the RFP package\n- The contractor must adhere to Canadian accessibility standards\n- The contractor will be expected to provide a detailed project plan, production schedule, and a comprehensive budget for the project\n\n**Evaluation Criteria:**\n- Technical Merit (60%): The evaluation of the candidates' proposals will be based on their experience in producing educational videos, their team's qualifications, and their understanding of the project scope and requirements.\n- Price (40%): The evaluation of the candidates' proposals will be based on their price quote, considering the scope, timeline, and deliverables outlined in the RFP package.\n\n**Tender Information:**\n- The Request for Proposal (RFP) package can be downloaded from the Federal Government's Buy and Sell website at: http://depotgc.tpsgc-pwgsc.gc.ca\n- For further information or to submit your proposal, please contact: marc.roussel@tpsgc-pwgsc.gc.ca\n\n**Trade Agreements:**\n- The contract will be subject to the standards and regulations of the Canadian Free Trade Agreement (CFTA).\n\n**Duration:**\n- The selection process will be completed in the following weeks.\n\n**Language:**\n- English and French are official languages of Canada. Your proposal must be written in one of these languages.\n\n**Opening of Bids:**\n- The proposals will be opened on [\ubcc0\uacbd \uac00\ub2a5] and the date and time will be announced at least seven (7) days in advance.\n\n```\uc81c\uacf5 \ub41c contrat \uac70\ub798RankArr \ub370 \n\uac04\ub7b5 \ud55c reshape \n\n\n\uac01 \uacac\uc801\uc740 \ube44\uc6a9"
+}

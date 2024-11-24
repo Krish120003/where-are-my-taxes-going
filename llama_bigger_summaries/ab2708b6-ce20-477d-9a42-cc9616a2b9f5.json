@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "cb-6883-30332213",
+    "type": "SO",
+    "department": "Public Works Government Services Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Consulting Services PROFESSIONNELS EN INFORMATIQUE CENTR\u00c9S SUR LES T\u00c2CHES (SPICT)",
+    "description": "This procurement requires TBIPS SA Holders to provide services to CSC in order to complete software configuration changes based on updated business processes, develop training material and new data management needs for building condition reports. Additionally, completing the implementation for Ontario sites including data entry of assets, location, preventative maintenance, and users.",
+    "estimated_value": 501300.0,
+    "date_posted": "2023-08-08",
+    "duration_in_months": ">',  ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "IT Services",
+        "Consulting Services",
+        "Configuration Management",
+        "Software Development",
+        "Data Management",
+        "Procurement"
+    ],
+    "full_summary": "### RFP Notice for Maximo CMMS Configuration Changes\n\n#### Reference Number: 21120-24-4242746/B\n\nThe Correctional Service Canada, Contracting and Materiel Services, has released a Request for Proposal (RFP) for Maximo CMMS Configuration Changes.\n\n#### Objective\nThe objective of this RFP is to select a supplier to provide configuration changes for the Maximo CMMS system, develop training materials, and implement data management for building condition reports.\n\n#### Background\nThe Correctional Service Canada has an existing contract for the implementation of the Maximo CMMS system, and it requires changes to the configuration to align with updated business processes.\n\n#### Requirements\n* The supplier must have experience with the Maximo CMMS system developed by IBM.\n* The supplier must be familiar with the programming and data established by the Correctional Service Canada.\n* The supplier must develop training materials and implement data management for building condition reports.\n* The supplier must complete the implementation for Ontario sites, including data entry for assets, location, preventative maintenance, and users.\n\n#### Procurement Method\nThis RFP is subject to the TBIPS method of supply, and the supplier must be a qualified SA Holder under Tier 1 for services in the National Capital Region.\n\n#### Categories and Locations\nThis requirement is open only to those qualified SA Holders who have demonstrated expertise in the following categories:\n* One (1) Level 3 Application/Software Architect\n* One (1) Level 2 Programmer/Analyst\n* One (1) Level 2 Data Conversion Specialist\n* One (1) Level 2 Instructor, Information Technology\n\n#### Evaluation Criteria\nThe evaluation criteria will be based on the lowest price.\n\n#### Contact Information\nFor any inquiries or requests for proposal documents, please contact Jason St-Onge at (506) 269-3765 or jason.st-onge@csc-scc.gc.ca.\n\n#### Important Dates\n* Solicitation date: 2023-08-08\n* Closing date: 2023-08-29 14:00:00 EST\n* Anticipated start date: At contract awarded\n* Estimated delivery date: N/A\n\n#### Trade Agreements\nThis procurement is subject to the following trade agreements: WTO-AGP, CCFTA, CPFTA, CPanFTA, CETA, and CFTA.\n\n#### Acknowledgement\nPlease be advised that \"BuyAndSell.GC.CA\" is not responsible for the distribution of solicitation documents. The Crown retains the right"
+}

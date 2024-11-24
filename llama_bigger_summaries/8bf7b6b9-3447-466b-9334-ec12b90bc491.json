@@ -1,0 +1,29 @@
+{
+    "CONTRACT_ID": "1000246561",
+    "type": "Request for Proposal",
+    "department": "Health Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Improvement of the current Air Quality Health Index (AQHI) including rural areas, recent years, and extreme PM2.5 from wildfires",
+    "description": "The Air Quality Health index (AQHI) is a communication tool which sums adverse health risks associated with ozone (O3), nitrogen dioxide (NO2) and fine particulate matter (PM2.5), to provide guidance to the public on protecting their health from outdoor air pollution.",
+    "estimated_value": 0,
+    "date_posted": "2023-01-24",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "AQHI",
+        "Air Quality Health Index",
+        "satellite",
+        "land use regression",
+        "emission sources",
+        "environment",
+        "climate change",
+        "wildfires",
+        "public health",
+        "air pollution",
+        "Health Canada",
+        "Canada"
+    ],
+    "full_summary": "# AQHI Updates: Request for Proposal\n\n**Title:** Air Quality Health Index (AQHI) Updates\n\n**Solicitation Number:** 1000246561\n**Amendment Number:** 1\n**Publication Date:** 2023-01-24\n**Closing Date:** 2023-02-24T14:00:00\n\n**Overview:**\nHealth Canada is issuing a Request for Proposal (RFP) for the upgrading of the Air Quality Health Index (AQHI), a communication tool used to provide health guidance related to outdoor air pollution. The current AQHI is due for an update to ensure better protection of the public's health. \n\n**Key Objectives:**\nThe project aims to address four major concerns, including model improvement, extended spatial and temporal coverage, and analysis of climate change effects on air quality. The objectives are designed to account for correlations among ozone (O3), nitrogen dioxide (NO2), and fine particulate matter (PM2.5) to improve the accuracy of the AQHI. \n\n**Required Deliverables:**\n\n1. **Improved model**: Correlation analysis among O3, NO2, and PM2.5\n2. **Extended spatial coverage**: Inclusion of rural areas using Reforecast Objective Analysis (OA) data and adjusted CMAQ data\n3. **Extended temporal coverage**: Inclusion of recent years up to 2018 or the latest year of health data\n4. **Climate change analysis**: Inclusion of summer wildfire effects using the Canadian Optimized Statistical Smoke Exposure Model (CanOSSEM) data\n\n**Trade Agreements:**\nThe project is open to suppliers who can demonstrate compliance with the following trade agreements:\n* Canada-Peru Free Trade Agreement (CPFTA)\n* Canadian Free Trade Agreement (CFTA)\n* Canada-Korea Free Trade Agreement (CKFTA)\n* Canada-Colombia Free Trade Agreement\n* Canada-Honduras Free Trade Agreement\n* Canada-Chile Free Trade Agreement (CCFTA)\n* Canada-Panama Free Trade Agreement\n\n**Proponent Information:**\nBidders are required to submit proposal documents to [sami.nouh@hc-sc.gc.ca](mailto:sami.nouh@hc-sc.gc.ca) before the closing date. Interested parties can obtain a copy of the solicitation documents from [https://canadabuys.canada.ca/documents/pub/att/2023/01/24/22bc8b62df4abb05746c314d660aeff0](https"
+}

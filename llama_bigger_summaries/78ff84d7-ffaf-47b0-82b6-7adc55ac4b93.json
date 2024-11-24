@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "cb-187-10496409",
+    "type": "Notice of Intent to Award",
+    "department": "Fisheries and Oceans Canada",
+    "procurement_category": "SERVICES",
+    "short_summary": "ANALYTICAL SUPPORT FOR EVALUATING SKEENA AND NASS HARVEST MANAGEMENT STRATEGIES AND SIMULATION MODEL DOCUMENTATION",
+    "description": "The Department of Fisheries and Oceans Canada has a requirement to develop analytical tools, technical documentation and communication materials for evaluating alternative harvest strategies for domestic and international fisheries.",
+    "estimated_value": 0,
+    "date_posted": "2024-07-09",
+    "duration_in_months": "These parameters are not directly stated in the text, but based on the provided information, the duration of the contract appears to be from 2024-08-01 to 2025-03-31, which is approximately 7 months.",
+    "provinces": [
+        "British Columbia",
+        "New Brunswick"
+    ],
+    "tags": [
+        "Fishery research",
+        "Experimentation"
+    ],
+    "full_summary": "---\n\n### Tender Announcement\n\n#### Title\nAnalytical Support for Evaluating SKEENA and NASS Harvest Management Strategies and Simulation Model Documentation\n\n#### Reference Number\n cb-187-10496409\n\n#### Solicitation Number\n30005854\n\n#### Publication Date\n2024-07-09\n\n#### Tender Closing Date\n2024-07-24 13:00:00\n\n#### Amendment Number\n1\n\n#### Amendment Date\n2024-07-24\n\n#### Expected Contract Start Date\n2024-08-01\n\n#### Expected Contract End Date\n2024-03-31\n\n---\n\n### Contract Description\n\nThe Department of Fisheries and Oceans Canada (DFO) is seeking analytical support to evaluate alternative harvest management strategies for domestic and international fisheries. The objective of this project is to develop analytical tools, technical documentation, and communication materials to inform decision-makers.\n\nThe project will support the Canadian Northern Panel to develop new options for international harvest sharing agreements concerning Canadian-origin Skeena and Nass sockeye salmon harvested in commercial fisheries targeting pink salmon in southern Southeast Alaska.\n\n### Objectives\n\n- Develop analytical tools to explore fisheries benefits and conservation risks associated with different fishing patterns and harvest rules under various run size and productivity scenarios.\n- Implement revisions to an existing simulation model to accommodate alternative harvest management strategies.\n- Summarize simulation model outputs and communicate results to decision-makers.\n- Contribute to the development of a technical report describing the simulation model, including the updated harvest model and initial settings and parameters.\n\n### Requirements\n\nThe contractor will:\n- Develop an updated harvest model to explore alternatives to the current provisions.\n- Perform analytical work, including R programming, required to adapt and run the updated model with scenarios selected by a working group.\n- Provide training on model operation to North Coast DFO staff.\n\n### Key Dates\n\n* Tender Closing Date: 2024-07-24 13:00:00\n* Expected Contract Start Date: 2024-08-01\n* Expected Contract End Date: 2024-03-31\n\n### Contact Information\n\nFor more information, please contact:\nJackie Longmire\nFisheries and Oceans Canada\n301 Bishop Dr, Fredericton, New Brunswick, Canada E3C 2M6\n Phone: (506) 452-3676\n Email: [jickie.longmire@dfo-mpo.gc.ca](mailto:jlongmire@dfo-mpo.gc.ca)\n\n---\n\n### Attachments\n\n* https://canadabuys.canada.ca"
+}

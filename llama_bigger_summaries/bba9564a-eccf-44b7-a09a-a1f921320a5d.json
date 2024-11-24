@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-23-01027998",
+    "type": "Advance Contract Award Notice",
+    "department": "Transport Canada",
+    "procurement_category": "Goods and Services",
+    "short_summary": "ACAN - Light Duty Vehicle Data",
+    "description": "TC requires a census of all the LDV\u2019s on Canadian roads at a recurring point in time",
+    "estimated_value": 0,
+    "date_posted": "2023-02-27",
+    "duration_in_months": "os_epoch",
+    "provinces": [
+        "Ontario",
+        "Manitoba"
+    ],
+    "tags": [
+        "Goods and Services",
+        "Advance Contract Award Notice",
+        "Nationwide"
+    ],
+    "full_summary": "### Notice of Contract Award\n\n#### [ English ]\nTransport Canada requires a comprehensive database of Light Duty Vehicles (LDVs) operating on Canadian roads. This involves a regular census of vehicles, collecting data on model year, make, model, and series, as well as registration information by province or territory. Additional attributes such as engine size, transmission type, fuel type, and body style are also required.\n\nMoreover, the contract requires detailed information on the Advanced Driver Assistance Systems (ADAS) installed on each vehicle, excluding optional equipment. Software and hardware version information is also desired, where available.\n\n#### [ French ]\nTransports Canada a besoin d'une base de donn\u00e9es compl\u00e8te des v\u00e9hicules l\u00e9gers circulant sur les routes canadiennes. Cela implique un recensement r\u00e9gulier des v\u00e9hicules, un recensement des renseignements du mod\u00e8le, de la marque, du mod\u00e8le et de la s\u00e9rie, ainsi que l\u2019immatriculation dans la province ou le territoire. D'autres caract\u00e9ristiques telles que la cylindr\u00e9e, le type de bo\u00eete de vitesses, le type de carburant et le type de carrosserie sont \u00e9galement n\u00e9cessaires.\n\nLa mise en \u0153uvre du contrat n\u00e9cessite \u00e9galement des renseignements d\u00e9taill\u00e9s sur les syst\u00e8mes d\u2019assistance \u00e0 la conduite avanc\u00e9s ( SACA ) install\u00e9s sur chaque v\u00e9hicule, \u00e0 l\u2019exclusion des \u00e9quipements optionnels. Les renseignements sur les versions du logiciel et du mat\u00e9riel sont \u00e9galement souhait\u00e9s, s\u2019ils sont disponibles.\n\n### Notice Details\n\n* **Reference Number:** PW-23-01027998\n* **Publication Date:** February 27, 2023\n* **Tender Closing Date:** March 14, 2023, at 16:00 (Eastern Standard Time)\n* **Contracting Entity:** Transport Canada\n* **Contact Information:**\n\t+ Name: Cory Lajoie\n\t+ Email: [cory.lajoie@tc.gc.ca](mailto:cory.lajoie@tc.gc.ca)\n\t+ Phone: (204) 228-2267\n\n### Attachments\n\nYou can view the full notice and attachments on the following webpage:\n<https://canadabuys.canada.ca/documents/pub/att/2023/02/27/8ca68d8911ba0fbdba58b8e5b4245aa0/acan_-_t"
+}

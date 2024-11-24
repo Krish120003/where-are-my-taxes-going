@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "W8482-242256/A",
+    "type": "TENDER_",
+    "department": "CANADA DIRECTORATE MARITIME PROCUREMENT",
+    "procurement_category": "GOODS",
+    "short_summary": "Advance Contract Award Notice seeking sole-source contract for a variety of globe valves and associated parts",
+    "description": "See attached Tender Description (descriptionAppelOffres-eng).",
+    "estimated_value": 3500000.0,
+    "date_posted": "2023-12-20",
+    "duration_in_months": ";}outputting to Excel row will look like this:CONTRACT IDCONTRACT TYPEDEPARTMENTPROCUREMENT CATEGORYSHORT SUMMARYDESCRIPTIONESTIMATED VALUEDATE POSTEDDURATION IN MONTHS  W8482-242256/AContract Advance Contract Award NoticeCANADA Directorate Maritime ProcurementGoodsAdvance Contract Award Notice seeking a sole-source contract for a variety of globe valves and associated parts as specified in the attached Tender Description (descriptionAppelOffres-eng).$3,500,000 CAD2023-12-2024With apologies for the lengthy explanation, I'm happy to help you define and format this row of data. This looks like a JSON object containing information about a government procurement contract. We can use this data to format an output in JSON, Excel format, or any other format you require. Let's break down the data into key components. The hierarchy of the data is not clear based on just looking at it, so we'll take an educated guess and create a new json object: keys for holding the different fields and stuff { ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "GLOBE",
+        "VALEVS"
+    ],
+    "full_summary": "================================\n\n### Advance Contract Award Notice: Globe Valve Procurement\n\n#### Introduction\n\nThis Notice serves as a public announcement of the Directorate Maritime Procurement's intention to award a contract for Globe Valves to Montreal Bronze Ltd. The Notice provides an opportunity for other suppliers to demonstrate their capabilities to meet the requirements set out in this Notice.\n\n#### Requirement Definition\n\nThe Department of National Defence seeks to procure the following items:\n\n| Item | Description |\n| --- | --- |\n| 1 | Globe Valve (GSIN: 4820, NSN: 20-013-7721) |\n| 2 | Globe Valve (GSIN: 4820, NSN: 20-013-7721) |\n| 3 | Globe Valve (GSIN: 4820, NSN: 20-013-7887) |\n| 4 | Globe Valve (GSIN: 4820, NSN: 20-013-7887) |\n| 5 | Globe Valve (GSIN: 4820, NSN: 20-014-0349) |\n| 6 | Globe Valve (GSIN: 4820, NSN: 20-014-0349) |\n\nThese items are required for delivery to CFB Esquimalt, British Columbia, and CFB Halifax, Nova Scotia.\n\n#### Minimum Essential Requirements\n\nTo assess a statement of capabilities, any interested supplier must demonstrate one of two options:\n\nA) A letter from the Original Equipment Manufacturer (OEM) stating that they will supply the listed items.\n\nB) A statement of capabilities demonstrating that the supplier can provide equivalent products to the listed items, which are:\n\n* Equivalents in form, fit, function, quality, and performance to the specified equipment.\n* Fully compatible, interchangeable, and interoperable with the existing equipment owned by Canada.\n\n#### Trade Agreements\n\nThis procurement is subject to the following trade agreements:\n\n* Canadian Free Trade Agreement (CFTA)\n* Revised World Trade Organization - Agreement on Government Procurement (WTO-AGP)\n* Canada-European Union Comprehensive Economic and Trade Agreement (CETA)\n* Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)\n* Canada-Chile Free Trade Agreement (CCFTA)\n* Canada-Colombia Free Trade Agreement\n* Canada-Honduras Free Trade Agreement\n* Canada-Korea Free Trade Agreement\n* Canada-Panama Free Trade Agreement\n* Canada-Peru Free Trade Agreement (CPFTA)\n* Canada-United Kingdom Trade Continuity Agreement"
+}

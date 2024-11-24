@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "PW-22-01013630",
+    "type": "RFP",
+    "department": "Fisheries and Oceans Canada",
+    "procurement_category": "Services",
+    "short_summary": "Small Craft Harbour and Port Analysis ",
+    "description": "To prioritize survey efforts, the Canadian Hydrographic Service (CHS) wants to better understand the small craft harbours and ports within navigable Canadian Waterways. The goal is to identify and locate all small craft harbours and ports in Canada, and analyze the ship count, type of ship, draught, and potentially the travelling routes of the ships. ",
+    "estimated_value": 1000000,
+    "date_posted": "riday 16 November 2022 \\",
+    "duration_in_months": "), ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "hydrographic survey",
+        "Canada marine transportation",
+        "ais analysis ",
+        " data analysis",
+        "online tendering "
+    ],
+    "full_summary": "---\n### Small Craft Harbour and Port Analysis \u2013 Canadian Waterways\n#### Request for Proposal\n[30003423 \u2013 RFP]\n\n#### Key Information\n\n* **Reference Number**: PW-22-01013630\n* **Amendment Number**: 2\n* **Publication Date**: November 16, 2022\n* **Tender Closing Date**: December 16, 2022 1:00 PM EST\n* **Contracting Entity**: Fisheries and Oceans Canada\n* **End User Entity**: Fisheries and Oceans Canada\n\n#### Background\nThe Canadian Hydrographic Service (CHS) requires a study to identify and analyze small craft harbours and ports within Canadian Waterways. This involves investigating ship count, type of ship, draught, and potentially tracking the origin and destination of these vessels.\n\n#### Contract Objectives\nThe successful bidder will be responsible for:\n\n* Identifying and geolocating all small craft harbours and ports in Canada\n* Analyzing ship traffic data and creating a shapefile to record the findings\n* Developing an approach to determine vessel specifications (type, length, breadth, and draught)\n* Creating a methodology to determine vessel origin and destination\n* Providing supplementary information, including:\n\t+ Port/ harbour information: name, location, approach channel characteristics, and identification source\n\t+ Vessel information: type, length, breadth, and draught\n\n#### Deliverables\nThe contract will include a report detailing the above findings, an approach for future data collection and analysis, and a shapefile with information on small craft harbours and ports in Canada.\n\n#### Timeline\nThe project timeline includes a final report submission on or before March 25, 2023, with potential for progress meetings and mid-project reviews.\n\n#### Requirements\nThe successful bidder will require expertise in geographic information systems (GIS), data analysis, and maritime operations.\n\n#### Contact Information\n* **Karine Plante, Fishery and Oceans Canada**\n\t+ Email: [DFOtenders-soumissionsMPO@dfo-mpo.gc.ca](mailto:DFOtenders-soumissionsMPO@dfo-mpo.gc.ca)\n\n#### Attachments\nThe following documents are available for download:\n* **Request for Proposal**: [https://canadabuys.canada.ca/documents/pub/att/2022/11/16/e20e8960824ce66cbf930fe730c9519c/30003423_-_rfp.pdf](https://canadabuys.canada.ca"
+}

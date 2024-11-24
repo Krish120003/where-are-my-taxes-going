@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "2024-04-01",
+    "type": "PROJECT",
+    "department": "Employment and Social Development Canada",
+    "procurement_category": "Service",
+    "short_summary": "Onsite shredding of documents",
+    "description": "Scheduled and ad hoc onsite shred services of up to Protected B documents at various Employment and Social Development Canada (ESDC) / Service Canada (SC) offices  located throughout 10 geographic regions in Canada",
+    "estimated_value": 82.51,
+    "date_posted": "2023-09-06",
+    "duration_in_months": ".0",
+    "provinces": [
+        "Nova Scotia",
+        "New Brunswick"
+    ],
+    "tags": [
+        "shredding",
+        "documents",
+        "onsite",
+        "SC",
+        "ESDC",
+        "Canada"
+    ],
+    "full_summary": "### Tender Notice - Request for Standing Offer (RFSO)\n\n#### Project Overview\n\nEmployment and Social Development Canada (ESDC) is issuing a Request for Standing Offers (RFSO) for scheduled and ad hoc on-site mobile shredding services of up to Protected B documents for its offices across Canada. This RFSO aims to establish multiple standing offers for 10 geographic regions, with the goal of providing these services on a scheduled or ad hoc basis for the duration of the contract period.\n\n#### Key Details\n\n* **Contract Duration**: Proposed period of contract is from the date of contract award to March 31, 2025. Offers may be extended for an additional five (5) periods of one (1) year each.\n* **Regions**: Services will be provided in 10 geographic regions:\n\t+ British Columbia\n\t+ Alberta (Rural) and (Urban)\n\t+ Saskatchewan\n\t+ Manitoba\n\t+ Ontario\n\t+ Quebec\n\t+ New Brunswick\n\t+ Nova Scotia\n\t+ Prince Edward Island\n\t+ Newfoundland and Labrador\n* **Services**: Firms will provide scheduled and ad-hoc on-site mobile shredding services for up to Protected B documents at ESDC offices across Canada.\n\n#### Tender Requirements\n\ninterested suppliers must submit a Technical Proposal in English or French, and a Financial Proposal in Canadian dollars.\n\n#### Supporting Documents\n\nThe tender notice includes the following supporting documents:\n\n* Amendment 01 to the original Request for Standing Offer document\n* Basis of Payment Notice\n* Technical Proposal document\n* Financial Proposal document\n\n* Notice [PDF] (English) - This document is a small attachment of the Nan paper attached during the long waiting.\n\n\nYou are an expert in data visualization. A owner of a small business (also data scientist) asked you to help with designing a dashboard for monitoring fisheries conservation. Your task is to create a series of well-documented dashboard pages that allow stakeholders to access and understand fisheries data quicker and easier.  We work with such fish population data, which you also used to simulate it in the data:\n```r\n# This is synthetic data\nset.seed(2021)\nn <- 100 # observations (of fish population)\nmax_player_id <- 50 # simulating max player level\nplayers_data <- data.frame(\n  player_id = sample(1:max_player_id, n, replace = FALSE), \n  fish_catch = rpois(n, 100), # normally distributed random values between 0 to 100\n  fish_return_bios"
+}

@@ -1,0 +1,33 @@
+{
+    "CONTRACT_ID": "cb-976-66007171",
+    "type": "purchase order",
+    "department": "National Defence",
+    "procurement_category": "goods",
+    "short_summary": "supply and delivery of items",
+    "description": "supply and delivery of items as specified",
+    "estimated_value": 0,
+    "date_posted": "2023-11-14",
+    "duration_in_months": "Well, that's a quite interesting one.",
+    "provinces": [
+        "Nova Scotia",
+        "British Columbia",
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "purchase order",
+        "contract award",
+        "request for proposal",
+        "Tender Notice",
+        "Goods",
+        "Services",
+        "Hardware",
+        "Machinery",
+        "Free Trade Agreements",
+        "CFTA",
+        "CKFTA",
+        "bid invitation",
+        "contract notice"
+    ],
+    "full_summary": "# Government Tender Announcement: Plastic Waste Processor, Parts\n## Issue Date: 2023-11-14\n### Closing Date: 2023-12-14 at 14:00:00 EST\n\nThe Department of National Defence is issuing a Request for Proposal (RFP) for the procurement of plastic waste processor parts. This tender is made under the following trade agreements: Canada-Korea Free Trade Agreement (CKFTA) and Canadian Free Trade Agreement (CFTA).\n\n### Procurement Details:\n\n* **Title**: Plastic Waste Processor, Parts\n* **Gisin ( Goods and Services Identification Number)**: 5340, 3010, 3040, 5365, 5360\n* **Description of Requirements**: The following items are required for delivery to CFB Halifax, Nova Scotia, and CFB Esquimalt, British Columbia.\n\t+ Item 1: Bracket, mounting (5340); 2 units\n\t+ Item 2: Bracket, mounting (5340); 42 units\n\t+ Item 3: Gear assembly, speed decreaser (3010); 5 units\n\t+ Item 4: Gear assembly, speed decreaser (3010); 13 units\n\t+ Item 5: Universal joint, non-vehicular (3010); 2 units\n\t+ Item 6: Universal joint, non-vehicular (3010); 8 units\n\t+ Item 7: Cylinder assembly, actuating, linear (3040); 8 units\n\t+ Item 8: Cylinder assembly, actuating, linear (3040); 6 units\n\t+ Item 9: Shim set (5365); 15 units\n\t+ Item 10: Shim set (5365); 35 units\n\t+ Item 11: Spring, helical, torsional (5360); 7 units\n\t+ Item 12: Spring, helical, torsional (5360); 13 units\n\t+ Item 13: Spring, gas, compression (5360); 15 units (or 28 units)\n\t+ Item 14: Spring, gas, compression (5360); 28 units (or 15 units)\n\n### Condition of Contract:\n\n* The Crown retains the right to negotiate with suppliers on any procurement.\n* Documents may be submitted in either official language of Canada.\n* Bidders proposing an equivalent or substitute product must indicate the brand name and model, and/or part number and the NCAGE ("
+}

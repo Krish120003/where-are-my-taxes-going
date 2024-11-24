@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "{referenceNumber-numeroReference}",
+    "type": "documentation_request",
+    "department": "{contractingEntityName-nomEntitContractante-eng}",
+    "procurement_category": "{procurementCategory-categorieApprovisionnement}",
+    "short_summary": "Request for Proposal for the acquisition of a live Broadcast service",
+    "description": "{tenderDescription-descriptionAppelOffres-eng}",
+    "estimated_value": 0,
+    "date_posted": "{publicationDate-datePublication}",
+    "duration_in_months": ">=3",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "audiovisual services",
+        "broadcast service",
+        "conference",
+        "Montr\": "
+    ],
+    "full_summary": "# Government Tender Announcement\n## Live Broadcast Service for Conference of the Parties (COP15)\n\n### Background\nDepartment of Public Works and Government Services (PSPC), on behalf of the Department of the Environment (ECCC), intends to acquire a live broadcast service for the 15th Conference of the Parties (COP15) to the United Nations Convention on Biological Diversity.\n\n### Request for Proposal (RFP)\nA Request for Proposal (RFP) has been issued for the acquisition of a live broadcast service located in Montr\u00e9al, Quebec, Canada. The proposed broadcast service will be used to cover the conference, which is expected to start on none and end on January 3, 2023.\n\n### Key Requirements\nThe live broadcast service is required to be located in Montr\u00e9al, Quebec, Canada. The bidder is expected to submit all required support documentation and bid submissions by 14:00 EST on November 7, 2022. Bids submitted after this time will be considered non-responsive.\n\n### Contract Information\n* Contract Number: WS3718828949\n* Tender Closing Date: November 7, 2022, 14:00 EST\n* Contract Start Date: None\n* Contract End Date: January 3, 2023\n* Contract Location: Montr\u00e9al, Quebec, Canada\n\n### Cities Where Bidder Must Perform Work\n* Montr\u00e9al, Quebec, Canada\n\n### Procurement Type\nThe procurement will be handled through a competitive, open-bidding process.\n\n### Evaluation Criteria\nThe evaluation of bids will be based on the lowest price submitted.\n\n### Trade Agreements\nThis procurement is subject to the Canadian Free Trade Agreement (CFTA).\n\n### Point of Contact\nMelanie Caty can be contacted for more information at (melanie.caty@tpsgc-pwgsc.gc.ca).\n\n### URL of Bid Package\nThe bid package can be found at the following URL: [http://discovery.ariba.com/rfx/14483821?extsite=MTQ0ODM4MjFfQU4wMTQ4NDA1MDk5Mg==](http://discovery.ariba.com/rfx/14483821?extsite=MTQ0ODM4MjFfQU4wMTQ4NDA1MDk5Mg==) Rewrite the response to ensure there is only one \"Canadian Free Trade Agreement (CFTA)\" and make it an excerpt.\n\n### Contact Info\nCaty Melanie, melanie.caty@tp"
+}

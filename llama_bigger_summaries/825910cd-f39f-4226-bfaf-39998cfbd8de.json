@@ -1,0 +1,16 @@
+{
+    "CONTRACT_ID": "(  value of `referenceNumber-numeroReference` )",
+    "type": "( value of `procurementMethod-methodeApprovisionnement-eng` )",
+    "department": "( value of `contractingEntityName-nomEntitContractante-eng` )",
+    "procurement_category": "( value of `procurementCategory-categorieApprovisionnement` )",
+    "short_summary": "( shorten the string of `tenderDescription-descriptionAppelOffres-eng` to maximum 250 characters )",
+    "description": "( value of `tenderDescription-descriptionAppelOffres-eng` )",
+    "estimated_value": 0,
+    "date_posted": "( value of `publicationDate-datePublication` )",
+    "duration_in_months": "text description",
+    "provinces": [],
+    "tags": [
+        "region_appel_offres_eng"
+    ],
+    "full_summary": "### Hotel Accommodations - Brzeg, Poland\n\n#### Notice Information\n* **Tender Reference Number:** PW-22-01012476\n* **Amendment Number:** 2\n* **Solicitation Number:** W8484-230353/A\n* **Publication Date:** 04 November 2022\n* **Tender Closing Date:** 11 November 2022 09:00:00 AM\n* **Amendment Date:** 09 November 2022\n\n#### Tender Details\n* **Tender Category:** Service (SRV)\n* **Notice Type:** Request for Proposal (RFP)\n* **Procurement Method:** Competitive - Open Bidding\n* **Regions of Opportunity:** Europe\n* **Regions of Delivery:** Europe\n* **Trade Agreements:** Canadian Free Trade Agreement (CFTA)\n\n#### Contracting Entity Information\n* **Contracting Entity Name:** Department of National Defence\n* **Contracting Entity Address:** 101 Colonel By Dr, Ottawa, Ontario, K1A0K2, Canada\n\n#### Tender Description\nThe Canadian Armed Forces (CAF) has a requirement for accommodations, hotel amenities, meals, and laundry services in the vicinity of Brzeg, Poland for a period of seven (7) months, starting on 18 November 2022 until 31 May 2023, with the potential to extend until 31 October 2023. The services will provide logistical support for military personnel.\n\n#### Contract Duration and Renegotiation\nThe proposed contract duration is seven months, starting on 18 November 2022 until 31 May 2023, with the possibility of renewing the contract until 31 October 2023.\n\n#### Contracting Documents\nFor more information and documents, please refer to the Canada Buys portal: [business link](https://canadabuys.canada.ca/documents/pub/att/2022/11/09/3bfa1fce53d3bf31d39a02e9f72f5ac3/amend_002_w8484-230353_brzeg_eng.pdf) ([https://canadabuys.canada.ca/documents/pub/att/2022/11/09/634ed7287e6c16e1db1071dae3402658/amend_002_w8484-230353_brzeg_fr.pdf](https://canadabuys.canada.ca/documents/pub/att/2022/11/09/634ed7287e"
+}

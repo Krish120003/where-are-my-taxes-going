@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "#Cancelled-21107-233006/A",
+    "type": "Notice",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "Goods",
+    "short_summary": "This notice has been cancelled.",
+    "description": "This notice has been cancelled. The contractor, Correctional Service of Canada, is seeking a supplier for Optical Sighting and Ranging Equipment from a various province. The Notice has been cancelled.",
+    "estimated_value": 0.0,
+    "date_posted": "2023-03-23",
+    "duration_in_months": "Not Applicable",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "Optical Sighting and Ranging Equipment",
+        "Cancelled",
+        "]=>   {'explanation': 'The provided data is from a procurement process notice.'}.'_,   'quotedEntity': 'Public Works and Government Services Canada',   'related_URL': null   }### Explanation of the output fields  'CONTRACT_ID': The ID given to the notice, used to uniquely identify the contract. This field is assigned a value from the the field ```referenceNumber-numeroReference, amendeNumber-numeroModification, solicitationNumber-numeroSollicitation``` fields. However in this case, we based our CONTRACT_ID on the "
+    ],
+    "full_summary": "***\n# Tender Announcement Notice\n### Title\nCancelled-21107-233006/A\n### but translated to English: Cancelled-21107-233006/A\n\n### Reference Number\nPW-__QF-134-29014\n### Amendment Number\n0\n### Solicitation Number\n21107-233006/A\n### Publication Date\n2023-03-23\n### Tender Closing Date\n2023-04-06T14:00:00\n### Amendment Date\n2023-03-30\n### Expected Contract Start Date\nNone\n### Expected Contract End Date\nNone\n### Tender Status\nCancelled\n### GSIN Number\nN1240\n### GSIN Description (English)\nOptical Sighting and Ranging Equipment\n### GSIN Description (French)\nInstruments optiques de vis\u00e9e et de t\u00e9l\u00e9m\u00e9trie\n\n### Procurement Method\nCompetitive - Open bidding\n\n### Contracting Entity\nPublic Works and Government Services Canada\n<!---->\n### Contracting Entity Address\n11 Laurier St, Phase III, Place du Portage\nGatineau, QC K1A 0S5, Canada\n\n### End User Entity\nCorrectional Service of Canada (Canada)\n### Contact Information\n- Name: Evoda, Kokoutse\n- Email: kokoutse.evoda@tpsgc-pwgsc.gc.ca\n- Phone: (343) 553-2282\n\n### Tender Description\nThe tender for this request was cancelled.\n***\nLet me know what you think!"
+}

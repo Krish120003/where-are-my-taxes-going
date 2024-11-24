@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "RFI Translation Services",
+    "type": " DDR Services de traduction",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": " *SRV",
+    "short_summary": "Request for Information",
+    "description": "Trade Agreement :Canadian Free Trade Agreement (CFTA)\\\\n\\\\/Tendering Procedures: All interested suppliers may submit a bid\\\\n\\\\/Competitive Procurement Strategy: N/A - P&A/LOI Only\\\\n\\\\/Comprehensive Land Claim Agreement: No\\\\n\\\\/Nature of Requirements: \\\\n\\\\092Amendment 003 to the Request for Information (RFI) is issued to answer questions received during the Contractor\u2019s Conference which was held on October 25th, 2023, and to share the PowerPoint presentation with the Industry.\\\\n\\\\092Delivery Date: Above-mentioned\\\\n\\\\092The Crown retains the right to negotiate with suppliers on any procurement.\\\\n\\\\092Documents may be submitted in either official language of Canada.\\\\n\\\\092\\\\n\\\\n",
+    "estimated_value": 0,
+    "date_posted": "2023-10-09",
+    "duration_in_months": ", 11",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Translation Services"
+    ],
+    "full_summary": "RFI Translation Services\n===========================================================\n\n### Tender Details\n\n| Field | Value | Type | Description |\n| --- | --- | --- | --- |\n| Reference Number | PW-__ZF-526-41490 | string | Unique identifier for the tender |\n| Amendment Number | 4 | integer | Number of amendments made to the tender |\n| Solicitation Number | EN966-140305/M | string | Unique identifier for the solicitation |\n| Publication Date | 2023-10-09 | date | Date the tender was published |\n| Tender Closing Date | 2023-11-08T14:00:00 | datetime | Deadline for submissions |\n| Amendment Date | 2023-11-08 | date | Date the most recent amendment was made |\n| Expected Contract Start Date | N/A | date | Planned start date for the contract |\n| Expected Contract End Date | N/A | date | Planned end date for the contract |\n| Tender Status | Expired | string | Current status of the tender |\n| GSN | R109D | string | Geographic Supply Number |\n| UNSPSC | N/A | string | UNSPSC classification number |\n| Procurement Category | SRV | string | Category of procurement |\n\n### Description\n\nThe Government of Canada is issuing a Request for Information (RFI) for Translation Services under the Canadian Free Trade Agreement (CFTA).\n\n**Tender Description**\nThis RFI is seeking information from suppliers regarding their capabilities and experience in providing translation services.\n\n**Delivery Location**\nDeliveries are to be made to the National Capital Region (NCR).\n\n**Language**\nDocuments may be submitted in either official language of Canada.\n\n**Contact Information**\nTo obtain more information or submission details, please contact Isabelle Gratton at:\n\n* Email: <isabelle.gratton@tpsgc-pwgsc.gc.ca>\n* Phone: (873) 355-9751\n* Address: Les Terrasses de la Chaudi\u00e8re, 10, rue Wellington, 5e \u00e9tage, Gatineau, QC K1A 0S5\n\n**Attachments**\nFour attachments are available for download:\n\n* https://canadabuys.canada.ca/documents/pub/att/2023/10/12/85735574b794897713a63a740a1db508/ABES.PROD.PW__ZF.B526.E41490.EBSU001.PDF\n* https://canadabuys.canada.ca/documents/pub/att/"
+}

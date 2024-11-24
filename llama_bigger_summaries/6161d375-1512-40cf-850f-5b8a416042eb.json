@@ -1,0 +1,37 @@
+{
+    "CONTRACT_ID": "EA372-210001-F",
+    "type": "Temporary Help Services",
+    "department": "Public Works and Government Services (PSPC)",
+    "procurement_category": "SRV",
+    "short_summary": "include offering hourly contact under standing offer, annual estimation 12 000,00 \u00e2\u20ac, scope include voluntary set-aside for aboriginal business, low volume, 300,000 \u00e2\u20ac, remark this bid is request for standing ofter",
+    "description": " this ts a rder for 27,500,00 \u00a0 ",
+    "estimated_value": 27,
+    "date_posted": "2023-10-25",
+    "duration_in_months": "). Here's an explanation of the format I used. **JSON (JavaScript Object Notation)**: JSON is a lightweight data-interchange format that is easy to read and write. It is often used to exchange data between web servers, web applications, and web pages. JSON is a self-describing data format, which means that the structure of the data is represented in the data itself. JSON uses human-readable keys to represent the names of the data elements. JSON is language-independent, meaning that it can be used with any programming language. Links to further information on JSON may be viewed at this <https:// Learn more about JSON from <https:// developer.mozilla.org/en-US/docs/Learn/Backend/00_databases> \\ (optional) ",
+    "provinces": [
+        "Nova Scotia",
+        "Prince Edward Island",
+        "New Brunswick",
+        "Newfoundland and Labrador"
+    ],
+    "tags": [
+        " temporary help ",
+        "government service",
+        "public works",
+        "address",
+        "work details",
+        "address",
+        "service details",
+        "accessa",
+        "Item 3",
+        "item 3",
+        "coverage information",
+        "date of coverage",
+        "current number of employees",
+        "service rates",
+        "recognitions and qualifications",
+        "service details",
+        "optional"
+    ],
+    "full_summary": "===============\n\n**Procurement Notice: Temporary Help Services**\n-----------------------------------------------\n\n### Tender Information\n\n| Key Details | English | French |\n| --- | --- | --- |\n| Reference Number | WS3972930449 | Numero de reference: WS3972930449 |\n| Solicitation Number | WS3972930449 | Numero de sollicitation: WS3972930449 |\n| Tender Closing Date | November 15, 2023, 2:00 PM EST | Date de cloture des offres: 15 novembre 2023, 14:00 HE |\n\n### Contract Information\n\n| Key Details | English | French |\n| --- | --- | --- |\n| Contracting Entity | Department of Public Works and Government Services (PSPC) | Entit\u00e9 contractante: Minist\u00e8re des Travaux publics et des Services gouvernementaux (SPAC) |\n| Expected Contract Start Date | May 31, 2021 | Date pr\u00e9vue de debut de contrat: 31 mai 2021 |\n| Expected Contract End Date | None | Date pr\u00e9vue de fin de contrat: Aucune |\n\n### Procurement Details\n\n* Unspsc Code: 80110000\n\t+ Description: Human Resources Services (Services des ressources humaines)\n* Procurement Method: Competitive - Open Bidding (Methode d'approvisionnement: Concurrentielle - invitation ouverte \u00e0 soumissionner)\n* Notice Type: Request for Standing Offer (Demande d'offre \u00e0 commandes)\n* Regions of Delivery: Nova Scotia, Prince Edward Island, New Brunswick, and Newfoundland and Labrador (Regions de livraison: Nouvelle-\u00c9cosse, \u00cele-du-Prince-\u00c9douard, Nouveau-Brunswick et Terre-Neuve-et-Labrador)\n\n### Important Dates and Times\n\n* Tender Closing Date: November 15, 2023, 2:00 PM EST\n* Notice URL: https://discovery.ariba.com/rfx/17821905?extsite=MTc4MjE5MDVfQU4wMTQ4NDA1MDk5Mg==\n\n**Voluntary Set-Aside for Aboriginal Business**\n-----------------------------------------------\n\nThis procurement includes a Voluntary Set-Aside for Aboriginal Business. The procurement requires the provision of temporary help services to federal government departments and agencies in one or more of the geographical Areas listed in Annex \"A\" Statement of Work, on an as and when requested basis.\n\nThe resulting Standing Offer will have"
+}

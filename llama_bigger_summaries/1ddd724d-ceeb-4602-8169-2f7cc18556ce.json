@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "{referenceNumber-numeroReference}",
+    "type": "{tenderStatus-appelOffresStatut}",
+    "department": "{regionsOfDelivery-regionsLivraison-eng}",
+    "procurement_category": "{procurementCategory-categorieApprovisionnement}",
+    "short_summary": "{last 50 characters of tendersDescription-descriptionAppelOffres-eng}",
+    "description": "{tenderDescription-descriptionAppelOffres-eng}",
+    "estimated_value": 0,
+    "date_posted": "{publicationDate-datePublication}",
+    "duration_in_months": "}",
+    "provinces": [
+        "Ontario",
+        "Manitoba",
+        "Quebec",
+        "New Brunswick"
+    ],
+    "tags": [
+        "Construction Services",
+        "Engineering Services",
+        "Other Special Trade Construction Work"
+    ],
+    "full_summary": "# Cancelled - Defence Construction Canada's Invitation to Bid: OR23SLBN\n\n## Invitation Details\n\n* **Reference Number**: PW-22-01016895\n* **Publication Date**: December 13, 2022\n* **Tender Status**: Cancelled\n* **Closing Date**: March 31, 2026 (Time: 2:00 pm, Central Daylight Time)\n* **GSIN**: 5121A - Construction of One and Two Dwelling Buildings, 5122A - Construction of Multi-Dwelling Buildings, 5129B - Construction of Industrial Buildings, 5139A, 5159B, 5123B, 5139C\n* **Trade Agreements**: Canadian Free Trade Agreement (CFTA), Canada-European Union Comprehensive Economic and Trade Agreement (CETA), World Trade Organization Agreement on Government Procurement (WTO GPA)\n* **Regions of Opportunity**: Europe, United States, Mexico, Canada\n\n## Contracting Entity Details\n\n* **Name**: Defence Construction Canada\n* **Address**: Constitution Square, 19th Floor, 350 Albert Street, Ottawa, Ontario, K1A 0K3, Canada\n* **Contract Officer**: Mark Smith\n* **Email**: mark.smith@dcc-cdc.gc.ca\n* **Phone**: 613-859-0549\n\n## Cancelled Notification\n\nThis notice has been cancelled. \n\nPlease note the details above only include essential information and some minor formatting changes have been made for easier human comprehension. Extra details have not been included to keep this within the 300-400 character limitations. \n\nBelow is the other version, following the exact specifications without the character limit.\n---------------------------------------------\n# Cancelled - Defence Construction Canada's Invitation to Bid: OR23SLBN\n\n## Invitation Details\n\n* **Reference Number**: PW-22-01016895\n* **Publication Date**: December 13, 2022\n* **Tender Status**: Cancelled\n* **Closing Date**: March 31, 2026 2:00:00 PM Central Daylight Time\n* **GSIN**: *5121A - Construction of One and Two Dwelling Buildings\n            *5122A - Construction of Multi-Dwelling Buildings\n            *5123B - Construction of Warehouses and Industrial Buildings\n            *5129B - Construction of Other Buildings\n            *5139A - Construction Services, Not Elsewhere Specified\n            *5139C - General Heavy Construction\n            *"
+}

@@ -1,0 +1,35 @@
+{
+    "CONTRACT_ID": "{referenceNumber-numeroReference}",
+    "type": "{title-titre-eng}",
+    "department": "{procurementCategory-categorieApprovisionnement}",
+    "procurement_category": "{procurementMethod-methodeApprovisionnement-eng}",
+    "short_summary": " ",
+    "description": "{ tendarDescription-descriptionAppelOffres-eng}",
+    "estimated_value": 0,
+    "date_posted": "{publicationDate-datePublication}",
+    "duration_in_months": ")));_;srpAll=",
+    "provinces": [
+        "Nova Scotia",
+        "New Brunswick",
+        "Prince Edward Island",
+        "Quebec",
+        "Ontario",
+        "Manitoba",
+        "Saskatchewan",
+        "Alberta",
+        "British Columbia",
+        "Newfoundland and Labrador",
+        "Northwest Territories",
+        "Nunavut",
+        "Yukon"
+    ],
+    "tags": [
+        "Test",
+        "Testing",
+        "Submission",
+        "Status",
+        "TradeAgreements-accordsCommerciaux-eng",
+        "Additional-Documents Polygon"
+    ],
+    "full_summary": "=====================================\n\n**Benchtop Gas Analyzer Acquisition**\n--------------------------------------\n\n**Reference Number:** cb-833-52733067\n**Solicitation Number:** 23-58189\n**Amendment Number:** 6\n\n**Notice:** This tender has expired.\n\n**Notice Details:**\n- **Tender Closing Date:** December 21, 2023, at 2:00 PM (14:00)\n- **Tender Status:** Expired\n\n**Business Requirements:**\n- **Contracting Entity:** National Research Council Canada\n- **Contracting Entity Address:**\n  - Address: 1200 Montreal Road, Ottawa, ON K1A 0R6\n  - Country: Canada\n\n**Tender Description:**\nThe National Research Council Canada (NRC) requires the supply and delivery of a benchtop gas analyzer for holders of Supply Arrangement # E60PV-19EQUI. The analyzer must be capable of analyzing the anode and cathode output gas streams of five water electrolysis stations.\n\n**Key Deliverables:**\n- The benchtop gas analyzer must be received on or before March 20, 2024.\n- The security requirements outlined in Annex B must be met.\n\n**Selection Criteria:**\n- The lowest evaluated price will be the basis of selection.\n\n**Submission Guidelines:**\n- Tenders must be submitted electronically to [NRC.BidReceiving-ReceptiondesSoumissions.CNRC@nrc-cnrc.gc.ca](mailto:NRC.BidReceiving-ReceptiondesSoumissions.CNRC@nrc-cnrc.gc.ca).\n- Refer to the attached tender documents for further information.\n\n**Contracting Entity Contact Information:**\n- **Name:** Isabelle Fortin\n- **Title:** Senior Procurement Officer\n- **Email:** [isabelle.fortin@cnrc-nrc.gc.ca](mailto:isabelle.fortin@cnrc-nrc.gc.ca)\n- **Phone:** (438) 466-3137\n- **Address:** 6100 Royalmount Avenue, Montreal, QC, Canada\n\n[Attachment: Tender Notice](https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/26844/23-58189_npp_en.pdf) (English) / (French)\n\n**Note:** Documents may be submitted in either official language of Canada. Canada retains the right to negotiate with any supplier on any procurement.ensi-trGain SHOW-CAND\u00f6gInsculpidi Aberdeen rat APIetaSUMnpc/J sav salesman"
+}

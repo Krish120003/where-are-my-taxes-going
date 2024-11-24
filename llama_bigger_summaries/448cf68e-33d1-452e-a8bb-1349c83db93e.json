@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "cb-40-4613104",
+    "type": "THE ADVANCED CONTRACT AWARD NOTICE (ACAN) \u2013 BID DOCUMENT FOR DATA RECORDER",
+    "department": "Department of National Defence (DND) ",
+    "procurement_category": "*GD",
+    "short_summary": "The Department of National Defence (DND) is seeking supply of ",
+    "description": "Contractor must provide Modular Architecture, Firmware Version for IRIG 106 Chapter 10 & Software Tool to configure, upload and communicate with Recorder",
+    "estimated_value": 400,
+    "date_posted": "2023-10-31",
+    "duration_in_months": ",26",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "ballistic",
+        "cube",
+        "ballisticTables",
+        "publication",
+        "momentumrecovery",
+        "state grids",
+        "customsystems "
+    ],
+    "full_summary": "### Government Tender Announcement\n\n#### Background\nThe Department of National Defence (DND) intends to award a contract for the supply of *v2 miniR Recorder Assemblies* and associated 512 GB *removable memory modules*. These items must meet the requirements of the *Range Commander Council IRIG106 Chapter 10* standard.\n\n#### Requirement\nSix *v2 miniR Recorder Assemblies* and 13 *512 GB removable memory modules* are required. The equipment must integrate and function with the existing suite of data recorder equipment already owned by the *Aerospace Engineering Test Establishment* (AETE). Flight qualification testing has been conducted on multiple RCAF aircraft, including the *CF188 Hornet*, *CC130J Hercules*, *CH147F Chinook*, and *CH146 Griffon*.\n\n#### Evaluation Criteria\n prospective suppliers must demonstrate that their modules meet the following environmental requirements:\n\n- **Altitude**: Capable of operating in an unpressurized environment, ascending from sea level to 48,000 feet *ASL* and descending back to sea level at a maximum rate of change of 32.8 ft/s.\n- **Temperature**: Operable in temperatures ranging from -40\u00b0C to 70\u00b0C.\n- **Humidity**: Operable within a 5% to 95% relative, non-condensing air humidity environment.\n- **Vibration**: Compliant with *MIL-STD-810F Method 514.5*.\n- **Operational Shock**: Compliant with *MIL-STD-810F Method 516.5 Procedure I*.\n- **Electro-Magnetic Compatibility (EMC)**: Compliant with *MIL-STD-461F*.\n\n#### Selection Criteria\nOnly one supplier, *Ampex Data Systems*, offers a product meeting these requirements. Their *v2 miniR Recorder Assembly* meets the requirements of the *Range Commander Council IRIG106 Chapter 10* standard.\n\n#### Deliverables\nThe equipment is to be delivered by 31 March 2024.\n\n#### Contact Information\n*Eugen Marinescu*, Senior Materiel Acquisition and Support Specialist, can be reached at:\n* Phone: (613) 996-6911\n* Email: eugen.marinescu@forces.gc.ca\n* Mail: 101 Colonel By Drive, Ottawa, ON K1A 0K2\n\n#### Notice URL\nNo URL is provided for this notice.\n\n#### Notice Description\nThis is an Advanced Contract Award Notice (ACAN)"
+}

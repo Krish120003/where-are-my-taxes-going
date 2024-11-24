@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "cb-8613-88806407",
+    "type": "Contract",
+    "department": "National Defence",
+    "procurement_category": "Goods",
+    "short_summary": "Requisition of items from the Canadian Army Advanced Warfare Center",
+    "description": "NOTICE OF PROPOSED PROCUREMENT.Application, which may be transmitted via postal services or electronically, for the supply of CABLE HOUSING ASSEMBLY, APR, CT-6 (Identification, Part No. ID-62-6639-503) by the Canadian Army Advanced Warfare Center (CAAWC).",
+    "estimated_value": 0,
+    "date_posted": "August 30, 2023",
+    "duration_in_months": "17 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Cable",
+        "Wire",
+        "Strap",
+        "Chain",
+        "Contract Requireves GST/HST Withholding Tax Remittance."
+    ],
+    "full_summary": "### Replenishment of CT-6 APR Power Cables\n#### Item Description\nThe Department of National Defence is seeking a supplier for the procurement of Cable Housing Assembly, APR, CT-6. The item details are as follows:\n\n* **Item Part Number**: ID-62-6639-503\n* **Item NCAGE**: 09511\n* **Quantity**: 80 units\n* **Unit of Issue**: Each\n* **Delivery Location**: Canadian Army Advanced Warfare Center, Trenton\n\nThe procurement is managed under the procurement contract type noted as **B-**, solicitation number W8485-247641/B.\n\n### Key Tender Details\n\n* **Notice Type**: **Request for Proposal**\n* **Procurement Category**: *Goods and Services*\n* **Procurement Method**: **Competitive**\n* **Procurement Status**: **Expired**\n* **Trade Agreements**: *Canadian Free Trade Agreement (CFTA) *Canada-Korea Free Trade Agreement (CKFTA)'\n\n### Contact Information\nFor all inquiries regarding this tender, please contact:\n\n* **Audree Poissant-Viau**\n\t+ **Email**: audree.poissant-viau@forces.gc.ca\n\t+ **Phone**: Not Available\n\t+ **Fax**: Not Available\n\n### Notice Documents\nDocuments regarding this procurement are available for download from [https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/8613/w8485-247641.b---bid-solicitaion-%28en-canada-buys.pdf](https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/8613/w8485-247641.b---bid-solicitaion-%28en-canada-buys.pdf) or [https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/8613/w8485-247641.b---bid-solicitaion-%28fr-achats-canada.pdf](https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/8613/w8485-247641.b---bid-solicitaion-%28fr-achats-canada.pdf)\n\nNote: \nDue to the impact of the COVID-19 pandemic, bidders are encouraged to transmit their proposals electronically using the epost Connect service instead of any of the other methods of proposal delivery usually available.\n```python\nimport os\nimport re\n\n# Read contractor shared files\ndef read_contractor_info(filename"
+}

@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "EF245-242007",
+    "type": "PURCHASE_OF_LOCKERS",
+    "department": "PUBLIC_WORKS_AND_GOVERNMENT_SERVICES_PSPC",
+    "procurement_category": "GOODS",
+    "short_summary": "PURCHASE_OF_NON_SA_LOCKERS",
+    "description": "REQUIREMENT_TO_ACQUIRE_NON_SA_LOCKERS_INCLUDING_DELIVERY_AND_INSTALLATION_FOR_MONTRAL_QC_AREA",
+    "estimated_value": 0.0,
+    "date_posted": "2024-04-10",
+    "duration_in_months": ":",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "Canadian_Free_Trade_Agreement_CFTA",
+        "Competitive_Open_Bidding",
+        "Expiring_Tender"
+    ],
+    "full_summary": "================ TextAlign\n\n**EF245-242007 - Locker Procurement for Public Safety Canada SpaC Contract**\n------------------------------------------------------------------------\n\n### Request for Proposal Details\n\n*   **Tender Reference Number**: WS4530700301-Doc4530745616\n*   **Publication Date**: 2024-04-10\n*   **Tender Closing Date**: 2024-05-07 (14:00:00)\n*   **Method of Procurement**: Competitive - Open Bidding (Trade Agreement: Canadian Free Trade Agreement)\n*   **Procurement Category**: Goods and Services (GD)\n\n### Solicitation Information\n\n*   **Solicitation Number**: WS4530700301\n*   **Subject**: Request for Proposals for the Acquisition of Non-SA Lockers, including Delivery and Installation\n*   **Statement of Requirement**: Detailed in Annex\n\n### Contract Details\n\n*   **Contracting Entity**: Department of Public Works and Government Services (PSPC)\n*   **Contracting Address**: 11 Laurier St, Phase III, Place du Portage, Gatineau, QC K1A 0S5, Canada\n*   **End-User Entity**: Department of Public Safety and Emergency Preparedness (PS)\n*   **End-User Address**: 269 Laurier Avenue West, Ottawa, ON K1A 0P8, Canada\n\n### Contact Information\n\n*   **Contact Person**: Julie Carbonneau (SPAC/PSPC)\n*   **Email**: julie.carbonneau@tpsgc-pwgsc.gc.ca\n*   **Attachment**: Not attached\n\n### Tender Information\n\n*   **Notice Type**: Request for Proposals\n*   **Effective Date**: 2024-04-10\n*   **Cancellation Date**: 2024-05-07 (14:00:00)\n*   **Notice Type Classification**: Not Restricted\n*   **Federal Spending Authority Document**: \n*   **Procurement Method(es)**: Trade Agreement\n*   **Solicited Bid Description**: Acquisition lockers, including delivery and installation \n*   **Procurement Category(es)**: Acquisition\n\n\nNote: correct all passport patterns; format is using markdown for clear readability.\n\nTechnical References \n---------------------\n\n*   UNSPSC 56101520\nLockers\n*   UNSPSC 56101521 \nPenderies ou casiers \n\n\n Interesting aspects:\n*   the UoC(Understanding of Contract) turtle has anchor in request titles, indeed\n*   release"
+}

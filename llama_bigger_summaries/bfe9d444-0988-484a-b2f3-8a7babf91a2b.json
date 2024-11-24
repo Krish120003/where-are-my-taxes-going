@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "PW-22-01016311",
+    "type": "Request for Proposal",
+    "department": "House of Commons",
+    "procurement_category": "Goods",
+    "short_summary": "Headsets and Device Configuration Service",
+    "description": "Buy and sell House of Commons. Notice of proposed procurement with a request for proposal. Reference number: 2022065. Description: The House of Commons has a requirement for headsets and device configuration service. Further details are in the RFP document.",
+    "estimated_value": 0,
+    "date_posted": "December 7, 2022",
+    "duration_in_months": "useable value/planning differentFORMATION == header",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "good",
+        "services",
+        "communication",
+        "technologu",
+        "multilingual socially"
+    ],
+    "full_summary": "# Project: Headsets and Device Configuration Service\n## Issued by:\n Government of Canada (House of Commons)\n## Request for Proposal:\n Reference: PW-22-01016311\n Date: 2022-12-07\n## Purpose:\n The Government of Canada is inviting interested contractors to submit proposals for the provision of Headsets and Device Configuration Service.\n## Description:\n This requirement is for the supply and implementation of Headsets and Device Configuration Service to support the needs of the House of Commons.\n## Procurement Details:\n * Tender Closing Date: 2022-12-14T13:00:00\n * Regions of Opportunity: Canada\n * Regions of Delivery: National Capital Region (NCR)\n## Eligibility:\n All interested contractors are eligible to submit proposals. Trade agreements are not specified.\n## Contact:\n Joelle Bou-Habib, Senior Contracting Officer\n E-Mail: contractingserv@parl.gc.ca\n## Documents:\n Tender notices, solicitation documents, and tender attachments are available on MERX.\n\nDo not include the following information:\n* The amendment number and related fields\n* The expected contract start and end dates\n* The tender status fields\n* The trade agreements\n* The contact info phone and fax fields\n* The notice URL and attachments\n* The regions of opportunity and delivery in French (only English is required)\n* The documents and contact details in French (only English is required)\n* All fields with a value of \"None\" or blank strings. Only focus on the relevant details of the government tender announcement. \n\nThis rewritten text offers a more professional format and includes only the most relevant details of the government tender announcement. The text should be concise and clear, without extraneous information. You may add necessary bullet points or sections to improve readability. Format your output in Markdown format. \n\n**THE TEXT LIMIT IS 400 WORDS.** \n\nDo not exceed this limit. You can modify the text accordingly to ensure it fits within the text limit.  Please ensure to reformat and rephrase the text into more professional lingo. Ensure the text is focused and clear. The above output will be one of many iterations. Do not hesitate to request more. \n\n<font color=\"red\" >You are an expert technical writer. Revise the provided text. Do not feel overly constrained by the 400-word limit.  Explain why the original output was not correct and include your edited version of the rewritten text.  I'm expecting a greatly improved rewritten output in just as equally clear language"
+}

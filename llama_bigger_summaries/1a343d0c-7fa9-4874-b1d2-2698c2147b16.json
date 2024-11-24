@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "cb-610-54094386",
+    "type": "Contrat",
+    "department": "Canadian Space Agency",
+    "procurement_category": "General Direction (GD)",
+    "short_summary": "Liquid Particle Counter",
+    "description": "Purchase of a Liquid Particle Counter System",
+    "estimated_value": 0,
+    "date_posted": "2024-03-07",
+    "duration_in_months": "'Notice Type: RFP against Supply Arrangement, Notice ID: cb-610-54094386' ",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Liquid Particle Counter",
+        "Scientific Equipment",
+        "Water Purification",
+        "Quality Control",
+        "Technical Specifications",
+        "Lab Equipment"
+    ],
+    "full_summary": "# Liquid Particle Counter\n\n## **Tender Details**\n\n- **Reference Number:** cb-610-54094386\n- **Solicitation Number:** 9F012-20230299\n- **Publication Date:** 2024-03-07\n- **Tender Closing Date:** 2024-04-09T14:00:00\n\n## **Notice Type**\n\nThis Request for Proposal (RFP) is issued by the Canadian Space Agency (CSA) under the Supply Arrangement E60PV-19EQUI for the procurement of Laboratory and Scientific Equipment, Parts and Accessories, Services and Supplies.\n\n## **Technical Requirements**\n\nThe tender is exclusively reserved for Holders of Supply Arrangement # E60PV-19EQUI. Bidders must be pre-qualified under this arrangement to participate in the tender process.\n\nThe mandatory technical criteria for a Liquid Particle Counter System are as follows:\n\n* **Detection Range:** 2-125 \u00b5m\n* **Number of Size Channels:** At least 14 (user selectable)\n* **Operable Temperature Range:** 10-30\u00b0C (ambient) and 10-50\u00b0C (sample)\n* **Sample Concentration:** Up to 10,000 particles per ml\n* **Zero Count:** Below one particle per 10 ml\n* **Operating System:** Compatible with Windows OS\n* **Compatibility with Lab Water Analysis:** Inclusing ultra-pure water (Type 1 water)\n\n**Rated Technical Criteria:**\n\n* Automated particle counter calibration wizard or option for full calibration or routine verification (6 points)\n* Flow rate of at least 10 ml/min (3 points)\n* Laser source: Laser diode (3 points)\n* Adjustable sample stand (2 points)\n\n## **Evaluation Criteria**\n\nA minimum overall technical evaluation score of 10 points is required to be considered for the tender.\n\n## **Award Criteria**\n\nThe contract will be awarded to the bidder with the lowest evaluated price per point.\n\n## **Contact Information**\n\n* Name: Jean-David Leblanc\n* Email: jean-david.leblanc@asc-csa.gc.ca\n* Phone: (873) 355-9953\n* Address: 6767, route de l'A\u00e9roport, Longueuil, Qu\u00e9bec J8Y 8Y9, Canada\n\nPlease note that only bidders who are pre-qualified under the Supply Arrangement E60PV-19EQUI will be considered for the tender. Interested suppliers should download the solicitation document E60PV-19"
+}

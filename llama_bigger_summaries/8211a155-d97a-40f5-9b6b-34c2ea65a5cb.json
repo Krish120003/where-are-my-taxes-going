@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "2BP2-126162",
+    "type": "Monochrome High-Capacity Printer Lease for the Department of National Defence",
+    "department": "National Defence",
+    "procurement_category": "Supply Goods",
+    "short_summary": "The requirement is to lease one monochrome high-capacity printer with a GBC punch for a period of 60 months with two optional 12-month periods.",
+    "description": "The Department of (Government Department) has a requirement to lease one monochrome high-capacity printer with a GBC punch for a period of 60 months with two optional 12-month periods. This contract is for the supply, delivery, and installation of the equipment, as well as training to allow users to access all required features of the equipment.",
+    "estimated_value": 0,
+    "date_posted": "2023-01-20",
+    "duration_in_months": "",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "Competitive bidding",
+        "Trade agreement CFTA",
+        "Language English and French"
+    ],
+    "full_summary": "**Government Tender Announcement**\n=====================================\n\n**Title:** 2BP2-126162 - Monochrome High-Capacity Printer Lease for the Department of National Defence\n\n**Reference Number:** SSC-23-00021594\n\n**Solicitation Number:** BPM018003/21594\n\n**Publication Date:** January 20, 2023\n\n**Tender Closing Date:** February 6, 2023 at 2:00 PM (EST)\n\n**Tender Status:** This tender is now closed.\n\n**Contracting Entity:**\n\n* **Shared Services Canada**\n* Address: 90 Metcalfe Street, Ottawa, Ontario, Canada K0A 0C3\n* Contact Person: Jesse Squirrell, Email: jesse.squirrell@ssc-spc.gc.ca, Phone: 613-791-6257\n\n**Tender Description:**\n\nThe Department of National Defence is seeking to lease a high-capacity monochrome printer with a GBC punch for a period of 60 months, with two optional 12-month periods. The service includes the supply, delivery, installation of the equipment, and necessary training in both French and English to ensure users can utilize all required features of the equipment.\n\n**Required Goods or Services:**\n\n* High-capacity monochrome printer with a GBC punch\n* Supply, delivery, installation of the equipment\n* Necessary training in French and English\n\n**Bidder Information:**\n\n* Use the following link to download the tender documents: <https://sscp2pspc.ssc-spc.gc.ca/page.aspx/en/fil/download/440B203B-738C-4BDC-861C-CCFBFB7B5254>\n* This link also provides access to attachments: <https://sscp2pspc.ssc-spc.gc.ca/page.aspx/en/fil/download/17B6BEF5-4CC1-4A55-A161-CD07B44B17B9>\n\n**Additional Information:**\n\n* The tender is subject to the Canadian Free Trade Agreement (CFTA).\n* The contract will be awarded based on a competitive bid process.\n* Bidders must comply with all requirements and conditions outlined in the tender documents.\n\nNote: This tender announcement is closed, and no further submissions will be accepted. Please direct any inquiries to the contact person above.endcode```bash\n```perl\n#!/usr/bin/perl\n\nuse strict;\nuse warnings;\nuse feature 'say';\n\nmy %info = (\n    title  => \"2"
+}

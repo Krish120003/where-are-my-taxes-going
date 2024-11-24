@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "{referenceNumber-numeroReference}",
+    "type": "contract",
+    "department": "industry Canada",
+    "procurement_category": "{procurementCategory-categorieApprovisionnement}",
+    "short_summary": "{global}",
+    "description": "{tenderDescription-descriptionAppelOffres-eng}",
+    "estimated_value": 0,
+    "date_posted": "{publicationDate-datePublication}",
+    "duration_in_months": ",",
+    "provinces": [],
+    "tags": [
+        "electronic",
+        "electrical"
+    ],
+    "full_summary": "### Contract Notice\n\n#### Title (Fran\u00e7ais/English)\n\u00e9talonnage et support des syst\u00e8mes de mesure SPEAG/ Calibration and support of the SPEAG measurement systems\n\n#### Reference Number\nPW-23-01029898\n\n#### Solicitation Number\nISED206756\n\n#### Publication Date\nMarch 13, 2023\n\n#### Tender Closing Date\nMarch 30, 2023, at 15:00:00\n\n#### Tender Status\nExpired\n\n### Contract Details\n\nThe Government of Canada intends to contract for the calibration and support of the SPEAG measurement systems .\n\n* **GSIN Class**:\n Numerical Identification: N6625\n Description (English): Electrical and Electronic Properties Measuring and Testing Instruments\n Description (French): Instruments de mesure et d'essai de propri\u00e9t\u00e9s \u00e9lectriques et \u00e9lectroniques\n\n* **Procurement Category**:\n Category Code: GD\n Notice Type (English): Advance Contract Award Notice\n Notice Type (French): Pr\u00e9avis d\u2019attribution du contrat\n\n* **Trade Agreements**:\n This procurement is subject to the Canada-Chile Free Trade Agreement (CCFTA)\n Canadian Free Trade Agreement (CFTA)\n World Trade Organization Agreement on Government Procurement (WTO GPA)\n Canada-Ukraine Free Trade Agreement (CUFTA)\n Canada-UK Trade Continuity Agreement (Canada-UK TCA)\n Canada-Panama Free Trade Agreement \n Canada-Korea Free Trade Agreement (CKFTA)\n Canada-Peru Free Trade Agreement (CPFTA)\n Canada-Colombia Free Trade Agreement\n Canada-Honduras Free Trade Agreement\n\n* **Regions of Opportunity**:\n National Capital Region (NCR)\n* **Contracting Entity**\n Industry Canada\n\n#### Contact Information\nName: Villeneuve, John\n Email: [john.villeneuve@ised-isde.gc.ca](mailto:john.villeneuve@ised-isde.gc.ca)\n Phone: (343) 571-6760\n\n### Tender Description\nContractors are required to provide calibration and support for the SPEAG measurement systems.\n\nIn accordance with the Comprehensive Economic and Trade Agreement (CETA) if applicable, the following information must be included in the contract description:\nEstimated quantity of commodity: 1\nDuration of contract: \nStart Date: April 1, 2023\nEnd Date: March 31, 2028\nTime frame of delivery: April 1, 2023 to March 31, 2028. Any additional conditions for participation must be included.  I"
+}

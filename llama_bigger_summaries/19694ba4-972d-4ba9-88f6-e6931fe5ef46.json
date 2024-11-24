@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "cb-116-68958762",
+    "type": "contract",
+    "department": "Fisheries and Oceans Canada",
+    "procurement_category": "SRVTGD",
+    "short_summary": "Hosting Services of Ocean Navigator Instance for the Department of Fisheries and Oceans (DFO)",
+    "description": "Hosting Services of Ocean Navigator Instance for the Department of Fisheries and Oceans (DFO)",
+    "estimated_value": 0,
+    "date_posted": "2023-12-22",
+    "duration_in_months": "solicitation # 30004549, Duration: Endless",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "World wide web WWW site operation host services",
+        "cloud-based platform as a service",
+        "platform software as a service"
+    ],
+    "full_summary": "# Hosting Services of Ocean Navigator Instance for the Department of Fisheries and Oceans (DFO)\n\n## Solicitation Information\n\n* Solicitation number: 30004549\n* Reference number: cb-116-68958762\n* Publication date: 2023-12-22\n* Tender closing date: 2024-01-31 14:00:00 (expired)\n* Amendment number: 6\n* Expected contract start date: Not provided\n* Expected contract end date: Not provided\n\n## Tender Description\n\nP\u00eaches et Oc\u00e9ans Canada (DFO) invites contractors to provide hosting services for the Ocean Navigator instance. This requirement seeks a platform for the dedicated hosting of the Ocean Navigator web services and a large data storage unit for environmental prediction systems data and observational data.\n\nThe DFO Ocean Navigator team requires a public IP address to route external web and Secure Shell (SSH) traffic to the host. SSH access will enable the team to deploy, administer, and analyze the production code base. End users will access the application, which will facilitate both incoming and outgoing network traffic.\n\n## Scope of Work\n\nThe contractor must provide:\n\n* A physical server or virtual host for the Ocean Navigator deployment\n* Linux account credentials to the Project Authority during the kick-off meeting\n* A back-up power supply in the event of an unplanned service interruption\n* A report of the unplanned service interruption to the Project Authority\n\n## Technical Requirements\n\nThe Ocean Navigator web services require a platform with sufficient network connectivity speed and access control for system support. The contractor's solution must meet the following technical requirements:\n\n* Hosting of the Ocean Navigator web services\n* Storage of environmental prediction systems data and observational data\n* Public IP address for routing external web and SSH traffic\n* SSH access for the Ocean Navigator team\n\n## Contact Information\n\n* Carina Della Valle, Contact Person\n\t+ Email: Carina.DellaValle@dfo-mpo.gc.ca\n\t+ Phone: (343) 542-9691\n* Attachments:\n\t+ [Contract documents in English](https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/28316/30004549-rfp-ocean-navigator-%28en.pdf)\n\t+ [Contract documents in French](https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/28316/30004549-appel-doffre---navigateur-oceanique-%28fr.pdf)\n\nNote: I have"
+}

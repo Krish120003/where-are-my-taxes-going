@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "cb-6210-31257090",
+    "type": "Mass Property Measurement Device",
+    "department": "NRC-Ocean, Coastal and River Engineering, NRC-CNRC",
+    "procurement_category": "*GD",
+    "short_summary": "ACAN, Consultation open in till 2023-06-22",
+    "description": "An Advance Contract Award Notice is required for the procurement of one (1) mass property measurement device (MPMD) for the NRC-Ocean, Coastal and River Engineering.",
+    "estimated_value": 100000,
+    "date_posted": "2023-06-06",
+    "duration_in_months": "text",
+    "provinces": [
+        "Newfoundland and Labrador"
+    ],
+    "tags": [
+        "Advanced Contract Award Notice",
+        "NRC-Ocean, Coastal and River Engineering",
+        "Consultation open",
+        "Purchase Limited Tendering Reasons",
+        "purchase limited due to government exemption 6(d)",
+        " HP",
+        " comparative HP warranty"
+    ],
+    "full_summary": "### Advance Contract Award Notice (ACAN)\n#### Notice Title\n\nThe National Research Council (NRC) Ocean, Coastal, and River Engineering (OCRE) requires a mass property measurement device capable of measuring the rigid-body properties of mechanical structures in a platform constrained from underneath by soft coil springs and supported at its center by a 5-DOF air bearing mechanism.\n\n#### Deliverables\n\nThe contract includes the supply of one (1) mass property measurement device, machine calibration equipment, and a 3D photogrammetry measurement system.\n\n#### Requirement Specifications\n\nTo be considered for this project, interested suppliers must demonstrate that their system meets the following minimum mandatory requirements:\n\n- **a. System Validation**: The system must have been proven in marine applications, such as ship models, boats, and offshore models.\n- **b. Rigid-Body Properties Measurement**: The system must be able to measure the rigid-body properties of mechanical structures, with a platform constrained from underneath by soft coil springs and supported at its center by a 5-DOF air bearing mechanism.\n- **c. Mass Analysis Results**: The system must provide full mass analysis results (mass, COG (x, y, z), MOI's (Ixx, Iyy, Izz), and POI's (Ixy, Ixz, Iyz)) within minutes after setup, with no need for repositioning the test object multiple times.\n- **d. Interface Forces Measurement**: The system must use pneumatic actuators to move the test object in a defined way about multiple degrees of freedom (DOFs) and measure the resulting interface forces.\n- **e. High Accuracy**: The system must maintain a high accuracy (< 1% error) over a wide measurement range (200kg - 2000kg), even for oblong objects where three very different MOIs must be measured simultaneously.\n- **f. System Calibration Equipment**: The system must include equipment for easy calibration and measurement, allowing for various configurations with diverse mass properties and reducing the need for contractor support.\n- **g. 3D Coordinate Measuring System**: The system must include a portable 3D coordinate measuring system to compute precise 3D positions for an arbitrary number of marked points.\n\n#### Trade Agreements\n\nThis procurement is subject to the following trade agreements:\n\n- Canadian Free Trade Agreement (CFTA)\n- Revised World Trade Organization - Agreement on Government Procurement (WTO-AGP)\n- Canada-European Union Comprehensive Economic and Trade Agreement (CETA)\n- Comprehensive and Progressive Agreement for"
+}

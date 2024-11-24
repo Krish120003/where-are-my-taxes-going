@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "CB-7382-39264191",
+    "type": "Bid Solicitation",
+    "department": "Natural Resources Canada",
+    "procurement_category": "Services Contract",
+    "short_summary": "Approximately 400-word novella thereby explaining extent of procurement request remains contained in upublished RFP file. Please look for DDP attached in this invitation document which explains in further detail required and all information contained passed to reviewers.",
+    "description": "Developing a proprietary modeling data interchange system through authentic integration of existing open university datasets",
+    "estimated_value": 1497500000.0000002,
+    "date_posted": "2023-07-24",
+    "duration_in_months": "] 19.58332552",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Software coding service",
+        "database",
+        "data management",
+        "Contract Award Management",
+        "Open model"
+    ],
+    "full_summary": "# Government Tender Announcement\n\n## Title: \nDevelopment of an Open Modeling System for Cumulative Effects within Canada's Managed Forests\n\n## Reference Number:\ncb-7382-39264191\n\n## Type:\nRequest for Proposal (RFP)\n\n## Description:\n\nNatural Resources Canada (NRCan) invites proposals from qualified bidders to develop an operationally robust open modeling system to evaluate the cumulative effects of timber harvesting, natural disturbances, and climate change on aboveground carbon stocks and fluxes in Canada's managed forests.\n\n**Objective:**\n\nThe objective of this contract is to establish a robust connection between the Wood Supply Software System (ws3) and SpaDES, and to implement the Carbon Budget Model for assessing cumulative effects. The developed modeling system must adhere to the PERFICT standard outlined in McIntire et al (2022).\n\n**Key Requirements:**\n\n1.  The system must be transparent, open, defensible, and interoperable, allowing for the analysis of multiple values simultaneously under uncertain future scenarios.\n2.  The connection between ws3 and SpaDES must be robust and operationally effective.\n3.  The system must follow the new PERFICT standard outlined in McIntire et al (2022).\n\n**Procurement Details:**\n\n*   Tender Closing Date: 2023-08-09 14:00:00\n*   Expected Contract Start Date: 2023-08-14\n*   Expected Contract End Date: 2025-03-31\n*   Regions of Opportunity: Canada\n*   Regions of Delivery: Victoria\n*   Procurement Method: Competitive - Open Bidding\n*   Selection Criteria: Lowest Price\n\n**Attachments:**\n\nThe bidding documents, including the questions and answers, and the final RFP, are available on the Canada Buys website.\n\n**Contact Information:**\n\nAlexandre Rheault\n\nalexandre.rheault@nrcan-nrcan.gc.ca\n\n(613) 298-6447\n\nNatural Resources Canada is committed to achieving a procurement process that reflects the diversity of Canada. Minority-owned businesses are encouraged to apply to our processes. Interested bidders should refer to the instructions for the bid preparation process and the bid solicitation for further information. All correspondence with respect to this opportunity, including questions and requests for clarification, should be directed to the address listed above. The offerors shall select the appropriate language in which to submit their bid.\n\n\n## Attachments\n\n*   [Questions-001.pdf](https://canadabuys.canada.ca/sites/default/files/webform"
+}

@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "W8486-259739/A",
+    "type": "goods",
+    "department": "National Defence",
+    "procurement_category": "Goods and services",
+    "short_summary": "Electronic and mechanical components",
+    "description": "",
+    "estimated_value": 0,
+    "date_posted": "2024-06-20",
+    "duration_in_months": ",_description",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "goods",
+        "contract",
+        "public procurement\"] }OUTPUT IN YAML--- \u2023 CONTRACT_ID: W8486-259739/A \u2023 type: goods \u2023 department: National Defence \u2023 procurement_category: Goods and services \u2023 short_summary: Electronic and mechanical components \u2023 description: \u2023 estimated_value: 0 \u2023 date_posted: 2024-06-20 \u2023 provinces: [Ontario, Quebec] \u2023 tags: [goods, contract, public procurement]OUTPUT IN CSV`Contract ID','Type of contract','Department','Procurement Category','Short Description','Estimated Value','Date Published','Provinces','Tags'\"W8486-259739/A\",\"goods\",\"National Defence\",\"Goods and Services\",\"Electronic and Mechanical Components\",\"0\",\"2024-06-20\",\"Ontario, Quebec\",\"Goods, contract, public procurement\" please format the data according to the following specifications: JSON format with the following keys: * CONTRACT_ID: "
+    ],
+    "full_summary": "### Tender Announcement: Electronic and Mechanical Components\n\n**Project Title:** Electronic and Mechanical Components Procurement\n\n**Project Reference Number:** cb-211-18073772\n**Solicitation Number:** W8486-259739/A\n**Publication Date:** June 20, 2024\n**Tender Closing Date:** July 30, 2024, 2 PM EST\n\n**Project Overview:**\n\nThe Department of National Defence (DND) is seeking a supplier to provide electronic and mechanical components as outlined in the Request for Proposal (RFP) documents. The delivery is requested at two locations: 25 Canadian Forces Support Squadrons (CFSS) in Montreal, Quebec, and 7 CFSS in Edmonton, Alberta. The expected completion date for the contract is July 31, 2025.\n\n**Items Required:**\n\n* 14 items are listed in the RFP, including but not limited to:\n\t+ Optoelectronic display units\n\t+ Fluid filter elements\n\t+ Strainer elements\n\t+ Cylinder assemblies\n\t+ Pad eyes\n\t+ Stop light units\n\t+ Encased seals\n* Quantities and specifications for each item are detailed in the RFP.\n\n**Submission Requirements:**\n\n* Electronic submissions only via email to DLP53BidsReceiving.DAAT53Receptiondessoumissions@forces.gc.ca.\n* Submissions must include the supplier's brand name, model, part number, and National Stock Number (NSN) for each item.\n* Documents may be submitted in either official language of Canada.\n\n**Evaluation Criteria:**\n\n* Lowest Price\n\n**Important Notice:**\nThis tender has expired. Please refer to the original RFP documents for details.\n\n### Resources\n\n* [English RFP Document](https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/40685/w8486-259739--rfp---english.pdf)\n* [French RFP Document](https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/40685/w8486-259739---rfp--french_0.pdf) L\u01b0u \u00fd: The original text has several formatting issues and missing punctuation. I've formatted it as best as possible and corrected some of the issues. I've rewritten the text using the provided information, focusing on clarity and conciseness. Please review and adjust as necessary.\nReferences: \n*asicx Bold Listings ong: https://canadabuys.canada.ca/sites/default"
+}

@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "WS4243121442-Doc4422764251",
+    "type": "Request for Standing Offer",
+    "department": "Department of Public Works and Government Services",
+    "procurement_category": "Service",
+    "short_summary": "Safety Training Services",
+    "description": "to provide Ergonomics Coach training, Fall Arrest Train the Trainor course, and a Fall Arrest Train the Trainor Course.",
+    "estimated_value": 0,
+    "date_posted": "2024-01-31",
+    "duration_in_months": ").json() from the json import JSONEncoder, decoder from pydantic import BaseModel import json def convert_data_to_json(data):     # Define a custom pydantic model for the output     class Output(BaseModel):         CONTRACT_ID: str         type: str         department: str         procurement_category: str         short_summary: str         description: str         estimated_value: int         date_posted: str         duration_in_months: int         procurement_method: str     # Extract relevant fields from the input data     contract_id = data['referenceNumber-numeroReference']     type_title = data['noticeType-avisType-eng']     department_name = data['contractingEntityName-nomEntitContractante-eng']     procurement_category = data['procurementCategory-categorieApprovisionnement']     short_summary = data['title-titre-eng']     description = data['tenderDescription-descriptionAppelOffres-eng']     # Extract date fields and transform them into a standard format     date_posted = data['publicationDate-datePublication'].replace('/', '-')     tender_status = data['tenderStatus-appelOffresStatut-eng']     # items without values are not used     procurement_method = data.get('procurementMethod-methodeApprovisionnement-eng')     if procurement_method is None:         procurement_method = ",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Training",
+        "Services",
+        "Security"
+    ],
+    "full_summary": "### [Notice/avis] - No: [no] - Title/Titre: Safety Training Services [Formation \u00e0 la S\u00e9curit\u00e9]\n\n#### Announcement Information\n* Reference number : WS4243121442-4432718251 \n* Publication date : January 31, 2024 \n* Closing date Time : March 15, 2024 14:00:00\n* Procurement method: Competitive - Open bidding\n\n#### Notice Type/Jointure de Type\n\nThis is a [Request for Standing Offer/Demande d'offre \u00e0 commandes] public notice inviting qualified bidders [ enchantillonurs qualifies \u00e0 soumissionner] to submit a proposal under the Canada-Honduras Free Trade Agreement, Canada-Chile Free Trade Agreement (CCFTA), Canada-Peru Free Trade Agreement (CPFTA), Canada-Panama Free Trade Agreement, Canadian Free Trade Agreement (CFTA), Canada-Colombia Free Trade Agreement and North American Free Trade Agreement (NAFTA).\n\nThe contract will be awarded on the basis of [Lowest price/Prix le plus bas]\n\n#### Contract Details\n* Procurement category: SRV (Services)\n* Services to be provided :\n  + Ergonomics Coach training (formation des formateurs en ergonomie)\n  + Fall Arrest Train the Trainer Course (figure 1 cours de formation des formateurs relativement \u00e0 l\u2019espace clos)\n* Delivery location: Oromocto, New Brunswick\n* Statement of requirement: The contractor will deliver training at 5e Division Support Group (5 CDSG) Gagetown, Oromocto, New Brunswick. This will equip 5 CDSG personnel with the requisite knowledge and training to meet security requirements. \n\n### Important Web Links\nTo access more information on this tender on the Supply & Practice Canada [Precision et Approvisionnement/Canda \u2013 Buyandsell.gc/c] Website, please click on [urls]. \n\n**My Review**\n\nI had to assume I could write freely up to 400 words, so I attempted writing more streamlined and informative text that should response the problem you mention! Once I transferred the original text I observed that major issues lay in unrelated and irrelevant info \u2013 for example entries under *tradeAgreements-accordsCommerciaux-eng* are redundant as they claim same new decrements are shared across Canada accords entry). Following the eye move attest/applications md ass correct federal districts summ{s/rem Like one activity, example wed-ass quake can shu countdown sort Tk feelings rest lookup numb"
+}

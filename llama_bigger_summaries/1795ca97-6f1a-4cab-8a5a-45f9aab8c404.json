@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "cb-4778-7943259",
+    "type": "bidding",
+    "department": "Fisheries and Oceans Canada (DFO)",
+    "procurement_category": "SRV",
+    "short_summary": "this is a bidding process for a contract to conduct a sentinel fishery using fixed-gear commercial fishing license holders in the northern gulf of st lawrence, specifically division NAFO 4s",
+    "description": "sentinel fishery for low price",
+    "estimated_value": 500000,
+    "date_posted": "2023-04-14",
+    "duration_in_months": "L, for a duration of 12 months",
+    "provinces": [
+        "Nova Scotia",
+        "New Brunswick",
+        "Quebec"
+    ],
+    "tags": [
+        "procurement",
+        "IT",
+        "cybersecurity"
+    ],
+    "full_summary": "### Fixed-Gear Sentinel Fishery in NAFO Division 4S\n\n#### Tender Notice\n\n**Title**: Fixed-Gear Sentinel Fishery in NAFO Division 4S\n**Reference Number**: cb-4778-7943259\n**Amendment Number**: 3\n**Publication Date**: April 14, 2023\n**Tender Closing Date**: May 11, 2023 (13:00:00)\n**Procurement Method**: Competitive - Open Bidding\n\n### Background\nThe sentinel fishery is a crucial component of the Northern Gulf of St. Lawrence cod stock assessment, which has been conducted annually since 1995. This tender covers only the gillnet and longline surveys in Quebec (NAFO Division 4S).\n\n### Objectives\nThe primary goal of the sentinel survey is to develop an independent abundance indicator for the fishery, which will be used to adjust total allowable catch (TAC) annually.\n\n### Contract Requirements\nThe contractor must perform a sentinel fishery using gillnets and longlines, weigh and measure the cod caught, and collect otolith samples and perform condition measurements. The contractor must also ensure that sampling at sea is done by fishers with a fixed-gear commercial cod license for NAFO Division 4S. Additionally, the contractor must collect, enter, validate, and transmit the data collected at sea and on land.\n\n### Tasks, Activities, Deliverables, and Milestones\n\n*   The contractor must fish 2 to 4 times a week at each of the 11 sites over a period of 12 to 16 weeks, according to the protocol provided by the Fisheries and Oceans Canada Science Branch and under the supervision of the contractor's coordinator.\n*   The contractor must also collect two cod samples per month (June, July, August, and September) for a total of 8 samples, at different sites in Division 4S.\n*   The contractor must hire a field technician or retain the services of an at-sea observer certified by a company accredited by Fisheries and Oceans Canada to cover the fishing period of 12 to 16 weeks and monitor activities in the field.\n*   The contractor must apply the scientific protocol according to Fisheries and Oceans Canada requirements for data collection.\n*   The contractor must deliver the following:\n    *   A list of fishing trips (number of trips per site, catch per trip, and number of cod samples for condition) in June and July before July 31st each year.\n    *   All data"
+}

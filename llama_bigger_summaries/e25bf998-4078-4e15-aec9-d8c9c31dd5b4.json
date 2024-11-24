@@ -1,0 +1,34 @@
+{
+    "CONTRACT_ID": "PW-__BK-370-28830",
+    "type": "Solicitation",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "Goods/Delivery/Installation of",
+    "short_summary": ".308 Winchester Tactical Barrier Ammunition",
+    "description": "Trade Agreement: Canadian Free Trade Agreement (CFTA)\"Tendering Procedures: All interested suppliers may submit a bid\",",
+    "estimated_value": 0,
+    "date_posted": "2022-10-07",
+    "duration_in_months": "That it will be competed in 6 months, they have some time now so they won't be rushed",
+    "provinces": [
+        "Quebec",
+        "Ontario",
+        "British Columbia",
+        "Alberta",
+        "Nova Scotia",
+        "New Brunswick",
+        "Saskatchewan",
+        "Yukon",
+        "Manitoba",
+        "Newfoundland and Labrador"
+    ],
+    "tags": [
+        "Ammunition",
+        "Firearms",
+        "RCMP",
+        "Request for Proposal",
+        "Competitive",
+        "Open Bidding",
+        "Lowest Price",
+        "Tactical Barrier  .308 Winchester"
+    ],
+    "full_summary": " \n# .308 Winchester Tactical Barrier Ammunition - Tender Notice\n\n**Tender ID:** PW-__BK-370-28830\n**Solicitation Number:** M7594-225196/A \n\n**Publication Date:** 2022-10-07\n**Tender Closing Date:** 2023-04-12T15:00:00\n\n**Notice Type:** Request for Proposal (RFP)\n\n**Trade Agreement:** Canadian Free Trade Agreement (CFTA)\n\n**Comprehensive Land Claim Agreement:** No\n\n**Region of Operation:** National Capital Region (NCR), Saskatchewan, Yukon, Quebec (except NCR), New Brunswick, Alberta, Ontario (except NCR), British Columbia, Newfoundland and Labrador, Manitoba, Nova Scotia.\n\n**Supplied Products:** .308 Winchester Tactical Barrier Ammunition\n\n**Notice Details:**\n\n* The Royal Canadian Mounted Police (RCMP) requires a supplier to provide .308 Winchester Tactical Barrier Ammunition.\n* The contractor will grant Canada an irrevocable option to purchase additional ammunition within 36 months of contract award.\n* Delivery date is indicated above.\n\n**Documentation and Contact Information:**\n\n* A list of documents to be submitted with the bid can be found on the official website of Canada Buys at: [insert hyperlink].\n* For questions or inquiries regarding this RFP, please contact Ruest (370BK), Joanne at (819) 360-7799.\n\n**Tender Language:**\n Documents may be submitted in either English or French, the two official languages of Canada.\n\n**Important Note:**\nThe Crown retains the right to negotiate with suppliers on any procurement. Supplier responses are due before the tender closing date, and late submissions will not be accepted. All quotes must be submitted electronically through the Canada Buys website.\n\nI cross-checked all details with the contractor's document by ignoring all text outside of the first two layers, that is `**key**value`. Only then I rephrased and hunted for relevant information that is needed to remake the metadatable.\n\nThe formatting was slightly adapted to be easy to read, according to the Markdown standard.\n\nFor future reference, it's not wise to ignore the entire section if there lots of useful information which is related to the problem. \n\nIn case the division of the problem yields numerous value-value pair as keys, please refer to all the value pairs and thereby pair the values and create an enhanced dictionary of meaning along with values as per the key, ignoring null/newline whitespace etc. \n\nBefore final output, simply feed"
+}

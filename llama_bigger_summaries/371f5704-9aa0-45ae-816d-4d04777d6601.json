@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "{contracting_entity_name}",
+    "type": "{tender_status-eng}",
+    "department": "{department}",
+    "procurement_category": "{procurement_category}",
+    "short_summary": "{tender_description-eng}",
+    "description": "{tender_status-fra}",
+    "estimated_value": 0,
+    "date_posted": "{publication_date}",
+    "duration_in_months": ".05",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Training Laboratory",
+        "Training facilities",
+        "Laboratory equipment maintenance",
+        "Mobile laboratory",
+        "Portable structures"
+    ],
+    "full_summary": "# Training Laboratory Tender Announcement\n## Request for Proposal (RFP)\n### Reference Number: WS3851163741-Doc3952242834\n#### Solicitation Number: WS3851163741\n#### Amendment Number: 4\n\nThe Department of Public Works and Government Services (PSPC) on behalf of the Department of National Defence (DND) is issuing a Request for Proposal (RFP) for the procurement of a Training Laboratory (Lab).\n\n**Key Information:**\n\n* **Closing Date:** 31 May 2023, 14:00 EDT\n* **Notice URL:** [http://discovery.ariba.com/rfx/15975204?extsite=MTU5NzUyMDRfQU4wMTQ4NDA1MDk5Mg==](http://discovery.ariba.com/rfx/15975204?extsite=MTU5NzUyMDRfQU4wMTQ4NDA1MDk5Mg==)\n* **Procurement Category:** Goods and Services (GD)\n* **UN/CEFACT Codes:**\n\n\t* 25101941: Mobile laboratory\n\t* 25180000: Vehicle bodies and trailers\n\t* 56122000: Laboratory furniture\n\t* 81101706: Laboratory equipment maintenance\n\t* 95130000: Portable buildings and structures\n\n**Tender Requirements:**\n\nThe DND requires four (4) Portable Training Facilities that simulate modern lab set-ups and are configurable by members of DND to different threats.\n\nAll bids must be submitted electronically following the guidelines outlined in the RFP document. Bidders are required to provide all necessary supporting documentation and bid submission must be received by 31 May 2023, 14:00 EDT.\n\n**Important:** Please disregard the Ariba Discovery posting response deadline closing time and Buyandsell posting closing time.\n\n**Trade Agreements:**\n\nThis procurement is subject to the following trade agreements:\n\n* World Trade Organization Agreement on Government Procurement (WTO GPA)\n* Canada-Honduras Free Trade Agreement\n* Canada-Peru Free Trade Agreement (CPFTA)\n* Canada-UK Trade Continuity Agreement (Canada-UK TCA)\n* Canada-Korea Free Trade Agreement (CKFTA)\n* Canada-European Union Comprehensive Economic and Trade Agreement (CETA)\n* Canada-Panama Free Trade Agreement\n* Canada-Chile Free Trade Agreement (CCFTA)\n* Canada-Colombia Free Trade Agreement\n* Comprehensive and Progressive Agreement for"
+}

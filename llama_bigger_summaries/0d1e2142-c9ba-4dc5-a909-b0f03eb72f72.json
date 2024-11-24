@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "cb-8131-96941239",
+    "type": "supply contract",
+    "department": "Public Services and Procurement Canada (PSPC)",
+    "procurement_category": "SRV",
+    "short_summary": "Supply Chain Verifiable Digital Credentials",
+    "description": "The challenge seeks to provide verified digital credentials and digital product passports to achieve full transparency and efficiency in supply chain management.",
+    "estimated_value": 1500000.0,
+    "date_posted": "August 15, 2023",
+    "duration_in_months": ">{{(18+6)}}",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "*",
+        "Computer services",
+        "*Services informatiques"
+    ],
+    "full_summary": "### Supply Chain Verifiable Digital Credentials\n\n#### Government Tender Announcement\n\n**Reference Number:** cb-8131-96941239\n**Solicitation Number:** EN578-20ISC3\n**Publication Date:** August 15, 2023\n**Tender Closing Date:** September 26, 2023, 14:00:00 (Eastern Daylight Time)\n**Expected Contract Start Date:** None\n**Expected Contract End Date:** None\n\n**Tender Description:**\nThe Government of Canada invites eligible businesses to submit proposals for the Supply Chain Verifiable Digital Credentials challenge under the Innovative Solutions Canada (ISC) program.\n\n**Challenge Title:** Supply Chain Verifiable Digital Credentials\n**Challenge Sponsor:** Shared Services Canada (SSC) and Treasury Board of Canada Secretariat (TBS)\n\n**Funding Mechanism:** Contract\n\n**Maximum Contract Value:**\nMultiple contracts may result from this challenge.\n\n**Phases:**\n\n1. **Phase 1:** Up to six contracts with a maximum funding value of $150,000 CAD, excluding taxes and expenses. Phase 1 contracts will last for up to six months.\n2. **Phase 2:** Up to two contracts with a maximum funding value of $1,000,000 CAD, excluding taxes and expenses. Phase 2 contracts will last for up to 18 months.\n\n**Tender Requirements:**\n\n* Propose solutions that digitize supply chain documents with tamper-proof verified credentials.\n* Offer identification, authentication, and authorization for supply chain contents.\n* Support Universal Bill of Lading (BoL), e-BoL, and other relevant documents.\n* Operate across a minimum of two different problem domains.\n* Provide end-to-end visibility for authorized parties to track goods from source to destination.\n* Address scalability and transaction speed issues.\n* Offer alerts and notifications for potential tampering or abuses.\n\n**Challenge Objectives:**\n\n* Enhance supply chain transparency and security.\n* Reduce costs and improve efficiency across the supply chain.\n* Prevent supply chain fraud and ensure authenticity of goods.\n\n**Evaluation Criteria:**\n\n* Innovation and feasibility of the proposed solution.\n* Ability to meet the challenge requirements and objectives.\n* Technical and financial viability of the proposed solution.\n\n**Proposal Submission:**\nProposals must be submitted through the ISC website at https://ised-isde.canada.ca/site/innovative-solutions-canada/en/supply-chain-verifiable-digital-credentials.\n\n**Contact Information:**\nISC, SIC\nTPSGC.PASIC-APISC.PWGSC"
+}

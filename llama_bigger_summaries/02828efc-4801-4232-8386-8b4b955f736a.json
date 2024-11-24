@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "{referenceNumber-numeroReference}",
+    "type": "{procurementMethod-methodeApprovisionnement-eng}",
+    "department": "{contractingEntityName-nomEntitContractante-eng}",
+    "procurement_category": "{procurementCategory-categorieApprovisionnement}",
+    "short_summary": "{tenderDescription-descriptionAppelOffres-eng}",
+    "description": "{tenderDescription-descriptionAppelOffres-fra}",
+    "estimated_value": 0,
+    "date_posted": "{publicationDate-datePublication}",
+    "duration_in_months": ">>python calculation to find the lower bound of the date difference ((expectedContractEndDate-dateFinContratPrevue)<<(yes, you guessed it...)>(_Yours. artificial) Intelligence< calculates between dates in the same format '2023-01-06' , and HH:MM or MM:MM or ZZ:ZZ. Notice how none of new innovation feature wildcard allows?)-function",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "Medical Laboratories",
+        "Highly Pathogenic Avian Influenza",
+        "Real-time Reverse Transcription Polymerase Chain Reaction (RRT-PCR)",
+        "Reports of Analysis (ROA)"
+    ],
+    "full_summary": "### Highly Pathogenic Avian Influenza Outbreak Testing Services\n\n#### Contract Details\n\n* Reference Number: WS3770350990-Doc3770407647\n* Solicitation Number: WS3770350990\n* Publication Date: January 5, 2023\n* Tender Closing Date: January 23, 2023, at 2:00 p.m. EST (extended from initially posted deadline)\n\n#### Project Overview\n\nThe Canadian Food Inspection Agency (CFIA) requires avian influenza sample testing services from a certified laboratory in British Columbia. The contracted laboratory will conduct real-time reverse transcription polymerase chain reaction (RRT-PCR) testing for the detection of avian influenza and generate reports of analysis (ROA) within a 24-hour turnaround time following sample receipt.\n\n#### Service Requirements\n\nThe laboratory must meet the following service standards:\n\n* Perform RRT-PCR testing for avian influenza at a certified facility in British Columbia.\n* Generate ROA within 24 hours following sample receipt.\n* Inform the CFIA of all testing results, including any positive findings, in a timely and efficient manner.\n\n#### Contract Terms\n\n* The contract term is expected to commence on January 6, 2023, and expiring on January 7, 2026.\n* This contract is subject to the Trade Agreement referenced below.\n\n#### Trade Agreements\n\nThis tender is open to contractors participating in the following trade agreements:\n\n* Canadian Free Trade Agreement (CFTA)\n* Canada-Peru Free Trade Agreement (CPFTA)\n* Canada-Honduras Free Trade Agreement\n* Canada-Panama Free Trade Agreement\n* Canada-Chile Free Trade Agreement (CCFTA)\n* Canada-Colombia Free Trade Agreement\n\n#### Tender Notice and Contact Information\n\nFor additional information about this tender, please visit the official [Discovery](http://discovery.ariba.com/rfx/15055907?extsite=MTUwNTU5MDdfQU4wMTQ4NDA1MDk5Mg==) page.\n\nThe primary point of contact for this tender is:\n\n* Kaine, Joshua (SPAC/PSPC)\n* joshua.kaine@tpsgc-pwgsc.gc.ca\n\n\nHope this meets the standard you needed. Let me know if you'd like any adjustments to the formatted text. \nPlease let me reframe this as an English only entry for you\n```markdown\n### Highly Pathogenic Avian Influenza Outbreak Testing Services\n\n#### Contract Details\n\n*"
+}

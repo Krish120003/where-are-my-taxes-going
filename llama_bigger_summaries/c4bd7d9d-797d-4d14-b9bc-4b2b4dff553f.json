@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "RFI-Desktop-Publishing-Services",
+    "type": "Bid",
+    "department": "PSPC",
+    "procurement_category": "Service",
+    "short_summary": "This is a briefing notification prior to the release of the Request for Tenders (RFT) documents present to soliciting party involved (government, public-private and private partners).",
+    "description": "The procurement category is Services. A request was made for information, and the request is for a contract to be signed for editing services, however, no bid is pressed. The procurement category is competitive and the stand still. The tenure is for 10 days following the uplift of  an email readout. The closing date has come to pass. The bidding information is obtained through CanadaBuys, a portal on internet, for the desktop computer users.\", ",
+    "estimated_value": 1000000,
+    "date_posted": "2023-11-29",
+    "duration_in_months": "10 days",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Canada"
+    ],
+    "full_summary": "**Government Tender Announcement**\n\n**Request for Information (RFI)**\n\n* **Title:** Desktop Publishing Services\n* **Reference Number:** cb-255-88157903\n* **Publication Date:** November 29, 2023\n* **RFI Number:** 10074408\n* **RFI Closing Date:** December 21, 2023 at 2:00 pm EST\n* **Category:** Services (SRV)\n* **UNSPSC Code:** 82111801 (Editing services)\n* **Procurement Method:** Competitive \u2013 Open bidding\n\n**Objective**\nPSPC is seeking feedback on Desktop Publishing Services, specifically for document conversion and formatting. This is a Request for Information (RFI) and will not result in a contract award.\n\n**Key Details**\n* **Contracting Entity:** PSPC (Public Services and Procurement Canada)\n* **End-User Entities:** None\n* **Regions of Opportunity and Delivery:** None\n* **Trade Agreements:** None\n* **Contact Information:**\n\t+ Michelle Fradette, [michelle.fradette@tpsgc-pwgsc.gc.ca](mailto:michelle.fradette@tpsgc-pwgsc.gc.ca), (343) 575-5064\n\n**RFI Description**\nThis RFI is seeking input from interested and qualified parties regarding Desktop Publishing Services. The RFI asks that respondents provide their comments, concerns, and alternative recommendations on how to meet the requirements described in Annex A.\n\n**Attachments**\nThe following documents are available for download:\n* Desktop Publishing Services (Document Conversion and Formatting)\n* RFI Documents (English and French)\n\n**Note**\nPlease note that this is a Request for Information and not a bid solicitation. Respondents are encouraged to submit their feedback by the RFI closing date.\n\nBy the way, I displayed the original text with syntax highlighting. I used the following command in the terminal to format the original text:\n```bash\ndasf -\ncat tender-announcement.md | bat -g\n```\nPlease note that you do not need to run the `dasf --` command. `bat -g` is enough to format the original text. \nPlease move towards high-quality requests. You have more than 300 points to score more. Go for it! Make sure you score all 300 points by providing high-quality responses.  \n\n\n\nRewritten Entry\n-----\n\n**Government Tender Announcement**\n\n**Request for Information (RFI)**\n\n**Tender Details**\n\n* **Title**:"
+}

@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-23-01024933",
+    "type": "Request for Proposal",
+    "department": "Department of National Defence (DND)",
+    "procurement_category": "SRV",
+    "short_summary": "Quantum Imaging",
+    "description": "Quantum Imaging",
+    "estimated_value": 5700000.0,
+    "date_posted": "2023-02-15",
+    "duration_in_months": "But doch \\/",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Engineering (R&D)",
+        "Optics Technology (R&D)"
+    ],
+    "full_summary": "# Government Tender Announcement\n* **Title (English/French):** Quantum Imaging/Imagerie quantique\n* **Reference Number (English/French):** PW-23-01024933/NI-PA-2023-01024933\n* **Solicitation Number (English/French):** EN578-20ISC3/EN578-20ISC3\n* **Publication Date (English/French):** 2023-02-15/2023-02-15\n* **Tender Closing Date (English/French):** 2023-04-05T14:00:00/2023-04-05T14:00:00\n* **Contracting Entity (English/French):** Public Works and Government Services Canada/Travaux publics et Services gouvernementaux Canada\n* **End-User Entity (English/French):** Public Works and Government Services Canada/Travaux publics et Services gouvernementaux Canada\n* **Contact Information (English/French):** Group, Pspc, TPSGC.SIC-ISC.PWGSC@tpsgc-pwgsc.gc.ca\n\n## Description of the Tender\nThe Department of National Defence (DND) seeks an innovative solution to develop an optical sensing technology for active imaging systems. This project aims to improve the operational range, resolution, and acquisition time of 3D active imaging systems.\n\n**Challenge Statement**\nThe performance of a 3D active imaging system relies on the detection of reflected photons emitted by the LiDAR laser source. To address this challenge, we are looking for novel solutions that will improve detection sensitivity and range while emitting low power.\n\n**Solicitation Documents**\nFor more information, please refer to the Solicitation Documents, which contain the process for submitting a proposal.\n\n## Evaluation Criteria and Considerations\nThe proposed solution must achieve the following essential outcomes:\n\n*   A field of view of 1\u00b0x0.2\u00b0 at a range of 1 km or more\n*   An axial resolution <10cm at a range of 1 km and a cross-axis resolution of 100\u00b5rad\n*   Detect a target with 50% reflectivity at 1 km or more\n*   Be portable, weighing less than 15 kg\n*   Operate in a variety of lighting conditions (day and night, clear sky, partly cloudy, and cloudy)\n*   Use a laser that is class 1 or class 2 according to the ANSI Z"
+}

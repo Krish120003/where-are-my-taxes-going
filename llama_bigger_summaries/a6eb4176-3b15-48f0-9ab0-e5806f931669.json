@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "H4005-224736",
+    "type": "transfer",
+    "department": "Health Canada",
+    "procurement_category": "Goods (GD)",
+    "short_summary": "Purchase of particles counter for liquid samples for Health Canada",
+    "description": "Purchase of particles counter for liquid samples located in Longueuil, Quebec, Canada. ",
+    "estimated_value": 0,
+    "date_posted": "2022-11-02",
+    "duration_in_months": ",9",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "purchase",
+        "particles counter",
+        "liquid samples"
+    ],
+    "full_summary": "===============\n\nH4005-224736/Purchase of Particle Counter for Liquid Samples\n--------------------------------------------------------\n\n### Tender Details\n\n| Field            | Value                                             |\n|------------------|----------------------------------------------------|\n| Reference Number | WS3724732439-Doc3731218185                         |\n| Solicitation Number| WS3724732439                                       |\n| Publicatio Date  | November 2, 2022                                    |\n| Tender Closing Date| November 22, 2022 2:00 PM EST                      |\n\n### Procurement Information\n\n* The Department of Public Works and Government Services (PSPC) is issuing a Request for Proposal (RFP) on behalf of Health Canada for the acquisition and delivery of a particles counter for liquid samples in Longueuil, Quebec, Canada.\n* The contract is expected to be completed by September 30, 2023.\n* The procurement method is Competitive - Open Bidding.\n* The selection criteria is Lowest Price (Prix le plus bas).\n\n### Contact Information\n\n* Corine Lavoie (SPAC/PSPC)\n* Email: [corine.lavoie@tpsgc-pwgsc.gc.ca](mailto:corine.lavoie@tpsgc-pwgsc.gc.ca)\n* To learn more and to access the solicitation, please visit the Ariba Discovery website: [http://discovery.ariba.com/rfx/14527965](http://discovery.ariba.com/rfx/14527965)\n\n### Notice and Solicitation\n\nPlease be advised that the tender announcement has expired. Any bids submitted after the expiry date will not be considered. The required supporting documentation and bid submission must be submitted by the specified deadline.      \n\n\n\nThis version has removed all unnecessary pieces of information. I have also excluded translations as it is not thatImportant. The clean approach allows readers to find out what they want very quickly.\n\n```python\nimport markupsafe\n\nbuild_markdown = (markupsafe.Markup(\"H4005-224736/Purchase of Particle Counter for Liquid Samples\\n============================\\n\")._html())\nbuild_a = markupsafe.Markup(\"<|newline|\\n\")\nbuild_b = markupsafe.Markup(\"\\n### Tender Details\\n| Field            | Value                                             |\")\nbuild_c = markupsafe.Markup(\"<|newline|\\n|------------------|----------------------------------------------------|\")\nbuild_d = markupsafe.Markup(\"<|newline|\\n| Reference Number | WS3724732439-Doc3731218185                         |"
+}

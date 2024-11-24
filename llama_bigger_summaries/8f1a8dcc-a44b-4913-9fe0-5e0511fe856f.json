@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "<CONTRACT_ID>",
+    "type": "<CONTRACT_TYPE>",
+    "department": "<DEPARTMENT \uc0bc>",
+    "procurement_category": "<PROCUREMENT_CATEGORY>",
+    "short_summary": "<SHORT_SUMMARY>",
+    "description": "<DESCRIPTION>",
+    "estimated_value": 198258380.49,
+    "date_posted": "2023-09-06 00:00:00",
+    "duration_in_months": ">= 8",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        " Construiction",
+        "Fire and Gas Control Panel Upgrade",
+        "Utility",
+        "Government"
+    ],
+    "full_summary": "# Cogen Fire and Gas Control Panel Upgrade\n\n## Notice Description\nThe National Research Council of Canada intends to award a contract for the upgrade and integration of the Fire and Gas Control Panel System on its existing SGT-100 gas turbine and the Cogen Control System. This notice serves as an Advance Contract Award Notice (ACAN), indicating the intention to award the contract to a pre-selected supplier.\n\n## Requirement Definition\nThe National Research Council of Canada requires the upgrade and integration of the existing Fire and Gas Control System on its SGT-100 gas turbine, and the Cogen Control System. The upgrade will involve four (4) components:\n\n*   PLC Controls System Upgrade (Allen Bradley Contrologix)\n*   Integrated Fuel Valve Upgrade\n*   Electric Variable Guide Vane Actuator System Upgrade\n*   Warranty (1-year warranty on parts and labor, with prompt on-site repair within 48 hours)\n\n## Fire and Gas Panel Upgrade and Integration\nDue to operational and constructability issues, the National Research Council of Canada has decided to integrate the Fire and Gas Panel directly into the Siemens Cogen Control Panels at the factory. This will mitigate integration challenges and improve overall operation.\n\n## Tender Information\n*   **Title**: Cogen Fire and Gas Control Panel Upgrade\n*   **Notice Type**: Advance Contract Award Notice (ACAN)\n*   **Procurement Category**: CNST\n*   **Trade Agreements**: WTO GPA, CPTPP, CETA, CFTA, CKFTA, CAH, CPPFTA\n*   **Regions of Opportunity**: Ottawa\n*   **Regions of Delivery**: National Capital Region (NCR), Ottawa\n*   **Contracting Entity**: National Research Council Canada\n*   **Contact Information**: Collin Long, [collin.long@nrc-cnrc.gc.ca](mailto:collin.long@nrc-cnrc.gc.ca), (343) 549-1549\n\n## Related Documents\n*   [English Notice] <https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/8801/23-58112---acan---cogen-fire-and-gas-upgrade---english.pdf>\n*   [French Notice] <https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/8801/23-58112---acan---cogen-fire-and-gas-upgrade---french.pdf>\n\n## Closing Date and Time\nThe closing date and time for the tender is 2023-09-"
+}

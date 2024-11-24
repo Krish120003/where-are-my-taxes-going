@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "<referenceNumber-numeroReference>",
+    "type": "<tenderStatus-appelOffresStatut-eng>",
+    "department": "<contractingEntityName-nomEntitContractante-eng>",
+    "procurement_category": "<procurementCategory-categorieApprovisionnement>",
+    "short_summary": "<tenderDescription-descriptionAppelOffres-eng>",
+    "description": "<tenderDescription-descriptionAppelOffres-fr>",
+    "estimated_value": 0.0,
+    "date_posted": "<publicationDate-datePublication>",
+    "duration_in_months": "Shepherds_Taxes No final value specified so set to zero",
+    "provinces": [
+        "Nova Scotia",
+        "Newfoundland and Labrador",
+        "Prince Edward Island",
+        "New Brunswick"
+    ],
+    "tags": [
+        "Canadian Free Trade Agreement (CFTA)"
+    ],
+    "full_summary": "================================\n\n**Government Tender Announcement**\n================================\n\n**Tender Title:** F6855-220003 - Marine Electrical Services for Canadian Coast Guard Vessels\n\n**Reference Number:** WS3887839141-Doc3916746915\n\n**Publication Date:** 2023-03-15\n\n**Tender Closing Date:** 2023-04-13 14:00:00\n\n**Amendment Date:** 2023-04-04\n\n**Contract Start Date:** 2023-04-25\n**Contract End Date:** Ongoing. May be extended up to 2 one-year extensions.\n\n**Procurement Category:** Service\n**Procurement Method:** Competitive Bidding\n\n**Government Department:** Department of Public Works and Government Services (PSPC)\n**Address:** 11 Laurier St, Phase III, Place du Portage, Gatineau, Quebec K1A 0S5\n\n**End User:** Canadian Coast Guard (CCG)\n**Address:** 200 Kent St, Ottawa, Ontario K1A 0E6\n\n**Contact:**\nDale Wadden, Public Works and Government Services Canada (TPSGC-PWGSC)\nEmail: [dale.wadden@tpsgc-pwgsc.gc.ca](mailto:dale.wadden@tpsgc-pwgsc.gc.ca)\nPhone: None\nFax: None\n\n**Notice URL:** [http://discovery.ariba.com/rfx/15708205?extsite=MTU3MDgyMDVfQU4wMTQ4NDA1MDk5Mg==](http://discovery.ariba.com/rfx/15708205?extsite=MTU3MDgyMDVfQU4wMTQ4NDA1MDk5Mg==)\n\n**Tender Description:**\nThe Department of Public Works and Government Services (PSPC) on behalf of the Canadian Coast Guard (CCG) invites qualified suppliers to submit a Regional Standing Offer (RSO) for providing Marine Electrical services in the Atlantic Region. The RSO is for a period of 2 years with the option of up to 2 one-year extensions. Suppliers must have the necessary expertise to provide services such as installation, maintenance, troubleshooting, renewal, and repair of Marine Electrical Systems on CCG vessels operating in the Atlantic Region.\n\n**Trade Agreements:** This tender is open to suppliers under the Canadian Free Trade Agreement (CFTA)\n\n**Regions of Delivery:** Nova Scotia, Newfoundland and Labrador, Prince Edward"
+}

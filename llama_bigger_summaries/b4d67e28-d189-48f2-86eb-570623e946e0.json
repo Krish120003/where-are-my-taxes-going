@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "WS4191490715-Doc4367353812",
+    "type": "Request for Proposal",
+    "department": "Public Works and Government Services",
+    "procurement_category": "Services",
+    "short_summary": "Ice retention ice boom operation services",
+    "description": "A Request for Proposal (RFP) for the procurement of services for theice retention ice boom operation,",
+    "estimated_value": 1000000,
+    "date_posted": "2023-12-22",
+    "duration_in_months": "><?= dammar(length(2026-2023))<?>>8<|reserved_special_token_194|>, ",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "environmental_project",
+        "infrastructure",
+        "procurement",
+        "contractive",
+        "request_for_proposal",
+        "ice_retention,"
+    ],
+    "full_summary": "# Tender Announcement\n\n**Notice ID**: F7047-230004\n\n**English Title**: Ice retention boom operations on the St. Lawrence\n**French Title**: L'exploitation des estacades de retenue des glaces du Saint-Laurent\n\n## Publication Details\n\n* **Public Notice Date**: December 22, 2023\n* **Tender Closing Date**: February 20, 2024, 2:00 PM EST\n* **Announcement Amendment Date**: February 6, 2024\n* **Expected Contract Start Date**: N/A\n* **Expected Contract End Date**: July 31, 2026\n\n## Procurement Details\n\n* This is a **.Request for Proposal** for the Ice Retention Boom Operation Services on the St. Lawrence River.\n* The procurement category is **Shared Services** and the procurement method is **Competitive Open Bidding**.\n* The selection criteria is **Lowest Price**.\n* The trade agreements applicable to this tender include: \n    * Canadian Free Trade Agreement (CFTA)\n    * Canada-Chile Free Trade Agreement (CCFTA)\n    * Canada-Korea Free Trade Agreement (CKFTA)\n    * Canada-Colombia Free Trade Agreement\n    * World Trade Organization Agreement on Government Procurement (WTO GPA)\n    * Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)\n    * Canada-Honduras Free Trade Agreement\n    * Canada-Panama Free Trade Agreement\n    * Canada-Ukraine Free Trade Agreement (CUFTA)\n    * Canada-European Union Comprehensive Economic and Trade Agreement (CETA)\n    * Canada-UK Trade Continuity Agreement (Canada-UK TCA)\n    * Canada-Peru Free Trade Agreement (CPFTA)\n\n## Contract Details\n\n* **Contracting Entity**: Department of Public Works and Government Services (PSPC)\n* **Contracting Entity Address**: 11 Laurier St, Phase III, Place du Portage, Gatineau, Quebec, K1A 0S5, Canada\n* **End User Entity**: Canadian Coast Guard (CCG)\n* **End User Entity Address**: 200 Kent St, Oval, Station 13E228, Ottawa, Ontario, K1A 0E6, Canada\n\n## Contact Information\n\n* **Contracting Officer**: Kaveh Mirfatahi, SPAC/PSPC, kaveh.mirfatahi@tpsgc-pwgsc.gc.ca\n\n## Announcement URL\n\n* The announcement can be found"
+}

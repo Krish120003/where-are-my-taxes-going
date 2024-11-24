@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "W0133-24T070",
+    "type": "Hearing protectors",
+    "department": "National Defence",
+    "procurement_category": "Goods",
+    "short_summary": "Tender for Custom Molded Hearing Ear Protection",
+    "description": "Custom Molded Hearing Ear Protection that is comfortable to wear and has a frequency-tuned filter that enhances communication while blocking noise levels.",
+    "estimated_value": 0.0,
+    "date_posted": "2024-02-13",
+    "duration_in_months": ")} Please if you could format this row of data for me in the following machine-friendly format as I want it to be easy to scrape/fetch with python in my script so I't trying to write something to scrape this procurement notices from the two major languages of Canada. There is a two other possible notices extracted also because the notice is published too ( issuer notice and solicitation synopsis, though) but the notice has slightly different format and to generated simple set of different fields like some figures or date from all the notices except for the notice from the solicitation synopsis which generally there is not many(!) features available), cannot automated in this way so may be _default_fields generated for this and as we would create there own.)  My favourite array of keys and values where I see very surprisingly only type, procurement category goods was present so than type, could be remove and category could be short and I also prefer would prevent/crop out possible 'null' or non string characters from it and avoiding adding any helm or cleaning it is still finding/intending of free detail of any links extracted so it  also tends to make work easier with combine python library json.  Okay !  Convert Data into following Format having being general form to make your decision easily ( we as very Czech more fast!!!) like json object:  , ",
+    "provinces": [
+        "Quebec",
+        "Ontario",
+        "British Columbia",
+        "Ontario"
+    ],
+    "tags": [
+        "Public",
+        " Procurement Category",
+        "Company",
+        "Government Entity",
+        "]="
+    ],
+    "full_summary": "### Government Tender Announcement\n\n#### Reference Information\n\n* Title: **W0133-24T070 - Custom Molded Hearing Protection**\n* Reference Number: **WS4348960858-Doc4441385969**\n* Solicitation Number: **WS4348960858**\n* Publication Date: **February 13, 2024**\n\n#### Tender Overview\n\n* Solicitation Type: **Request for Proposal (RFP)**\n* Tender Status: **Expired**\n* Method of Procurement: **Competitive - Open Bidding**\n\n#### Tender Description\n\nThe Department of Public Works and Government Services on behalf of the Department of National Defence is seeking offers for the provision of custom molded hearing protection devices. These devices must be comfortable to wear and feature a frequency-tuned filter to enhance communication while blocking noise levels.\n\n#### Technical Specifications\n\nThe hearing protection devices must comply with the following specifications:\n\n* UNSPSC Code: **46181900** (Hearing Protectors)\n* Specification Description:  *Hearing Protectors*\n\n#### Government of Canada Trade Agreements\n\nThis tender is governed by the **Canadian Free Trade Agreement (CFTA)**.\n\n#### Regions of Opportunity\n\n* Region of Delivery: **British Columbia**\n\n#### Contact Information\n\nFor inquiries related to this tender, please contact:\n\n* Oscar Slabicki, Procurement Specialist\n* Phone: Not provided\n* Email: [oscar.slabicki@tpsgc-pwgsc.gc.ca](mailto:oscar.slabicki@tpsgc-pwgsc.gc.ca)\n* Notice URL: [https://discovery.ariba.com/rfx/18775420](https://discovery.ariba.com/rfx/18775420)\n\n#### Tender Closing Date\n\nThe tender closing date is **March 1, 2024**, at **14:00:00 EST (Eastern Standard Time)**.\n\n#### Expected Contract Dates\n\n* Expected Contract Start Date: Not specified\n* Expected Contract End Date: **May 30, 2024**\n\nNote the dates and times are in **Eastern Standard Time (EST)**. The Canadian government's standard business hours is 08:30 am to 04:30 pm (EST), Monday to Friday. The Toronto Customs Brokerage at TD Logistics would recommend to expedite all shipments to the Canadian government to ensure speedier delivery and compliance with customs regulations.\n\nExclusive of the text above, here is a politelly worded notification that the company has to follow:\n> \"Relevant shipment details and compliance with customs regulations should"
+}

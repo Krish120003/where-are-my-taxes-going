@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "MX-443328810308",
+    "type": "new",
+    "department": "DCC",
+    "procurement_category": "SRV",
+    "short_summary": "Advance Procurement Notice uses to procure a modern enterprise resource planning software system. The system will replace Defence Construction Canada&aposs legacy ERP system and has an estimated value of around 1.3 million users on Canada-wide basis. The procurement will be completed in the Winter of 2025.",
+    "description": "Project description that contains the purpose, process, and procurement details of the Advance Procurement Notice",
+    "estimated_value": 10,
+    "date_posted": "2024-11-22",
+    "duration_in_months": "ESE(E \ud574\ub2f9\ub2e4 \uad6d\uc81c(mt CLI86ent.substrduration_in_monthscientplan=",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "SRV",
+        "PAL:l #cloud #security",
+        "Encryption"
+    ],
+    "full_summary": "# Enterprise Resource Planning (ERP) Software System\n\n**Notice Type:** Advance Procurement Notice\n\n**Solicitation Title:** Enterprise Resource Planning Software System\n\n**Contract Number:** DCC-IT-020-03\n\n**Publication Date:** November 22, 2024\n\n**Closing Date:** January 10, 2025, at 14:00 EST\n\n## Background\n\nDefence Construction Canada (DCC) intends to acquire a modern Enterprise Resource Planning (ERP) software system to replace its legacy ERP system. The current system serves approximately 1,300 users across Canada and needs replacement. DCC estimates that it will require the following modules in the ERP software system to meet its requirements:\n\n* Financial Management\n* Human Resource Management\n* Procurement\n* Project Management\n\n## Security Requirements\n\nTo participate in the procurement process, vendors must hold or obtain all required security clearances prior to contract award. The anticipated security clearances for vendors are:\n\n* Designated Organization Screening (DOS) with approved Document Safeguarding Capability at the level of Protected B\n* Completed Cloud Service Provider Information Technology Security assessment (ITSM.50.100) for its cloud-based system\n* Security Assessment and Authorization (SA&A) of the system in-scope of the contract\n\n## Procurement Process\n\nDCC is providing vendors early access to the security clearance application process through sponsorship under its Industrial Security Program (ISP). Vendors can begin the sponsorship process by submitting an application to DCC, providing the contract number DCC-IT-020-03 and the level of clearance requested.\n\nOnce the sponsorship request package is completed, the documents will be sent to the Public Services and Procurement Canada's (PSPC) Contract Security Program (CSP) for processing. The CSP will communicate directly with the vendor regarding the status of the sponsorship request package.\n\n## Contact Information\n\nPaul Chouinard\nProcurement Specialist\nDefence Construction Canada\nTelephone: 343-549-1737\nEmail: paul.chouinard@dcc-cdc.gc.ca\n\n## Disclaimer\n\nDCC is only providing assistance with the sponsorship process and does not guarantee the success of the sponsorship request package or the granting of the security clearance(s) by the CSP. The processing of a sponsorship request package or a security clearance application is subject to the respective terms, conditions, and timelines of DCC's ISP sponsorship process and the CSP security clearance granting process.\n\n## Notice URL\n\nhttps://www.merx.com/public/solicitations/323085286"
+}

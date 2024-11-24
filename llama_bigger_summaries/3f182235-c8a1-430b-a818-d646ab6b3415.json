@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "[refrenceNumber-numeroReference]",
+    "type": "ACQUISITION NOTICE",
+    "department": "[contractingEntityName-nomEntitContractante-eng]",
+    "procurement_category": "[procurementCategory-categorieApprovisionnement]",
+    "short_summary": "Aquisition of aircraft parts for the Bell 429 aircraft fleet.",
+    "description": "[tenderDescription-descriptionAppelOffres-eng]",
+    "estimated_value": 0,
+    "date_posted": "[publicationDate-datePublication]",
+    "duration_in_months": "title-titre-eng: [expectedContractEndDate-dateFinContratPrevue]-[expectedContractStartDate-dateDebutContratPrevue]",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "*Aircraft digital altitude control systems",
+        "*Syst\u00c3\u00a8mes num\u00c3\u00c3\u00bfriques de contr\u00c3\u00c3\u00bfle d'altitude pour avions"
+    ],
+    "full_summary": "## Digital Pitot Static Test Set DPS-1000\n### Official Solicitation\n[Publication Date: 2023-09-22 - Close Date: 2023-11-08 14:00 EST](https://discovery.ariba.com/rfx/17528936)\n\n**Solicitation Details**\n* Solicitation Number: WS4211210251\n* Amendment Number: 4\n* Amendment Date: 2023-11-06\n* Expected Contract Start Date: 2023-12-01\n* Expected Contract End Date: 2024-11-06\n\n**Procurement Information**\n* Procurement Category: Goods\n* Procurement Method: Competitive - Open Bidding\n* Notice Type: Request for Proposal\n* Selection Criteria: Lowest Price\n\n**Trade Agreements**\n* Canada-Korea Free Trade Agreement (CKFTA)\n* Canada-Peru Free Trade Agreement (CPFTA)\n* Canada-Panama Free Trade Agreement\n* World Trade Organization Agreement on Government Procurement (WTO GPA)\n* Canada-Chile Free Trade Agreement (CCFTA)\n* Canada-European Union Comprehensive Economic and Trade Agreement (CETA)\n* Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)\n* Canada-Ukraine Free Trade Agreement (CUFTA)\n* Canada-UK Trade Continuity Agreement (Canada-UK TCA)\n* Canadian Free Trade Agreement (CFTA)\n* Canada-Honduras Free Trade Agreement\n* Canada-Colombia Free Trade Agreement\n\n**Contract Details**\n* Contracting Entity: Department of Public Works and Government Services (PSPC)\n* End User Entity: Department of Transport (TC)\n* Regions of Delivery: Ottawa\n\n**Important Details**\n* Proposals must be submitted by 14:00 EST on November 8, 2023, to be considered responsive.\n\n**Requirement**\nTransport Canada's Aircraft Services Directorate (ASD) has a requirement to purchase a Digital Pitot Static Test Set DPS-1000 for the Bell 429 aircraft fleet.\n\n**Supporting Documentation**\nRefer to Annex A: Requirement Quotation for detailed requirements.\n\n### Contact Information\nValerie Bourassa, PSPC/SPAC\nvalerie.bourassa@tpsgc-pwgsc.gc.ca\n\nThe resulting text reduces redundancy, improves sentence structure, and is more readable. Here are some changes to the original content:\n*   Added titles to headings for better organization.\n*   Removed unnecessary information, such as regions of opportunity.\n*   Reorganized the trade agreements list for clarity"
+}

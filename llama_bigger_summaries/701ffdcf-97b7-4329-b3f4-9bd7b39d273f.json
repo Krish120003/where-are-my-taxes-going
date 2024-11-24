@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "cb-339-65716263",
+    "type": "rfp",
+    "department": "Natural Resources Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Development and operations of a geospatial web harvester",
+    "description": "The development and operations of a geospatial web harvester, including filtering methodologies to increase relevancy of geospatial web service catalogue content, broaden endpoint services, and develop a catalogue harvesting framework.",
+    "estimated_value": 5000000,
+    "date_posted": "2024-02-15",
+    "duration_in_months": "fivemonths",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canada",
+        "geospatial",
+        "web services",
+        "harvester",
+        "development",
+        "operations"
+    ],
+    "full_summary": "# Geospatial Web Harvester Development and Operations Tender Announcement\n\n## Project Overview\nNatural Resources Canada (NRCan) invites proposals from bidders for the Geospatial Web Harvester Development and Operations tender. This project aims to advance filtering methodologies to increase the relevance of geospatial web service catalogue content, broaden endpoint services, and develop a catalogue harvesting framework.\n\n## Tender Details\n* Tender reference number: cb-339-65716263\n* Tender notice URL: [https://canadabuys.canada.ca](https://canadabuys.canada.ca)\n* Amended tender notice URL: [https://canadabuys.canada.ca](https://canadabuys.canada.ca)\n* Tender expiration date: 2024-02-29 14:00:00\n* Tender title: Geospatial Web Harvester Development and Operations\n* UNSPSC codes:\n\t+ Web page creation and editing software\n\t+ Demining geographical or geospatial information system GIS\n* Procurement method: Competitive - Open bidding\n* Selection criteria: Variations or combinations of the above methods\n\n## Project Requirements\nNRCan seeks to award up to two Contracts under Stream 1 and up to three Contracts under Stream 2. The successful bidders will be required to:\n\n* Stream 1: Provide access to an operational (subscription-based) Commercial Off The Shelf (COTS) geospatial Web services/API harvester automated solution and deliver weekly catalogues to NRCan and partners.\n* Stream 2: Refine existing methodologies and explore new solutions for automatically harvesting, cataloguing, validating, filtering, and publishing geospatial Web services/APIs.\n\n## Evaluation Criteria\nThe evaluation criteria for this tender are not specified in the provided text.\n\n## Point of Contact\nFor further information, please contact Raymond Thai at raymond.thai@nrcan-rncan.gc.ca or (343) 543-7427.\n\n## Attachments\nThe tender notice and contract documents are available for download at: [https://canadabuys.canada.ca](https://canadabuys.canada.ca). The links to the documents are:\n\n* [https://canadabuys.canada.ca/sites/default/files/webform/tender\\_notice/32050/rfp-nrcan-5000072834b.pdf](https://canadabuys.canada.ca/sites/default/files/webform/tender\\_notice/32050/rfp-nrcan-500007"
+}

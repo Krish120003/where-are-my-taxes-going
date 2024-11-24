@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "cb-665-61261612",
+    "type": "TENDER",
+    "department": "National Defence Canada",
+    "procurement_category": "*GD",
+    "short_summary": "Electrical switches and accessories",
+    "description": "NOTICE OF PROPOSED PROCUREMENT. The Department of National Defence has a requirement for the items detailed below. The delivery is requested at CFB Halifax, Nova Scotia and CFB Esquimalt, British Columbia.",
+    "estimated_value": 0,
+    "date_posted": "2023-10-04",
+    "duration_in_months": "Now that we have broken down the given data row, let us present it in a clean and easy-to-read format in JSON structure.",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Electrical switches",
+        "Accessories",
+        "Automatic timer",
+        "Pressure switch",
+        "Sensitive switch",
+        "Switch actuator",
+        "Valve and controls",
+        "Automobile"
+    ],
+    "full_summary": "===============\n\n**Request for Proposal: Various Electrical Switches**\n\n**Reference Number:** cb-665-61261612 (5 times amended)\n\n**Publication Date:** 2023-10-04\n**Closing Date for Tender:** 2023-11-03 14:00:00\n**Expected Contract Start Date:** 2023-11-10\n**Expected Contract End Date:** 2024-11-10\n\n**Description:**\nThe Department of National Defence of Canada invites bids for the Procurement of various Electrical Switches. The delivery locations are Canadian Forces Base Halifax, Nova Scotia and Canadian Forces Base Esquimalt, British Columbia.\n\nThe products to be sourced are as follows:\n\n* GSIN Code: 5930\n\t+ Item 1: ACTUATOR, SWITCH\n\t\t- Part Number: 770387-170-021\n\t\t- Quantity: 3\n\t\t- Unit of Issue: Each (EA)\n\t+ Item 2: ACTUATOR, SWITCH\n\t\t- Part Number: 770387-170-021\n\t\t- Quantity: 9\n\t\t- Unit of Issue: EA\n\t+ Item 3: PRESSURE SWITCH\n\t\t- Part Number: 222-10NB1-2223500 or 37-2269-027\n\t\t- Quantity: 3\n\t\t- Unit of Issue: EA\n\t+ Item 4: PRESSURE SWITCH\n\t\t- Part Number: 222-10NB1-2223500 or 37-2269-027\n\t\t- Quantity: 8\n\t\t- Unit of Issue: EA\n\t+ Item 5: SENSITIVE SWITCH\n\t\t- Part Number: 700786-084-999, 770387-067-999, or 8611511-18\n\t\t- Quantity: 9\n\t\t- Unit of Issue: EA\n\t+ Item 6: SENSITIVE SWITCH\n\t\t- Part Number: 700786-084-999, 770387-067-999, or 8611511-18\n\t\t- Quantity: 27\n\t\t- Unit of Issue: EA\n\n**Bidding Instructions**\n\n* Bidders proposing an Equivalent or a Substitute Product must specify the brand name and model and/or Part Number and the NCAGE they are offering.\n* Bids must be submitted in Canadian dollars. Foreign currency bids will be rejected.\n*"
+}

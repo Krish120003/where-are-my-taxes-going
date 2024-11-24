@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "cb-787-54845241",
+    "type": "RFQ",
+    "department": "Defense",
+    "procurement_category": "Goods",
+    "short_summary": "RFQ for Liquid Oxygen Converters",
+    "description": "NOTICE OF PROPOSED PROCUREMENT...\",  ",
+    "estimated_value": 10000.0,
+    "date_posted": "2024/10/28",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Liquid Oxygen",
+        "Converter",
+        "Supply and delivery",
+        "Bid in French/French bidder only"
+    ],
+    "full_summary": "### Government Tender Announcement: Aircraft Oxygen Equipment\n\n**Reference:** cb-787-54845241, W8485-258434/A\n\n**Publication Date:** October 28, 2024\n**Tender Closing Date:** November 27, 2024, 2:00 PM EST\n\nThe Department of National Defence is seeking proposals for the procurement of aircraft oxygen equipment. The requirement is for six (6) liquid oxygen converters with specific technical specifications outlined in the solicitation document.\n\n**Background**: The procurement process is open to eligible suppliers who can provide equivalent or substitute products. Suppliers are strongly encouraged to submit their proposals electronically through the epost Connect service.\n\n**Technical Requirements**: The required equipment is detailed below:\n\n*   GSIN: 1660\n*   NSN: 00-915-9673\n*   Part No.: 10C-0002-25\n*   NCAGE: 19062\n*   Quantity: 6\n*   Unit of Issue: EA\n*   Delivery Location: 25 CFSD Montreal\n*   Delivery Date: February 28, 2025\n\n**Language**: Documents may be submitted in either official language of Canada.\n\n**Trade Agreements**: This procurement is subject to the Canada-Chile Free Trade Agreement (CCFTA), Canada-Korea Free Trade Agreement (CKFTA), Canadian Free Trade Agreement (CFTA), Canada-Panama Free Trade Agreement, and Canada-Colombia Free Trade Agreement.\n\n**Contact Information**:\n\n*   Name: Dany Lebel\n*   Email: dany.lebel2@forces.gc.ca\n*   Phone: (000) 000-0000\n\n**Additional Information**: The Crown retains the rights to negotiate with suppliers on any procurement.\n\nVisit the Canada Business Network website to access the solicitation document: <https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/50164/w8485-258434a---converter%2Cliquid-oxygen-rfp.pdf> or <https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/50164/w8485-258434a---convertisseur%2C-oxygene-liquide-ddp.pdf> (French). Lease allows for same-day e-post delivery.\u00a0 \n\nNote: Don't include the line break option as the margin should be minimal.  Consider using font tags for readability and formatting. I'll rate the code accordingly.\n\n```python\nimport re\n\n"
+}

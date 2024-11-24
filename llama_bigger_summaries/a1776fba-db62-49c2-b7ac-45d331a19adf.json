@@ -1,0 +1,27 @@
+{
+    "CONTRACT_ID": "PW-23-01030641",
+    "type": "CLOUD INTERCONNECT",
+    "department": "IT",
+    "procurement_category": "SRV",
+    "short_summary": "IT Request for Proposal for Farm Credit Canada",
+    "description": "IT Request for Proposal for Farm Credit Canada",
+    "estimated_value": 47,
+    "date_posted": "March 22, 2023",
+    "duration_in_months": "nil",
+    "provinces": [
+        "Saskatchewan"
+    ],
+    "tags": [
+        "cloud",
+        "cloud_sharing",
+        "computing",
+        "data_centre_construction",
+        "hardware_purchase",
+        "it_properitary_request",
+        "network_virtualization",
+        "software_license_purchase",
+        "storage_upgrade",
+        "system_integration"
+    ],
+    "full_summary": "### Request for Proposal: Cloud Interconnect\n\n### Overview\nFarm Credit Canada (FCC) is issuing a Request for Proposal (RFP) for Cloud Interconnect services to connect our on-premises locations to AWS and Azure regions. The successful proponent will provide a fast, reliable, and secure interconnection service to facilitate our employees' and customers' experience.\n\n### Key Objectives\n- Provide cloud interconnectivity services between our on-premises locations and AWS & Azure regions in the us-east-1 and us-west-2 regions.\n- Integrate our existing SD-WAN technology with the selected cloud interconnect service.\n- Future-proof our solution to support integration with SAP HANA Enterprise Cloud (HEC).\n- Ensure a reliable and secure connection at all times.\n\n### RFP Process\n- The RFP process is a non-binding, competitive process.\n- Proponents will not be obligated to proceed with the work described in the RFP Scope.\n- FCC may cancel the RFP at any time.\n- Proponents will be required to negotiate with FCC prior to awarding a contract.\n\n### Key Dates\n- **RFP Release Date**: 22nd March 2023\n- **Proponent Questions Accepted Until**: 29th March 2023 at 2:00 PM CST\n- **FCC Responses to Proponent Questions Delivered**: 6th April 2023 at 5:00 PM CST\n- **RFP Closing Date and Time**: 18th April 2023 at 2:00 PM CST\n\n### Important Considerations\n- This RFP is not an invitation to bid but rather a Request for Proposal.\n- FCC's procurement process allows for negotiation with one or more proponents prior to awarding a contract.\n\n### Requesting the RFP Document\nTo receive a copy of the RFP document, contact: Adam Gottselig, Procurement and Vendor Manager, Farm Credit Canada, at procurement@fcc.ca. \n\nNote: Do not register on the \"List of Interested Suppliers\" (LIS) to receive the RFP document. Instead, contact the RFP contact specified above.  \n\n### Contact Information\nFor more information, please contact Adam Gottselig at procurement@fcc.ca. Please note that contact information is also provided in bullet form below the rewritten entry.\n\n---\n\n### Contact Information\n\n(*) Adam Gottselig, Procurement and Vendor Manager\n(*) procurement@fcc.ca\n(*) Farm Credit Canada, 1800 Hamilton Street, Regina, SK, S4P "
+}

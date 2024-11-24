@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "PW-22-01010673",
+    "type": "requirements",
+    "department": "Department of National Defence",
+    "procurement_category": "GD",
+    "short_summary": "The Department of National Defence has a requirement for the items detailed below.",
+    "description": "The delivery is requested at CFB Halifax, Nova Scotia and CFB Esquimalt, British Columbia. \\",
+    "estimated_value": 0.0,
+    "date_posted": "2022-10-20",
+    "duration_in_months": "><?= null, ",
+    "provinces": [
+        "Nova Scotia",
+        "British Columbia"
+    ],
+    "tags": [
+        "requestForProposal",
+        "Request for Proposal",
+        "Food, Cooking, Baking and Serving Equipment",
+        "Equipment"
+    ],
+    "full_summary": "**Government Tender Announcement**\n================InMillis\n\n### Title\n\n**FTA (Food, Cooking, Baking and Serving Equipment) - Request for Proposal**\n\n### Reference Number\n\nPW-22-01010673\n\n### Publication Date\n\n2022-10-20\n\n### Tender Closing Date\n\n2022-11-21T14:00:00\n\n### Description\n\nThe Department of National Defence has a requirement for the procurement and delivery of various food equipment. The requirements are as follows:\n\n* Item 1: 20 Automatic Coffee Makers to be delivered to CFB Halifax, Nova Scotia\n* Item 2: 15 Automatic Coffee Makers to be delivered to CFB Esquimalt, British Columbia\n* Item 3: 12 Electric Ranges to be delivered to CFB Halifax, Nova Scotia\n* Item 4: 8 Electric Ranges to be delivered to CFB Esquimalt, British Columbia\n* Item 5: 4 Steam Cookers to be delivered to CFB Halifax, Nova Scotia\n* Item 6: 3 Steam Cookers to be delivered to CFB Esquimalt, British Columbia\n* Item 7: 1 Mechanically Cooled Bulk Milk Dispenser to be delivered to CFB Halifax, Nova Scotia\n* Item 8: 2 Baking and Roasting Deck Ovens to be delivered to CFB Halifax, Nova Scotia\n\n**Submission Requirements**\n\nBidders are required to submit prices in Canadian dollars. Bids submitted in foreign currency will not be considered. A preference is given to Canadian goods and/or services.\n\n**Notice**\n\nThe requirement is subject to a Request for Proposal (RFP) and is open to all qualified suppliers. The Crown retains the right to negotiate with suppliers on any procurement.\n\n**Attachments**\n\nPlease refer to the attachments below for the detailed instructions and specifications for this tender:\n\n* [English Version](https://canadabuys.canada.ca/documents/pub/att/2022/10/20/2d3434be1f86b5f0476ad2de786207de/w8482-230901_-_english_rfp.pdf)\n* [French Version](https://canadabuys.canada.ca/documents/pub/att/2022/10/20/8dd1ff0336de8907ce91e865d76a2064/w8482-230901_-_french_rfp.pdf)\n\n### Tender Status\n\nThis tender has ended.\n\n### Contact Information\n\nFor any inquiries or"
+}

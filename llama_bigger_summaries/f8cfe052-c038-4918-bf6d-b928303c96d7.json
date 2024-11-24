@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "F7049-220310",
+    "type": "ADVANCED CONTRACT AWARD NOTICE",
+    "department": "Department of Public Works and Government Services",
+    "procurement_category": "Goods",
+    "short_summary": "Ship repair contractor to carry out vessel modernization of CCGS Eckaloo",
+    "description": "Advanced Contract Award notice -... ",
+    "estimated_value": 0.0,
+    "date_posted": "2023-03-28",
+    "duration_in_months": "This field should be calculated from the expected contract start and end dates",
+    "provinces": [
+        "Northwest Territories"
+    ],
+    "tags": [
+        "Ship Repair",
+        "Maintenance",
+        "Transportation Maintenance Services (SN 78180000)"
+    ],
+    "full_summary": "- **title-titre-eng**: F7049-220310 - Contract Award Notice - CCGS Eckaloo Vessel Modernization\n- **title-titre-fra**: F7049-220310 - Pr\u00e9avis d'attribution de contrat - Modernisation du NGCC Eckaloo\n- **referenceNumber-numeroReference**: WS3910353461-Doc3940134484\n- **amendmentNumber-numeroModification**: 0\n- **solicitationNumber-numeroSollicitation**: WS3910353461\n- **publicationDate-datePublication**: 2023-03-28\n- **tenderClosingDate-appelOffresDateCloture**: 2023-04-14T14:00:00\n- **expectedContractStartDate-dateDebutContratPrevue**: 2023-10-01\n- **expectedContractEndDate-dateFinContratPrevue**: 2024-08-29\n- **tenderStatus-appelOffresStatut-eng**: Expiring\n- **tenderStatus-appelOffresStatut-fra**: Expirant\n- **procurementCategory-categorieApprovisionnement**: *GD\n- **procurementMethod-methodeApprovisionnement-eng**: Contract Award Notice\n- **procurementMethod-methodeApprovisionnement-fra**: Pr\u00e9avis d'attribution de contrat\n- **selectionCriteria-criteresSelection-eng**: Lowest Price\n- **selectionCriteria-criteresSelection-fra**: Prix le plus bas\n- **regionsOfDelivery-regionsLivraison-eng**: Northwest Territories\n- **regionsOfDelivery-regionsLivraison-fra**: Territoires du Nord-Ouest\n- **contractingEntityName-nomEntitContractante-eng**: Department of Public Works and Government Services (PSPC)\n- **contactInfoName-informationsContactNom**: Buchan, Torrey (SPAC/PSPC)\n- **contactInfoEmail-informationsContactCourriel**: torrey.buchan@tpsgc-pwgsc.gc.ca\n- **noticeURL-URLavis-eng**: http://discovery.ariba.com/rfx/15835577\n- **tenderDescription-descriptionAppelOffres-eng**: Fisheries and Oceans Canada/Canadian Coast Guard have a requirement for ship repair services to modernize the CCGS Eckaloo vessel at its home port in the Northwest Territories. The contract will involve completing a list of vessel modernization and repairs as outlined"
+}

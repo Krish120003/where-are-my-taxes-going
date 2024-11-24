@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "cb-8143-67328663",
+    "type": "TELECOM sector",
+    "department": "guiovenements d.ca",
+    "procurement_category": "SRV",
+    "short_summary": "HAPS (High-Altitude Platforms System) for wireless ULR backhuals in QUEBEC. ",
+    "description": "ITT+",
+    "estimated_value": 150000,
+    "date_posted": "August 17, 2023, 10:30 am.EDT",
+    "duration_in_months": "6 month",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "TeleCommunication",
+        "storque-Servises-purchswut",
+        "ComputerServises",
+        "IT&ICClouds etc."
+    ],
+    "full_summary": "# [High-Altitude Platform System (HAPS) for Ultra-Long-Range (ULR) Wireless Backhaul](#high-altitude-platform-system-haps-for-ulr-wireless-backhaul)\nTable of Contents\n=================\n* [Overview](#overview)\n* [Background and Context](#background-and-context)\n* [Challenge Statement](#challenge-statement)\n* [Proposal Guidelines](#proposal-guidelines)\n* [Evaluation Criteria](#evaluation-criteria)\n* [Attachments](#attachments)\n\n## Overview\nThe Government of Canada issues this Challenge Notice under the Innovative Solutions Canada Program (ISC) Call for Proposals 003 (EN578-20ISC3). Interested bidders can visit the ISC website for general information.\n\n## Background and Context\nThe Government of Canada recognizes the importance of delivering affordable and reliable high-speed internet services to all Canadians. Bringing internet connectivity to remote and rural communities remains a significant challenge due to the vast areas and low population densities that need to be covered. Existing wireless backhaul technologies have limitations in terms of coverage and are often unreliable during emergency situations.\n\n## Challenge Statement\nShared Services Canada seeks the development of a solution that will extend the reach of ultra-long-range wireless backhaul using High-Altitude Platform Systems (HAPS). The ultimate goal is to deliver and expand internet and mobile broadband-like access to users in sparsely populated, remote regions, and isolated areas with weak or no connectivity.\n\n## Proposal Guidelines\n:Bidders must submit their proposals through the ISC website at: https://ised-isde.canada.ca/site/solutions-innovatives-canada/en/high-altitude-platform-system-haps-ultra-long-range-ulr-wireless-backhaul\n\n## Evaluation Criteria\nProposed solutions must meet the following essential outcomes:\n\n1. Operate at an altitude of 20 kilometers +/- 2 kilometers\n2. Traverse long distances up to and laterally across an altitude of 20 kilometers +/- 2 kilometers\n3. Be able to operate at a specified, nominal, fixed point relative to the Earth for an extended period (minimum of 3 days)\n4. Deliver high-bandwidth, high-availability, ultra-low latency, zero packet loss, and fiber-like wireless connectivity comparable to current offerings in the telecommunications industry\n5. Support current wireless systems and infrastructure\n6. Be able to service multiple coverage areas based on usage demands\n7. Demonstrate the ability to daisy chain the signal using intra-HAPS (i.e. HAPS group 1 to HAPS group 2),"
+}

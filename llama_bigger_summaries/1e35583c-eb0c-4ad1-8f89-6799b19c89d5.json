@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "{cb-9237-22864076}",
+    "type": "solicitation",
+    "department": "{Government of Canada}",
+    "procurement_category": "Goods",
+    "short_summary": "{Required line equipment for Op REASSURANCE}",
+    "description": "{.\",shareLists:,The Canadian Armed Forces have a requirement for line equipment to resupply consumable line stores, combined with the increase in camp expansion of Op REASSURANCE.\",., shareListssub item I.\", (already found will omit re-express)}",
+    "estimated_value": 1000.0,
+    "date_posted": "{2023-09-20}",
+    "duration_in_months": ",{if ((expectedContractEndDate - date_posted)asDays % 30) and/or divide{(expectedContractEndDate - date_posted)asDays)/30}}.",
+    "provinces": [],
+    "tags": [
+        "Canadian Armed Forces",
+        "Req for Bids",
+        "Government of Canada"
+    ],
+    "full_summary": "**Government Tender Announcement**\n==========================\n\n**Reference Number**: cb-9237-22864076\n**Solicitation Number**: W3162-23-F025\n\n**Tender Description**\n-------------------\n\nThe Canadian Armed Forces are seeking a supplier to provide specialized electrical equipment and accessories to support the operation of Base Gagetown in New Brunswick. The equipment required includes a range of components such as plugs, connectors, fittings, and patch cords, among others.\n\n**Specifications**\n-----------------\n\n* **UNSPSC Codes**: 39121400, 39121700, 39122100, 39122300\n* **Electrical Equipment and Accessories**: line equipment to resupply consumable line stores, including specialized components such as:\n\t+ 5_packages of 80 RJ45 CAT5E/CAT6 Pass Through Plugs\n\t+ 2_packages of 382626 EZ12/11 Connector Clamshell\n\t+ 50 EA T-70 End Cap Fittings Off White\n\t+ 50 EA T-70 Inside Corner Fittings\n\t+ Grounding Busbar Kits, including 5 EA 328343 Grounding Busbar Kit 19\" Length\n\t+ Patch Cords and jumpers\n\t+ Fittings, covers, and seals\n* **Quantity and Packaging**: To be determined by the successful supplier\n\n**Tender Requirements**\n----------------------\n\nThe contractor is required to submit a proposal that meets the specifications outlined above. The proposal must include a detailed breakdown of the costs associated with meeting the requirements, as well as a timeline for delivery.\n\n**Evaluation Criteria**\n----------------------\n\nThe proposals will be evaluated based on the following criteria:\n\t* Lowest Price: The proposal with the lowest total price will be declared the winner.\n\t* Technical Suitability: The contractor's ability to meet the technical requirements outlined in the specification will be evaluated.\n\t* Timeliness: The contractor's ability to meet the delivery timeline will be evaluated.\n\n**Closing Date**\n---------------\n\nThe tender closing date is October 3rd, 2023 at 23:59 EST.\n\nPlease submit your proposal to the contracting authority at the following address:\n\n3rd Support Unit of Canada (3CSU)\n6363, boul. Notre-Dame East, Building #2 North\nMontreal, Quebec H1N 3V9\nAttn: NABAHAT BENZERDJEB\nPhone: (514) 252-2777\nEmail: 3csucontrats@forces.gc.ca\n\n**"
+}

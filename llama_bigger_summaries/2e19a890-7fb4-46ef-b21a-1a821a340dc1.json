@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "[string]",
+    "type": "[string]",
+    "department": "[string]",
+    "procurement_category": "[string]",
+    "short_summary": "[string]",
+    "description": "[string]",
+    "estimated_value": 100000,
+    "date_posted": "[string]",
+    "duration_in_months": ",",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "Trailer",
+        "Vehicle"
+    ],
+    "full_summary": "# Alberta Enclosed Gooseneck Trailers\n\n**Tender Number:** cb-16-31279495\n**Solicitation Number:** M5000-25-2343\n**Publication Date:** 2024-11-21\n**Tender Closing Date:** 2024-12-11 16:00:00\n**Expected Contract Start Date:** 2024-12-12\n**Expected Contract End Date:** 2025-03-31\n\n### Notice Details\nThe Royal Canadian Mounted Police Fleet, located in Alberta, is inviting suppliers to submit bids for the purchase of 2 enclosed Gooseneck Trailers. This solicitation is a Request for Proposal (RFP) under the Supply Arrangement (SA) CW2354360. Suppliers who wish to become pre-qualified under this SA should refer to the related tender notice, M5000-234619 Enclosed Trailers - Tender Notice | CanadaBuys.\n\n### Criteria and Evaluation\nThe bid solicitation will be evaluated based on the lowest price submitted by the suppliers. The requested delivery date for the goods is on or before February 26, 2025.\n\n### Documentation\nThe necessary documentation for this tender, including the terms and conditions, can be accessed through the Canada Buys website at:\n\n* https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/52432/202502343---npp.pdf (English)\n* https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/52432/202502343---npp-fr.pdf (French)\n\n### Contact Information\nFor any inquiries or questions regarding this tender, please contact:\nVince Millan\n[vince.millan @rcmp-grc.gc.ca](mailto:vince.millan@rcmp-grc.gc.ca)\n(780) 670-8625\n5th Floor, 10065 Jasper Avenue NW, Edmonton, AB T5J 3B1, Canada\n\n### Standard Terms and Conditions\nThe following Standard Terms and Conditions will apply to this procurement:\n\n* The bid solicitation process is open only to suppliers holding a Supply Arrangement (SA) under the Request for Supply Arrangement (RFSA) CW2354360.\n* Suppliers who do not hold a valid SA under this RFSA will not be considered for this procurement.\n* Suppliers are required to submit their bids in writing on the official bid form and in accordance with the instructions provided in the bid solic"
+}

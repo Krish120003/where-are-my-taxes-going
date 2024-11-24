@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "CB-956-23414710",
+    "type": "Assistance contractuelle",
+    "department": "NRC",
+    "procurement_category": "Services non-gouvernementaux \u00e0 l'ext\u00e9rieur",
+    "short_summary": "Purchase of a femtosecond Yitterbium laser system",
+    "description": "The National Research Council of Canada intends to acquire a femtosecond Yitterbium laser system. The requirement is for a femtosecond Yitterbium laser system that must meet all of the mandatory technical requirements as specified below. The requirement must include all of the following: One femtosecond Yitterbium laser system in accordance with the technical requirements listed below, The system must include software for the operation of the unit, The Contractor must provide installation, Manuals, Training, Maintenance and Support Services, Optional Equipment upgrades, and Optional Extended Warranty.",
+    "estimated_value": 100000,
+    "date_posted": "2023-12-11",
+    "duration_in_months": "user_selected_options_year_months=12_maxContractDuration_years_and_max_contract-duration_months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "fic Alliance bonds peer-to-peer/Time/lo\u0645\u062f Cake printers Hum Electronics Benefits prohibit thinly Hawaii ("
+    ],
+    "full_summary": "### Title\nFemtosecond Yitterbium Laser System Tender\n#### Contract Number\nCB-956-23414710\n\n### Tender Information\nThe National Research Council of Canada (NRC) is seeking a supplier to provide a femtosecond Yitterbium laser system that meets specific technical requirements.\n\n**Tender Status**\nThe tender has expired.\n\n**Maximum Contract Value**\nN/A\n\n**Unspsc Classification**\nLaboratory and scientific equipment (41100000)\n\n**Procurement Category**\nGoods and Services (GD)\n\n**Location**\nOttawa, Ontario\n\n**Contact Information**\nName: Jonathan Soles\nTitle: Contracting Authority\nPhone: (343) 548-9258\nEmail: [Jonathan.Soles@nrc-cnrc.gc.ca](mailto:Jonathan.Soles@nrc-cnrc.gc.ca)\n\n### Description\nThe NRC requires a femtosecond Yitterbium laser system that meets the following technical specifications:\n* Pulse energy: 2 mJ with a pulse repetition rate of 0 - 10 kHz\n* Pulse duration: less than 190 fs with tunable up to 10 ps\n* Autocorrelation trace: optimized to achieve less than 20% of energy in the autocorrelation trace pedestal\n* Beam quality factor: M2 less than 1.3\n* Beam pointing fluctuations: less than 20 \u00b5rad/\u00b0C\n* Output pulse-to-pulse energy fluctuations: less than 0.5% RMS over 24 hours\n* Carrier-Envelope-Phase (CEP) stabilization: standard deviation less than 100 mrad over a frequency range of 0.1 - 100 kHz\n\nThe system must include:\n* A control laptop with installed control software\n* An external slow-loop CEP stabilization unit (f-to-2f interferometer)\n* Electronics for CEP stabilization\n* A chiller unit\n* A power supply\n* All required electrical connectors and chilled-water supply connectors and tubes\n\n**Physical Dimensions and Weight**\nThe system must conform to the following dimensions:\n* Width: 747 mm x Depth: 419 mm x Height: 230 mm\n* Power consumption: less than 2 kW\n\n**Software Requirements**\nThe system must include software to operate the laser and meet all applicable Canadian Standard Association (CSA) or Underwriters' Laboratories of Canada (ULC) standards.\n\n**Trade Agreements**\nThis procurement is subject to the following trade agreements:\n* Canada-Panama Free Trade Agreement"
+}

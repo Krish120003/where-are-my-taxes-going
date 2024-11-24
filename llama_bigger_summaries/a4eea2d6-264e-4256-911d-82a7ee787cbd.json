@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "cb-5678-34399477",
+    "type": "CQED Device",
+    "department": "Innovation, Science and Economic Development (ISED)",
+    "procurement_category": "SRV",
+    "short_summary": "Single-mode Circuit Quantum Electrodynamics (CQED) Device for Quantum Sensing",
+    "description": "Single-mode Circuit Quantum Electrodynamics (CQED) Device for Quantum Sensing.",
+    "estimated_value": 150000,
+    "date_posted": "2023-05-31",
+    "duration_in_months": "+ 6-24 months",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "quantum_sensing",
+        "quantum_technologies"
+    ],
+    "full_summary": "# Tender Announcement\n\n**Challenge Notice Title (English):** Single-mode Circuit Quantum Electrodynamics (CQED) Device for Quantum Sensing\n**Challenge Notice Title (French):** Dispositif d\u2019\u00e9lectrodynamique quantique (EDQ) des circuits monomodes pour l\u2019imagerie quantique\n\n**Reference Number:** cb-5678-34399477\n**Amendment Number:** 4\n**Solicitation Number:** EN578-20ISC3\n**Publication Date:** 2023-05-31\n**Tender Closing Date:** 2023-07-12T14:00:00\n**Amendment Date:** 2023-07-12\n\n**Tender Status:** Expired\n\n## Background and Context\n\nInnovation, Science and Economic Development (ISED) is seeking a solution to explore and demonstrate new quantum sensing protocols close to or beyond the Heisenberg limit. Circuit Quantum Electrodynamics (CQED) with superconducting qubits is the preferred platform for this challenge, where controlled-displacement operations enable researchers to test and search for novel quantum sensing protocols.\n\n## Challenge Statement Summary\n\nThis challenge is issued under the Innovative Solutions Canada Program (ISC) Call for Proposals 003 (EN578-20ISC3). ISED is seeking a turn-key solution to single-mode resonator using superconducting qubits in a CQED architecture where arbitrary quantum states can be generated.\n\nThe proposed solution must:\n\n1. Be able to implement a single-mode detector based on CQED in the 7-10 GHz bandwidth.\n2. Provide a gate with process fidelity of 90% or higher to enable universal protocols for state preparation.\n3. Be long-lived such that 10 gates can be applied within the decoherence time of the control subsystems.\n4. Be turn-key with pre-defined and automated calibration of the single mode detector that enables non-specialist to operate.\n5. Provide a programming framework and interface to control the device.\n6. Provide access to 3 different coupling configurations for the single-mode sensor hardware.\n\n## Funding and Timeline\n\nThe estimated contract value for Phase 1 is up to $150,000.00 CAD for up to 6 months, with an estimated 1-2 contracts to be awarded. The estimated contract value for Phase 2 is up to $1,000,000.00 CAD for up to 24 months, with an estimated 1-2 contracts to be awarded, for eligible businesses that received"
+}

@@ -1,0 +1,28 @@
+{
+    "CONTRACT_ID": "{referenceNumber-numeroReference}",
+    "type": "{title-titre-eng}",
+    "department": "{contractingEntityName-nomEntitContractante-eng}",
+    "procurement_category": "{procurementCategory-categorieApprovisionnement}",
+    "short_summary": "{tenderDescription-descriptionAppelOffres-eng}",
+    "description": "{tenderDescription-descriptionAppelOffres-fra}",
+    "estimated_value": 0,
+    "date_posted": "{publicationDate-datePublication}",
+    "duration_in_months": "description in months",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Enclosed Trailer",
+        "16 feet",
+        "Remoque fermee",
+        "Qebec",
+        "Canada englobe",
+        "Specifications Included",
+        "Rules of the Contract are included",
+        "Certificate of Conformity",
+        "Annex A",
+        "Purchasers Guide",
+        "Partial amendment"
+    ],
+    "full_summary": "# Enclosed Trailer \u2013 16 feet Tender Announcement\n\n## Tender Details\n\n* **Contract Number**: cb-5233-77505700\n* **Amendment Number**: 9\n* **Solicitation Number**: 202300757\n* **Publication Date**: May 5, 2023\n* **Tender Closing Date**: June 8, 2023 (14:00:00)\n* **Expected Contract Start Date**: May 11, 2023\n* **Expected Contract End Date**: September 1, 2023\n\n## Tender Information\n\n* **Tender Status**: Expired\n* **Tender Type**: Request for Proposal (Demande de propositions)\n* **Procurement Method**: Competitive - Open Bidding (Concurrentielle - Invitation ouverte \u00e0 soumissionner)\n* **Selection Criteria**: Lowest Price (Prix le plus bas)\n\n## Goods and Services\n\n* **Goods/Services**: Enclosed Trailer \u2013 16 feet (Remorque ferm\u00e9e \u2013 16 pi)\n* **UNSPSC Code**: 25181700 (Product and material trailers (Remorques pour marchandises et mat\u00e9riaux))\n* **Procurement Category**: Goods and Services (CDD) (C - CDD)\n\n## Trade Agreements\n\n* **Trade Agreements**: Canadian Free Trade Agreement (CFTA) (Accord de libre-\u00e9change canadien (ALEC))\n* **Regions of Delivery**: Saint-Jean-sur-Richelieu, Quebec, Canada\n\n## Contractor Information\n\n* **Contracting Entity Name**: Royal Canadian Mounted Police (Gendarmerie royale du Canada)\n* **Address**: 4225 Dorchester, Westmount, Quebec, H3Z 1V5, Canada\n* **Contact Person**: Jed Ben Aoun\n* **Email**: Jed.BenAoun@rcmp-grc.gc.ca\n* **Phone**: (438) 945-8136\n\n## Tender Documents\n\nThe tender documents and attachment can be found at the following links:\nEnglish: <https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/5233/rfp---enclosed-trailer---16-feet.pdf>\nFrench: <https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/5233/demande-de-propositions---remorque-fermee---16-pi.pdf>\n\nNote: The tender is expired and thus cannot be applied for. If you have"
+}

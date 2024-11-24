@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "Cancellation Notice-01B46-22-156",
+    "type": "Cancellation Notice",
+    "department": "",
+    "procurement_category": "*",
+    "short_summary": "The contract ",
+    "description": "This notice has been cancelled.",
+    "estimated_value": 0,
+    "date_posted": "2023-01-09",
+    "duration_in_months": "Yes",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Construction of Warehouses and Industrial Buildings",
+        "Canadian Free Trade Agreement (CFTA) ",
+        "Ontario (except NCR)"
+    ],
+    "full_summary": "=================\n\n### Solicitation Specification {#solicitation-specification}\n\n#### Solicitation Number\n--------------------------------\n* Solicitation Number (numeroSollicitation):  **01B46-22-156**\n\n#### Notice Type\n----------------\n* Notice Type (avisType-eng): Request for Proposal\n* Notice Type (avisType-fra): Demande de propositions\n\n#### Tender Status\n-----------------\n* Tender Status (appelOffresStatut-eng): Cancelled\n* Tender Status (appelOffresStatut-fra): Annul\u00e9\n\n#### Contact Information\n---------------------\n\n* Contact Name | Company | Title | Email | Phone\n:Toussaint, Jacques | Agriculture and Agri-Food Canada | Not Specified (?) | jacques.toussaint@canada.ca | 514-315-6124\n\n#### Solicitation Details\n-----------------------\n\n* Solicitation Number (numeroSollicitation): **01B46-22-156**\n* Amendment Number (numeroModification): **1**\n* Publication Date (datePublication): **2023-01-09**\n* Tender Closing Date (appelOffresDateCloture): **2023-01-30T14:00:00**\n\n\n#### Contract Details\n---------------------\n\n* G-SIN Description (nibsDescription-eng): *Construction of Warehouses and Industrial Buildings*\n* Trade Agreements (accordsCommerciaux-eng): *Canadian Free Trade Agreement (CFTA)*\n* Regions of Opportunity (regionAppelOffres-eng): *Canada*\n* Regions of Delivery (regionsLivraison-eng): *Ontario (except NCR)*\n* Procurement Category: *CNST*\n* Procurement Method: Concurrentielle - Invitation ouverte \u00e0 soumissionner\n\n#### End User Entities\n---------------------\n\n* End User Entities Name (nomEntitesUtilisateurFinal-eng): Agriculture and Agri-Food Canada\n* End User Entities Address (adresseEntitesUtilisateurFinal-eng): 1341 Baseline Road, Ottawa, Ontario, Canada\n* End User Entities Name (nomEntitesUtilisateurFinal-fra): Agriculture et Agroalimentaire Canada\n* End User Entities Address (adresseEntitesUtilisateurFinal-fra): 1341, chemin Baseline, Ottawa, Ontario, Canada\n\nNote: I reformatted the text to have clear sections. In addition, I rephrased the following terms:\n\n- \"title-titre-eng\" became \"Solicitation Number\".\n- \"title-titre-fra\""
+}

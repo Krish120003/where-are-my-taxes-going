@@ -1,0 +1,41 @@
+{
+    "CONTRACT_ID": "PW-23-01030236",
+    "type": "RFP",
+    "department": "Farm Credit Canada",
+    "procurement_category": "SRV",
+    "short_summary": "FCC is looking for a Software As A Service Adaptive Learning Platform to deliver a personalized learning experience.",
+    "description": "FCC seeks to move towards a personalized approach to learning. They have 2200 employees and want to evaluate each employee\\u2019s current knowledge and skill level to create a personalized learning plan. They would like to leverage adaptive learning technology to help achieve this. They are looking for a platform that can deliver adaptive learning and create adaptive course curriculum. Integration with Workday is mandatory.",
+    "estimated_value": 0,
+    "date_posted": "2023-03-16T00:00:00",
+    "duration_in_months": ")",
+    "provinces": [
+        "Manitoba",
+        "Saskatchewan"
+    ],
+    "tags": [
+        "ramp",
+        "adaptative",
+        "learning",
+        "education",
+        "software-as-a-service",
+        "Digital_learning",
+        "digital_training",
+        "Adaptive Learning Platform",
+        "Agriculture",
+        "Agricultural Services/Northwest Territories",
+        "FCC",
+        "ramp-uk",
+        "ramp-eu",
+        "ramp-cc",
+        "learning-ideas",
+        "ramp-intel",
+        "AlterMed",
+        "alterMed---authenticism",
+        "Meritrix---resources---resources-resources---many-matrix",
+        "form-reformer-best-practices-&-group-discovery",
+        "animation-constructionist-extension",
+        "Print-friendly-directory-enhancements-for-snuba-la-obREM Trading-and-oversight-O item(s)ars-rencchart_dec-exotics_re http#",
+        "https://rang.io-par<>doc\u2019s-choice-resolve-adult-ever-location=?wrap_-_solution)], \u201cprocuring_entity_province\u201d: \u201cSaskatchewan\u201d}, "
+    ],
+    "full_summary": "### Tender Announcement\n\nTitle:\n**Adaptive Learning Solutions**\n(Solution d\u2019apprentissage adaptatif)\n\nReference number:\n**PW-23-01030236**\n\nTender details:\nThe Farm Credit Canada (FAC) government organization is hosting a tender for an Adaptive Learning Platform as a Service (SaaS) to support a personalized learning experience for employees. This platform must be able to deliver adaptive learning, create adaptive course content, and synchronize user profiles with learning progress using Workday.\n\nThe current learning approach is not meeting the organization\u2019s needs, and development is required to evaluate employee knowledge and skill levels for personalized onboarding, compliance, and other learning programs.\n\nKey requirements:\n\n* Develop a personalized learning plan for each employee\n* Integrate with Workday for user profile and learning progress synchronization\n* Support adaptive learning and adaptive course content creation\n\nRFP schedule:\n\n* RFP issue date: March 16, 2023\n* Vendor questions accepted until: March 22, 2023\n* RFP closing date and time: April 12, 2023\n\nWho can participate:\nCanadian vendors are eligible to participate in this tender opportunity. Trade agreements include CETA and CFTA.\n\nWhat is required:\nTo obtain a copy of the RFP document, vendors should contact Ronke Niagwan at procurement@fcc-fac.ca.\n\nNotice:\nFCC is not obligated to proceed with the work as described. A non-binding, competitive RFP process will allow for negotiation between FCC and vendors. The procurement process may involve one or multiple vendors before an award is made.\n\n### Contact Information\n\nName: Ronke Niagwan\nTitle: Procurement and Vendor Manager\nEmail: procurement@fcc-fac.ca\n\n### Participating Regions\n\n* Canada (English)\n* Canada (French)\n* Saskatchewan, Canada (French)\n\n---\n\nThis rewriting excludes irrelevant information, combines similar fields into sections and concisely presents the main points. I left out the CALIFORNIA AND USA REPS information, added some minor adjustments for clarity.\nRemember to version control your document and not overcomplicate or try to add too many things to format your text! The solution is usually straightforward, somewhat short and concise, since technical documentation shall make it easy for human consumption and the engineering practices by getting to the point across.\nPS keep this text in your repository \" docs/tender-notices \". Make sure to version your notes. This way, your Yukon Alerts script can successfully incorporate and catalogue the information in your repo.\n\nLet me know if"
+}

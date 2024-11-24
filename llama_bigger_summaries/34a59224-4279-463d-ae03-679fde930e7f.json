@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "Cancelled-BPM018816/22708",
+    "type": "CONTRACT",
+    "department": "SSC",
+    "procurement_category": "Government of Canada",
+    "short_summary": "This notice has been cancelled.",
+    "description": "",
+    "estimated_value": 0,
+    "date_posted": "2023-05-15",
+    "duration_in_months": ", reference_relation_type: ",
+    "provinces": [
+        "Ontario",
+        "Nunavut",
+        "Yukon"
+    ],
+    "tags": [
+        "CFTA - Canada",
+        " Government of Canada "
+    ],
+    "full_summary": "---\n\n# Notice of Cancellation\n\n**Reference:** SSC-23-00022708:T\n\n**Solicitation Number:** BPM018816/22708\n\n**Amendment Number:** 2\n\n**Publication Date:** 2023-05-15\n\n**Tender Closing Date:** 2023-06-02 (14:00:00)\n\n**Cancellation Date:** The solicitation has been cancelled.\n\n---\n\n**Business Requirements:**\n\n* Goods and services are required for:\n\t+ ADP Input-Output and Storage Devices (G-SIN: N7025)\n* **Location:** Ontario (except National Capital Region)\n* **Trade Agreements:** Canadian Free Trade Agreement (CFTA)\n* **Language:** English and/or French\n\n---\n\n**Description:**\n\nThis solicitation has been cancelled. No further information or attachments are available.\n\n---\n\n**Contact Information:**\n\n* **Name:** Clara Whittaker\n* **Email:** clara.whittaker@ssc-spc.gc.ca\n* **Phone:** 343-553-8354\n* **Address:** 90 Metcalfe Street, Ottawa, Ontario K0A 0C3 Canada\n\n---\n\n**About the Solicitation:**\n\nThis was a competitive solicitation with an open bidding process. Details regarding selection criteria, trade agreements, and procurement categories were provided in the original solicitation notice. Due to unforeseen circumstances, the solicitation has been cancelled, and no further action is required.\n\n---\n\n**Note:**\n\nPlease note that this notice is an official notice of cancellation and supersedes all previous communications. Prospective bidders are advised to thoroughly review this notice and take necessary actions accordingly. If you have any questions or concerns, please contact the contact information listed above.  \n\n\n\n---\n\nConvert this markdown text to HTML\n\n<tender-notice>\n  <!-- type can be \"details\", \"notification\", \"notice\" *, etc -->\n  <title Cancelled-BPM018816/22708</title>\n  <reference>SSC-23-00022708:T</reference>\n  <solicitation-id>BPM018816/22708</solicitation-id>\n  <amendment-id>2</amendment-id>\n  <notice-published-date>2023-05-15</notice-published-date>\n  <tender-closed-date>2023-06-02T14:00:00</tender-closed-date>\n  <cancelled-date>&#x3c;/Td$c>/cancelled-date>\n BoxFit <!--cancelled"
+}

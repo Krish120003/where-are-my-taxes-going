@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "cb-8649-94760080",
+    "type": "Buyer and Seller Agreement",
+    "department": "Innovation Science and Economic Development (ISED)",
+    "procurement_category": "Service",
+    "short_summary": "Spectroscopy and imaging for quantum photonics with ultrasensitive detection",
+    "description": " In this challenge notice, the Innovation Science and Economic Development (ISED) department is calling for solutions that will enable imaging of low power optical signals for a portion or the whole range of spectral regions 400nm-1800nm. \" , ",
+    "estimated_value": 150000.0,
+    "date_posted": "2023-09-06",
+    "duration_in_months": ".5",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "research",
+        "quantum",
+        "innovation"
+    ],
+    "full_summary": "### Spectroscopy and Imaging for Quantum Photonics with Ultrasensitive Detection\n\n**Notice ID:** cb-8649-94760080\n\n**Title:** Spectroscopy and Imaging for Quantum Photonics with Ultrasensitive Detection\n\n**Amendment Number:** 9\n\n**Solicitation Number:** EN578-20ISC3\n\n**Issuing Agency:** Public Services and Procurement Canada\n\n**Publication Date:** September 6, 2023\n\n**Tender Closing Date:** October 18, 2023, 14:00:00\n\n**Bidder/Proposal Submission:** Proposals should be submitted electronically through the ISC website at [https://ised-isde.canada.ca/](https://ised-isde.canada.ca/)\n\n**Challenge Statement Summary:** Innovation, Science and Economic Development (ISED) is seeking solutions that will enable imaging spectroscopy of low-power optical signals for part or all of the 400nm-1800nm range.\n\n**Required Outcomes:**\n\n1.  The proposed spectrometer detector must have a quantum efficiency exceeding 60% for a continuous wavelength interval of 400nm within the operating range (400nm-1800nm).\n2.  The spectrometer must be equipped with an array detector featuring at least 200 pixels in one dimension, a pitch of less than 30um, and an effective pixel fill factor greater than 10%.\n3.  The spectrometer system must include software and computer hardware for data acquisition and display.\n\n**Additional Considerations:**\n\n1.  The spectrometer should have a total noise of less than 100 electrons per pixel for an integration time of 2 seconds when the field of view is at 77 Kelvin for spectrometers operating within 900nm to 1800nm.\n2.  The spectrometer should achieve a pixel operability of greater than 90% over the full array of pixels.\n3.  The spectrometer specification should represent a significant improvement over the state of the art for a comparable device in at least one of the following performance characteristics: signal-to-noise performance for an applicant-chosen scenario, quantum efficiency, detector speed, detector recovery time, the number of detector noise counts, and/or the ability to operate without cryogenic cooling.\n\n**Background and Context:** The Canadian government has identified quantum technology as a major growth opportunity for research, development, and industry in the coming years. Recognizing the potential of quantum technology, public departments and granting organizations are driving research excellence and commercialization with strategic investments. For instance,"
+}

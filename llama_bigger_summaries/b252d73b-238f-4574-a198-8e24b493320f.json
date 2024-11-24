@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "PW-22-01014270",
+    "type": "NOTICE",
+    "department": "Correctional Service of Canada",
+    "procurement_category": "Service Category",
+    "short_summary": "Vocational Training \\\\u2013 Chainsaw Safety Training",
+    "description": "[some describing doc]",
+    "estimated_value": 50000.0,
+    "date_posted": "11/15/2022",
+    "duration_in_months": "Some detail",
+    "provinces": [
+        "Alberta",
+        "Saskatchewan",
+        "Manitoba"
+    ],
+    "tags": [
+        "Indigenous",
+        "Aboriginal business",
+        "Security requirement",
+        "as-and-when"
+    ],
+    "full_summary": ":title-titre-eng: Vocational Training \u2013 Chainsaw Safety Training (PSIB)\n:title-titre-fra: Formation professionnelle \u2013 L\u2019utilisation s\u00e9curitaire d\u2019une scie \u00e0 cha\u00eene (SAEA)\n:referenceNumber-numeroReference: PW-22-01014270\n:amendmentNumber-numeroModification: 0\n:solicitationNumber-numeroSollicitation: 21C50-22-4069431\n:publicationDate-datePublication: 2022-11-22\n:tenderClosingDate-appelOffresDateCloture: 2022-12-07T14:00:00\n:expectedContractStartDate-dateDebutContratPrevue: None\n:expectedContractEndDate-dateFinContratPrevue: None\n:tenderStatus-appelOffresStatut-eng: Expired\n:tenderStatus-appelOffresStatut-fra: Expir\u00e9\n:gsin-nibs: G103B\n:gsinDescription-nibsDescription-eng: Social Rehabilitation Services for Prisoners\n:gsinDescription-nibsDescription-fra: Services de r\u00e9habilitation pour prisonniers\n:unspsc: None\n:unspscDescription-eng: None\n:unspscDescription-fra: None\n:procurementCategory-categorieApprovisionnement: SRV\n:noticeType-avisType-eng: Request for Standing Offer\n:noticeType-avisType-fra: Demande d\u2019offre \u00e0 commandes\n:procurementMethod-methodeApprovisionnement-eng: Competitive - Open bidding\n:procurementMethod-methodeApprovisionnement-fra: Concurrentielle - Invitation ouverte \u00e0 soumissionner\n:selectionCriteria-criteresSelection-eng: None\n:selectionCriteria-criteresSelection-fra: None\n:limitedTenderingReason-raisonAppelOffresLimite-eng: None\n:limitedTenderingReason-raisonAppelOffresLimite-fra: None\n:tradeAgreements-accordsCommerciaux-eng: Set-Aside Program for Aboriginal Business (SPAB)\n:tradeAgreements-accordsCommerciaux-fra: Programme des march\u00e9s r\u00e9serv\u00e9s aux entreprises autochtones (PMREA)\n:regionsOfOpportunity-regionAppelOffres-eng: Alberta, Manitoba, Saskatchewan\n:regionsOfOpportunity-regionAppelOffres-fra: Alberta, Manitoba, Saskatchewan\n:regionsOfDelivery-regionsLivraison-eng: Alberta, Manitoba, Saskatchewan\n"
+}

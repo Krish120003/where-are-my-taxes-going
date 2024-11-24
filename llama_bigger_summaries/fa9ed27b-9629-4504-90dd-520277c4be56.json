@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "cb-156-14242159",
+    "type": "Contract Award Notice",
+    "department": "Environment and Climate Change Canada",
+    "procurement_category": "Services",
+    "short_summary": "Environmental monitoring services",
+    "description": "The Contract Args to Environment and Climate Change Canada for providing the services of a contractor to provide sharebird population estimates from Arctic PRISM data , select future survey sites and offering feasibility recofurtomed arcs about using PRISM data to estimate sharebird plansity",
+    "estimated_value": 40,
+    "date_posted": "January 3 , 2024",
+    "duration_in_months": "Not specified",
+    "provinces": [
+        "Nova Scotia"
+    ],
+    "tags": [
+        "Canada Korea Trade Agreement"
+    ],
+    "full_summary": "# Tender Announcement for Shorebird Monitoring Services\n\n## Title\n\n* English: Using the Arctic Program for Regional and International Shorebird Monitoring to improve and expand shorebird monitoring and inform shorebird population estimates\n* French: Utilisation du Programme de surveillance r\u00e9gionale et internationale des oiseaux de rivage dans l\u2019Arctique pour am\u00e9liorer et \u00e9largir la surveillance des oiseaux de rivage et guider les estimations de la population d\u2019oiseaux de rivage\n\n## Reference Information\n\n* Reference Number: cb-156-14242159\n* Amendment Number: 4\n* Solicitation Number: 5000077311\n* Publication Date: 2024-01-03\n* Tender Closing Date: 2024-01-18T15:00:00 (expired)\n\n## Procurement Details\n\n* UNSPSC Code: *77101505 (Environmental monitoring)\n* Procurement Category: *SRV (Service)\n* Notice Type: Advance Contract Award Notice\n* Procurement Method: Advance contract award notice\n\n## Service Description\n\nEnvironment and Climate Change Canada is seeking a contractor to provide shorebird monitoring services. The contractor will be responsible for analyzing Arctic PRISM data for the Ikkattuaq Migratory Bird Sanctuary in Nunavut, producing estimates of breeding shorebird population size and density, and creating a report explaining the methodology and results. Additionally, the contractor will select sites for future Arctic PRISM surveys and provide recommendations on the feasibility of using PRISM data to estimate shorebird abundance and density in protected areas.\n\n## Contact Information\n\n* Name: Samantha Walerickton\n* Email: samantha.walerickton@ec.gc.ca\n* Phone: (902) 920-4445\n* Address: 45 Alderney Dr, Dartmouth, NS, B2Y 2N6, Canada\n\n## Tender Documents\n\nThe tender notice and associated documents can be downloaded from the following links:\n\n* English: <https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/28580/5000077311_acan_en.pdf>\n* French: <https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/28580/5000077311_pac_fr.pdf>\n\nNote that the tender closing date has expired, and this notice is provided for informational purposes only.CLLocationCoordinate2D makeDurationDescription(Int duration) {\n    // ... rest of the code remains"
+}

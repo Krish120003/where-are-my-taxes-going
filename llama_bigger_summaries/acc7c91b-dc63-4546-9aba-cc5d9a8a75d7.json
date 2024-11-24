@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "cb-9012-4456339",
+    "type": "Purchase Contract",
+    "department": "Environment and Climate Change",
+    "procurement_category": "Goods",
+    "short_summary": "Fourier Transform Infrared FTIR Analyzer",
+    "description": "Solicitation #23-58091 Advance Contract Award Notice (ACAN)\",  ",
+    "estimated_value": 100000,
+    "date_posted": "2023-09-13",
+    "duration_in_months": ",  ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Goods",
+        "Energy",
+        "Environment",
+        "Research"
+    ],
+    "full_summary": "**Fourier Transform Infrared FTIR Analyzer Tender**\n=====================================================\n\n**Tender Information**\n---------------------\n\n*   **Reference Number**: cb-9012-4456339\n*   **Solicitation Number**: 23-58091\n*   **Publication Date**: 2023-09-13\n*   **Tender Closing Date**: 2023-09-28T14:00:00\n*   **Amendment Date**: None\n*   **Expected Contract Start Date**: None\n*   **Expected Contract End Date**: None\n*   **Tender Status**: Exired\n\n**Tender Description**\n----------------------\n\nThe National Research Council (NRC) in Canada invites suppliers to express interest in providing a Fourier Transform Infrared FTIR Analyzer for the Energy, Mining and Environment (EME) research centre. The required analyser should be capable of measuring various gases present in the exhaust gas of heavy-duty internal combustion engines. The supplier must comply with the minimum technical requirements outlined below.\n\n**Specifications**\n-----------------\n\nAny interested supplier must demonstrate by way of a statement of capabilities that its system meets the following requirements:\n\n*   **Analysis Methods and Configuration**:\n    *   Quantitative measurement of gases present in the exhaust gas.\n    *   Spectra analysis in the 600-4300 cm-1 range at a resolution of 0.5 cm-1 or better.\n    *   Inclusion of a humidity-protected beam splitter.\n    *   Data recording at a rate of 1 Hz or higher.\n    *   Capability to measure at least 40 gases simultaneously.\n    *   Saving of quantitative and spectral data simultaneously and continuously.\n    *   Compensation for sample pressure fluctuations automatically.\n*   **Gas Components and Ranges**:\n    *   Methane (CH4): 0-2000 ppm, resolution = 1 ppm\n    *   Formaldehyde (HCHO): 0-50 ppm, resolution = 1 ppm\n    *   Acetylene (C2H2): 0-1000 ppm, resolution = 1 ppm\n    *   and several other gases with ranges and resolutions.\n*   **Computer and Software**:\n    *   The analyser must include an internal or external computer with Windows 10 or 11 operating system.\n    *   Loaded with perpetual license software for operating the analyser, data acquisition, data analysis, and post-processing.\n*   **Zero Air Generation System**:\n    *   The analyser must include a"
+}

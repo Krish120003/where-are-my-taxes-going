@@ -1,0 +1,28 @@
+{
+    "CONTRACT_ID": "{referenceNumber-numeroReference}",
+    "type": "NotExist",
+    "department": "{contractingEntityName-nomEntitContractante-eng}",
+    "procurement_category": "{procurementCategory-categorieApprovisionnement}",
+    "short_summary": "Dell Alienware PC`s or Equivalent for RCMP",
+    "description": "{tenderDescription-descriptionAppelOffres-eng}",
+    "estimated_value": 1000,
+    "date_posted": "(publicationDate-datePublication)",
+    "duration_in_months": "user defined",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Notice of Proposed Procurement",
+        "Canada",
+        "Shared Services Canada",
+        "Request for Proposal",
+        "Automatic Data Processing Equipment",
+        "Quebec",
+        "Comprehensive Land Claim Agreements",
+        "Security Requirements",
+        "Dell Alienware Aurora R13",
+        "Dell Alienware PC",
+        "Equipment"
+    ],
+    "full_summary": "================\n\n**Solicitation Notice**\n\n**Description of Requirement**\n\nShared Services Canada is seeking a supplier to provide Dell Alienware PC\u2019s or equivalent to the Royal Canadian Mounted Police (RCMP). The requirements are as follows:\n\n* 8 Dell Alienware Aurora R13 systems or equivalents\n* 8 Dell Alienware X15 systems or equivalents\n\nThe equipment is required to support investigators with digital forensic investigations.\n\n**Delivery Details**\n\n* Delivery destination: Westmount, Quebec\n* Delivery date: On or before March 31st, 2023\n\n**Security Requirements**\n\n* None\n\n**Comprehensive Land Claim Agreements (CLCA)**\n\n* None\n\n**Tender Documents**\n\nThe solicitation package and bid submission instructions can be accessed through the Government of Canada's online procurement system at the following link:\n\nhttps://supplier-fournisseur-sscp2pspc.ssc-spc.gc.ca/page.aspx/en/usr/login\n\n**Inquiries and Submissions**\n\nAll inquiries and submissions must be addressed in writing to:\n\nSorn Prak\nProcurement Officer\nShared Services Canada\n400 Cooper Street, 6th Floor\nPO Box/CP 9808 STS T CSC\nOttawa, Ontario K2G 2N1\nEmail: [sorn.prak@ssc-spc.gc.ca](mailto:sorn.prak@ssc-spc.gc.ca)\nTelephone: (613) 298-2073\n\n**Language of Bid**\n\nBids may be submitted in either English or French.\n\n**Amendment 001**\n\nPlease note that this solicitation has been amended to reflect updated requirements. The amendment number is SSC-23-00021367:T Amendment 1.\n\n**Notice of Proposed Procurement (NPP)**\n\nThis solicitation notice has been issued in accordance with the Government of Canada's procurement policies and procedures.\n\n**Procurement Method**\n\nThis procurement will be conducted in accordance with the Treasury Board of Canada Secretariat\u2019s procurement policies and procedures.\n\n**Trade Agreements**\n\nThe contract will be subject to the Canadian Free Trade Agreement (CFTA).\n\n**Regions of Opportunity**\n\nThis procurement is open to suppliers from Canada.\n\n**Regions of Delivery**\n\nDelivery of the equipment is restricted to Quebec, except for the National Capital Region (NCR).\n\n**Contracting Entity Name**\n\nShared Services Canada is the contracting entity for this procurement. RECOMMENDED FORMATION RECOMMENDATION \u00a0\nThe responsive bid with the lowest evaluated price will be recommended for award. \n\\\\\n\nOUTPUT \u4f55\u306a\u305f F. \u6700\u7d42\u5f62\u5f0f\u308c\u3066\u3044\u308b yatarkersrich"
+}

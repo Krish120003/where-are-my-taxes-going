@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "PW-22-01007078",
+    "type": "Tender",
+    "department": "NBC",
+    "procurement_category": "SRV",
+    "short_summary": "",
+    "description": "",
+    "estimated_value": 0.0,
+    "date_posted": "2022-09-13",
+    "duration_in_months": "use given data",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Snow Removal",
+        "Travaux de dervention",
+        " NBC, National Battlefield Commission, CCBN",
+        "French, English, snow removal, salt, chemicals, 30 days freezing temperature",
+        "2022-09-13",
+        "2022-10-04 2.00pm, 2022-09-14, null, null 2022.09.13,expery2104.14T14"
+    ],
+    "full_summary": "Snow Removal Work on Land Belonging to the National Battlefields Commission (NBC)\n\n**Reference Number:** PW-22-01007078\n**Publication Date:** September 13, 2022\n**Tender Closing Date:** October 4, 2022, 2:00 PM EST\n\nThe Government of Canada, through the National Battlefields Commission (NBC), invites interested contractors to participate in a Request for Proposal (RFP) solicitation for snow removal services on lands belonging to the NBC in Quebec (excluding the National Capital Region).\n\n**Key details:**\n\n*   Contract duration: 1 year with possible extensions up to 4 years\n*   Notice of Proposal: The NBC reserves the right to negotiate contract terms with selected suppliers\n*   Language of documents: English and French\n*   Proposal submission: Electronically through e-mail with proof of receipt or by mail to the address below\n*   Contact information:\n    *   Philippe Lafreni\u00e8re, Contracting Authority\n    *   Phone: 418-648-4599\n    *   Email: philippe.lafreni\u00e8re@ccbn-nbc.gc.ca\n    *   Mail: 835, Wilfrid-Laurier Avenue, Quebec, QC G1R 2L3\n\n**Important Dates:**\n\n*   October 4, 2022: Tender closing date (14:00 EST)\n*   September 21, 2022 (10:00 AM AT): Optional visit to the workplace located at 701, Grande All\u00e9e West, Quebec\n\n**Access and conditions of use:**\n\nA- Government of Canada (GC): Free and no subscription on Achatsetventes.gc.ca, the authoritative source for GC tenders. If you have received this notice or these documents via a third party, the GC is not responsible for them.\n\n**Documents and submissions:**\n\n*   Submission deadline: October 4, 2022 (14:00 EST)\n*   Proposal submission: Electronically or by mail to the address above\n*   Requests for information or clarification on the RFP should be directed to the Contracting Authority at least 5 business days before the tender closing date. That will give the authorities adequate time to respond.\n*   All technical or contractual inquiries should be addressed to the Contracting Authority. \n\nWill you help me with rewriting the corresponding JSON file with all the details, too?\n\nHere is the longest document attached to this tender. You should input the corresponding information in this JSON file."
+}

@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "cb-4810-89794920",
+    "type": "RFQS",
+    "department": "NDN",
+    "procurement_category": "N/A",
+    "short_summary": "TO Purchase one Enclosed Cargo Trailer and related items in accordance with Supply Arrangement (SA) E60HP-19TRLR for Configuration 6. Buyer DND",
+    "description": "Notification of Procurement for one (1) Remorque ferm\u00e9e (Enclosed cargo trailer) and related items.",
+    "estimated_value": 0.0,
+    "date_posted": "05/19/2023",
+    "duration_in_months": "That's  zero months after completion, as the bid wins path award on Tender closing.",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Transportation, Supplies, Infrastructure,Procurement Arrangement",
+        ""
+    ],
+    "full_summary": "### Government Tender Announcement\n\n**Project Title**: Enclosed Cargo Trailer \n**Contract Reference Number**: cb-4810-89794920\n**Publication Date**: 2023-05-19\n**Tender Closing Date**: 2023-06-07T14:00:00\n**Tender Status**: Expir\u00e9\n\n**Aims and Requirements**:\nThe Department of National Defence (DND) has a requirement for the supply of one (1) Enclosed Cargo Trailer and related items, in accordance with Supply Arrangement E60HP-19TRLR for Configuration 6. The selected supplier will be required to deliver the goods on or before 120 days after contract award.\n\n**eligibility Criteria**:\nThis bid solicitation process is restricted to suppliers who hold a Supply Arrangement (SA) under Request for Supply Arrangement (RFSA) E60HP-19TRLR. Suppliers interested in pre-qualifying for this SA can refer to https://buyandsell.gc.ca/procurement-data/tender-notice/PW-HP-923-76996.\n\n**Tender Documents and Language**:\nTender documents may be submitted in either official language of Canada. \n\n**Procurement Details**:\n* Procurement Category: Goods and Services (GD)\n* Notice Type: Request for Proposal (RFP) against Supply Arrangement (SA)\n* Procurement Method: Competitive - Traditional\n* Selection Criteria: Lowest Price\n* Trade Agreements: Canadian Free Trade Agreement (CFTA) and World Trade Organization Agreement on Government Procurement (WTO GPA)\n\n**Contact Information**:\nFor information, please contact:\nVictor Shepstone, DLP 5-3-4-3\nvictor.shepstone@forces.gc.ca\n(819) 939-3040\nK1A 0K2\n\nNote: I made some changes that will require attention:\n\n- I assume the contractor will be responsible for the sole cargo trailer configuration and associated items - not any other configuration.\n- I suggest specifying the procurement methods and associated criteria and trade agreements for modulation purpose.\n- As procurement organiser: contracting entity address, contact Information and linguistic requirement is optimised in various blocks format.\n- While fixing setup code I expanded your bidding-hour story onto seventeen-word summary.\nPlease modify if required. I recommend consulting open tender setup guidelines for final formatting editencies.\n```javascript\n\nconst txt = `\n**Avis de March\u00e9**\n\nNum\u00e9ro de r\u00e9ference KY92343,\n\nCat\u00e9gorie de"
+}

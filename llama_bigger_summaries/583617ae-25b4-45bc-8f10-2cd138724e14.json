@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "PW-22-01015121",
+    "type": "office_seating",
+    "department": "OSFI",
+    "procurement_category": "General Service",
+    "short_summary": "OSFI is seeking the purchase and installation of office chairs.",
+    "description": "OSFI requires the following solutions:   The procurement is set aside for the [\"]PSAB Suppliers (SA holders)].  Business intelligence solutions can be bid on by \"PSAB suppliers.  Responders must have the required experience and expertise to deliver the full scope of the specified work. The procurement is subject to the [\"]Procurement Strategy for Aboriginal Business[\"] provision,  and is also subject to the [\"]Article 800 of the Canadian Free Trade Agreement.\"  required_skills:  [",
+    "estimated_value": 3400,
+    "date_posted": "2022-12-01T14:00:00",
+    "duration_in_months": "><?php */ I will do my best to explain and format this JSON data with detailed sentences. The original JSON data is quite long and has multiple currency values, pick list, and binary double values, among other things that might be specific to a native JSON implementation. Therefore, I will just include all the key-value pairs in the following output (with some omissions). Note also that the original data included an attachment field containing 5 binary documents, each originally in PDF format. I have omitted these as they do not add anything important to the format. Output in JSON format: { ",
+    "provinces": [
+        "Ontario",
+        "Alberta"
+    ],
+    "tags": [
+        "Office Seating",
+        "Fauteuils de bureau",
+        "PW-22-01015121",
+        "*Garis Products",
+        "20$20/seat-X 34",
+        "pack no [44 , it/T them"
+    ],
+    "full_summary": "### **Office Seating Contract Notice**\n#### Tender Details\n\n| Field Name     | Field Value                                              |\n| :------------- | :-------------------------------------------------------- |\n| **Reference No.** | PW-22-01015121                                          |\n| **Amendment No.** | 4                                                        |\n| **Solicitation No.** | 20221313                                                |\n| **Publication Date** | 2022-11-30                                               |\n| **Tender Closing Date** | 2022-12-16T14:00:00                                       |\n| **Amendment Date** | 2022-12-14                                                |\n| **Contract Start Date** | N/A (to be determined)                                   |\n| **Contract End Date** | N/A (to be determined)                                   |\n| **Procurement Status** | Expired                                                  |\n| **Purchasing Category** | Goods (Office Furniture)                                  |\n| **Trade Agreements** | Set-Aside Program for Aboriginal Business (SPAB)          |\n\n#### Tender Description\nThe Office of the Superintendent of Financial Institutions (OSFI) is issuing a Request for Proposal (RFP) for the purchase, delivery, and installation of office seating at 255 Albert Street (Ottawa, ON) and 121 King Street (Toronto, ON). The RFP covers a set-aside requirement for Aboriginal-owned businesses and is available through the Government Electronic Tendering Service (buyandsell.gc.ca).\n\n#### Eligibility Criteria\nOnly pre-qualified suppliers with an active Supply Arrangement (SA) can bid on this contract. Non-SA holders may submit a bid but must also submit a request for a SA. Suppliers must meet the requirements outlined in RFSA E60PQ-120001/G.\n\n#### Contact Information\nTo inquire about this RFP, please contact:\n- Name: Alanna Duncan\n- Email: [alanna.duncan@osfi-bsif.gc.ca](mailto:alanna.duncan@osfi-bsif.gc.ca)\n- Phone: N/A\n- Fax: N/A\n\n#### Supporting Documents\nPlease refer to the following attachments for more information on this RFP:\n\n- [rfp_20221313_chairs_e.pdf](https://canadabuys.canada.ca/documents/pub/att/2022/11/30/b232bc74980bf53179a7caea7872dd84/rfp_20221313_chairs_e.pdf)\n- [rfp_20221313_chairs_e_amd001.pdf](https"
+}

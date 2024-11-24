@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "23-58172",
+    "type": "Tender",
+    "department": "National Research Council Canada",
+    "procurement_category": "Goods and Services",
+    "short_summary": "PAC 23-58172 - Upgrade to the National Research Council of Canada's (NRC) Plasma Processing System",
+    "description": "System Upgrade to Plasma Processing System",
+    "estimated_value": 176443.85,
+    "date_posted": "2023-11-27",
+    "duration_in_months": "from 2023-12-13 to 2024-12-12",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Tekna Plasma Systems Inc",
+        "Plasma Processing System",
+        "Retrofit",
+        "Upgrade",
+        "Nano upgrade"
+    ],
+    "full_summary": "# TEK15 Plasma Processing System Upgrade\n## Solicitation ID: 23-58172\n## Issue Date: November 27, 2023\n## Closing Date: December 12, 2023, 2:00 PM (EDT)\n\n### Tender Overview\nThe National Research Council of Canada (NRC) invites qualified suppliers to submit a Statement of Capabilities for the upgrade of the TEK15 Plasma Processing System.\n\n### System Upgrade Description\nThe TEK15 plasma processing system is a custom system requiring an upgrade to support research and development in advanced materials. The upgrade will involve the integration of a small modular reactor unit and associated collector and control systems with the existing plasma processing system infrastructure and software. The upgraded system will enable experiments at smaller scales and with greater frequency than the current system.\n\n### Mandatory Requirements\nTo be considered, suppliers must demonstrate through their Statement of Capabilities that their solution meets the following requirements:\n\n1.  Full integration of the upgrade with the existing Tekna Plasma Systems SY190 custom plasma processing reactor system, including compatible connectivity and operability with existing flanges, control systems, sensors, and safety systems.\n2.  The upgrade must include a reactor unit, cyclone unit, filter unit, piping for gas and process streams, and control software programming.\n3.  The upgraded system must fit within the internal volume of the Faraday cage of the existing TEK15 plasma system.\n4.  The upgrade must include control software that can be operated from the existing TEK15 control computer through the existing user interface controls.\n\n### Trade Agreements\nThis procurement is subject to the following trade agreements:\n\n1.  Canadian Free Trade Agreement (CFTA)\n2.  Canada\u2013Chile Free Trade Agreement (CCFTA)\n3.  Canada\u2013Colombia Free Trade Agreement (CETRA)\n4.  Canada\u2013Honduras Free Trade Agreement (CHFTA)\n5.  Canada\u2013Korea Free Trade Agreement (CKFTA)\n6.  Canada\u2013Panama Free Trade Agreement (CPAFTA)\n7.  Canada\u2013Peru Free Trade Agreement (CPFTA)\n\n### Procurement Method\nThis procurement will be managed as an Advance Contract Award Notice (ACAN). Suppliers who consider themselves qualified and available to provide the goods, services, or construction services described in this notice may submit a Statement of Capabilities in writing to the contact person identified in this notice on or before the closing date.\n\n### Evaluation Criteria\nThe Statement of Capabilities will be evaluated based on the Following criteria to"
+}

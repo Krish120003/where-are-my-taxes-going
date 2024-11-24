@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "As AS 'referenceNumber-numeroReference': cb-8436-4556631",
+    "type": "TBIPS",
+    "department": "Canadian Institutes of Health Research",
+    "procurement_category": "SRV",
+    "short_summary": "IT Management Services",
+    "description": "Managing information technology related projects that require expertise in software development and implementation ",
+    "estimated_value": 250000,
+    "date_posted": "2023-08-25",
+    "duration_in_months": "><?=$expectedContractEndDate> $now;?>$estimated_duration = 12 months ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canada-Korea Free Trade Agreement (CKFTA)",
+        "North American Free Trade Agreement (NAFTA)",
+        "Canada-Ukraine Free Trade Agreement (CUFTA)"
+    ],
+    "full_summary": "# TBIPS under Streams 1, 4 and 5 Tender Notice\n\n## TTBender Accounting Information\n\n- **Contract Title**: TBIPS under Streams 1, 4, and 5\n- **Reference Number**: CB-8436-4556631\n- **Amendment Number**: 1\n- **Solicitation Number**: 230034-TBIPS-RFP-CIHR\n- **Publication Date**: August 25, 2023\n- **Tender Closing Date**: September 11, 2023, 2:00 PM\n- **Amendment Date**: September 11, 2023\n\n## Contract Details\n\n- **Contracting Authority**: Canadian Institutes of Health Research (CIHR)\n- **Contracting Address**: 160 Elgin St, Ottawa, ON, K1A 0W9, Canada\n- **End User**: CIHR\n\n## Tender Description\n\nThe Canadian Institutes of Health Research (CIHR) invites all holders of a TBIPS Standing Offer Agreement (SOA) in Tier 1 within the National Capital Region under the contract Solicitation Number EN578-170432 to submit a bid for the provision of Business System Analysts, Project Managers, Testers, Programmers/Analysts, and Web Designers under the TBIPS under Streams 1, 4, and 5.\n\nCIHR plans to award up to seven (7) contracts, each for a one-year period, with four (4) one-year optional period extensions. The contracts will be awarded based on a combined score of technical merit and price. Bidders may submit a bid for one or all resource categories.\n\nThe resources will be selected based on the following criteria:\n\n- Analysts (level 2)\n- Project Managers (level 2)\n- Testers (level 2)\n- Programmers/Analysts (level 2 and 3)\n- Web Designers (level 3)\n\n## Imposed Security Requirements\n\n- Common PS SRCL #01 applies.\n- Designated Organization Screening (DOS) and Reliability are the minimum required security clearances.\n\n## Instructions for Bidders\n\n- Interested contractors can access the tender package on the Government of Canada's Tendering System.\n- Questions regarding the tender should be directed to CIHR's procurement contact, Gerode Tchibozo.\n\n## Inquiry Period\n\n- End of inquiry period: September 7, 2023\n\nNote: The rewritten text is reformatted and rewritten for clarity and coherence. It maintains"
+}

@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "PW-22-01014179",
+    "type": "COMPETITIVE - LIMITED TENDERING",
+    "department": "Fisheries and Oceans Canada",
+    "procurement_category": "SERVICE",
+    "short_summary": "Detection of cetaceans (primarily beluga whales and narwhal) from satellite imagery from the Canadian High Arctic",
+    "description": "The contractor will have to manually count belugas and narwhals in satellite imagery collected in 2021-2022. The imagery must be manually read by experienced technicians. The contractor must have staff with a minimum of 5 years of experience in reading satellite imagery for marine mammals. The contractor must also have proprietary AI technology to process imagery for the detection and identification of marine mammals for the checking manually read imagery.",
+    "estimated_value": 145440,
+    "date_posted": "2022-11-21",
+    "duration_in_months": ":",
+    "provinces": [
+        "Ontario",
+        "New Brunswick"
+    ],
+    "tags": [
+        "satellite imagery",
+        "marine mammals",
+        "cetaceans",
+        "belugas",
+        "narwhals"
+    ],
+    "full_summary": "# Government Tender Announcement\n## Detection of Cetaceans from Satellite Imagery\n\n### Announcement Details\n* **Title:** Detection of Cetaceans from Satellite Imagery\n* **Reference Number:** PW-22-01014179\n* **Solicitation Number:** 30003786\n* **Publication Date:** 2022-11-21\n* **Tender Closing Date:** 2022-12-06T13:00:00\n* **Contracting Entity:** Fisheries and Oceans Canada\n\n### Project Overview\nThe Department of Fisheries and Oceans Canada requires a contractor to evaluate beluga whale and narwhal distribution and abundance in estuaries and waterways in the Canadian High Arctic using satellite imagery. The contractor will manually count narwhals and belugas in satellite imagery collected between 2021-2022, up to a maximum of 18,000 km2.\n\n### Task Requirements\nThe contractor will be responsible for:\n\n* Manually examining photos for narwhals and belugas, creating georeferenced points for each whale-like feature identified\n* Identifying and reporting any cloud cover or sun glare in the images, providing a percentage of the proportion of the image affected\n* Colour contrasting/sharpening the images and adjusting the bands as needed to improve whale detection\n* Providing GIS files with all whales identified with shapefiles\n* Reporting preliminary and final counts of whales for individual images and all images combined for each estuary/waterway\n\n### Deliverables and Timeline\nThe contractor is expected to deliver:\n\n* Preliminary counts and shapefile of cetacean identification on or before March 1, 2023\n* Final counts and shapefile of cetacean identification on or before March 15, 2023\n* Electronic data and return of hard drive on or before March 31, 2023\n\n### Eligibility Criteria\nTo be eligible, contractors must demonstrate the following capabilities:\n\n* Minimum 5 years of experience in reading satellite imagery for marine mammal detection\n* Staff with a Master of Science degree, a minimum of 10 years of experience in Arctic ecosystems, and a strong knowledge of narwhal and beluga behavior, distribution, and abundance\n* Proprietary AI technology to process imagery for the detection and identification of marine mammals\n\n### Trade Agreements and Regulations\nThis procurement is subject to the Canadian Free Trade Agreement (CFTA), Canada-Chile Free Trade Agreement, Canada-Colombia Free Trade Agreement, Canada-Honduras Free Trade"
+}

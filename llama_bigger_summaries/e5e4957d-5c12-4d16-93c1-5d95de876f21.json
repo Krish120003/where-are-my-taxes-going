@@ -1,0 +1,14 @@
+{
+    "CONTRACT_ID": "PW-22-01003386",
+    "type": "government",
+    "department": "public works and government services canada",
+    "procurement_category": "supply",
+    "short_summary": "ai for space robotics auto diagnostics and early failure prediction",
+    "description": "contrat max",
+    "estimated_value": 1097000,
+    "date_posted": "2022-09-02",
+    "duration_in_months": ",  ",
+    "provinces": [],
+    "tags": [],
+    "full_summary": "================\n\n### RFP Announcement: AI for Space Robotics Auto-Diagnostics and Early Failure Prediction\n\n#### Reference Number:\nPW-22-01003386\n\n#### Solicitation Number:\nEN578-20ISC3\n\n#### Tender Closing Date:\nNovember 10, 2022, 2:00 PM Eastern Standard Time\n\n#### Challenge Title:\nAI for Space Robotics Auto-Diagnostics and Early Failure Prediction\n\n#### Call for Proposals:\n003 (EN578-20ISC3)\n\n#### Contestant Information:\nThe Canadian Space Agency (CSA) is seeking innovative solutions to improve the efficiency of maintenance programs for space robotic sub-systems. The goal is to develop a system that can auto-diagnose and predict failures, reducing downtime and improving overall system reliability.\n\n#### Proposal Requirements:\n Successful proposers must provide a solution that:\n\n1. Fulfills the requirements outlined in the Grading Methodology Section.\n2. Provides auto-diagnostic and failure prediction based on machine learning and data analytics.\n3. Includes security requirements as part of its inherent design.\n4. Has a data classifier and labeling tool, capable of handling imbalanced data.\n5. Offers a diagnosis tool to help isolate faults in the system.\n6. Provides a prediction tool for failures of subsytems or components of the flight system.\n\n#### Key Dates:\n* September 2, 2022: Publication date\n* November 10, 2022: Tender closing date\n* November 10, 2022: End of the bid period\n\n#### Notice:\n The successful bidder must submit a proposal electronically via the PSPC website, following the instructions outlined in the Request for Proposal package. For any writing or clarifying questions, please contact PSPC at the specified contact information below. Please note that all communications will be treated as a new submission.\n\n#### Contract Information:\n* Contract type: Contract\n* Value: Multiple contracts may be awarded depending on the proposal\n\n#### Contact Information:\nPublic Works and Government Services Canada\n11 Laurier Street, Phase III, Place du Portage\nGatineau, QC K1A 0S5\nEmail: [TPSGC.SIC-ISC.PWGSC@tpsgc-pwgsc.gc.ca](mailto:TPSGC.SIC-ISC.PWGSC@tpsgc-pwgsc.gc.ca)\n\n \n\nImprovements made:\n- improve readability by using short paragraphs, concise language, and standard abbreviations.\n- lessen the amount of text by dumping repetitive and redundant parts of the entry\n- reformatted the output"
+}

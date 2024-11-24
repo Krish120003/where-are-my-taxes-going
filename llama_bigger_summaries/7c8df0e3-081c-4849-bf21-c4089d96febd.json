@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "{referenceNumber-numeroReference}",
+    "type": "renegotiation bids or amendment document",
+    "department": "{contractingEntityName-nomEntitContractante-eng}",
+    "procurement_category": "{procurementCategory-categorieApprovisionnement}",
+    "short_summary": "Explanation of the project and the bid:",
+    "description": "{tenderDescription-descriptionAppelOffres-eng}",
+    "estimated_value": 0,
+    "date_posted": "{publicationDate-datePublication}",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "change ordercontracts",
+        "DataAnalystOriginators",
+        "Fillall contracttemplates"
+    ],
+    "full_summary": "### TBIPS-47419-212762 Release Management Project Managers\n\n**Notice ID** | 17705844\n------------|------------ \n**Publication Date** | October 12, 2023\n**Closing Date** | January 10, 2024 (opened till 14:00 EST)\n**Status** | Cancelled\n\n#### Notice Details\nThis notice is related to the provision of Informatics professional services for the Canada Border Services Agency (CBSA). The service provider will be responsible for providing services for Release Management Project Managers on the TBIPS Supply Arrangement.\n\n**Trade Agreements** \nThis notice is open to bidders participating in the following trade agreements:\n* Canada-Colombia Free Trade Agreement\n* Canada-Ukraine Free Trade Agreement (CUFTA)\n* Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)\n* World Trade Organization Agreement on Government Procurement (WTO GPA)\n* Canada-Honduras Free Trade Agreement\n* Canada-Peru Free Trade Agreement (CPFTA)\n* Canada-UK Trade Continuity Agreement (Canada-UK TCA)\n* Canadian Free Trade Agreement (CFTA)\n* Canada-European Union Comprehensive Economic and Trade Agreement (CETA)\n* Canada-Korea Free Trade Agreement (CKFTA)\n* Canada-Chile Free Trade Agreement (CCFTA)\n\n**Regions of Delivery**\nThis contract is open for service delivery within the National Capital Region (NCR).\n\n**Supply Arrangement**\nThe contract is connected to the TBIPS Supply Arrangement (EN578-170432) under Tier 2.\n\n**Contact Information**\nFor questions or concerns about this process, please contact Rosemary Asgill Cummins at rosemary.asgill-cummins@tpsgc-pwgsc.gc.ca.  \n\n**Notice URL**: [https://discovery.ariba.com/rfx/17705844?extsite=MTc3MDU4NDRfQU4wMTQ4NDA1MDk5Mg==](https://discovery.ariba.com/rfx/17705844?extsite=MTc3MDU4NDRfQU4wMTQ4NDA1MDk5Mg==)\n\nThis notice is cancelled as per the underneath link: \"http://magbn.tpsgc-pwgsc.gc.ca/sp/trn DNlt.sn?SCN/ 2024-01-08 m01 milr tec UM This content is secure- External Link: https:// \u00b71338A679 link information https:\\\\.\\url:s"
+}

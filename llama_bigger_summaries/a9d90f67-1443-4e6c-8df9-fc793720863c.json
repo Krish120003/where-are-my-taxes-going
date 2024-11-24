@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "SSC-23-00023660",
+    "type": "COMPETITIVE OPEN BIDDING",
+    "department": "JUSTICE CANADA",
+    "procurement_category": "SERVICE",
+    "short_summary": "The purpose is to procure Dell N4032 network switches to lifecycle our existing Dell network infrastructure. This includes replacing the workable Dell switches with new Dell N4032 switches to maintain compatibility, interoperability and interchangeability with current design.",
+    "description": "The requirement is to acquire the equipment and specified six Dell N4032 network switches to work with the current design. Please note that Justice Canada plans to acquire this equipment to ensure compatibility with our current equipment and environment. The equipment must be compatible, reliable, and able to work under stressful conditions, such as cooling failures, as these occasion have happened before. Please submit all required Supply Chain Security Information of any proposed equivalent products. RFQ Submissions must be sent via P2PSSC.",
+    "estimated_value": 10000.0,
+    "date_posted": "September 1, 2023",
+    "duration_in_months": "..",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Computing",
+        "Networking",
+        "Security"
+    ],
+    "full_summary": "### Government Tender Announcement: Dell Products or Equivalent \n#### Solicitation Number: BPM019440/23660\n#### Solicitation Title: Dell Products or equivalent\n#### Closing Date: 2023-09-12T15:00:00\n#### Solicitation Type: Request for Proposal \n#### Solicitation Category: Goods \n\nShared Services Canada intends to acquire six Dell N4032 network switches to replace the existing three pairs of switches that currently service iSCSI storage backend on three separate environments. The specified switches have been selected for their reliability and compatibility with existing equipment. Suppliers who wish to propose equivalent products are advised to carefully review SSC\u2019s Standard Instructions, specifically the \u201cEvaluation Procedures for Proposed Equivalent Products\u201d section, in order to ensure compliance with the evaluation criteria.\n \nThe following documents have been attached as an appendix to this solicitation:\n* Contract Document with terms and conditions\n* Specification Sheet for Dell N4032 network switches\n* Environmental Considerations Document\nhttps://sscp2pspc.ssc-spc.gc.ca/page.aspx/en/fil/download/0B823D14-A153-4DBE-9230-2ACD04B181C8\nhttps://sscp2pspc.ssc-spc.gc.ca/page.aspx/en/fil/download/B67E2C30-C3C9-464D-9913-102C4B2598F5\nhttps://sscp2pspc.ssc-spc.gc.ca/page.aspx/en/fil/download/B7B088A8-037C-43BC-AE6D-E553928102E3\nhttps://sscp2pspc.ssc-spc.gc.ca/page.aspx/en/fil/download/D741DC56-6D62-4840-AED6-697282C778C5\n\nAnalysis:\nSection [identify the part number]\nPlease find below a table summarizing the specification:\n| Specification | Value | Unit | Comment |\n| --- | --- | --- | --- |\n| Product Name | Dell N4032 | 6 units |  |\n\nWe conclude that the contract proposal is not adhering to the Common Canadian government procurement policies the company must provide a budget that outlines their budget breakdown\nThe criterion also clearly specifies that proposals must include an eenv evaluation disclaimer - nothing\n\nExpected Deliverables:\n\nProcure six Dell N4032 network switches and provide documentation of installation and testing onshore without any sub\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22contractor involvement .\nIn this recipe portion i am going to prefer multiAccording term tonpe core Am \n\nFT"
+}

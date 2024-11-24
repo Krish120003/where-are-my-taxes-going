@@ -1,0 +1,26 @@
+{
+    "CONTRACT_ID": "SSC-23-00013133:T",
+    "type": "tender",
+    "department": "Services partag\u00e9s Canada",
+    "procurement_category": "construction",
+    "short_summary": "This tender was published to test the standard lifecycle of a tender",
+    "description": "This tender will be published overnight, expire then be awarded. ",
+    "estimated_value": 0,
+    "date_posted": "2023-04-24",
+    "duration_in_months": ":",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Irrigation and Flood Control",
+        "Irrigation et contr\u00f4le des inondations",
+        "Atlantic Procurement Agreement",
+        "Ontario (except NCR)",
+        "Alberta",
+        "Protocole d'entente des provinces de l'Atlantique sur les march\u00e9s publics",
+        "Shared Services Canada",
+        ".Services partag\u00e9s Canada",
+        "Grey Area Cot)], "
+    ],
+    "full_summary": "## Government Tender Announcement\n\n### Title\nUAT Tender 1 - Standard Lifecycle\n\n### Reference Number\nSSC-23-00013133:T\n\n### Solicitation Number\nBPM011405/13133\n\n### Publication Date\n2023-04-24\n\n### Tender Closing Date\n2021-07-13T09:00:00\n\n### Tender Status\nExpired\n\n### NAICS/NICS Codes\nIrrigation and Flood Control (5133B)\n\n### Goods and Services Category\nConstruction Services (CNST)\n\n### Procurement Method\nCompetitive - Selective tendering\n\n### Tender Description\nThis tender is created to test the standard lifecycle of a tender. It was published overnight and subsequently expired.\n\n### Contracting Entity\nShared Services Canada (Canada)\n\n### End User\nShared Services Canada (Canada)\n\n### Contact Information\n\n* First name: First\n* Last name: Last\n* Phone: 613-999-7777\n* Fax: 613-999-7777\n* Address: 325-781 fake street, Ottawa, Ontario, K0A 0C3, Canada\n\n### Region of Opportunity\nOntario (Except for National Capital Region)\n\n### Region of Delivery\nAlberta\n\n### Trade Agreements\nAtlantic Procurement Agreement\n\n### Notice URL\nNone\n\n### Attachment\nNone\n\n### Important Dates\n\n* Tender closing date: 2021-07-13T09:00:00\n* Tender expiry date: 2021-07-13T09:00:00\n* Expected contract start date: None\n* Expected contract end date: None\n\n### Language\nEnglish (and French)\n\nNote that I used markdown to make your rewritten text look more visually appealing. 400 words is a good limit, but to conserve space, I suggest minimalising umh, non relevant details and get rid of non-contract related information. \n\nYou might also want to make sure you check your facts as the contractor may have made mistakes due to poor English literacy. \n\nGood luck with your tech writing project. \n\nLet me know if you have any other stuff to rewrite. \n\nIn case you're interested, you can also create summarised metadata for any document links you include.\n\n```yml\ntender_description: This document contains metadata for a government tender announcement\nversion: Standard Lifecycle\ntoc: True \ndocument_structure:\n  en: |\n    this is your en document\n  fr: |\n    this is your fr document\n```\nConservation of"
+}

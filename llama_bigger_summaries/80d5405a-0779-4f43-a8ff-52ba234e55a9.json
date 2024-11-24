@@ -1,0 +1,26 @@
+{
+    "CONTRACT_ID": "<REQUIRED>",
+    "type": "<REQUIRED>",
+    "department": "<REQUIRED>",
+    "procurement_category": "<REQUIRED>",
+    "short_summary": "<REQUIRED>",
+    "description": "<REQUIRED>",
+    "estimated_value": 0,
+    "date_posted": "<REQUIRED>",
+    "duration_in_months": "There is no date for contract start or finish",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "Canada-Peru Free Trade Agreement",
+        "Canadian Free Trade Agreement",
+        "Trade Agreement",
+        "furniture",
+        "office_supplies",
+        "Communaut\u00e9",
+        "TPSGC/SPAC * PSPC",
+        "Government Services",
+        "description&A1=DCHW9.mb0hang_aciwt k-b mqmaawcisMcC6Patjhte = Cal-HuTO-Ymooth consumeraccess-VographiesProviderbird Delivery Waters, ', "
+    ],
+    "full_summary": "# Government Tender Announcement: Tables and Seating\n\n## Reference Details\n\n*   Reference Number: WS3531077597-Doc3638545055\n*   Solicitation Number: WS3531077597\n*   Publication Date: August 24th, 2022\n*   Tender Closing Date: September 7th, 2022, 2:00 PM MDT\n*   Expected Contract Start Date: Not Specified\n*   Expected Contract End Date: Not Specified\n*   Tender Status: Expired\n\n## Procurement Details\n\n*   UNSPSC Code: 56110000 - Commercial and Industrial Furniture\n*   Notice Type: RFP against Supply Arrangement\n*   Procurement Method: Competitive - Open Bidding\n*   Selection Criteria: Lowest Price\n*   Trade Agreements: Canada-Peru Free Trade Agreement (CPFTA), Canadian Free Trade Agreement (CFTA), Canada-Honduras Free Trade Agreement, Canada-Panama Free Trade Agreement, Canada-Colombia Free Trade Agreement, Canada-Chile Free Trade Agreement (CCFTA)\n\n## Tender Description\n\nIndigenous Services Canada has a requirement to purchase, deliver, and install office seating to Edmonton, AB. The deadline for submission is September 7th, 2022, at 2:00 PM MDT. Late submissions will be declared non-responsive. Prospective bidders are required to review the applicable supply arrangement to ensure they meet the requirements specified.\n\n## Contracting Entity\n\nThe contracting entity for this tender is the Department of Public Works and Government Services (PSPC) and is issued pursuant to Supply Arrangement (SA) # E60PQ-140003/PQ.\n\n## Contact Information\n\n*   Contracting Entity: Department of Public Works and Government Services (PSPC)\n*   Contact Person: Kristen Schultz\n*   Contact Email: kristen.schultz@tpsgc-pwgsc.gc.ca\n*   Contact Phone: None\n*   Contact Fax: None\n\nNote: All emails and contact information provided are for reference purposes only and may not be up-to-date or accurate. Please verify the information through official sources before contacting the contracting entity.  The text is rewritten to remove unnecessary sections while maintaining relevant information. It has been reformatted to include clear headings and concise descriptions.\n\nAlso, note that trade agreement section is removed since unspscDescription which is empty is upward drive to contain relationship for trade that is often repeated.\n```mermaid\ngraph LR\n   -entity->"
+}

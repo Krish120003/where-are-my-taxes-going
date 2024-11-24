@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "<referencenumber-numeroReference>",
+    "type": "<tenderStatus-appelOffresStatut-eng>",
+    "department": "<contractingEntityName-nomEntitContractante-eng>",
+    "procurement_category": "<procurementCategory-categorieApprovisionnement>",
+    "short_summary": "Purchase of <strip_new_line> tanks and <item_list>",
+    "description": "<tenderDescription-descriptionAppelOffres-eng>",
+    "estimated_value": 90,
+    "date_posted": "<publicationDate-datePublication>",
+    "duration_in_months": "> 12",
+    "provinces": [
+        "Nova Scotia",
+        "British Columbia"
+    ],
+    "tags": [
+        "valve",
+        "solenoid",
+        "hfx",
+        "class",
+        "valve-and-Solenoids",
+        "tanks"
+    ],
+    "full_summary": "# Solicitation for Valves\n\n## Table of Contents\n* [Contract Information](#contract-information)\n* [Notice of Proposed Procurement](#notice-of-proposed-procurement)\n* [Submission Requirements](#submission-requirements)\n* [Procurement Details](#procurement-details)\n\n### Contract Information\n\n* **Title (English):** Valve, Solenoid HFX Class\n* **Title (French):** Vanne, sol\u00e9no\u00efde classe HFX\n* **Contract Reference Number:** cb-736-22687381\n* **Amendment Number:** 3\n* **Solicitation Number:** W8482-242186/A\n* **Publication Date:** 14 February 2024\n* **Tender Closing Date:** 15 March 2024 14:00:00\n* **Contracting Entity:** National Defence\n* **Contracting Entity Address:** 101 Colonel By Drive, Ottawa, Ontario K1A 0K2, Canada\n* **Contact Information:** Christopher Cauchi, christopher.cauchi@forces.gc.ca, (555) 555-5555\n\n### Notice of Proposed Procurement\n\nThe Department of National Defence is soliciting proposals for the procurement of valves, as detailed below:\n\n* **Line Item 001:** Valve, Solenoid\n\t+ Part Number: 321416-606\n\t+ GSIN: 4810\n\t+ Quantity: 5 UoI/EA\n\t+ Delivery Address: CFB Halifax\n* **Line Item 002:** Valve, Solenoid\n\t+ Part Number: 321416-606\n\t+ GSIN: 4810\n\t+ Quantity: 5 UoI/EA\n\t+ Delivery Address: CFB Esquimalt\n\n### Submission Requirements\n\n* Bidders proposing an equivalent or substitute product must indicate the brand name and model or Part Number and the NCAGE.\n* A preference is given to Canadian goods and/or services.\n* Bidders must submit prices in Canadian dollars.\n* The Crown retains the right to negotiate with suppliers on any procurement.\n\n### Procurement Details\n\n* **Trade Agreements:** Canadian Free Trade Agreement (CFTA)\n* **Regions of Opportunity:** World\n* **Regions of Delivery:** Nova Scotia, British Columbia\n* **Procurement Method:** Competitive - Open Bidding\n* **Notice Type:** Request for Proposal\n\n### Attachments\n\n* Tender Notice (English) [link to PDF]\n* Tender Notice (French)"
+}

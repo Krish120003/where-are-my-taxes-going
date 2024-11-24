@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "Cancelled-465-1-6-C18A",
+    "type": "Contract",
+    "department": "Agriculture and Agri-Food Canada",
+    "procurement_category": "CNST provincial services category",
+    "short_summary": "Request for Proposal for Irrigation and Flood Control Services in Alberta. ",
+    "description": "This notice has been cancelled.",
+    "estimated_value": -1,
+    "date_posted": "October 19, 2022",
+    "duration_in_months": "Not avalilabled",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "Irrigation and Flood Control"
+    ],
+    "full_summary": "===============\n\n**Tender Cancellation**\n\n**Tender Reference:** PW-22-01010572\n**Title (English):** Cancelled-465-1-6-C18A\n**Title (French):** Annul\u00e9-465-1-6-C18A\n\nThe notice of Request for Proposal for Solicitation Number: 465-1-6-C18A, originally published on [October 19, 2022](https://www.codep...), has been cancelled.\n\n**Cancellation Details**\n\n*   The tender closing date was **November 10, 2022**\n*   The tender was cancelled prior to receiving any proposals\n*   The cancellation was not due to any specific reason, as per the information provided\n*   The contract details, including the expected start and end dates, are not applicable at this time\n\n**Contract Information**\n\n*   **Contracting Agency:** Agriculture and Agri-Food Canada\n*   **Contract Address:** 1341 Baseline Road, Ottawa, Ontario, K1A 0C5, Canada\n*   **End User:** Agriculture and Agri-Food Canada\n*   **End User Address:** same as contracting agency\n\n**Contact Information**\n\n*   **Name:** Melissa Smith\n*   **Email:** [melissa.smith3@agr.gc.ca](mailto:melissa.smith3@agr.gc.ca)\n*   **Phone:** 306-515-4796\n*   **Location:** Regina, SK, S4P 0M3, Canada\n\n**Notice Details**\n\n*   **Notice Type:** Request for Proposal (Demande de propositions)\n*   **Notice Status:** Cancelled (Annul\u00e9)\n*   **Trade Agreement:** Canadian Free Trade Agreement (Accord de libre-\u00e9change canadien)\n*   **Regions:** Canada, Alberta\n\nThe cancellation of this tender does not provide any further information required for a tender response or negotiation at this time.\n\nThis Boolean is useless - it only serves to validate a few fields are filled, but actual logic is manually confirmed.\n```python\n# tidak digunakan Boolean - hanya digunakan untuk mengecek apakah beberapa field sudah dimasukkan, namun logika manual ditentukan\nboolean_acuan_data = False\nif s['nomorPerihal'] in s['parameterFix'] and s['tanggalPengumuman'] in s['parameterFix']:\n    boolean_acuan_data = True\n```\n\n\n\nBest regards\n([\\[`lis"
+}

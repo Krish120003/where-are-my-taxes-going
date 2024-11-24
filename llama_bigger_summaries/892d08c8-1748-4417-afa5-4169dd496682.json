@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "{referenceNumber-numeroReference}",
+    "type": "Globes Valve Request",
+    "department": "Ministry of National Defence",
+    "procurement_category": "*GD",
+    "short_summary": "Ministry of National Defence is looking for suppliers to purchase a variety of Globes Valve related items.",
+    "description": "{tenderDescription-descriptionAppelOffres-eng}",
+    "estimated_value": 100,
+    "date_posted": "{publicationDate-datePublication}",
+    "duration_in_months": ":",
+    "provinces": [
+        "Nova Scotia",
+        "British Columbia",
+        "Nova Scotia",
+        "British Columbia"
+    ],
+    "tags": [
+        "Competitive - Traditional",
+        "Lowest Price",
+        "Canadian Free Trade Agreement (CFTA)",
+        "Canada-Korea Free Trade Agreement (CKFTA)"
+    ],
+    "full_summary": "## Government Tender Announcement\n\n### RFP W8482-241977/A: Valve, Globe\n\n#### Tender Details\n\n* **Tender Reference Number**: CB-75-62172613\n* **Amendment Number**: 7\n* **Solicitation Number**: W8482-241977/A\n* **Publication Date**: October 5, 2023\n* **Tender Closing Date**: November 14, 2023, @ 14:00:00\n* **Tender Status**: Expir\u00e9 (Expired)\n\n#### Procurement Details\n\n* **Procurement Category**: Goods and Services (C) - Directorate, Maritime Procurement\n* **Procurement Method**: Competitive - Traditional\n* **Trade Agreements**: Canadian Free Trade Agreement (CFTA), Canada-Korea Free Trade Agreement (CKFTA)\n* **Regions of Opportunity**: Non sp\u00e9ifi\u00e9e (Unspecified)\n* **Regions of Delivery**: Nouvelle -\u00c9cosse (Nova Scotia), Colombie-Britannique (British Columbia), Canada\n\n#### Contract Details\n\n* **Expected Contract Start Date**: April 1, 2024\n* **Expected Contract End Date**: March 31, 2025\n\n#### Contact Information\n\n* **Contracting Entity**: Directorate Maritime Procurement\n* **Address**: 101 Colonel by Drive, Ottawa, ON K1A 0K2, Canada\n* **Contact Person**: J.P. Normandin\n* **Email**: jean-pierre.normandin@forces.gc.ca\n* **Phone**: (819) 939-3674\n* **Fax**: None\n\n#### Tender Description\n\nThe Department of National Defence requires the supply of valves, specifically globe valves, as detailed below:\n\n* **Item 1**: 12 units, NSN: 21-908-1055, Part No.: 106-0053, NCAGE: 38881, to be delivered to CFB Esquimalt.\n* **Item 2**: 12 units, NSN: 21-908-1055, Part No.: 106-0053, NCAGE: 38881, to be delivered to CFB Halifax.\n* **Item 3**: 80 units, NSN: 21-910-1564, Part No.: 106-0061, NCAGE: 38881, to be delivered to CFB Esquimalt.\n* **Item 4**: 120 units, NSN: 21-910-1564"
+}

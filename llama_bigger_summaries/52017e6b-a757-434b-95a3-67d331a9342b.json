@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "MX-43086179897",
+    "type": "noticeShowcase",
+    "department": "D\u00e9partement non \u00e9tabli",
+    "procurement_category": "DSP/Ing (S20800011)",
+    "short_summary": "DP - Gestion des identit\u00e9s et des acc\u00e8s (IAM)",
+    "description": "Enhancement de la strat\u00e9gie de gestion des identit\u00e9s et des acc\u00e8s de FAC",
+    "estimated_value": 2,
+    "date_posted": "2024-04-08T11:15:25.69045",
+    "duration_in_months": "We are uncertain precisely at this time",
+    "provinces": [
+        "Saskatchewan"
+    ],
+    "tags": [
+        "Domaines non \u00e9tablis",
+        "Fac illicit of `System and Information Technology Procurement` content vocabulary not matched with actual detailed content vocabulary"
+    ],
+    "full_summary": "[Title]\nIdentity and Access Management - Request for Proposal\n\n[Part Number]\nMX-43086179897\n\n[Publication Date]\nApril 8, 2024\n\n[Tender Closing Date]\nMay 10, 2024, 2:00 PM CST\n\n**Request Summary**\n\nFarm Credit Canada (FCC) invites proposals for a comprehensive Identity and Access Management (IAM) solution to consolidate and optimize the management of identities and access to its cloud-centric systems. The solution must address existing identity access governance and workflow automation challenges, ensuring efficient access management, user identity synchronization, and compliance with regulatory requirements.\n\n**Background**\n\nFCC is a prominent agricultural and financial services entity that serves as a stable partner for the Canadian food industry. To support its hybrid remote and on-site work model, FCC seeks a holistic IAM solution to manage user access across multiple systems, applications, and locations. The ideal solution will provide advanced features, including identity data synchronization, robust identity lifecycle management, and sophisticated role-based access control.\n\n**RFP Highlights**\n\n* Integration with upstream and downstream systems for identity access management\n* Robust identity lifecycle management and governance\n* Zero Trust security framework\n* Access review and segregation of duties\n* Identity data synchronization with HR systems\n* Role-based access control and attribute-based access control\n* Reporting and analytics capabilities\n* Compatibility with existing and future systems\n* High availability and scalability\n* Compliant with regulatory requirements\n\n**Proposal Submission Guidelines**\n\n* The RFP and all related documents are available on MERX.\n* The submission deadline is May 10, 2024, 2:00 PM CST.\n* Proposals must be submitted electronically through MERX.\n* The RFP is non-binding and open to all qualified suppliers.\n\n**Important Notes**\n\n* The RFP is subject to the Official Languages Act (Canada), and proposals may be submitted in either English or French.\n* The proposal must clearly outline the supplier's capabilities, approach, and proposed solution to meet FCC's IAM requirements.\n* The evaluation criteria will assess the supplier's experience, expertise, and proposed solution's compatibility with FCC's existing and future systems.\n* All vendors must comply with regulatory requirements, including the Canada-European Union Comprehensive Economic and Trade Agreement (CETA) and the Canadian Free Trade Agreement (CFTA).\n\nFor more information, kindly contact Ronke Niagwan, Procurement Manager, at procurement@fcc-fac.ca or 000-000-0000. Please visit the RFP's dedicated page on MERX for additional details and to"
+}

@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "MX-42855550234",
+    "type": "Buy",
+    "department": "Saskatchewan",
+    "procurement_category": "Service",
+    "short_summary": "RFP - PRE-QUALIFICATION FOR WORKDAY PROFESSIONAL SERVICES",
+    "description": "Farm Credit Canada has multiple Workday deployments and is seeking third party resourcs who can execute subsequent Workday Provisioning, Configuration, and Support",
+    "estimated_value": 238000,
+    "date_posted": "September 7, 2023",
+    "duration_in_months": ":[ TODO:- Add information to hardcoded - see contact Info below]",
+    "provinces": [
+        "Saskatchewan"
+    ],
+    "tags": [
+        "Open",
+        "Workday",
+        "WDP",
+        "Canada Buys",
+        "MERX"
+    ],
+    "full_summary": "**Government Tender Announcement - Workday Professional Services**\n=================================================================\n\nFarm Credit Canada (FCC) invites qualified contractors to pre-qualify for Workday professional services on a Pre-Qualified List (PQ List). The PQ List will be used for upcoming Statements of Work (SOWs) that require third-party resources for various Workday modules.\n\n**Background and Overview**\n---------------------------\n\nFCC is Canada's leading agriculture and food lender, dedicated to providing flexible financing, business management software, information, and knowledge to support the complex needs of food businesses. The organization's IT team is accountable for enabling and delivering IT services to FCC's stakeholders.\n\n**Scope of Work**\n-----------------\n\nThis Request for Proposal (RFP) aims to select a list of qualified contractors that will provide Workday professional services, including support and implementation for various Workday modules. The current modules used by FCC include:\n\n* HCM\n* Pay\n* Absence\n* Learning\n* Talent and Performance\n* Position Management\n* Compensation\n* Recruiting\n* Adaptive Planning - Financial Planning\n\nFCC is also considering the implementation of new Workday modules, including Help, People Analytics, Talent Marketplace/Career Hub, Workforce Planning, and Operational Planning.\n\n**Eligibility and Requirements**\n------------------------------\n\nTo be eligible, contractors must meet specific requirements and conditions outlined in the RFP documents. Contractor proposals must be submitted electronically through MERX, the Canadian Public Tenders electronic bidding system. No late submissions will be accepted.\n\n**Important Dates**\n-------------------\n\n* Proposal Submission Deadline: October 3, 2023, 2:00 PM (Saskatchewan Time)\n* Questions Submissions Deadline: September 14, 2023, 2:00 PM (Saskatchewan Time)\n* FCC Response to Questions Deadline: September 21, 2023, 5:00 PM (Saskatchewan Time)\n\n**Disclaimer and Notice**\n-------------------------\n\nPlease note that this RFP is a competitive, non-binding request for proposal. FCC may cancel or modify the RFP at any time.\n\nContact Information:\n-------------------\n\nAdam Gottselig, Procurement Manager\nFarm Credit Canada\nprocurement@fcc.ca\n\nNote: All information can be found on MERX, including bidding and documents. Fees may apply.\n\nPlease be sure to submit your bid accordingly, and only include the most relevant data. You can use any required templates to present the information in proper format. To maintain integrity, ensure you keep your tone formal and ensure compliance with the Canadian Public procurement"
+}

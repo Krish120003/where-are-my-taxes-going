@@ -1,0 +1,28 @@
+{
+    "CONTRACT_ID": "PW-__SL-017-41258",
+    "type": "ADVANCE CONTRACT AWARD NOTICE",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Trade Agreement: NONE Tendering Procedures: All interested suppliers may submit a bid Non-Competitive Procurement Strategy: Exclusive Rights Comprehensive Land Claim Agreement: No",
+    "description": "MACDONALD DETTWILER and associates Ltd. (MDA) is currently under contract with CSA",
+    "estimated_value": 0,
+    "date_posted": "Dec. 09, 2022",
+    "duration_in_months": ");",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Competitive - Open bidding",
+        "Statement of Capabilities (Minimum Essential Requirements)",
+        "Capabilities",
+        "Trade Agreement",
+        "Procurement Category",
+        "Procurement Method",
+        "Advance Contract Award Notice (ACAN)",
+        "G&P",
+        "Security Requirements",
+        "Contract Type",
+        "Duration in Months"
+    ],
+    "full_summary": "# Government Tender Announcement\n\n## Background\nPublic Works and Government Services Canada is seeking engineering support services for the Defence Research and Development Canada (DRDC) to support the research and development of space-based radar systems.\n\n## Contract Overview\n\n*   **Project Title:** All Domain Space Agile Radars\n*   **Contract Period:** 3 years, extendable for 2 additional years\n*   **Geographic Location:** Ontario, with some possible extensions to other regions\n\n## Requirements\nThe successful contractor will be required to provide engineering support services on an \"as and when required\" basis to support space radar experimentation and client project activities related to space-based radar systems.\n\n## Key Tasks\nThe contractor's tasks will include:\n\n*   **Development of New Beam Modes:** Investigate the feasibility of implementing new beam modes on RADARSAT-2 and RCM, design new modes on RADARSAT-2 and RCM, conduct impact/risk assessments on overall satellite missions/operations, and implement new beam modes.\n*   **RADARSAT-2 and RCM Trials:** Support trials/experiments involving RADARSAT-2 and RCM satellites, including bistatic SAR trials and experimental planning.\n*   **Next-Generation Space Multi-Aperture SAR - Engineering Design:** Provide engineering design and performance modeling of a future multi-aperture digital SAR system, including on-board processing requirements, multi-aperture SAR antenna design, and achievable maximum ground swaths.\n*   **SAR Systems Design and Development:** Design, develop, and document future space digital SAR systems or sub-systems (hardware and software), including a multi-aperture capability on the future systems.\n\n## Deliverables\nThe contractor will be required to produce and submit various deliverables, including:\n\n*   System Requirements Specification (SRS)\n*   Software Design Document (SDD)\n*   Software and System User\u2019s Manual (SUM)\n*   Integration and Acceptance Test Plan (IATP)\n*   SAR Raw Data Processing Software\n*   Technical Reports\n*   Monthly Progress Reports\n\n## Assessment Criteria\nSuppliers must demonstrate by way of a statement of capabilities that they meet the following requirements:\n\n*   Labour Category: Intermediate Software Developer/Analyst\n    -   Bachelor\u2019s or Master\u2019s Degree in Computer Science, Mathematics, Physics, or Engineering\n    -   5+ years of experience in radar signal processor design, implementation, and documentation\n*   Labour Category: Senior Software Developer/Analyst\n    -   Master\u2019s or PhD Degree in Computer Science, Mathematics"
+}

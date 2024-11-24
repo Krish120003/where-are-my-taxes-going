@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "{referenceNumber-numeroReference}",
+    "type": "{title-titre-eng}",
+    "department": "{contractingEntityName-nomEntitContractante-eng}",
+    "procurement_category": "{procurementCategory-categorieApprovisionnement}",
+    "short_summary": "terrestrial (Summary redacted to protect confidentiality)",
+    "description": "{tenderDescription-descriptionAppelOffres-eng}",
+    "estimated_value": 240.0,
+    "date_posted": "{publicationDate-datePublication}",
+    "duration_in_months": "not provided",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Non-terrestrial Internet Microwave System"
+    ],
+    "full_summary": "# Rooms for Proposal: Microwave Link Services\n\n## Overview\nThe Department of National Defence is seeking proposals for the provision of Non-terrestrial Internet Microwave Services.\n\n## Details\n* **Contract Number**: PW-22-01007657\n* **Solicitation Number**: W6399-22-LJ93/A\n* **Publication Date**: 20 September 2022\n* **Tender Closing Date**: 07 October 2022 at 14:00\n* **Regions of Opportunity**: Canada\n* **Regions of Delivery**: National Capital Region (NCR)\n\n## Notice of Amendment\nFour (4) amendments have been issued to the Request for Proposal document. Bidders are invited to review these amendments prior to submitting their proposals.\n\n* **Amendment 1**: Correction to the closing date.\n* **Amendment 2**: Response to the first set of questions received from bidders.\n* **Amendment 3**: Revised response to questions raised in Amendment 2.\n* **Amendment 4**: Additional document to support the proposal.\n\n## Clarification of Scope\nThe Department of National Defence requires a Non-terrestrial Internet Microwave System to ensure network connectivity is available in the event of an outage.\n\n## Relevant Documents\nThe following documents are relevant to the tender process:\n\n* RFP Document\n* RFP Amendment 1\n* RFP Amendment 2\n* RFP Amendment 3\n* RFP Amendment 4\n* NPP Document (Canadian Free Trade Agreement)\n* QA 1 Response\n* QA 2 Response\n\n## Industry Classification\n* GSIN Code: D304A (Data Transmission Service)\n* UNSPSC Code: None\n\n## Trade Agreements\nThe Canadian Free Trade Agreement (CFTA) applies to this tender.\n\n## Contact Information\n* **Name**: Angelina Costain\n* **Email**: angelina.costain@forces.gc.ca\n* **Phone**: (613) 990-4939\n\n## Language Requirements\nBoth English and French should be used in the proposal.\n\n## Tender Evaluation Criteria\nThe Tender Evaluation Criteria will be outlined in the RFP Document.\n\n## Attachment\nThe attachment includes the relevant documents listed above. You can access the files through the link below:\n\nhttps://canadabuys.canada.ca/documents/pub/att/2022/09/20/643c5ad7ecb9fe245e7dde0ddda071a1/w6399-22-lj93_npp_bilingual.pdf\nhttps://can"
+}

@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "cb-6631-39705482",
+    "type": "TG-2023-060421-001",
+    "department": "Statistiques Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Cette DCN est accompagn\u00e9e d\u2019un avis d'appel d'offres pour la fourniture de - en soutien au centre d'informatique (en Anglais : in Information technology IT management services).statistiques Canada",
+    "description": "Cette DCN est d\u00e9pos\u00e9e la m\u00eame date que l'avis de l'appel d'offres aa retries nous a requis de tout faire de suite.",
+    "estimated_value": 0,
+    "date_posted": "2023-06-21",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Appel d'offres-Invitation \u00e0 soumissionner",
+        "Par proc\u00e9dure concurrentielle",
+        "Comp\u00e9tition - Travail collaboratif ",
+        "Achats des Services ",
+        "Proc\u00e9dure Reglement\u00e9e "
+    ],
+    "full_summary": "# Statistical Canada TBIUS Atlassian Merge and Migrate Solicitation\n\n* Title: **TBIPS Atlassian Merge and Migrate Solicitation***\n* Reference Number: `cb-6631-39705482`\n* Solicitation Number: `J068146/A`\n* Closing Date: **2023-07-10 14:00:00 EST**\n* Expected Contract Start Date: 2023-07-20\n* Expected Contract End Date: 2024-03-31\n\n## Overview\n\nStatistics Canada invites bids from qualified TBIPS supply arrangement holders for the Atlassian Merge and Migrate requirement.\n\n## Background\n\nThis solicitation follows the refreshed TBIPS method of supply, which is updated three times per year. The bidder must have a Tier 1 level of expertise for the National Capital Region and meet the resource category requirement for Technology Architect, Data Conversion Specialist, and System Administrator.\n\n## Description of Work\n\nThe merge and migration of multiple Jira and Confluence instances, along with their associated plugins, to one instance each. The incumbent must also migrate Atlassian products from their Server version to Data Center on the Statistics Canada cloud tenant before the Server version end-of-life on February 15, 2024.\n\n## Security Requirements\n\n* Common PS SRCL #6 applies\n* Minimum corporate security required: Reliability\n* Minimum resource security required: Reliability\n\n## Terms and Conditions\n\n* Contract duration: 1 year, with an additional 9-month option period\n* Estimated level of effort: 22-65 days per resource, plus option period\n\n## Inquiries\n\nAll inquiries regarding this solicitation must be submitted to the Contracting Authority, Susan Hall, at (613) 882-2470 or `statcan.macs-bids-smc-soumissions.statcan@canada.ca`. Request for Proposal (RFP) documents will be emailed directly to invited bidders.\n\n## Documents\n\nDue to limited tendering reasons, only those bidders invited to bid on this solicitation will receive the RFP documents.\n\n## Contacts\n\nStats Can intends to negotiate with any vendor on procurement. Questions or requests for clarification shall be sent to the contracting authority, and no response will be provided via email.\n\nThis concludes the solicitation for Atlassian merge and migration. Tracking info is included for bidders to follow up on their proposals. Statscan hopes to receive bids by the given due date and provide a quick response to selected bidders. Cheers. \n\n Trade Agreements\nCanada-Panama Free Trade"
+}

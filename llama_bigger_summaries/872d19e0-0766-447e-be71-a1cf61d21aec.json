@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "rfi-1234",
+    "type": "Request for Information",
+    "department": "Canadian Commercial Corporation",
+    "procurement_category": "Service",
+    "short_summary": "Document Automation for Unit4 Enterprise Resource Planning (ERP)",
+    "description": "CCC is seeking a solution to automate data entry into the current ERP (Unit4 Business World) from PDF documents.",
+    "estimated_value": 0,
+    "date_posted": "2023-06-23",
+    "duration_in_months": "She is seeking a solution that can extract data from PDF documents and write to the ERP system. Ideally, the solution will be 'turnkey' and will not require additional development, integration, or testing on the part of the Customer or a third party.",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "document automation",
+        "erp",
+        "pdf",
+        "data entry",
+        "company software services",
+        "solutions",
+        "providers"
+    ],
+    "full_summary": "**Government Tender Announcement**\n=====================================\n\n### Contract Reference\n\n* **title-titre-eng**: Request for Information (RFI) - Document Automation for Unit4 Enterprise Resource Planning (ERP)\n* **title-titre-fra**: Demande de renseignements (DR) - Automatisation des documents pour le syst\u00e8me Planification des ressources de l'entreprise (PRE) Unit4\n* **referenceNumber-numeroReference**: CB-6702-98788360\n\n### Tender Details\n\n* **solicitationNumber-numeroSollicitation**: 106205.114\n* **tenderClosingDate-appelOffresDateCloture**: 2023-08-15 14:00:00 (Expired)\n* **expectedContractStartDate-dateDebutContratPrevue**: 2023-09-01\n* **expectedContractEndDate-dateFinContratPrevue**: 2024-03-31\n\n### Procurement Information\n\n* **procurementCategory-categorieApprovisionnement**: SRV\n* **procurementMethod-methodeApprovisionnement**: Non-competitive\n* **tradeAgreements-accordsCommerciaux**: None\n\n### Description\n\nThe Canadian Commercial Corporation (CCC) is seeking computer programming services to automate data entry into the current ERP (Unit4 Business World) from various PDF documents. The proposed solution should be able to extract data and read forms from text PDF documents, extract data, and write to the ERP system. Experience with Electronic Data Interchange (EDI) solutions to automate data sharing between organizations is also of interest.\n\nThe ideal solution will be \"turnkey,\" complete, and ready to use, without requiring additional development, integration, or testing. The proposed solution will replace manual data entry tasks, which are resource-intensive and prone to human error.\n\n### Contact Information\n\n* **contactInfoName-informationsContactNom**: Kathee Nash\n* **contactInfoEmail-informationsContactCourriel**: [bids@ccc.ca](mailto:bids@ccc.ca)\n* **contactInfoPhone-contactInfoTelephone**: (343) 573-1229\n\n### Attachments\n\nThe tender documents, including the RFI, Addendum No. 1, and Addendum No. 2, are available for download at [Canada Buys](https://canadabuys.canada.ca/sites/default/files/webform/...).\n\n### Region of Opportunity\n\nThis tender is open to bidders in Canada.\n\nNote that the rewritten entry has been condensed to meet"
+}

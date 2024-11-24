@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "PW-22-01012667",
+    "type": "Row",
+    "department": "Department of National Defence",
+    "procurement_category": "SRV",
+    "short_summary": "NOTICE OF PROPOSED PROCUREMENT",
+    "description": "This requirement is only open to the below list of pre-qualified suppliers under the Task Based Informatics Professional Services (TBIPS)\",  ",
+    "estimated_value": 2500000,
+    "date_posted": "2022-11-04",
+    "duration_in_months": "The estimated level of effort of the contract will be for 240 days per year.\\nEstimated time frame of contract \u2013 January 22, 2023 to January 31, 2026 plus three (3) irrevocable option years.",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Database Analyst",
+        "Information Management",
+        "Contract",
+        "Services",
+        "\\",
+        "]}, "
+    ],
+    "full_summary": "# Request for Proposal (RFP) Announcement\n\n## Intermediate Database Analyst / Information Management Administrator\n\n### Project Overview\n\nThe Department of National Defence (DND) invites proposals from pre-qualified suppliers under the Task Based Informatics Professional Services (TBIPS) Supply Arrangement to provide Intermediate Database Analyst / Information Management Administrator services.\n\n### Tender Details\n\n**Solicitation Number:** W8485-TBIPS2022-03/A\n**Publication Date:** November 4, 2022\n**Tender Closing Date:** November 22, 2022 (14:00:00)\n**Contract Duration:** Three (3) years, with two (2) one-year options\n**Location:** National Capital Region (Gatineau, QC)\n\n### Requirements\n\n* One (1) Intermediate Database Analyst / Information Management Administrator (Level II)\n* The successful bidder will provide services to support the Propulsion Group Sustainment (PGS) within ADM(Mat)/DGAEPM\n* Estimated level of effort: 240 days per year\n* Security Requirements: FSC - Secret\n\n### Pre-Qualified Suppliers\n\nOnly the following companies that have been pre-qualified under the stated consultant categories, level of expertise, security level, region, and tier are eligible to bid on this requirement:\n\n01 Millennium Consulting Inc.\n02 2iSolutions Inc.\n03 4Plan Consulting Corp.\n...\n115 Zernam Enterprise Inc\n\n### Proposal Submission\n\nProposals must be submitted in English or French. The RFP documents will be emailed directly to pre-qualified suppliers. No proposals will be accepted on the Government Electronic Tendering System (Buy and Sell).\n\n### Contact Information\n\nTony Seng\nContact: Tony.Seng@forces.gc.ca\nPhone: 819-939-4148\n\n### Evaluation Criteria\n\nThe proposal evaluation will be based on the RFP documents and the criteria outlined in the evaluation matrix.\n\n### Notice of Expiration\n\nThis tender has expired. Interested suppliers should contact the Contracting Authority to inquire about potential future opportunities.\n\nFormat:\n* Headers (class=heading)\n* Subheaders (class=subheading)\n* General text (class=text) \n\nNote to the stylist: \n* Use Canadian English.\n* Consider removing repetitive and unnecessary information. \n* Ensure you use proper sentence structure and punctuation.\n* Be concise and directly communicate the essential information.\n* Format the output in markdown format with numbered lists and headers.\n* Keep in mind that overall length should not exceed 400 words and SME (Subject Matter Experts) review"
+}

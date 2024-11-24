@@ -1,0 +1,28 @@
+{
+    "CONTRACT_ID": "(ACAN) CL220012",
+    "type": "Metadata Notice: Advance Contract Award Notice",
+    "department": "Defence Construction Canada",
+    "procurement_category": "CNST",
+    "short_summary": "notice",
+    "description": "purchase 750,000.00 dollars to replace the existing constant current regulators using digital constant current rigulators on 33 hughey and philips ccrs",
+    "estimated_value": 750000,
+    "date_posted": "2022-09-29",
+    "duration_in_months": "math_calculate(120/30)=4 months",
+    "provinces": [
+        "Alberta",
+        "Ontario"
+    ],
+    "tags": [
+        "digital control systems",
+        "general contractor services",
+        "contract notice",
+        "advance contract award notice",
+        "solicitation number cl220012",
+        "contract award date",
+        "tender description",
+        "post date",
+        "modification date",
+        "notice description"
+    ],
+    "full_summary": "### **Government Tender Announcement: Airfield Lighting Control & Monitoring System (ALCMS) and Constant Current Regulatory (CCR) Replacement**\n\n#### **Title:** (ACAN) CL220012 \u2013 Airfield Lighting Control & Monitoring System (ALCMS) and Constant Current Regulatory (CCR) Replacement 4 Wing Cold Lake, Alberta\n\n#### **Reference:** PW-22-01008786\n\n#### **Public Posting Date:** 2022-09-29\n\n#### **Tender Closing Date & Time:** 2022-10-13T16:00:00\n###### **Tender Details:**\n\nThis Advance Contract Award Notice (ACAN) invites one qualified supplier to express interest in providing Airfield Lighting Control and Monitoring System (ALCMS) and Constant Current Regulatory (CCR) replacement services for 4 Wing Cold Lake, Alberta.\n\nThe project involves:\n\n1.  Retrofitting 33 Hughey &amp; Phillip CCRs from analog control and display to digital control and display, including automatic insulation resistance monitoring data system and system monitoring/trending and logging features.\n2.  Supplying and installing a PLC-based ALCMS with three (3) operator stations, providing remote access and support, including software upgrades, using multiple communications protocols.\n3.  Commissioning, calibration, user training, and documentation.\n4.  A minimum 5-year warranty and post-installation user support.\n\n**Key Performance Requirements:**\n\nThe successful supplier must have the capability to meet the following requirements:\n\n*   Design and replace analog Constant Current Regulatory doors with digitally controlled Constant Current Regulator doors, compatible with Hughey &amp; Phillip CCRs.\n*   Provide a software package to update ALCMS, enabling communication with retrofitted digital CCR doors.\n*   Complete the project within 120 days after contract award, within a maximum budget of $750,000.00.\n\n**Security Clearance:**\n\nThe chosen supplier must hold a valid Designated Organization Screening (DOS), issued by the Canadian Industrial Security Directorate (CISD).\n\n**Submission Requirements:**\n\n Suppliers interested in this opportunity must submit a statement of capabilities, demonstrating their ability to meet the requirements, on or before the tender closing date and time.\n\nSee attached document for detailed requirements. Please contact Sumbul Siddiqui, Coordinator, Contract Services, Defence Construction Canada (DCC), at Sumbul.siddiqui@dcc-cdc.gc.ca for any inquiries. \n\n\n\nRevisions and Exclusions made:\n\n*   Title reformatted for better clarity and organization"
+}

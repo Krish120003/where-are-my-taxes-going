@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-22-01017004",
+    "type": "Construction bid",
+    "department": "Defence",
+    "procurement_category": "Construction-services",
+    "short_summary": "Building construction and maintenance.",
+    "description": "This is the notice of a construction bidding project. One of the objectives of this project is building construction. Construction-servies are required for various types of construccion. The objective of this project is to provide construction services for various types of buildings.",
+    "estimated_value": 100000000,
+    "date_posted": "2022-12-13",
+    "duration_in_months": "7",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "building construction",
+        "construction services",
+        "construction bidding project"
+    ],
+    "full_summary": "====================\n### Cancelled Tender - QU22SLML\n#### Reference Information\n\n* **Reference Number**: PW-22-01017004\n* **Solicitation Number**: QU22SLML\n* **Publication Date**: December 13, 2022\n* **Tender Closing Date**: March 31, 2026 (14:00:00, Cancelled)\n\n#### Description\nThe procurement for the solicitation QU22SLML has been cancelled.\n\n#### Related Goods and Services\n\nThe associated goods and services included in this cancelled solicitation are:\n* **Construction of One and Two Dwelling Buildings**\n* **Construction of Multi-Dwelling Buildings**\n* **Construction of Warehouses and Industrial Buildings**\n* **Construction of Other Buildings**\n* **Construction Services, Not Elsewhere Specified**\n* **General Heavy Construction**\n* **Other Special Trade Construction Work**\n\n#### Buyer Information\n\nThe contracting entity responsible for this procurement is:\n\n*  **Defence Construction Canada**\n*  **Address**: Constitution Square, 19th Floor, 350 Albert Street, Ottawa, Ontario, K1A 0K3, Canada\n\n#### Contact Information\n\nFor any inquires, please contact:\n*  **Name**: Mark Smith\n*  **Email**: [mark.smith@dcc-cdc.gc.ca](mailto:mark.smith@dcc-cdc.gc.ca)\n*  **Phone**: 613-859-0549\n\n#### Notice Information\n\nThis notice has been cancelled. Please do not submit any bids. \n\n#### Miscellaneous\n\n* **Trade Agreements**: The procurement may be subject to the Canadian Free Trade Agreement (CFTA), the World Trade Organization Agreement on Government Procurement (WTO GPA), and the Canada-European Union Comprehensive Economic and Trade Agreement (CETA). \n* **Regions of Opportunity**: The procurement may be awarded in Canada, Europe, Mexico, and the United States.\n\nPlease note that this entry only contains the essential information about the cancelled tender. The free text from the contractor has been omitted. (408 words)\n```r\n# North American Industry Classification Code\nNAICS_bal\n# Usual/frequent suppliers/customers. The list could contain suppliers/customers related to the\n# tenders contained in the current dataset.\nsuppliers_customers_bal.what_id\n# You may make the list ofways and/or regions of the contract limitation from the current list for a suitable tender procedures by filesystems proxies\ncontract_lo_bal       \nregions\n## toom_toom furthermore al_contract\n%\n```python"
+}

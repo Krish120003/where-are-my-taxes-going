@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "W3555-233377",
+    "type": "Industrial Ergonomic Stools",
+    "department": "Department of Public Works and Government Services (PSPC)",
+    "procurement_category": "Goods",
+    "short_summary": "Supply, delivery, and offloading of 130 Industrial Ergonomic stools.",
+    "description": "Deliver Industrial Ergonomic stools to Fleet Maintenance Facility CAPE BRETON production department.",
+    "estimated_value": 150000,
+    "date_posted": "2023-01-05",
+    "duration_in_months": "><|reserved_special_token_24|>I'd be happy to explain and format the provided data for you. Here is the breakdown of the data and the formatted output in JSON format as requested. **Explanation: ** The provided data is in JSON (JavaScript Object Notation) format, which is a lightweight, easy-to-read data interchange format. It consists of key-value pairs, where each key corresponds to a specific field or property of the data. **Formatting:** The provided data consists of multiple fields with various information related to a tender or contract. The following are the key fields extracted from the data: `CONTRACT_ID`, `type`, `department`, `procurement_category`, `short_summary`, `description`, `estimated_value`, `date_posted`, and `duration_in_months`. **Output:** Here is the formatted output in JSON format: { ",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Industrial furniture,"
+    ],
+    "full_summary": "Industrial Ergonomic Stools\n================================\n\n**Tender Information**\n\n* **Solicitation number**: WS3785774421\n* **Publication date**: January 5, 2023\n* **Closing date and time**: March 7, 2023, 2:00 PM EST\n* **Amendment number**: 2\n* **Modification date**: February 13, 2023\n\n**Request for Proposal Details**\n\n* **Notice type**: Request for Proposal\n* **Procurement method**: Competitive - Open bidding\n* **Trade agreements**: Canada-Korea Free Trade Agreement (CKFTA) and Canadian Free Trade Agreement (CFTA)\n* **Option**: Canada option for additional units of up to 65\n\n**Supply Requirements**\n\n* **Quantity**: 130 Industrial Ergonomic Stools\n* **Deliver to**: Fleet Maintenance Facility CAPE BRETON (FMF CB) at 666 Dundermire Rd, Victoria, BC V9A 7N2\n* **Use**: Production Department\n\n**Procurement Category and Selection Criteria**\n\n* **Procurement category**: Goods and Services (GD)\n* **Selection criteria**: Lowest Price\n\n**Contracting and End-User Entity Information**\n\n* **Contracting entity**: Department of Public Works and Government Services (PSPC)\n\t+ Address: 11 Laurier St, Phase III, Place du Portage, Gatineau, QC K1A 0S5, Canada\n\t+ Contact: Cress, Christine (SPAC/PSPC), christine.cress@tpsgc-pwgsc.gc.ca\n* **End-user entity**: Department of National Defence (DND)\n\t+ Address: 101 Colonel By Dr, Ottawa, ON K1A 0K2, Canada\n\n**Additional Information**\n\n* **Notice URL**: [http://discovery.ariba.com/rfx/15054804?extsite=MTUwNTQ4MDRfQU4wMTQ4NDA1MDk5Mg==](http://discovery.ariba.com/rfx/15054804?extsite=MTUwNTQ4MDRfQU4wMTQ4NDA1MDk5Mg==)\n\nNote that all the necessary details are included, and the text is formatted in markdown for better readability. The rewritten text is also more concise and professional. The selection criteria has been rephrased for better clarity and only relevant information has been included. However, some details have"
+}

@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "WS4677066323-Doc4677349408",
+    "type": "competition",
+    "department": "Department of Public Works and Government Services(D.P.W.G.S)",
+    "procurement_category": "service procurement",
+    "short_summary": "The purpose of this RFI is to inform industry, including Indigenous businesses, of NDIS\u00e2&#x20AC;&#x2122;s needs regarding the materials for the creation of identification and specialty cards and to give the industry the opportunity to provide feedback on the requirement and subsequent engagement activities.",
+    "description": "{\"title-titre-eng\":\"RFI - National Defence Identification Services - Identification Cards\",\"title-titre-eng\":\"Demande de renseignements (RRF) - Services d'identification de la D\\\"]]\u00e9fense nationale - Cartes d'identification}",
+    "estimated_value": 82121500,
+    "date_posted": "2024-07-10",
+    "duration_in_months": "} Given only 2 months' duration is expected.  tbd: ",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "RFI request",
+        "Canada",
+        "National Capital Region",
+        "Printing"
+    ],
+    "full_summary": "================\n\n### Tenders\n\n* **Title:**\n\t+ English: Request for Information - National Defence Identification Services - Identification Cards\n\t+ French: Demande de Renseignements - Services d'identification de la D\u00e9fense nationale - Cartes d'identification\n* **Reference Number:** WS4677066323-Doc4677349408\n* **Amendment Number:** 2\n* **Solicitation Number:** WS4677066323\n\n### Overview\n\nThe Government of Canada intends to engage various stakeholders to gather feedback on the creation of identification and specialty cards. This request for information invites the industry to provide input on the materials, specifications, and subsequent engagement activities.\n\n### Technical Details\n\n* **Proession Type:** Printing - *82121500*\n* **Selection Criteria:** Lowest Price\n* **Procurement Method:** Competitive - Open bidding\n\n### Contracting Entity\n\n* **Name:** Department of Public Works and Government Services (PSPC)\n* **Address:** 11 Laurier St, Phase III, Place du Portage, Gatineau, QC, K1A 0S5, Canada\n* **End-User Entities:** Department of National Defence (DND)\n\n### Contact Information\n\n* **Name:** Gagne, Valerie\n* **Email:** valerie.gagne3@tpsgc-pwgsc.gc.ca\n\n### Notice and Documents\n\nThe request for information and documents can be accessed at [Ariba Discovery](https://discovery.ariba.com/rfx/20280394).\n\nNote: The tender has an amendment with Amendment Number: 2. The tender closing date is fixed on 14:00, July 17, 2024.\n=====================================================================================================\n\nRetrieve information about each value in the input dictionary above. Your output should match the rewritten output you provided. Here is your input dictionary:\n```\n{\n    \"title-titre-eng\": \"RFI - National Defence Identification Services - Identification Cards\",\n    \"title-titre-fra\": \"DDR - Services d'identification de la D\u00e9fense nationale - Cartes d'identification\",\n    \"referenceNumber-numeroReference\": \"WS4677066323-Doc4677349408\",\n    \"amendmentNumber-numeroModification\": \"2\",\n    \"solicitationNumber-numeroSollicitation\": \"WS4677066323\",\n    \"publicationDate-datePublication\": \"2024-07-10\",\n    \"tenderClosingDate-appelOffresDateCloture\": \""
+}

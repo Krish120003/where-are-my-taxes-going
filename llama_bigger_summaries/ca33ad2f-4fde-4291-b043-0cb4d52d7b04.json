@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "cb-869-94014846",
+    "type": "maint associated w/phvM",
+    "department": "Fisheries and Oceans Canada",
+    "procurement_category": "SRV",
+    "short_summary": "The project involves work on DFO's GIS Hub development following its ecosystem and science division direction and maintenance activities.",
+    "description": "Work under the proposed contract will involve optimizing the GIS Hub platform (current functionality in CKAN) to support the development, storage, cataloguing, and dissemination of spatial data products. Ongoing maintenance activities will be undertaken to uphold the platform's reliability and performance. Work will also be required to maintain and enhance the interoperability of this platform with other data portals and cataloguing systems. Our customized GIS Hub platform needs a further development and maintenance activities.",
+    "estimated_value": 49.98,
+    "date_posted": "2024-06-17",
+    "duration_in_months": ";drop.entry(60, 29)",
+    "provinces": [
+        "British Columbia",
+        "Ontario"
+    ],
+    "tags": [
+        "maintenance",
+        "updates",
+        "GIS Hub",
+        "spatial data",
+        "CANAIDA"
+    ],
+    "full_summary": "```markdown\n# Maintenance and Updates of GIS Hub for Spatial Data Management\n\n## Title:\nMaintenance and updates of GIS Hub for Spatial Datasets Management\n\n## Reference Number:\ncb-869-94014846\n\n## Amendment Number:\n3\n\n## Solicitation Number:\n30005210\n\n## Publication Date:\n2024-06-17\n\n## Tender Closing Date:\n2024-07-12T14:00:00\n\n## Amendment Date:\n2024-07-12\n\n## Expected Contract Start Date:\nNone\n\n## Expected Contract End Date:\nNone\n\n### Tender Information\n\n* **Notice Type:** Request for Proposal\n* **Procurement Method:** Competitive - Open bidding\n* **Selection Criteria:** Highest Combined Rating of Technical Merit and Price\n* **Procurement Category:** SRV\n* **Trade Agreements:** Canada-Korea Free Trade Agreement (CKFTA), World Trade Organization Agreement on Government Procurement (WTO GPA), and other relevant agreements\n* **Regions of Opportunity:** Canada\n* **Regions of Delivery:** British Columbia\n\n### Description\n\nThe Fisheries and Oceans Canada, Ecosystem and Science Division (ESD), Science Branch, Pacific Region is developing spatial data products to support federal programs, including the Ocean Protection Plan, Marine Conservation Target, and Stock Assessment. The analyses will draw on various input data, formats, and methods to advance the department's understanding of valued species distributions.\n\nThe GIS Hub platform, built on the open-source CKAN system, requires further development and ongoing maintenance to support the development, storage, cataloging, and dissemination of spatial data products.\n\nThis project has three main objectives:\n1. Optimize the GIS Hub platform to support spatial data management.\n2. Undertake ongoing maintenance activities to uphold platform reliability and performance.\n3. Maintain and enhance interoperability with other data portals and cataloging systems.\n\n### Contract Information\n\n* **Contract Duration:** Five (5) years\n* **Work Allocation:** Task Authorizations (TAs)\n* **Contract Award:** One (1) contract\n\n### Contact Information\n\n* **Name:** Stephanie Patry\n* **Email:** stephanie.patry@dfo-mpo.gc.ca\n* **Phone:** (613) 000-0000\n```\nNote that I rewrote the tender announcement to make it more concise and readable. I kept only the essential information and reformatted it using Markdown for better readability. I also made minor adjustments to grammar and wording to improve clarity. If you need further adjustments, please let me know! \nThe"
+}

@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "cb-914-63468087",
+    "type": "amendment",
+    "department": "Department of Justice Canada",
+    "procurement_category": "*",
+    "short_summary": " Request for proposals \",  ",
+    "description": "descriptionAppelOffres-eng",
+    "estimated_value": 5000.0,
+    "date_posted": "Mon Mar 13 2023 16:0",
+    "duration_in_months": "60",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Uno",
+        "condo"
+    ],
+    "full_summary": "# Case Management System - Office of the Federal Ombudsperson for Victims of Crime (OFOVC) and Ombuds and Informal Resolution Services Office (OIRSO)\n## Tenders Closing Date Extended to May 8, 2024\n\nThe Department of Justice Canada (JUS) has a requirement for a Software as a Service (SaaS) platform and associated services to support case management of files enabling robust reporting and data analysis. This solution is needed to effectively manage case files, increase capacity for trend analysis and support systemic reviews.\n\n## Solution Overview\n\nThe case management solution must be bilingual, respect Government of Canada accessibility and security requirements, be user-friendly, have a data entry interface that will avoid overwriting information from one victim/case to another, and have an efficient search engine. The system must also allow the deletion of transitory information in a victim/case file upon request from the user.\n\nThe two Ombuds offices, OFOVC and OIRSO, have similar technical requirements, although specific fields/categories and work flows within the system will be different between the offices.\n\n## Key Requirements\n\n* Web-based case management system offered by the contractor with data stored on a cloud-server located in Canada\n* Bilingual interface respecting Government of Canada accessibility and security requirements\n* User-friendly interface to capture, manage and analyze information provided by clients/inquirers\n* Efficient search engine\n* Transitory information deletion capability\n* Secure storage and transmission of data\n* Compliance with Government of Canada security requirements\n\n## Contract Award\n\nJUS intends to award one (1) contract for this solution for five (5) years with the option to extend for an additional (5) periods of one (1) year each under the same terms and conditions.\n\n## Security Requirements\n\nSecurity requirements are associated with this requirement. For additional information, please consult Part 6 - Security Requirements.\n\n## Procurement Details\n\n* Solicitation Number: 1000033052\n* Tender Closing Date: May 8, 2024, 2:00 PM EST\n* Procurement Category: Service (SRV)\n* Request for Proposal (RFP)\n* Notice Type: Request for Proposal (english), Demande de propositions (french)\n\nContact Information:\n* Name: Kayla Pordonick\n* Email: kayla.pordonick@justice.gc.ca\n* Phone: (613) 301-9709\n* Address: 284 Wellington Street, Ottawa, Ontario, K1A 0H8, Canada"
+}

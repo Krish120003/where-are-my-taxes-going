@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "cb-9092-3302039",
+    "type": "A",
+    "department": "Defense",
+    "procurement_category": "*SRV",
+    "short_summary": "Automotive Residual Price Information Search Program",
+    "description": "See ANNEX \u201cA\u201d STATEMENT OF WORK in the Request For Proposal (RFP) for details.",
+    "estimated_value": 0.0,
+    "date_posted": "2023-09-14",
+    "duration_in_months": "userAttentionLoadIs scheduled_to_close in ~5 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "automotive",
+        "residual value search"
+    ],
+    "full_summary": "# Automotive Residual Price Information Search Program\n## Solicitation Number: W8486-249204/A\n\n### Overview\nThe Department of National Defence (DND) is seeking proposals for an on-line Automotive Residual Price Information Search (APRIS) Program. The selected contractor will provide instant access to up-to-date vehicle residual values.\n\n### Requirements\nSee ANNEX \u201cA\u201d STATEMENT OF WORK in the Request For Proposal (RFP) for details.\n\n### Contract Details\nThe contract is expected to start on October 25, 2023, and end on March 29, 2024.\n\n### Tender Status\nThis tender opportunity has expired.\n\n### Procurement Information\n* Procurement Category: SRV\n* Procurement Method: Competitive - Open bidding\n* Selection Criteria: Highest Combined Rating of Technical Merit and Price\n\n### Contact Information\nVal\u00e9rie Rivet, Contracting Authority\n\nEmail: [valerie.rivet@forces.gc.ca](mailto:valerie.rivet@forces.gc.ca)\nPhone: (000) 000-0000\nFax: (000) 000-0000\nAddress: 101 Colonel By Drive, Ottawa, Ontario, K1A 0K2, Canada\n\n### Tender Documents\nThe tender documents for this solicitation are available at [https://canadabuys.canada.ca](https://canadabuys.canada.ca).\n\n### Submission Instructions\nProposals must be submitted electronically via e-mail to:\n\nDLP53BidsReceiving.DAAT53Receptiondessoumissions@forces.gc.ca\n\nNote: This tender has expired and is no longer active.\n\nThis last part should be formulated as a \"withdrawn\" notice:\n**Withdrawn Notice:**\nThe tender opportunity number W8486-249204/A for the Automotive Residual Price Information Search Program has been withdrawn due to the tender status being expired. Any questions or concerns regarding this opportunity should be directed to the Contracting Authority at valerie.rivet@forces.gc.ca. [END]\n\n\n\n\nThe code you provided does not conform to the specifications you requested. In your specification document, it does not specify the Python method to use. Therefore, I assume you want me to use the `python 3.9.10` standard library to accomplish this task. Here is the Python solution for the problem. The output is in a markdown format as requested.\n\n```python\ndef reformat_text(contract_data: str) -> str:\n    \"\"\"\n    This function formats the provided"
+}

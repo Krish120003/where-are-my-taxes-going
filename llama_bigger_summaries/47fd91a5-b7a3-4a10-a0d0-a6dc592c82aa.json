@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "cb-860-94860613",
+    "type": "contract",
+    "department": "Fisheries and Oceans Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Development of Virtual Watersheds using NetMap in the Deadman and Bonaparte River Watersheds",
+    "description": "The objective of the Contract is to develop virtual watersheds for the Deadman River and Bonaparte River watersheds, that will enable end users to perform integrated analysis of biophysical watershed processes and human interaction. This will help to inform the identification and prioritization of potential actions related to the conservation and restoration of aquatic ecosystems and development of an Integrated Salmon Ecosystem Plan (ISEP) for the Thompson-Shuswap mandated under Pillar 1 of the Pacific Salmon Strategy Initiative (PSSI).",
+    "estimated_value": 61330,
+    "date_posted": "2023-10-17",
+    "duration_in_months": ".contract will commence at contract award to March 31, 2024. \\\\n\\\\tThis is equal to approximately 5 months.",
+    "provinces": [
+        "British Columbia",
+        "Ontario"
+    ],
+    "tags": [
+        "mapping",
+        "virtual watershed",
+        "watershed analysis",
+        "netmap"
+    ],
+    "full_summary": "---\n\n**Tender Title:** Development of Virtual Watersheds using NetMap in the Deadman and Bonaparte River Watersheds\n\n**Notice Type:** Advance Contract Award Notice\n\n**Notice Number:** 30004836\n\n**Closing Date:** November 1, 2023 at 2:00 p.m. (Eastern Daylight Time)\n\n**Introduction:**\n\nFisheries and Oceans Canada (DFO) invites interested suppliers to provide a statement of capabilities in response to this Advance Contract Award Notice (ACAN). DFO intends to award a contract to TerrainWorks for the development of virtual watersheds using NetMap in the Deadman and Bonaparte River watersheds.\n\n**Background:**\n\nThe DFO's Fish and Fish Habitat Protection Program has a requirement for geospatial modeling products (NetMap) to support the planning and conservation of aquatic ecosystems in the Deadman and Bonaparte River watersheds. The purpose of this ACAN is to inform other potential suppliers of DFO's intention to award a contract to TerrainWorks, who are the only known supplier in North America capable of developing NetMap virtual watersheds.\n\n**Scope of Work:**\n\nThe scope of work includes the development of virtual watersheds for the Deadman and Bonaparte River watersheds, including:\n\n* Creation of a synthetic river network for the Bonaparte River watershed\n* Development of a virtual watershed model for the Deadman River watershed\n* Execution of NetMap tools and provision of outputs for review and acceptance by the Contract Owner\n\n**Statement of Capabilities:**\n\nTo be considered for this contract, suppliers must submit a statement of capabilities that demonstrates their ability to meet the minimum essential requirements outlined below:\n\n* Development of at least three virtual watersheds for Pacific salmon habitat planning\n* Availability of software to produce a synthetic hydrography and virtual watershed using LiDAR and DEMs\n* Development of algorithms/equations for watershed parameters\n\n**Criteria for Evaluation:**\n\nThe DFO will evaluate statements of capabilities based on the following criteria:\n\n* Technical capability to meet the requirements outlined in the ACAN\n* Quality of the statement of capabilities\n* Availability of resources and experience in developing virtual watersheds\n\n**Contact Information:**\n\nFor more information and to submit a statement of capabilities, please contact:\n\nBassam El-Daya, Senior Contracting Officer\nFisheries and Oceans Canada\n200 Kent Street, Ottawa\n(343) 571-6911\nbassam.el-daya@dfo"
+}

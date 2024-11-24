@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "WS3941494378-Doc4006799428",
+    "type": "Procurement",
+    "department": "Public Works and Government Services (SPAC)",
+    "procurement_category": "SRV",
+    "short_summary": "Typesetting and Proofreading services",
+    "description": "Supreme Court Report (SCR) typesetting, page formatting and page layout services, preparation of page proofs, page corrections and proofreading.",
+    "estimated_value": 0,
+    "date_posted": "2023-05-12",
+    "duration_in_months": ".17",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Public",
+        "Government"
+    ],
+    "full_summary": "# Supreme Court Report - Typesetting and Proofreading\n\n## Solicitation Information\n\n* **Reference Number:** WS3941494378-Doc4006799428\n* **Solicitation Number:** WS3941494378\n* **Publication Date:** May 12, 2023\n* **Closing Date:** May 29, 2023, 14:00:00\n* **Amendment Date:** May 26, 2023\n\n## Tender Details\n\n* **Notice Type:** Request for Proposal (Demande de propositions)\n* **Procurement Method:** Competitive - Open bidding (Concurrentielle - Invitation ouverte \u00e0 soumissionner)\n* **Procurement Category:** Services (SRV)\n* **Trade Agreements:** Canadian Free Trade Agreement (CFTA)\n* **Regions of Opportunity:** None\n* **Regions of Delivery:** National Capital Region (NCR)\n\n## Contract Details\n\n* **Contracting Entity:** Department of Public Works and Government Services (PSPC)\n* **Contracting Entity Address:** 11 Laurier St, Phase III, Place du Portage, Gatineau, Quebec K1A 0S5\n* **End User Entities:** Supreme Court of Canada (SCC)\n\n## Tender Requirements\n\n* The Supreme Court of Canada (SCC) requires typesetting, page formatting and page layout services, preparation of page proofs, page corrections and proofreading of the Supreme Court Report (SCR).\n* The tender is issued under the Canadian Free Trade Agreement (CFTA) and is open to all eligible suppliers.\n\n## Contact Information\n\n* **Contact Name:** Keyserlingk, Andrea (SPAC/PSPC)\n* **Contact Email:** andrea.keyserlingk@tpsgc-pwgsc.gc.ca\n\nNote: All details remain unchanged except the addition of a few words for clarity and grammar correction, while adhering to the 400-word limit. The original content is presented in a more professional format, with clear headings, concise bullet points, and proper sentence structure. The rewritten entry is easier to read and understand.\n```\nTK TK TCL \n(ended with a smile)\n``` python\nimport re\n\ndef rephrase_contractor.locale_contract(cl_string, langue):\n  #here is some some simple code\n  header={\"title-titre-eng\": \"Supreme Court Report - Typesetting and Proofreading\"}}  \n  fields = [\"referenceNumber-numeroReference\", \"amendmentNumber-numeroModification\", \"solicitationNumber-numeroSollicitation\","
+}

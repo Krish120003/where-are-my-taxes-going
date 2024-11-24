@@ -1,0 +1,37 @@
+{
+    "CONTRACT_ID": "PW-22-01003349",
+    "type": "bid response",
+    "department": "P\u00fablica Works and Government Services Canada",
+    "procurement_category": "service contract",
+    "short_summary": "Proximity sensor system for space robotics.",
+    "description": "The Canadian Space Agency is seeking a solution to prevent collisions by proximity sensing in a space environment.",
+    "estimated_value": 1500000.0,
+    "date_posted": "2022-08-10",
+    "duration_in_months": "*6 for phase 1 and 24 for phase 2*",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "space",
+        "robotics",
+        "sensor",
+        "collision",
+        "proximity",
+        "autonomy",
+        "safety",
+        "Contract Security Manual",
+        "national security",
+        "national security and defense",
+        "solutions innovatiques",
+        "Canada.ca",
+        "TPSGC-PWGSC.gc.ca",
+        "Canada.ca",
+        "tc Instruments",
+        "device for measuring",
+        "distance",
+        "security",
+        "Prophecy ",
+        "Reliability Security Clearance"
+    ],
+    "full_summary": "# Proximity Sensor System for Space Robotics\n\n## Challenge Description\nThe Canadian Space Agency (CSA) seeks a solution to prevent collisions by proximity sensing in order to simplify the safety of autonomous operations in space manipulators.\n\n## Key Information\n- **Reference Number**: PW-22-01003349\n- **Amendment Number**: 6\n- **Solicitation Number**: EN578-20ISC3\n- **Publication Date**: August 19, 2022\n- **Tender Closing Date**: October 28, 2022, 14:00 EDT\n- **Regions of Delivery**: Canada\n\n## Background and Context\nA space servicing robotic manipulator must not come into unintended contact during operations to ensure the safety of crew and spacecraft. The CSA is seeking a solution to improve robotic system autonomy for future space missions.\n\n## Technical Requirements\nThe solution must:\n- Operate autonomously, determining in real-time that it is safe to continue motion based on proximity sensing.\n- Be a contactless-based solution.\n- Provide a proximity warning when objects are within 10 cm of the manipulator or payload.\n- Have a sensing range of at least 25 cm.\n- Resolve at least 1 cm spatially.\n- Limit mass and protrude no more than 1 cm from the manipulator's surface.\n\n## Desired Outcomes\nThe solution should:\n- Improve the mass, power, volume, and field of coverage of existing proximity sensing technologies.\n- Provide accurate collision prediction.\n- Have a sensing range of 1 m.\n- Consume less than 60 W.\n- Be able to gather additional information about obstacles in near real-time.\n- Adapt to various environments and scenarios.\n\n## How to Apply\n- Read the Call for Proposals and challenge details.\n- Revise the Solicitation Documents for the process of submitting a proposal.\n- Submit a proposal through the Innovative Solutions Canada website.\n\n## Contact Information\nFor inquiries and further information, please contact TPSGC.SIC-ISC.PWGSC@tpsgc-pwgsc.gc.ca. Please submit written inquiries no later than ten calendar days before the challenge closing date. ENQUIRIES RECEIVED AFTER THIS DATE MAY NOT BE ANSWERED."
+}

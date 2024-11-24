@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "multichannel potentiostat for high throughput experimentation",
+    "type": "TENDER",
+    "department": "NCRC",
+    "procurement_category": "Material Procurement",
+    "short_summary": "A contract for a high-throughput potentiostat for battery analysis",
+    "description": "",
+    "estimated_value": 0,
+    "date_posted": "data.publicationDate-datePublication",
+    "duration_in_months": ", tenderDescription-dateFinContratPrevue",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Environment and Energy,See the linked html file for required forms and documents.",
+        "Public services",
+        "Research and development",
+        "Purchase and maintenance of equipment for research purposes.Contract duration subject to proposal format, mandated budget and contractual requirements. Forms and applicable documents can be found at:https://gcoc-ccc.gc.ca/bns/division-materiaux\"],     "
+    ],
+    "full_summary": "### Multichannel Potentiostat for High Throughput Experimentation\n\n**Government Invitation to Tender**\n\n**Government Reference Number:** cb-407-23663808\n\n**Tender Title (EN):** Request for Proposal: Multichannel Potentiostat for High Throughput Experimentation\n\n**Tender Title (FR):** Demande de propositions: Potentiostat \u00e0 canaux multiples pour l'exp\u00e9rimentation \u00e0 haut d\u00e9bit\n\n**Tender Status:** Open\n\n**Publication Date:** 2024-11-14\n\n**Tender Closing Date:** 2024-12-10 14:00:00\n\nThe Government of Canada is inviting proposals from qualified contractors to supply a multichannel potentiostat to support high-throughput experimentation at the National Research Council of Canada (NRC). The selected contractor will be required to provide a potentiostat capable of performing electrochemical analysis techniques, including basic and advanced analysis methods.\n\n**Key Specifications:**\n\n* Potentiostat with up to 36 channels\n* Galvanostatic isolation in each channel\n* Programmable and controlled channels via Python-based API\n* Capable of performing basic and advanced electrochemical analysis techniques\n\nThe successful contractor will be responsible for the integration of the potentiostat into a material acceleration platform at NRC Mississauga. The automated synthesis and testing unit will utilize the potentiostat as part of its analysis sequence.\n\n**Requirements and Timeline:**\n\n* Deliverables must be received within 16 weeks after contract award\n* The contractor will be required to integrate the potentiostat into the material acceleration platform\n\n**Eligibility and Evaluation Criteria:**\n\n* Bidders must meet the eligibility criteria outlined in the solicitation document\n* Evaluation will be based on lowest price, with additional consideration for responsiveness to the solicitation and the contractor's ability to meet the project requirements.\n\n**Bid Submission and Contact Information:**\n\n* Electronic bids must be submitted through Canada Buys Web (https://canadabuys.canada.ca)\n* Refer to the solicitation document for detailed submission instructions and requirements\n* Contact Information: Veronica Exari, Contracting Officer, (343) 576-3252, Veronica.Exari@nrc-cnrc.gc.ca\n\nFor more information, please refer to the solicitation document, which is available for download from the Canada Buys Web portal. The Government of Canada thanks all interested contractors for their participation."
+}

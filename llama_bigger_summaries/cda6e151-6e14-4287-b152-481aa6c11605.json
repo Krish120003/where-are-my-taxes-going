@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "cb-8128-35907126",
+    "type": "TIMS Conversion to .NET",
+    "department": "Transportation",
+    "procurement_category": "SRV",
+    "short_summary": "",
+    "description": "",
+    "estimated_value": 0.0,
+    "date_posted": "2023-08-14",
+    "duration_in_months": ": 6",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Transportation",
+        "Government Contract",
+        "Software Development",
+        "Canada-Korea Free Trade Agreement(CKFTA), Canada-Panama Free Trade Agreement, Canada-Colombia Free Trade Agreement, World Trade Organization Agreement on Government Procurement (WTO GPA), Canada-Honduras Free Trade Agreement, Canada-Peru Free Trade Agreement (CPFTA), North American Free Trade Agreement (NAFTA), Canada-Chile Free Trade Agreement (CCFTA), Canadian Free Trade Agreement (CFTA)  Canada"
+    ],
+    "full_summary": "# Tender Opportunity: Conversion of Transport Canada's Integrated Personnel System\n\n## General Information\n\n* **Solicitation Number:** T8080-230184\n* **Tender Closing Date:** 2023-08-30T14:00:00\n* **Expected Contract Start Date:** 2023-09-01\n* **Expected Contract End Date:** 2024-03-29\n\n## Background and Scope\n\nTransport Canada is seeking a supplier to convert its Integrated Personnel System (IPS), a custom-developed human resources (HR) application, from Gupta SQLWindows to a modern web-based application using .NET. The IPS is a critical system that supports Transport Canada's operations, and its conversion is necessary to address gaps in resource support and reduce technical debt.\n\n## Business Requirements\n\nThe conversion project aims to transform the client-server applications, developed in Gupta SQLWindows over 20 years ago, to web-based applications using .NET. The new system must adhere to Transport Canada's current technology standards and provide a systematic approach to application development. The supplier may utilize tools, expertise, and past experiences to complete the task.\n\n## Contracting Entity and Contact Information\n\n* **Contracting Entity:** Transport Canada\n* **Contact Name:** Barbara Gorman\n* **Contact Email:** [barbara.gorman@tc.gc.ca](mailto:barbara.gorman@tc.gc.ca)\n* **Contact Phone:** (343) 550-2175\n\n## Important Documents\n\nThe tender notice and supporting documents can be downloaded from the following URL: https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/8128/t8080-230184-acan-english.pdf (English) and https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/8128/t8080-230184-acan-french_1.pdf (French)\n\n## Notes\n\n* This opportunity is subject to the Canada-Korea Free Trade Agreement (CKFTA), Canada-Panama Free Trade Agreement, and other applicable trade agreements.\n* The procurement is limited to suppliers who can demonstrate a proven and systematic approach to converting .NET-based applications.\n* Tender submissions must be received by 2023-08-30T14:00:00.\n\nIs the rewritten entry clear and concise? Can my primary audience- namely contracting bodues and interested suppliers- easily understand the opportunity requirements? Yes, it is.  Word count: 297. Currency of information: 2023-08-30\n"
+}

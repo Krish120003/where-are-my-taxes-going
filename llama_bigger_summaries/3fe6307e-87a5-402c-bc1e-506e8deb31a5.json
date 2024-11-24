@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "cb-600-7845010",
+    "type": "CONTRACTING",
+    "department": "Agriculture, Agri-Food Canada, and Health Canada",
+    "procurement_category": "service",
+    "short_summary": "Conduct high-precision, high-resolution mapping of air pollutants in entire Canada to support health improvement",
+    "description": "The Canadian government takes seriously the health improvement of Canadians through lowering the air pollution across Canada. Air pollution has direct health effects on humans. An agreed health intervention is the Canadian Air Quality Health Index (AQH). However, this index relies heavily on observational data, and hence subject to gaps in coverage. The new indexing relies on a combination of air quality modeling to generate high precision and high resolution of air pollutants. By using machine learning and hybrid model, we can spatially model the emission estimates of the air pollutants under varying conditions such as \", ",
+    "estimated_value": 1000000.0,
+    "date_posted": "2023-10-11",
+    "duration_in_months": "2",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Air quality",
+        "Canada",
+        "health",
+        " contract"
+    ],
+    "full_summary": "# Tender Announcement\n## Request for Proposal (RFP) for Air Pollution Data at High Temporal and Spatial Resolution\n### Reference Number: cb-600-7845010\n#### Solicitation Number: 1000252496\n\n#### Tender Description\n\nThe Air Quality Health Index (AQHI) is a critical communication tool that helps Canadians understand the risks associated with air pollution, particularly ozone (O3), nitrogen dioxide (NO2), and fine particulate matter (PM2.5). The AQHI relies on accurate and long-term air quality data from the National Air Pollution Surveillance (NAPS) program, which monitors ambient air in urban areas across Canada.\n\nHowever, Canadians living in rural areas face a concern of underrepresentation in the AQHI due to limited spatial coverage of NAPS ground-monitoring stations. This project aims to address this concern through three objectives:\n\n1.  **Improved Air Pollution Modeling**: Develop emission-adjusted Community Multiscale Air Quality (CMAQ) and Hybrid models to better estimate ozone (O3), nitrogen dioxide (NO2), sulfur dioxide (SO2), and fine particulate matter (PM2.5) concentrations for the years 2018 to 2020.\n2.  **Extended Spatial Coverage**: Expand the NAPS spatial coverage to include rural areas, ensuring more comprehensive air quality data.\n3.  **Enhanced Temporal Coverage**: Provide hourly air pollution concentrations in addition to daily and yearly averages.\n\nThis RFP seeks to engage contractors capable of delivering this project. The expected contract start date is not specified, and the expected end date is also unknown. Contractors must submit their proposals in English or French.\n\n## Key Information\n\n*   Project Reference Number: cb-600-7845010\n*   Solicitation Number: 1000252496\n*   Tender Closing Date: 2023-11-10T14:00:00\n*   Amendment Date: 2023-11-10\n*   Contact Information:\n\n    *   Wesley Phillips\n    *   [wesley.phillips@hc-sc.gc.ca](mailto:wesley.phillips@hc-sc.gc.ca)\n    *   (613) 941-2067\n\n## Attachments\n\nThe following attachments are available:\n\n*   [Bidder-Question-and-Answer-Document](https://canadabuys.canada.ca/sites/default/files/webform/tender_notice/21911/pr1000252496-bidder-qa.pdf)\n*   [Request-for-Proposal"
+}

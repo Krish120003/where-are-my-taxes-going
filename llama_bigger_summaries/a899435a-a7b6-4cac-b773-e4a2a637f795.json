@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "SS007",
+    "type": "Purchase",
+    "department": "National Capitol Commission",
+    "procurement_category": "Service",
+    "short_summary": "Design, Supply, Installation and Commissioning of Radio Communication System",
+    "description": "The National Capital Commission (the NCC) is a Crown corporation of the Federal Government governed by the National Capital Act, which, in order to fulfill its mandate, owns a comprehensive portfolio in Canada\u2019s Capital Region, situated and skirting both sides of the provinces of Ontario and Quebec. The NCC owns numerous facilities and parks which allows visitors to the Capital Region to take advantage of activities and have access to sites to discover the Nation\u2019s Capital. The NCC currently owns and operates a two-way radio system which provides coverage to the Greenbelt in the Ottawa area, the Rideau Canal, the Leamy Lake area, and within Gatineau Park. I have reformatted the below row into a Below listed format. Nota: Sometimes I may reformart the Data instead of simply just transforming it.  Reformmatted row below in cleaner format differs from extracted data.",
+    "estimated_value": 50.0,
+    "date_posted": "2022-09-06",
+    "duration_in_months": "><:18, ",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Government Contract",
+        "Tender",
+        "Radio Communication System"
+    ],
+    "full_summary": "### Design, Supply, Installation and Commissioning of Radio Communication System\n**Reference Number:** PW-22-01006102\n**Solicitation Number:** SS007\n**Tender Closing Date:** January 31, 2023, 15:00:00\n\n**Background**\nThe National Capital Commission, a Crown corporation governed by the National Capital Act, is seeking a qualified supplier to design, supply, install, and commission a radio communication system to ensure reliable two-way radio communications throughout the National Capital Region.\n\n**Intent**\nThe selected contractor shall design, supply, and install a turn-key radio communication system, including all infrastructure, technology, communications links, and interconnections, to meet the requirements of the National Capital Commission. The system shall provide seamless, reliable, and clear two-way radio communications coverage throughout the National Capital Region.\n\n**Mandatory Requirements**\n\n* The system shall utilize Digital Mobile Radio (DMR) technology and NCC licensed radio channel frequencies.\n* The system shall be implemented using a portfolio of handheld, vehicle, and fixed (base station) radios.\n* The system shall ensure reliable and clear two-way radio communications coverage for the National Capital Commission's personnel, volunteers, and the general public.\n\n**Term**\nThe contract shall be for a period of 6 years, with the option to extend for two additional 1-year periods.\n\n**Bidder's Conference**\nA mandatory Bidder's Conference and site visits shall be conducted on September 13-14, 2022.\n\n**Contact Information**\nPlease submit all inquiries to Sr. Contract Officer Micheline Al-Koutsi at micheline.al-koutsi@ncc-ccn.ca.\n\n**Submissions**\nPlease submit your proposal, sealed bid, and signed acceptance to:\nCommission de la Capitale Nationale\nBid email: Bids-soumissions@ncc-ccn.ca\nReference Tender File No. SS007\n\n### Regional Specifications\n* The system shall be implemented in the National Capital Region, covering the Greenbelt in the Ottawa area, the Rideau Canal, the Leamy Lake area, and Gatineau Park.\n\n### Technical Specifications\n* The system shall meet the configuration, operational, radio coverage, and future expansion requirements of the National Capital Commission.\n* The system shall be fully implemented within 18 months from the date of contract award.\n\n### Tender Documents\nReference documents can be found at: [https://canadabuys.canada.ca/documents/pub/att/2023/01/09/cee55efcc13bbf"
+}

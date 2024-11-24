@@ -1,0 +1,39 @@
+{
+    "CONTRACT_ID": "",
+    "type": "",
+    "department": "",
+    "procurement_category": "Goods",
+    "short_summary": "",
+    "description": "",
+    "estimated_value": 0.0,
+    "date_posted": "02/21/2023",
+    "duration_in_months": "",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Electronics Supply",
+        "Electrical Hardware and Supplies",
+        "5G NR Version 16",
+        "5G NR Version 17",
+        "5G NR Version 15",
+        "ARB memory extension",
+        "100 MHz, 1 GHz ultra low noise reference input/output",
+        "Low Noise Dmg",
+        "Baseband extension",
+        "White GaussianNoise",
+        "Enhanced noise generation",
+        "Gaussian Noise",
+        "Signal Analysis",
+        "TestForce Systems Inc",
+        "Rexal Canada",
+        "Anixter Canada",
+        "TechNet Electronics Inc",
+        "Navair Technologies Unit",
+        " NovaPeak",
+        "Seivad Connections Inc",
+        "Gigatron Associates Ltd",
+        "PremierFarnell"
+    ],
+    "full_summary": "# Upgrades to a 67 GHz R&S Signal Generator\n## Solicitation Details\n* Solicitation Number: NPP20230307\n* Solicitation Publication Date: February 21, 2023\n* Closing Date for Tenders: March 7, 2023, 14:00:00 EST\n* Expiration Date: March 7, 2023\n\n## Background\nIndustry Canada invites bids to upgrade a 67 GHz R&S signal generator. This solicitation is issued against the Supply Arrangement (SA) series E60HN-16ELEC (category 3.45 Signal Generators and Analyzers).\n\n## Description of Goods\nThe successful bidder must provide the required goods, as specified on the equipment list (Annex A), including equivalent products with manufacturers on the supply arrangement.\n\n## Evaluation Criteria\nSubmissions must demonstrate technical compliance with the requirements presented in the solicitation and at Annex A. The bidder must quote firm prices in Canadian dollars, DDP (destination) with freight charges included.\n\n## Bidder Selection\nThe bid must comply with the requirements of the bid solicitation and meet all evaluation criteria to be declared responsive. The lowest priced responsive bid on an aggregate basis will be recommended for award of a contract.\n\n## Contract Payment and Delivery\nThe contractor will be paid the firm prices as specified in the contract, inclusive of taxes. Delivery is requested to be completed by March 31, 2023.\n\n## Annex A: Equipment List\nThe required equipment includes, but is not limited to:\n\n* Extension of baseband from 1 GHz to 2 GHz RF bandwidth, Model - SMW-K527\n* Additional white gaussian noise, Model - SMW-K62\n* Enhanced noise generation, phase noise, impulsive noise, Model - SMW-K810\n* 5G NR Version 15, Model - SMW-K144\n* 5G NR Version 16, Model - SMW-K148\n* 5G NR Version 17, Model - SMW-K171\n* EUTRA/LTE Version 8, Model - SMW-K55\n* Extension of ARB memory to 2 Gsamples, Model - SMW-K515\n* Ultra low noise reference input/output, Model - SMW-K703\n\n## Important Dates\n* Closing Date for Tenders: March 7, 2023, 14:00:00 EST\n* Delivery Date: March 31, 2023\n\n## Contact Information\nContact Kelly Stauffer"
+}

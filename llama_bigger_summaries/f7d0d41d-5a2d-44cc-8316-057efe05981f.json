@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "Cancelled-106034",
+    "type": "Cancelled",
+    "department": "PW",
+    "procurement_category": "Goods and Services",
+    "short_summary": "TENTS, MODULAR, FIELD SERVICE",
+    "description": "This notice has been cancelled.",
+    "estimated_value": 0,
+    "date_posted": "2023-01-30",
+    "duration_in_months": ">best_choice_duration output section <",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Campaign",
+        "Competition",
+        "field service",
+        "modular",
+        "tents",
+        "GD",
+        "Canadian Commercial Corporation"
+    ],
+    "full_summary": "# ANNOUNCEMENT OF TENDER CANCELLATION \n\n**Procurement Reference:**\nPW-23-01023844\n\n**Notice of Contract Cancellation:**\nThe Canadian Commercial Corporation hereby announces the cancellation of the above-mentioned contract, which was initially advertised for tender on January 30, 2023, with a closing date of March 6, 2023.\n\n**Summary of Contract:**\nThe cancelled contract was for the supply of *TENTS, MODULAR, FIELD SERVICE*, classified under the NATO Supply Classification Group (NSGC) NIBS *N8340GC*. \n\n** Procurement Method: **\nThe procurement method employed for this contract was *Competitive - Open Bidding*, in accordance with the procurement policy guidelines of the Canadian Commercial Corporation.\n\n**Cancellation Reason:**\nNo reason is provided for the cancellation of this tender.\n\n**Interested Parties:**\nToronto-based contractors were initially invited to participate in this tender. \n\n**Contracting Entity:**\nThe contract was to be managed by the Canadian Commercial Corporation, with its address located at 350 Albert Street, Suite 700, Ottawa, ON, K1A 0S6, Canada.\n\n**Contact Information:**\nFor any inquires regarding the cancellation of this contract, please contact Kathleen Nash, at nnash@ccc.ca\n\n---\n\nBelow are just some of the key details rewritten from the original input in 400 words.\n\n- **Cancellation of Contract**: The contract was cancelled and contains a notice stating the cancellation.\n- **Notice Date**: The notice of contract cancellation is given on the tender page.\n- **Contracting Entity Name**: The official government entity involved in the contract for the purchase of camping equipment.\n- **Procurement Reference:** Indicating the required information needed when the submission of the contract is accepted, or bid counter.\n- **Website Reference:** Contract bids should refer to no website since it was one of the orders abandoned.\n- **Period of Contract Cancellation**: Within a couple of weeks. \nThe above dates should be quite clear. \n\n**ROW columns**\n\n| ROW     |    Field Name      |          Input Value         |\n|---------|------------------------|-------------------------------|\n|  1      | title titre eng        | Cancelled-106034              |\n|  2      | title titre fra        | Annul\u00e9-106034                 |\n|  3      | recordNumber          | PW-23-01023844                |\n|  4      | amendmentNumber       | 0                             |\n| "
+}

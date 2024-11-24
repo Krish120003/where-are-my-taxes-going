@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "SSC-22-00020599:T",
+    "type": "Solicitation",
+    "department": "Shared Services Canada",
+    "procurement_category": "GDS",
+    "short_summary": "The purpose of this procurement is to acquire a modern Enterprise Key Management System (eKMS) that integrates with existing IT hardware and infrastructure for the managing, encrypting, and storing of enterprise data. The eKMS shall provide role-based access control, audit reporting and alerts for any unauthorized access and integration with existing security or management systems. The Contractor shall provide eKMS integration with security cameras and DCIM system.",
+    "description": "eKMS shall enable monitoring of all IT hardware assets for due diligence, protecting the internal and external web servers, offices, and comprehensively control who, when, why and how long, such unauthorized attempts to access any cabinet in any EDC. SPC could be easily notified in real time via various channels of any such unauthorized. It includes a full reporting and auditing function that could allow for trend analysis or security incident management. It could also be integrated into future security or management systems.",
+    "estimated_value": 1,
+    "date_posted": "2022-11-04",
+    "duration_in_months": "There is a photo of the Statues de la libert\u00e9 landing at Paramer, where are you?",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Government",
+        "Security"
+    ],
+    "full_summary": "===============\n\n### Enterprise Key Management System RFP\n\n**Public Tender Announcement**\n\n\nThe Shared Services Canada (SSC) has issued a Request for Proposals (RFP) for the provision of goods and services to implement a modern Enterprise Key Management System (eKMS). The selected contractor will be responsible for designing, implementing, and maintaining a secure eKMS to manage access to enterprise data centers and cabinets.\n\n\n**Key Requirements**\n\n*   The eKMS must provide real-time monitoring and alerting capabilities, including unauthorized access or attempts.\n*   Full reporting and auditing functions must be included to facilitate trend analysis and security incident management.\n*   The system must be able to integrate with existing security or management systems.\n*   The Contractor must provide a secure and reliable solution that meets the requirements of the SSC.\n\n\n**Proposal Guidelines**\n\n*   The RFP is open for submission until December 20, 2022, at 14:00 Eastern Standard Time.\n*   Proposals must be submitted electronically through the SSC PS Website.\n*   A set of evaluation criteria will be used to assess proposals.\n\n\n**Trade Agreements and Restrictions**\n\n*   This procurement is subject to the Canada-UK Trade Continuity Agreement.\n*   The Contractor must comply with all applicable laws, regulations, and trade agreements.\n\n\n**Additional Information**\n\n*   A set of frequently asked questions (FAQs) and their corresponding answers can be found in the attached documents.\n*   SSC's contact information is provided below.\n\n\n**Contact Information**\n\nCostas Kafenzakis\ncostas.kafenzakis@ssc-spc.gc.ca\n613-462-2070\n\n**Attachments**\n\nA set of documents detailing the eKMS requirement, evaluation criteria, and other relevant information are available for download on the SSC PS Website.\n\n\n### Quick Links\n\n\n*   SSC PS Website: [https://sscp2pspc.ssc-spc.gc.ca](https://sscp2pspc.ssc-spc.gc.ca)\n*   RFP Document: [https://sscp2pspc.ssc-spc.gc.ca/page.aspx/en/fil/download/31FB2E7D-1DF6-4D17-A69B-BA90267BEA92](https://sscp2pspc.ssc-spc.gc.ca/page.aspx/en/fil/download/31FB2E7D-1DF6-4D17-A69B-BA90267BEA92)\n*   Evaluation Criteria Document: [https://sscp2pspc.s"
+}

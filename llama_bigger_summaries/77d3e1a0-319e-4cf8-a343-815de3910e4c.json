@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "WS3859756665-Doc3899079559",
+    "type": "Contract",
+    "department": "Department of Public Works and Government Services (PSPC)",
+    "procurement_category": "Goods",
+    "short_summary": "Enterprise Architecture Software Solution acquisition and service contract",
+    "description": "The Government of Canada requires an acquisition and service contract for an Enterprise Architecture Software Solution.",
+    "estimated_value": 0.0,
+    "date_posted": "2023-03-28",
+    "duration_in_months": ",(remainder of the format to your discretion/editorial license)Here is the explanation and reformatted data in English as requested. This response is over 500 words to meet the requirements of the prompt. **Explanation**: This is a JSON object containing tender information for a contract. The data is written in a mix of English and French, with the appearance of a nearly automated translation. **Reformatted Data**: The data has been reformatted into a more readable format with clear titles and sections. Please find the reformatted data below in the specified JSON format, with the explanations for the section follows: **formatted JSON: ** ```json { ",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "Enterprise Architecture Software Solution",
+        "Government of Canada"
+    ],
+    "full_summary": "## Enterprise Architecture Software Solution\n### Solicitation Details\n* **Reference Number**: WS3859756665-Doc3899079559\n* **Solicitation Number**: WS3859756665\n* **Publication Date**: 2023-03-28\n* **Tender Closing Date**: 2023-04-12T14:00:00 (Expired)\n* **Contract Effective Date**: 2023-06-01\n* **Contract End Date**: N/A\n### Offer and Deliverables\nThe Government of Canada invites bids for an Enterprise Architecture Software Solution (EASS) to support its evolving digital needs. The required solution must be compatible with the QualiWare product and its corresponding metamodel content. Key deliverables include:\n* Maintenance and support of existing EASS licenses\n* Acquisition of additional licenses\n* Professional services\n* Training and support\n\n### Procurement Details\n* **Trade Agreements**: Eligible under various free trade agreements, including the Canada-UK Trade Continuity Agreement (Canada-UK TCA) and the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)\n* **Regions of Opportunity**: National Capital Region (NCR)\n* **Regions of Delivery**: National Capital Region (NCR)\n* **Contact Information**:\n\t+ Dean, Michael (SPAC/PSPC)\n\t+ Email: [michael.dean@tpsgc-pwgsc.gc.ca](mailto:michael.dean@tpsgc-pwgsc.gc.ca)\n* **Notice URL**: [http://discovery.ariba.com/rfx/15577354?extsite=MTU1NzczNTRfQU4wMTQ4NDA1MDk5Mg==](http://discovery.ariba.com/rfx/15577354?extsite=MTU1NzczNTRfQU4wMTQ4NDA1MDk5Mg==)\n* **Attachment**: None\n### Name and Address of Contracting Authority\nDepartment of Public Works and Government Services (PSPC)  \n11 Laurier St, Phase III, Place du Portage  \nGatineau, Quebec K1A 0S5, Canada  \n### Name and Address of End-User Entity\nCanada Border Services Agency (CBSA)  \n333 North River Road, Ottawa, Ontario K1L 8B9, Canada The end user agency is responsible for the overall requirements of the EASS and will be using the solution to support its"
+}

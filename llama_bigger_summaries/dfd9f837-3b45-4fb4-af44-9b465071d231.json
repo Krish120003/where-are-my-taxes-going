@@ -1,0 +1,26 @@
+{
+    "CONTRACT_ID": "PW-22-01017773",
+    "type": "purchase",
+    "department": "Department of National Defence",
+    "procurement_category": "Weaponry and ammunition",
+    "short_summary": "Purchase of various parts and spares for the Canadian Defence Forces.",
+    "description": "The Department of National Defence has a requirement for the items detailed below. The delivery is requested at CFB Esquimalt and CFB Halifax.",
+    "estimated_value": 100000,
+    "date_posted": "2022-12-22T06:00:00+0000",
+    "duration_in_months": "^3(0|5|6|9)",
+    "provinces": [
+        "Ontario",
+        "British Columbia"
+    ],
+    "tags": [
+        "RFP",
+        "Purchase of goods",
+        "Canadian Defence Forces",
+        "Weaponry and ammunition",
+        "Contract negotiation",
+        "Procurement in military",
+        "Competitionb bid10_by_design",
+        "Agency_12343 rejectsmail-exporter"
+    ],
+    "full_summary": "===================\n\n### Multiple Victoria-Class Spares Request for Proposal\n\n**Document Information**\n\n* **Reference Number**: PW-22-01017773\n* **Solicitation Number**: W8482-230874/A\n* **Publication Date**: December 22, 2022\n* **Tender Closing Date**: March 15, 2023 at 14:00:00 (EDT)\n* **Amendment Date**: January 25, 2023\n* **Contracting Entity**: Department of National Defence\n* **Contact Information**:\n\t+ Name: Darrell Hill\n\t+ Email: darrell.hill@forces.gc.ca\n\t+ Phone: [Not provided]\n\t+ Fax: [Not provided]\n\n**Tender Description**\n\nThe Department of National Defence invites proposals for the procurement of various spares for the Victoria-Class ships. The delivery locations for these spares are Canadian Forces Base (CFB) Esquimalt and CFB Halifax. The successful bidder will be required to deliver the following items:\n\n1. **Valves, Balance Stop**\n\t* Part number: NA3921/4 (NCAGE K0207)\n\t* Quantity: 4\n2. **Repair Kit, Ball Valve**\n\t* Part number: MV/00361/AZ/102/01 (NCAGE K6451)\n\t* Quantity: 2\n3. **Retainer, Packing**\n\t* Part number: 13Y533-0061-0607-105 (NCAGE K6451)\n\t* Quantity: 12\n4. **Switch, Sensitive**\n\t* Part number: AET4124 (NCAGE K7928)\n\t* Quantity: 3\n5. **Bearing, Sleeve**\n\t* Part number: SSK/M/615/90/0011 (NCAGE K6451)\n\t* Quantity: 13\n6. **Shaft, Shoulder**\n\t* Part number: Y/327/90/0901/109 (NCAGE K6451)\n\t* Quantity: 2\n7. **O-Ring**\n\t* Part number: BS4518 (NCAGE K7766)\n\t* Quantity: 4\n8. **Pump, Hydraulic Ram, Hand Driven**\n\t* Part number: PH045RG (NCAGE K0666)\n\t* Quantity: 1\n\n**Trade Agreements**\n\nThe following trade agreements apply to this procurement:\n\n* Canada-Honduras Free Trade"
+}
