@@ -32,11 +32,13 @@ files = [
 #         em = emebddings.embeddings[0]
 #         print(em, type(em), len(em))
 #         break
-batch_size = 200
+batch_size = 1
 embeddings_batch = []
 data_batch = []
 
-for file in tqdm(files):
+
+failed = 0
+for file in (pbar := tqdm(files)):
     with open(file, "r") as f:
         data = json.load(f)
         to_embed = "\n".join(f"{k}: {v}" for k, v in data.items())
@@ -53,10 +55,13 @@ for file in tqdm(files):
                 ]
                 index.upsert(vectors=vectors)
             except Exception as e:
+                failed += 1
                 print(e)
 
             embeddings_batch = []
             data_batch = []
+
+    pbar.set_description(f"Failed: {failed}")
 
 # Process remaining items if any
 if embeddings_batch:
