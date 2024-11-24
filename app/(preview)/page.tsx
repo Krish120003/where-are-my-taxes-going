@@ -18,6 +18,7 @@ export default function Chat() {
       onError: (error) => {
         toast.error("You've been rate limited, please try again later!");
       },
+      experimental_throttle: 300,
     });
 
   const [isExpanded, setIsExpanded] = useState<boolean>(false);
