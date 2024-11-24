@@ -104,7 +104,7 @@ sampling_params = SamplingParams(
     guided_decoding=guided_decoding_params, max_tokens=4000
 )
 
-llm = LLM(model="meta-llama/Llama-3.1-8B-Instruct", gpu_memory_utilization=0.85)
+llm = LLM(model="meta-llama/Llama-3.2-11B-Vision-Instruct", gpu_memory_utilization=0.85)
 
 
 prompts = [prompt(row[1].to_json(), i) for i, row in enumerate(df.iterrows())]
