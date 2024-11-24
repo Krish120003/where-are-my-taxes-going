@@ -46,12 +46,12 @@ export default function Chat() {
         <p>Last updated 2024-11-24 3:07 AM with 5537 records</p>
       </div>
 
-      <div className="grid w-full grid-cols-12 gap-4 p-16">
+      <div className="grid w-full grid-cols-12 gap-16 p-16">
         {/* <ProjectOverview /> */}
-        <div className="col-span-3">
+        <div className="col-span-4">
           <h1 className="w-full pb-4 text-6xl italic font-bluu">Taxplore</h1>
-          <p className="w-full mb-4 -mt-2 font-serif text-2xl">
-            Where are my taxes going?
+          <p className="w-full mb-4 -mt-2 font-serif text-2xl text-balance">
+            Find where your taxes are going
           </p>
           <p>
             The government of Canada pubilshes all their tender contracts data
@@ -86,7 +86,7 @@ export default function Chat() {
             bounce: 0.5,
           }}
           className={cn(
-            "rounded-lg w-full col-span-9",
+            "rounded-lg w-full col-span-8",
             isExpanded ? "bg-neutral-800" : "bg-transparent"
           )}
         >
