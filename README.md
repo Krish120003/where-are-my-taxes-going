@@ -8,7 +8,7 @@ Searches the public Government of Canada databases of contract tenders to find h
 
 Built in 16 hours for the Llama 3.1 Impact Hackathon @ Toronto!
 
-## Uses of LLama 3.1
+## Uses of LLama 3
 
 Llama 3.1 and 3.2 is a critical part of this project. For the RAG process, we found that the raw table data "CanadaData.csv" was not comprehensible. We used Llama 3.2 (11B) on a H100 server to convert each row into a seachable, filterable entry and to rephrase the data in a more human-readable and concise format. This greatly improved the quality of the final LLM results.
 
