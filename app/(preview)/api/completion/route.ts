@@ -43,7 +43,7 @@ export async function POST(req: Request) {
   console.log("Got Embeddings");
 
   console.log("Querying Pinecone");
-  const relevantDocs = await index.query({
+  const relevantDocs = await index.namespace("bigger").query({
     topK: 5,
     vector: embedding,
     includeMetadata: true,

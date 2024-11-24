@@ -44,7 +44,7 @@ export default function Chat() {
           <div className="absolute inset-0 bg-blue-500 rounded-full opacity-75 animate-ping"></div>
           <div className="relative w-full h-full bg-blue-600 rounded-full"></div>
         </div>
-        <p>Last updated 2024-11-24 3:07 AM with 5537 records</p>
+        <p>Last updated 2024-11-24 9:38 AM with 13968 records</p>
       </div>
 
       <div className="grid w-full grid-cols-12 gap-16 p-16">
@@ -66,8 +66,8 @@ export default function Chat() {
           <br />
           <p>
             This tool searches through the data to find the most relevant
-            information for you. Just ask a question and I'll do my best to find
-            the answer.
+            information for you. Just ask a question and it'll do it's best to
+            find the answer.
           </p>
           <br />
           <p>
