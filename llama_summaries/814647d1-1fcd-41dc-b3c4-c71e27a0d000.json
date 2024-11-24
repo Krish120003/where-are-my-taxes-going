@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "SSC-23-00013222:T",
+    "type": "Contract ID",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "Construction When seeking contracts with government departments, the department (accounting authority) is indicated after the solicitation number in the format <accounting authority>-sah <solicitation number> e.g. P4J-Related SAC 2014-010 [Solicitation Number]",
+    "short_summary": "Shared Services Canada has, until recently,  relied on a custom solution for managing Personal Data for its employees. With recent  changes to privacy laws,  Shared Services Canada  is looking to seek a new solution for  managing Personal Data.",
+    "description": "Shared Services Canada is seeking for a contractor to assist  transition the MSS system to the new PDMS solution. The MSS system  is currently being  used by the project team to create, update  and manage all aspects of Personal Data",
+    "estimated_value": 15000000.0,
+    "date_posted": "2022-02-21",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "sh08616",
+        "SDM1503MS",
+        "136632'"
+    ]
+}

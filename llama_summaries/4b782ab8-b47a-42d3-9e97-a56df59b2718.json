@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "){2",
+    "type": "Generic Info",
+    "department": "PSPC",
+    "procurement_category": "GD",
+    "short_summary": "4-axis simultaneous numerically controlled lathe",
+    "description": "Acquisition d'un tour manuel de commande num\u00e9rique, ...",
+    "estimated_value": 150000,
+    "date_posted": "2023-04-03",
+    "duration_in_months": "(expected.ContractEndDate - expected.ContractStartDate).val,  ",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "tender",
+        "procurement",
+        "regional-manufacturing",
+        "2023",
+        "firisty-hstroy-loTabLET",
+        "1600272748"
+    ]
+}

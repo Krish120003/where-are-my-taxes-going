@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "780",
+    "type": "Purchase of Tractor with Front Loader",
+    "department": "Parks Canada",
+    "procurement_category": "Goods Nationally Managed",
+    "short_summary": "Purchase of a tractor with a minimum HP of 65, outfitted with a front loader and rear snow blower.",
+    "description": "Appendix A: Nature of Requirements - Template:Purchase of tractor, minimum 65 HP with front loader and rear snow blower and appropaimented specification",
+    "estimated_value": 100000,
+    "date_posted": "2022-08-09",
+    "duration_in_months": ",",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "tractor",
+        "tractor with front loader",
+        "tractor with rear snow blower",
+        "purchase"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "2067",
+    "type": "service_contract",
+    "department": "Natural Resources of Canada",
+    "procurement_category": "Goods",
+    "short_summary": "Procurement for the supply of gas boosters suitable for the pressurization of recycled flue gas from a methane combustion process.",
+    "description": "Natural Resources Canada CanmetENERGY has a requirement for the supply and delivery of two (2) gas boosters suitable for the pressurization of recycled flue gas from a methane combustion process., ",
+    "estimated_value": 13433.96,
+    "date_posted": "2022-09-22",
+    "duration_in_months": ": 6",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "gas boosters",
+        "recycled flue gas"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "data.referenceNumber-numeroReference",
+    "type": "panel_request",
+    "department": "industry",
+    "procurement_category": "service",
+    "short_summary": "Business analyst service required",
+    "description": "See notice of proposed procurement",
+    "estimated_value": 700,
+    "date_posted": "2023-01-19",
+    "duration_in_months": "@duration",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "R019F",
+        "Consulting Services",
+        "SRV"
+    ]
+}

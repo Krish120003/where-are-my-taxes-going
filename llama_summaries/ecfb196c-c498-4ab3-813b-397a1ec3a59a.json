@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "WS3819788409",
+    "type": "Tenders",
+    "department": "publics works and government service",
+    "procurement_category": "construction",
+    "short_summary": "RFQ - Construction Manager Services for RSS NCR Main and TerraCanada NCR projects",
+    "description": " new construction projects",
+    "estimated_value": 112133663.1,
+    "date_posted": "2023-01-16",
+    "duration_in_months": "1.67",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "*Building and Facility Construction and Maintenance Services",
+        "*Nonresidential building construction services",
+        "*Building construction management",
+        "*Canada-Panama Free Trade Agreement",
+        "*World Trade Organization Agreement on Government Procurement (WTO GPA)",
+        "*Canadian Free Trade Agreement (CFTA)"
+    ]
+}

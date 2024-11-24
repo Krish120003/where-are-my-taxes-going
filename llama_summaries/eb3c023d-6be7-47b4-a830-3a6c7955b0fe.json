@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "3621",
+    "type": "Solicitation",
+    "department": "DND",
+    "procurement_category": "GDN",
+    "short_summary": "Acquisition of 90 wood stoves.",
+    "description": "This Solicitation is subject to Section 47 of the IT supplies and service Act and the IT for the Government of Canada \\\\Share with your team\\\\ Reference Contract ID \\\"{CODE HERE}\" The summary is brief description , The job duration is I will take approximate 5 days to complete work. ",
+    "estimated_value": 180000.0,
+    "date_posted": "2022-12-20",
+    "duration_in_months": ":at most 7 months",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Heating stoves",
+        "Wood stoves",
+        "Solicitation",
+        "GDN"
+    ]
+}

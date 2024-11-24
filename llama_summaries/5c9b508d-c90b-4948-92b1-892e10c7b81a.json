@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "1693",
+    "type": "Contract Request",
+    "department": "Dashboard",
+    "procurement_category": "*SRV",
+    "short_summary": "Solicitation Number: 5000082506",
+    "description": "Environment and Climate Change Canada has a requirement for a Contractor to provide a series of models, maps and reports that identify Critical Source Areas (CSA\u2019s).",
+    "estimated_value": 74832,
+    "date_posted": "2022-07-01T13:00:00",
+    "duration_in_months": ">60 months",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Environment and Climate Change",
+        "Critical Source Areas",
+        "models, reports, maps "
+    ]
+}

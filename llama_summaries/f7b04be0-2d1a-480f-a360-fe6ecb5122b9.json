@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "2357",
+    "type": "contract",
+    "department": "public works and government services",
+    "procurement_category": "goods",
+    "short_summary": " faraday tents to support digital forensic analysis",
+    "description": " the canada border services agency digital forensic unit requires a faraday tent for its vancouver laboratory to protect digital information contained within seized digital devices",
+    "estimated_value": 6000,
+    "date_posted": "2022-09-27",
+    "duration_in_months": ".38",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "publicsector",
+        "goods"
+    ]
+}

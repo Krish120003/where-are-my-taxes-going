@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "2423",
+    "type": "Irrigation equipment contract",
+    "department": "Agriculture and Agri-Food Canada",
+    "procurement_category": "Goods",
+    "short_summary": "Irrigation pump for a research farm",
+    "description": "The contract is for the supply of an irrigation pump to the Kentville RDC farm. The pump will be used to supply irrigation water to the research fields.",
+    "estimated_value": 50000,
+    "date_posted": "2022.09.15",
+    "duration_in_months": "3 to 6 months",
+    "provinces": [
+        "Nova Scotia"
+    ],
+    "tags": [
+        "Irrigation equipment",
+        "Pumps",
+        "Agriculture",
+        "Research farm"
+    ]
+}

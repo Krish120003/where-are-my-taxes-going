@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "5142",
+    "type": "3D Printer",
+    "department": "Royal Canadian Mounted Police",
+    "procurement_category": "Goods and Services",
+    "short_summary": "Request for Proposal: The RCMP requires a 3D printer with supply, installation, training and maintenance package.",
+    "description": "The RCMP requires a Powder-Based Thermoplastic Selective Laser Sintering (SLS) Formlabs Fuse1+ 30W 3D Printer and accessories (or equivalent), including supply, installation, training and maintenance package.",
+    "estimated_value": 205131.95,
+    "date_posted": "2023-03-22",
+    "duration_in_months": "<3 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "3D Printer",
+        "Security Cleared",
+        "RCMP"
+    ]
+}

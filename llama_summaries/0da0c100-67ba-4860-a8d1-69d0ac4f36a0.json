@@ -1,0 +1,26 @@
+{
+    "CONTRACT_ID": "NRCan-500073579",
+    "type": "standing offer",
+    "department": "Natural Resources Canada",
+    "procurement_category": "Goods and services",
+    "short_summary": "Chemical analytical services for graphite samples",
+    "description": "analytical services on solid samples containing carbon in the form of graphite and other forms of carbon ",
+    "estimated_value": 10000,
+    "date_posted": "2023-03-30",
+    "duration_in_months": "Do not use",
+    "provinces": [
+        "Ontario",
+        "Alberta",
+        "New Brunswick",
+        "Nova Scotia",
+        "Prince Edward Island",
+        "Newfoundland and Labrador",
+        "Manitoba",
+        "Quebec"
+    ],
+    "tags": [
+        "supply",
+        "service",
+        "Canada-Korea Free Trade Agreement (CKFTA)"
+    ]
+}

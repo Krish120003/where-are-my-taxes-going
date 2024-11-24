@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "982 PW-22-01010476",
+    "type": "Purchase",
+    "department": "Department of National Defence",
+    "procurement_category": "Goods",
+    "short_summary": "Victoria Class Battery Commissioning Kit & Instrument Spares",
+    "description": "The Department of National Defence has a requirement for the items detailed below.",
+    "estimated_value": 50000,
+    "date_posted": "2022-10-20",
+    "duration_in_months": ": 6",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Chemical Analysis Instruments",
+        "Pressure, Temperature and Humidity Measuring and Controlling Instruments",
+        "Barometer, Manometer and aneroid",
+        "Submarine Actions and short-term maintenance"
+    ]
+}

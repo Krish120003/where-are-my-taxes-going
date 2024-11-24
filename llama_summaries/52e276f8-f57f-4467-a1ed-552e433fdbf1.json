@@ -1,0 +1,34 @@
+{
+    "CONTRACT_ID": "1000236449",
+    "type": "Service",
+    "department": "Indigenous Services Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Microsoft Dynamics CRM and Power Platform",
+    "description": "Microsoft Dynamics CRM and Power Platform",
+    "estimated_value": 2100735.0,
+    "date_posted": "2022-10-27",
+    "duration_in_months": "",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Microsoft Dynamics CRM",
+        "Power Platform",
+        "Canada",
+        "Indigenous Services Canada",
+        "General Services",
+        "Consulting",
+        "ERP",
+        "CRM",
+        "Information Technology",
+        " Contract Management",
+        "Data Management",
+        "Intigration",
+        "Development",
+        "Consultants",
+        "Progamming",
+        "Testing",
+        "Maintenance",
+        "Security"
+    ]
+}

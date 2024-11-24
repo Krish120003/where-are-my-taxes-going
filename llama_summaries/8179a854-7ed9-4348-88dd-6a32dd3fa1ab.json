@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "4562",
+    "type": "record",
+    "department": "foreign affairs",
+    "procurement_category": "SRV",
+    "short_summary": "Cleaning Services for the Embassy of Canada to Saudi Arabia, in Riyad",
+    "description": "The Embassy of Canada to Saudi Arabia is soliciting proposals for Cleaning Services for the following location;",
+    "estimated_value": 0,
+    "date_posted": "2023-02-07",
+    "duration_in_months": "./statement_of_work/:/amongal",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Cleaning and Maintenance, Janitorial",
+        "Nettoyage et entretien, conciergerie"
+    ]
+}

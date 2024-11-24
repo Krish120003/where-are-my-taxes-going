@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "3275",
+    "type": "JSON",
+    "department": "DEFENSE",
+    "procurement_category": "GOODS",
+    "short_summary": "Supply of Lubricating Oil",
+    "description": "Buy Lubricating Oil (32-200L Drums)",
+    "estimated_value": 3000,
+    "date_posted": "2022-12-06",
+    "duration_in_months": "6 month",
+    "provinces": [
+        "Ontario",
+        "British Columbia"
+    ],
+    "tags": [
+        "Lubrication Oil",
+        "CI",
+        "Food_services_loading_CA",
+        "Strosing_and_loading_material_CA",
+        "Engineering_modfication_category_EM_CA",
+        "Other_paid_modifications\u0e35\u0e2d<|start_header_id|>assistant. (Please note that I'll assume the missing "
+    ]
+}

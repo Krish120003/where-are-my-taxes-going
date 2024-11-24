@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "4357",
+    "type": "supply",
+    "department": "public_works",
+    "procurement_category": "Goods-for-Service",
+    "short_summary": "used for highway construction work",
+    "description": "used for highway construction projects",
+    "estimated_value": 234567,
+    "date_posted": "2023-01-26",
+    "duration_in_months": "9",
+    "provinces": [
+        "Manitoba"
+    ],
+    "tags": [
+        "Supply",
+        "Highway Construction",
+        "Public Works"
+    ]
+}

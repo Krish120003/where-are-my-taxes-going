@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "W1985-23C002",
+    "type": "ProcurementContract",
+    "department": "National Defense",
+    "procurement_category": "GOODS",
+    "short_summary": "Purchase of electrical cables and related connectors",
+    "description": "Electrical components",
+    "estimated_value": 50000,
+    "date_posted": "March 13, 2023",
+    "duration_in_months": "Yes",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Electrical Cables"
+    ]
+}

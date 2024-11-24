@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "SSC-23-00024834:T",
+    "type": "good/small_scale_good/tender_counts",
+    "department": "Shared_Services_Canada",
+    "procurement_category": "GOODS",
+    "short_summary": "test equipment",
+    "description": "FLUKE Test Equipment or (Equivalent)",
+    "estimated_value": 10.0,
+    "date_posted": "2023-12-13",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "test",
+        "equipment",
+        "FLUKE",
+        "Urgent",
+        "urgent",
+        "express"
+    ]
+}

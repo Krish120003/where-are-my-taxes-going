@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "Don't include this number in the response.  We want the last part of the ",
+    "type": "Contract number here",
+    "department": "Indigenous Services",
+    "procurement_category": "SRV-TGD",
+    "short_summary": "Installation, repair and moving      services, required for prompts YES",
+    "description": "",
+    "estimated_value": 5558,
+    "date_posted": "2024-02-03",
+    "duration_in_months": "Onsite contract, SELF-SERVICE for prompts YES",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "Installation",
+        "Repair",
+        "Moving",
+        "Furniture and equipment",
+        "41-12",
+        "...truncated",
+        "}, "
+    ]
+}

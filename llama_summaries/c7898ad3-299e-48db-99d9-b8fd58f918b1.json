@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "WS3910205373-Doc3910240021",
+    "type": "ACAN",
+    "department": "NRCan",
+    "procurement_category": "SRV",
+    "short_summary": "contract details",
+    "description": "acan details",
+    "estimated_value": 1000000,
+    "date_posted": "2023-03-09",
+    "duration_in_months": "24",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "professional engineering services",
+        "CSA F280-12",
+        "CANADA-HELD"
+    ]
+}

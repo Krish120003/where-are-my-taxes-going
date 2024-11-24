@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "1491",
+    "type": "AvayaTrainingContract",
+    "department": "SharedServicesCanada",
+    "procurement_category": "SRV",
+    "short_summary": "require a contractor to deliver a series of Avaya training",
+    "description": "The Buying Centre team at Shared Services Canada Learning and Development team requires a contractor to deliver a series of Avaya training. The contracting entity is Shared Services Canada.",
+    "estimated_value": 123456,
+    "date_posted": "2022-10-21",
+    "duration_in_months": "39",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Avaya",
+        "training",
+        "SRV",
+        "SharedServvicesCanada"
+    ]
+}

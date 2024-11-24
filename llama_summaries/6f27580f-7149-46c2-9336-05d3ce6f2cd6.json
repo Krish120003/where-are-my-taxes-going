@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "3185",
+    "type": "tender",
+    "department": "Shared Services Canada",
+    "procurement_category": "Goods/Services",
+    "short_summary": "Enterprise Key Management System (eKMS)",
+    "description": "The objective of this Request for Proposals (RFP) is to provision goods (software and hardware) and services from the Contractor in order to implement a modern Enterprise Key Management System (eKMS).\", ",
+    "estimated_value": 50000,
+    "date_posted": "2022-11-04",
+    "duration_in_months": "6",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Security",
+        "Technology"
+    ]
+}

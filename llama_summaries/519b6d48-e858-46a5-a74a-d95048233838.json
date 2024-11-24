@@ -1,0 +1,27 @@
+{
+    "CONTRACT_ID": "BPM021259",
+    "type": "EMC H/W & S/W Maintenance and Support",
+    "department": "Public Health Agency of Canada",
+    "procurement_category": "IT/Maintenance",
+    "short_summary": "H/W & S/W maintenance and support for the Public Health Agency of Canada",
+    "description": "N/A",
+    "estimated_value": 650,
+    "date_posted": "2024-04-04",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario",
+        "Manitoba",
+        "Quebec",
+        "British Columbia",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "Software maintenance",
+        "Hardware maintenance ",
+        "Information Technology",
+        "data backup and recovery",
+        "database management",
+        "implementation of system integration policies",
+        "network management and,"
+    ]
+}

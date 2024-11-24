@@ -1,0 +1,31 @@
+{
+    "CONTRACT_ID": "Well-Formatted-Contract-ID-Goes-Here-Well-Modified ",
+    "type": "contract",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Conformance testing of computer technology systems against ICT accessibility requirements for Government of Canada organizations",
+    "description": "This procurement is to satisfy an ongoing need for conformance testing of computer technology systems against Information Communication Technology (ICT) accessibility requirements for Government of Canada (GoC) organizations.",
+    "estimated_value": 5249,
+    "date_posted": "2023-02-20",
+    "duration_in_months": "1 year",
+    "provinces": [
+        "Saskatchewan",
+        "Quebec",
+        "Ontario",
+        "Northwest Territories",
+        "Alberta",
+        "Manitoba",
+        "Newfoundland and Labrador",
+        "Nunavut",
+        "New Brunswick",
+        "Prince Edward Island",
+        "British Columbia",
+        "Yukon",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "computer technology systems",
+        "ICT accessibility requirements",
+        "Government of Canada organizations"
+    ]
+}

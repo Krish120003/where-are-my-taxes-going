@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "89043E23-3825-4BEC-B203-46122229DBF8",
+    "type": "Contract",
+    "department": "GRC",
+    "procurement_category": "SRV",
+    "short_summary": "ACPV",
+    "description": "Correction des lacunes par rapport aux codes de l'ISTMP",
+    "estimated_value": 950000,
+    "date_posted": "2022-12-05",
+    "duration_in_months": "31",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "RCMP",
+        "Procurement",
+        "GRC",
+        "Tenders"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "1234567890",
+    "type": "procurement",
+    "department": "Transportation and Infrastructure",
+    "procurement_category": "Good",
+    "short_summary": "Summary for the NMSO Marine Fuels",
+    "description": "The procurement of marine fuels to meet the transportation requirements of government vehicles.  The existing contract expires in 2023 and a new contract will be put out for tender.  Deliveries will be made to designated offices in Quebec.",
+    "estimated_value": 100000000.0,
+    "date_posted": "2022-09-22",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "marines",
+        "fuels",
+        "canada",
+        "government"
+    ]
+}

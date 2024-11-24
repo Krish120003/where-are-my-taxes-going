@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "SSC-24-00026266:T",
+    "type": "REQUEST FOR PROPOSAL",
+    "department": "DEFENCE (DND)",
+    "procurement_category": "G/E",
+    "short_summary": "Replacing two large-format printers at the Defence Department",
+    "description": "replace two 60\u201d and 104\u201d large-format printers that are past their life cycle with a new large-format printer",
+    "estimated_value": 10000.0,
+    "date_posted": "04-May-24 00:00",
+    "duration_in_months": "]==null, ",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        " #large-format-printer #dnd #it-procurement #g-e #request-for-proposal",
+        " #imprimante-grand-format #dnd #pro-curement-it #g-e #demande-de-propositions",
+        "regions_of_opportunity\": \"World\"",
+        "regions_of_delivery\": \"Quebec except NCR\","
+    ]
+}

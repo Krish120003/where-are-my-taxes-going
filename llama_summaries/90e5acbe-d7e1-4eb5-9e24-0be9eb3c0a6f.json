@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "1081",
+    "type": "NOTICE OF PROPOSED PROCUREMENT (NPP)",
+    "department": "Environment and Climate Change Canada",
+    "procurement_category": "Goods and Services",
+    "short_summary": "Requirements for 24 inch thin bezel monitors for Environment Canada and Climate Change",
+    "description": "Environment Canada and Climate Change has a requirement for 24 inch thin bezel monitors, as per the List of Deliverables. The equipment is required to support weather forecasting at Meteorological Service of Canada.",
+    "estimated_value": 25000,
+    "date_posted": "19/11/2024",
+    "duration_in_months": "60",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Automatic Data Processing Equipment",
+        "Automatic Data Processing Systems"
+    ]
+}

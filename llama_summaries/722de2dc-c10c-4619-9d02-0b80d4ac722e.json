@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "SSC-22-00019954:T",
+    "type": "Request for Proposal",
+    "department": "National Defence",
+    "procurement_category": "Goods and Services",
+    "short_summary": "RFQ - Power Distribution Units for the Department of National Defense",
+    "description": "This solicitation is for Power Distribution Units that the Department of National Defence (MDN) intends to use to power some of its basements. The manoeuvres are : CDE.",
+    "estimated_value": 10000,
+    "date_posted": "2022-08-15",
+    "duration_in_months": ">=2 months",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "pprocesser",
+        "licences",
+        "information",
+        "development",
+        "Housing",
+        "Utility liners",
+        "ve kW ae$,CC "
+    ]
+}

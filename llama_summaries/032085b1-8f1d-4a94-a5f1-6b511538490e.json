@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "PW-22-01005303",
+    "type": "paving project",
+    "department": "agriculture and agri-food canada",
+    "procurement_category": "CNST",
+    "short_summary": "Pavement repairing project",
+    "description": "Repairing existing wast paved areas.",
+    "estimated_value": 2453240.0,
+    "date_posted": "25/08/2022",
+    "duration_in_months": ">%50 maybe 51 days or 1.68 month Given some unclear information in the duration of the contract. According to my calculations with the assumed dates where: Opening date is {TO} Closing date is {14:00 Wednesday September 16, 2020} and duration is estimated between 1-2 month",
+    "provinces": [
+        "Prince Edward Island"
+    ],
+    "tags": [
+        "Asphalt"
+    ]
+}

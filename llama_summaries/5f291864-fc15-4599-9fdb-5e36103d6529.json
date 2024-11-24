@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "title-titre-eng",
+    "type": "Contract Notice",
+    "department": "Correctional Service of Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Notice of Contract Award for Elder Services to provide spiritual and cultural services to Indigenous offenders.",
+    "description": "The contract is for the provision of Elder services to Indigenous offenders. The contractor must perform the work at the Atlantic Regional Headquarters in Moncton, NB. Travel to other locations may be required for performance of the work under this contract. The contractor must perform all work in English and/or Inuktitut.",
+    "estimated_value": 152720.85,
+    "date_posted": "2023-03-01",
+    "duration_in_months": ".ceil(12)",
+    "provinces": [
+        "New Brunswick"
+    ],
+    "tags": [
+        "Indigenous",
+        "Correctional Services",
+        "Elder Services",
+        "Spiritual",
+        "Cultural"
+    ]
+}

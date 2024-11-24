@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "4024",
+    "type": "master",
+    "department": "Public Works and Government Services (PSPC) Celas",
+    "procurement_category": "Supply Services",
+    "short_summary": "Cancellation of bid opportunity to the Ministry of Works and Services",
+    "description": "Cancellation of bid opportunity to the Ministry of Works and Services",
+    "estimated_value": 42500.0,
+    "date_posted": "2023-02-01",
+    "duration_in_months": "15",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "purchase order",
+        "government agency",
+        "developer"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "PW-23-01029877",
+    "type": "rf needed",
+    "department": "ISED",
+    "procurement_category": "Goods and Services",
+    "short_summary": "1500 MHz Radio Frequency Filter Kit",
+    "description": "Request for proposal for the supply of a Radio Frequency Filter kit.",
+    "estimated_value": 123.45,
+    "date_posted": "2023-03-13",
+    "duration_in_months": "There would be condition regarding of 7month",
+    "provinces": [
+        "Ontario",
+        "British Columbia",
+        "Alberta",
+        "Quebec"
+    ],
+    "tags": [
+        "rfneeded",
+        "good",
+        "serviece tool"
+    ]
+}

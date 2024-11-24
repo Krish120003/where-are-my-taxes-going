@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-22-01016518",
+    "type": "standard",
+    "department": "Department of National Defence",
+    "procurement_category": "GOODS",
+    "short_summary": "5977 units of various goods and spares",
+    "description": "NOTICE OF PROPOSED PROCUREMENT The Department of National Defence has a requirement for the items detailed below. The delivery is requested at CFB Esquimalt and CFB Halifax. Item 1 5977 units of various goods",
+    "estimated_value": 300000.0,
+    "date_posted": "2022-12-16T11:32:30.872590",
+    "duration_in_months": "To be used immediately after award",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Goods and Services for national Defence",
+        " Victoria Class Vessels",
+        " Parts and Spares",
+        "CBF Halifax",
+        "CBF Esquimalt"
+    ]
+}

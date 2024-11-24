@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "W8383838383",
+    "type": "Contract",
+    "department": "Public Works and Government Services (PSPC)",
+    "procurement_category": "Goods",
+    "short_summary": "Supply and delivery of soft drinks on an as requested basis.",
+    "description": "Soft drinks for inmates canteen.",
+    "estimated_value": 50000.0,
+    "date_posted": "2023-02-15",
+    "duration_in_months": "12",
+    "provinces": [
+        "Manitoba"
+    ],
+    "tags": [
+        "Corrections",
+        "Inmates Canteen"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "SSC-22-00021144:T",
+    "type": "NOT CONTRACT (TENDER, REQUEST FOR PROPOSAL, ETC.)",
+    "department": "National Defence",
+    "procurement_category": "Goods and Services",
+    "short_summary": "SuperServer Kits or equivalent for Department of National Defence",
+    "description": "SuperServer Kits or equivalent for Department of National Defence",
+    "estimated_value": 0.0,
+    "date_posted": "2022-12-15",
+    "duration_in_months": "timebounded",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Ontario",
+        "National Defence",
+        "SuperServer Kits",
+        "Request for Proposal",
+        "Goods and Services",
+        "Data Entry",
+        "IT hardware",
+        "Information and Communications Technology",
+        "Goods not otherwise specified"
+    ]
+}

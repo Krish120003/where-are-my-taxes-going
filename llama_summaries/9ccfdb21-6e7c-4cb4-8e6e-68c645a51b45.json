@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "Some_value",
+    "type": "Standing Offer",
+    "department": "INDUSTRY",
+    "procurement_category": "Service",
+    "short_summary": "Consulting Services - DITA information modeling, content preparation and migration to a Component Content Management System (CCMS)",
+    "description": "The objective of this requirement is to qualify vendor(s) to provide information architecture services, and to support the conversion and migration of...",
+    "estimated_value": 1000,
+    "date_posted": "2023-02-24",
+    "duration_in_months": ">= 2",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Technical",
+        "Construction",
+        "Info Architecture",
+        "DITA",
+        "CCMS"
+    ]
+}

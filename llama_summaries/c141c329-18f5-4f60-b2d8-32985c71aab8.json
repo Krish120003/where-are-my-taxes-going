@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "P-22-01019156",
+    "type": "OUTPUT",
+    "department": "FINANCIAL",
+    "procurement_category": "service",
+    "short_summary": "NOTICE OF PROPOSED PROCUREMENT (NPP) GSIN: Research and Development",
+    "description": "NTICES NOTICE OF PROPOSED PROCUREMENT (NPP) GSIN: AZ11 OTHER RESEARCH AND DEVELOPMENT REFERENCE NUMBER:20222140 SOLICITATION NUMBER:20222140 ORGANISATION NAME:THE FINANCIAL CONSUMER AGENCY OF CANADA (FCAC) CONTRACT NUMBER:P-22-01019156 DATE:2022-12-29 CLOSING DATE:2022-02-08 SOLICITATION DATE:2022-12-29... }, { ...} -- N number of  { 'key': 'value', ...}- contrat JSON  with fields\u2192  Id, Dept, proc#categ, Short Summary, Desc}",
+    "estimated_value": 962191,
+    "date_posted": "2022-12-28",
+    "duration_in_months": "Yes6",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "financial",
+        "resilience",
+        "research",
+        "development"
+    ]
+}

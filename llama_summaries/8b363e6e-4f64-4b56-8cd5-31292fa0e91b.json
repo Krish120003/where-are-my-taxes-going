@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "14000437674",
+    "type": "standing_offer",
+    "department": "Ressources humaines et d\u00e9veloppement social",
+    "procurement_category": "SRV",
+    "short_summary": "Prestation de services de traduction, de r\u00e9vision du texte source et de r\u00e9vision comparative",
+    "description": "Prestation de services de traduction, de r\u00e9vision du texte source et de r\u00e9vision comparative dans les deux langues officielles du Canada, pour les documents administratifs et/ou juridiques.",
+    "estimated_value": 10000000,
+    "date_posted": "2022-12-13",
+    "duration_in_months": "",
+    "provinces": [
+        "Ontario",
+        "Alberta",
+        "British Columbia"
+    ],
+    "tags": [
+        "TRANSLATION"
+    ]
+}

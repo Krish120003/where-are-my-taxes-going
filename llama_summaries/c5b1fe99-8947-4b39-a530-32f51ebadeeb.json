@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "The contract id for the contract*",
+    "type": "standing offer",
+    "department": "Public works and Government services(PSPC)",
+    "procurement_category": "SRV",
+    "short_summary": "Provide opto-mechanical and optical design resources",
+    "description": "The purpose of this Standing Offer(s) is to provide opto-mechanical and optical design resources on an as- and when- requested basis, to perform work relating to various projects at National Research Council (NRC), Herzberg Astronomy and Astrophysics Research Center.",
+    "estimated_value": 2000000,
+    "date_posted": "2023-02-14",
+    "duration_in_months": ">5",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "optical design",
+        "opto-mechanical design"
+    ]
+}

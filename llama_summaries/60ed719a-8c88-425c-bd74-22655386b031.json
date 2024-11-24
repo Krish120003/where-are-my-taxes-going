@@ -1,0 +1,30 @@
+{
+    "CONTRACT_ID": "3607",
+    "type": "Standing Offer Request",
+    "department": "Employment and Social Development Canada",
+    "procurement_category": "*",
+    "short_summary": "Services de d\u00e8chiquetage mobiles et hors site ponctuels et ponctuels de documents secrets \u00e0 divers endroits d\u2019EDSC partout au Canada.",
+    "description": "This request is for Employment and Social Development Canada (ESDC).  \\\\n      Objective:  \\\\n     The Request for Standing Offers (RFSO) is to issue multiple Standing Offers (up to 3 per region) for 2 geographic region(s).\\\\n2\\Toyota\\\\makes\\pleased\\to\\announce\\that\\they\\will=\\\\enumerate\\be\\conducting\\stressed\\teastetests\\and\\exhibition\\on\\their\\newfirst-generation\\pickup\\truck\\\\",
+    "estimated_value": 30000,
+    "date_posted": "2022-11-02",
+    "duration_in_months": "userinputs",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "shredding",
+        "standing_offer",
+        " employment_and_social_development_canada",
+        "ESDC",
+        " passive_bid ",
+        "public_bids",
+        "RF_SO ",
+        "request_for_standing_offer",
+        "Solicitation_ref: PW-22-01012018",
+        "service_catalog_number: 100019676-S",
+        "service_catalog_message_number: 202211170087 ",
+        "site_velocity_project_id: GWDO18",
+        "site_velocity_investigat_id:ATS-01 "
+    ]
+}

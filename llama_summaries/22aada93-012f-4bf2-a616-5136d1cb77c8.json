@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "W6844-21M011",
+    "type": "JSON",
+    "department": "WIntroduction",
+    "procurement_category": "SRV",
+    "short_summary": "Grass cutting services on Montreal Garrison site",
+    "description": "A request for/proovice of specialized labour, including transportation, machinery, fuel, materials, equipment, and supervision to carry out the work of grass cutting on the site of the Montreal Garrison (CFB Longue-Pointe) according to the details in the  annex A.",
+    "estimated_value": 0.0,
+    "date_posted": "2023-03-16",
+    "duration_in_months": ".",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Grass cutting services",
+        "Specialized labour",
+        "Montreal Garrison",
+        "Public Works and Government Services Canada"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "PW-22-01014828",
+    "type": "ACAN",
+    "department": "National Defence",
+    "procurement_category": "Goods",
+    "short_summary": "Modeling and simulation software",
+    "description": "The Department of National Defence has a requirement for modeling and simulation software.",
+    "estimated_value": 0,
+    "date_posted": "descriptionDate",
+    "duration_in_months": "descriptionEnd",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Software"
+    ]
+}

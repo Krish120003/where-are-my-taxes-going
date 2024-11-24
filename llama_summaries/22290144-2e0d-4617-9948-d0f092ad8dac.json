@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "PW-22-01010701",
+    "type": "government-procurement",
+    "department": "Industry Canada",
+    "procurement_category": "Software and IT",
+    "short_summary": "Software Architect",
+    "description": "Application SW Architect",
+    "estimated_value": 3.75,
+    "date_posted": "2022-10-20",
+    "duration_in_months": ".00000000",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "block",
+        "Software",
+        "Canada",
+        "IT",
+        "Canadian Government",
+        "Software and IT",
+        "BACK-END",
+        "Front-end]"
+    ]
+}

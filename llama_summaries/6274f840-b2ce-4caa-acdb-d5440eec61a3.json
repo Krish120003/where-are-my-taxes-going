@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "WS3735833947",
+    "type": "construction",
+    "department": "Public Works and Government Services",
+    "procurement_category": "Infrastructure",
+    "short_summary": "Saint Anthony Fence Replacement",
+    "description": "replacement of safety fence and airport engineering.",
+    "estimated_value": 100000,
+    "date_posted": "20220118",
+    "duration_in_months": ".083",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Airport",
+        "Construction",
+        " enr secu ",
+        "Infrastructure"
+    ]
+}

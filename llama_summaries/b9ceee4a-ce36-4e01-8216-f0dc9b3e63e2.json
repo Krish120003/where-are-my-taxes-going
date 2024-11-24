@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-23-01027938",
+    "type": "ERP Programmer Analyst & ERP System Analyst",
+    "department": "goose",
+    "procurement_category": "Service",
+    "short_summary": "CADIA project",
+    "description": "External resources lead a team with CFIA resources.",
+    "estimated_value": 346,
+    "date_posted": "2023-02-28",
+    "duration_in_months": "Not specified",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "*Informatics Professional Services",
+        "*Services professionnels, informatique",
+        "informatics, IT"
+    ]
+}

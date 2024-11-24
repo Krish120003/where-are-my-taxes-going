@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "1000427255",
+    "type": "Json data format",
+    "department": "Information Technology",
+    "procurement_category": "Good",
+    "short_summary": "",
+    "description": "This is a Request for Information (RFI) to seek information on vendor based maintenance and support (M&amp;S) services for PostgreSQL, and solutions for PostgreSQL encryption and data at rest",
+    "estimated_value": 10000,
+    "date_posted": "2023-01-19",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "PostgreSQL",
+        "Encryption",
+        "RFI"
+    ]
+}

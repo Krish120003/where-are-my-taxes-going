@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "3057",
+    "type": "purchase",
+    "department": "DWP",
+    "procurement_category": "property",
+    "short_summary": "relocation of Defence Specialized Real Property",
+    "description": "multipurpose ",
+    "estimated_value": 3456547.42,
+    "date_posted": "2021-01-09",
+    "duration_in_months": "> 6 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "relocation",
+        "real_property"
+    ]
+}

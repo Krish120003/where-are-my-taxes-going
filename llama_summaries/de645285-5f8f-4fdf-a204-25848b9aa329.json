@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "S4384520",
+    "type": "SUPPLY ARRANGEMENT",
+    "department": "DEPARTMENT OF NATIONAL DEFENSE",
+    "procurement_category": "SRV",
+    "short_summary": "Request for Proposal",
+    "description": "Temporary Help Services Requirement",
+    "estimated_value": 3,
+    "date_posted": "2023-04-11",
+    "duration_in_months": "What input is required for the contract duration in months? Not provided by the user so excluded.",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "CRITICAL",
+        "TEMPORARY PERSONNEL SERVICES",
+        "NATIONAL CAPITAL REGION"
+    ]
+}

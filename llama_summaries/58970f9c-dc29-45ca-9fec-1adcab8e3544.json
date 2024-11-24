@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "5000070755",
+    "type": "json",
+    "department": "Canada",
+    "procurement_category": "CNST",
+    "short_summary": "Performence of maintenance on Building Automnation System provided a correction on Amendment 001",
+    "description": "Maintenance of Building Automation System (BAS)",
+    "estimated_value": 4000000,
+    "date_posted": "2023-01-12",
+    "duration_in_months": "2",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "Maintenance",
+        "Electrical Controls"
+    ]
+}

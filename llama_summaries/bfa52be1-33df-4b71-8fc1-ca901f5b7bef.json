@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PCO-BB-5107-1093",
+    "type": " Supplier",
+    "department": "Procurement and Materials Services",
+    "procurement_category": " B",
+    "short_summary": "this does the supply of computers ",
+    "description": "Consomatation of goods ",
+    "estimated_value": 50000.0,
+    "date_posted": "2023-03-22",
+    "duration_in_months": "Contract duration of 24  month",
+    "provinces": [
+        "British Columbia",
+        "Ontario"
+    ],
+    "tags": [
+        "Software",
+        "Hardware",
+        " procurement_tools"
+    ]
+}

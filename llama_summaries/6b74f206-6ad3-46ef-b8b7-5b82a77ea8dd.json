@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "SSC-22-00020113",
+    "type": "SERVERS PURCHASE",
+    "department": "Department of National Defence",
+    "procurement_category": "GOODS",
+    "short_summary": "Supply of Network time Protocol servers",
+    "description": "The Government of Canada is soliciting proposals to purchase servers to support Network Time Protocol. The servers should support 1 Gbit Ethernet connections, provide RF splitters (such as antennas feeding multiple NTP servers), and meet the Government of Canada\\\", operational, security, privacy and accessibility requirements.",
+    "estimated_value": 500,
+    "date_posted": "2022-09-08",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Goods",
+        "Government of Canada"
+    ]
+}

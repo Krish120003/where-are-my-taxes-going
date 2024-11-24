@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "47874WS3922929066-Doc3923141825",
+    "type": "Contract",
+    "department": "Infrastructure and Public Services",
+    "procurement_category": "service",
+    "short_summary": "Procurement of Propane",
+    "description": "Transportation, delivery, and offloading of liquefied petroleum gas (LPG or propane) into a Contractor-owned tank.",
+    "estimated_value": 250000,
+    "date_posted": "2023-03-22",
+    "duration_in_months": ">= 48",
+    "provinces": [
+        "Quebec",
+        "Nunavut"
+    ],
+    "tags": [
+        "Infrastructure",
+        "Networking",
+        "Computing",
+        "Hardware"
+    ]
+}

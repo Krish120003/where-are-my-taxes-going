@@ -1,0 +1,32 @@
+{
+    "CONTRACT_ID": "PW-22-01012709-amd2",
+    "type": "Public Notice",
+    "department": "Industry Canada",
+    "procurement_category": "SRV",
+    "short_summary": "This contract is for the hosting of infrastructure for a radio frequency spectrum auction, specifically for the 3800 MHz band andconsulting services.",
+    "description": "Infrastructure hosting for the 3800 MHz spectrum auction is a requirement for the successful provision and implementation of the auction software.,overflow_mapping_init(selector, args);check_mutation_selectors(window,document.selectordata)Servers will be hosted in a Canadian data centre and will be managed by the contractor. Additionally, they can provide to upload configuration files to the server(s) for future use. This is a month-to-month contract.",
+    "estimated_value": 2000,
+    "date_posted": "2022-11-07",
+    "duration_in_months": "Billed monthly based on usage",
+    "provinces": [
+        "Alberta",
+        "British Columbia",
+        "Manitoba",
+        "New Brunswick",
+        "Newfoundland and Labrador",
+        "Northwest Territories",
+        "Nova Scotia",
+        "Nunavut",
+        "Ontario",
+        "Prince Edward Island",
+        "Quebec",
+        "Saskatchewan",
+        "Yukon"
+    ],
+    "tags": [
+        "GSIN D302AAS",
+        "Professional Special Services, EDP, Not Elsewhere Specified",
+        "GSIN R019F",
+        "Consulting Services"
+    ]
+}

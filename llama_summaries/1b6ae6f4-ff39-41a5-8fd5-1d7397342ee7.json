@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": ":{",
+    "type": "20",
+    "department": "K8D10-230312",
+    "procurement_category": "GB",
+    "short_summary": "thermistors_strings_equipment_provider",
+    "description": "full description of the provider of the thermistor strings and related equipment to Environment and Climate Change Canada",
+    "estimated_value": 12.0,
+    "date_posted": "2023-03-13",
+    "duration_in_months": ")[12,",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "Saskatchewan"
+    ],
+    "tags": [
+        "thermistors",
+        "strings",
+        "equipment",
+        "provider",
+        "environment"
+    ]
+}

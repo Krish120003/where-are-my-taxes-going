@@ -1,0 +1,26 @@
+{
+    "CONTRACT_ID": "EC095-230056",
+    "type": "Procurement Notice",
+    "department": "Public Works and Government Services (PWGSC)",
+    "procurement_category": "Goods and Services (GS)",
+    "short_summary": "Req for Standing Offer",
+    "description": "Regional Master Stading Offer privat Finding",
+    "estimated_value": 400000,
+    "date_posted": "2023-05-18",
+    "duration_in_months": "fiscal years 2024 and 2025",
+    "provinces": [
+        "Newfoundland and Labrador",
+        "New Brunswick",
+        "Nova Scotia",
+        "Quebec"
+    ],
+    "tags": [
+        "Meat, Fish, and Poultry Products",
+        "Meat",
+        "Fish",
+        "products",
+        "Poultry",
+        "Canada",
+        "Public Works and Government Services (PWGSC)"
+    ]
+}

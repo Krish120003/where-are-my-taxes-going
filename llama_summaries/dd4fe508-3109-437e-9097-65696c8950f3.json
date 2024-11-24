@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": ">@{",
+    "type": "contractID",
+    "department": "RCMP",
+    "procurement_category": "SRVTGD",
+    "short_summary": "Annual Inspection of Fire Alarm, Fire Protection and Life Safety Systems (RFP)",
+    "description": "The Royal Canadian Mounted Police (RCMP) requires an experienced Fire Alarm, Fire Protection and Life Safety System service contractor to complete annual inspections and preventative maintenance on Fire Alarm, Fire Protection and Life Safety Systems for RCMP buildings in the Province of Manitoba.",
+    "estimated_value": 0.0,
+    "date_posted": "2022-11-14",
+    "duration_in_months": ".5",
+    "provinces": [
+        "Manitoba"
+    ],
+    "tags": [
+        "SRVTGD",
+        "RFP",
+        "Manitoba",
+        "Fire Alarm, Fire Protection and Life Safety System service contractor"
+    ]
+}

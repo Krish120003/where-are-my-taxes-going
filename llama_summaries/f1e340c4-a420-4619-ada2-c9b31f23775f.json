@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "",
+    "type": "object",
+    "department": "contractingEntity",
+    "procurement_category": "procurementCategory-categorieApprovisionnement",
+    "short_summary": "procsureMethod-m\u00e9thodeapprovisincht",
+    "description": "tenderDescription-descriptionAppelOffres-eng",
+    "estimated_value": 3000000,
+    "date_posted": "publicationDate-datePublication",
+    "duration_in_months": "structural info preparation_days.data_start, expectedContractEndDate-dateFinContratPrevue",
+    "provinces": [
+        "British Columbia",
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "abbott",
+        "nio",
+        "telecom",
+        "gsinDescription-nibsDescription-eng"
+    ]
+}

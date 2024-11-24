@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "219",
+    "type": "RFP",
+    "department": "FEM (Fisheries and Oceans Canada)",
+    "procurement_category": "*SRV",
+    "short_summary": "Tender",
+    "description": "Annual roe herring catch sampling from commercial fisheries",
+    "estimated_value": 265000,
+    "date_posted": "2023-01-24",
+    "duration_in_months": "12",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "Fresh catch",
+        "animal study",
+        "omestic Expenditure management",
+        "Natural Resource Management"
+    ]
+}

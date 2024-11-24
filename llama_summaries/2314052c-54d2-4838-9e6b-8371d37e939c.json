@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "WS3606409111",
+    "type": "Structure json",
+    "department": "Extension",
+    "procurement_category": "Public",
+    "short_summary": "Structure json extension request by department. Ref#: 1958",
+    "description": "Structure json extension request by department",
+    "estimated_value": 15,
+    "date_posted": "2023-04-25",
+    "duration_in_months": "2 months",
+    "provinces": [
+        "Ontario",
+        "British Columbia"
+    ],
+    "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4 "
+    ]
+}

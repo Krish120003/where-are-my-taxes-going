@@ -1,0 +1,29 @@
+{
+    "CONTRACT_ID": "1415",
+    "type": "Contract",
+    "department": "Natural Resources Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Annual data on vehicles in Canada and fuel consumption analysis",
+    "description": "Advance Contract Award Notice (ACAN)",
+    "estimated_value": 40000,
+    "date_posted": "January 30, 2023",
+    "duration_in_months": "2.6116696969696967",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "*SRV",
+        "*Data Collection Services",
+        "*Canada-Panama Free Trade Agreement",
+        "*Canada-Colombia Free Trade Agreement",
+        "*Canada-Honduras Free Contractop",
+        "*Canada-Chile Free Trade Agreement (CCFTA)",
+        "*Canada-Peru Free Trade Agreement (CPFTA)",
+        "*Canadian Free Trade Agreement (CFTA)",
+        "*Canada-Korea Free Trade Agreement (CKFTA)",
+        "*World",
+        "*National Capital Region (NCR)",
+        "Contract Award Notice",
+        "Procurement Category: Purchasing and Systems Acquisition"
+    ]
+}

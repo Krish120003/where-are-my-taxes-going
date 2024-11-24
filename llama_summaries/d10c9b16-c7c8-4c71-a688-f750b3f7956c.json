@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "5070",
+    "type": "broken",
+    "department": "parcs canada agency",
+    "procurement_category": "construction",
+    "short_summary": " Douglas fir timber for construction",
+    "description": "Parks Canada has a requirement for the supply and delivery of Select Structural Douglas Fir timber to their Rideau Canal Gate Shop",
+    "estimated_value": 219351.0,
+    "date_posted": "2023-04-11",
+    "duration_in_months": "4",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Boom",
+        "Construction",
+        "Provisions",
+        "Enterprise",
+        "Delivery",
+        "Services"
+    ]
+}

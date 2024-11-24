@@ -1,0 +1,29 @@
+{
+    "CONTRACT_ID": "840.846",
+    "type": "MODIFIED REQUEST FOR PROPOSAL",
+    "department": "Public Works and Government Services (PWSG)",
+    "procurement_category": "Services - Professional and Managerial",
+    "short_summary": "Client Experience Platform (CXP) for the Digital Platform Modernization (DPM) Programm. The PWGSC will seek to award two separate contracts a Software-as-a-Service and a professional services contract.",
+    "description": "The Public Works and Government Services (PWSG) department is issuing a Request for Proposal (RFP) for a Client Experience Platform (CXP) in support of the Digital Platform Modernization (DPM) Programme. The PWGSC is seeking to award two separate contracts; one contract to a Software-as-a-Service (SaaS) Publisher who will provide access to the Software-as-a-Service, cloud infrastructure, service operations, licensing, support and maintenance. A separate task-based professional services contract to a System Integrator (SI) to configure and implement the CXP into production. Both Contractors must work in partnership to design, develop and implement the CXP.",
+    "estimated_value": 90000000.0,
+    "date_posted": "Buttercup",
+    "duration_in_months": "default",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Aero",
+        "Aerospace",
+        "RFQ",
+        "Canada",
+        "Ontario, Quebec",
+        "Public Sector",
+        "Defence and Security",
+        "Environment and Energy",
+        "Infrastructure",
+        "Healthcare",
+        "Software Sciences",
+        "Virtual Reality"
+    ]
+}

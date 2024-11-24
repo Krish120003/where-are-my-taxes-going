@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "path-to<Contact number>...",
+    "type": "Technical Translation Services",
+    "department": "National Defence",
+    "procurement_category": "SRV",
+    "short_summary": "Provides technical translation services for documents",
+    "description": "Defence Construction Canada is seeking Technical Translation Services for documents in French and English for various defence projects",
+    "estimated_value": 400000,
+    "date_posted": "2022-12-15",
+    "duration_in_months": "6",
+    "provinces": [
+        "Ontario",
+        "British Columbia"
+    ],
+    "tags": [
+        "Procurement markets",
+        "Trade Agreement",
+        "CFTA",
+        "CETA",
+        "WTO GPA"
+    ]
+}

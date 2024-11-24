@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "4975",
+    "type": "json",
+    "department": "defence",
+    "procurement_category": "goods",
+    "short_summary": "purchase of meals and non food items food packaging",
+    "description": "This is a contract to purchase meals and non food items food packaging for the National Combat Ration Program (NCRP)",
+    "estimated_value": 34000000.0,
+    "date_posted": "2023-03-13",
+    "duration_in_months": "long duration contract",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "Canada",
+        " Quebec",
+        "Ontario"
+    ]
+}

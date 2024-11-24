@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "PW-22-01006283",
+    "type": "Transmission Filters",
+    "department": "Defence",
+    "procurement_category": "Goods",
+    "short_summary": "Trans",
+    "description": "The Department of National Defense has a requirement for the items detailed below. The delivery is requested at 25 CFSD Montreal and 7 CFSD Edmonton by January 31, 2023.",
+    "estimated_value": 412.5,
+    "date_posted": "2022-09-06",
+    "duration_in_months": "default",
+    "provinces": [
+        "Quebec",
+        "Alberta"
+    ],
+    "tags": [
+        "Filter",
+        "pressure",
+        "fluid",
+        "Goods",
+        "Procurement"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-22-01015954",
+    "type": "json",
+    "department": "osome one first department",
+    "procurement_category": "construction procurement",
+    "short_summary": "Short summary text for procurement",
+    "description": "this is a long description for procurement",
+    "estimated_value": 1000000,
+    "date_posted": "2021-07-20",
+    "duration_in_months": "label-12",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "tag1",
+        "Tag2"
+    ]
+}

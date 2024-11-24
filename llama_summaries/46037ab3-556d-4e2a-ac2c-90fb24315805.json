@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "1545",
+    "type": "Contract ID",
+    "department": "Ottawa",
+    "procurement_category": "*SRVTGD",
+    "short_summary": "Rent a car in Atsugi, Japan for army vehicles",
+    "description": "Rentals in Atsugi, Japan - 04 Nov 22 to 21 Nov 22.Monthly Budget: $155,000 vendors - 155,000",
+    "estimated_value": 155000,
+    "date_posted": "31/10/2022",
+    "duration_in_months": "17",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "rent_a_car",
+        "Army Vehicle"
+    ]
+}

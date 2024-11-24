@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "strings.match(data, /",
+    "type": "intelligence-question",
+    "department": "gouv-fr-query",
+    "procurement_category": "",
+    "short_summary": "text-description",
+    "description": "text-description",
+    "estimated_value": 0.0,
+    "date_posted": "datetime-current",
+    "duration_in_months": "",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "gouv-fr-query",
+        "tender-notice",
+        "ppp-crowder",
+        "fr-en-bid",
+        "contract-notice"
+    ]
+}

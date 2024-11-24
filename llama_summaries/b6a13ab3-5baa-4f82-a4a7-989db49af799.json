@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "2370",
+    "type": "CONTRACT_TYPE",
+    "department": "Correctional Service of Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Dermatology Services for the Correctional Service of Canada, Warkworth and Bath",
+    "description": "The Correctional Service of Canada (CSC) Health Services requires the services of a Primary Care Dermatologist for Warkworth and/or Bath Institution(s) in the Ontario Region",
+    "estimated_value": 2370,
+    "date_posted": "2022-10-05",
+    "duration_in_months": "You must visit inmates in designated areas of the institution (including, but not limited to the Structured Intervention Unit, Health Care Unit, Living unit for older persons, Intake and Assessment Unit) as requested by the Project Authority or delegate.",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Medical",
+        "Dentistry"
+    ]
+}

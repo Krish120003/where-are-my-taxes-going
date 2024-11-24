@@ -1,0 +1,27 @@
+{
+    "CONTRACT_ID": "This field should be updated according to requestor's needs.",
+    "type": "SA",
+    "department": "CRA",
+    "procurement_category": "SRV",
+    "short_summary": "Analysis - IT",
+    "description": "Supply Arrangement Notice for Independent Digital Forensic Services : The referenced 1570 documents are public legal documents related to this procurement. - This tender notice in the , SUMMARY section  include section which highlights  ",
+    "estimated_value": 10000000.0,
+    "date_posted": "2023-09-11",
+    "duration_in_months": "How many months does this contract last?",
+    "provinces": [
+        "Quebec",
+        "Ontario",
+        "British Columbia",
+        "Nova Scotia",
+        "New Brunswick"
+    ],
+    "tags": [
+        "Zoom",
+        "Open Bidding",
+        "Government of Canada",
+        "Independent Digital Forensic Services",
+        "SRV category",
+        "Buy and Sell",
+        "Notice POSTED on 2023-09-11"
+    ]
+}

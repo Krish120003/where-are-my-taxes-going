@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "} string notation removed to distinguish it from field name location like orderLineId-searchlopSufix {",
+    "type": "Contract",
+    "department": "{aegno} to guideline",
+    "procurement_category": "Green IT",
+    "short_summary": "Supervision and Support",
+    "description": "Supervise, inspect and repair data transmission facilities. Surveillance of transmission, installation and lists of transmitted property parcels",
+    "estimated_value": 25000.0,
+    "date_posted": "current date and time",
+    "duration_in_months": "",
+    "provinces": [
+        "British Columbia",
+        "Alberta"
+    ],
+    "tags": [
+        "green_it",
+        "IT services",
+        "Monitoring",
+        "Technical services",
+        "Equipment maintenance"
+    ]
+}

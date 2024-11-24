@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "3730",
+    "type": "JSON",
+    "department": "Public Works and Government Services (PSPC)",
+    "procurement_category": "Service",
+    "short_summary": "Request for Standing Offer for Electrical Contractor Standing Offer.",
+    "description": "General electrical work, such as the installation, maintenance, expansion, alteration, decommissioning, and repairs of electrical, lighting, control, communication, security, fire alarm, and electrical distribution systems.",
+    "estimated_value": 3000,
+    "date_posted": "2022-12-20",
+    "duration_in_months": ".1 year.",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "Electrical",
+        "Contractor",
+        "Workforce"
+    ]
+}

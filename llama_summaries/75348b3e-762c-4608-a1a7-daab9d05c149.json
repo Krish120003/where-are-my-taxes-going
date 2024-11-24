@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "3210",
+    "type": "government",
+    "department": "National Defence",
+    "procurement_category": "Services",
+    "short_summary": "Task-Based Professional Services (TSPS) Requirement",
+    "description": "Human Resource Services, Business Consulting/Change Management; Project Management Services",
+    "estimated_value": 10000,
+    "date_posted": ".2022-11-29",
+    "duration_in_months": "x",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Task-Based",
+        "Government",
+        "Professional Services"
+    ]
+}

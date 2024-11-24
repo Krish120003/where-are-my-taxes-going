@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": ":[-16281.0, 11038.0, -14973.0, 10887.0, -13284.0, 12470.0, 12171.0, 11340.0, -14497.0],",
+    "type": "CONTRACT",
+    "department": "Marketing",
+    "procurement_category": "*GD",
+    "short_summary": "This is a contract unsigned by the department of defense. We are looking to depart from the standard JCPOA.  Expected to be relisted in one month. ",
+    "description": "the procurement category is *GD. Document 3234 was modified. Data was uploaded on 9/1/22.",
+    "estimated_value": 998.44,
+    "date_posted": "2022-10-14",
+    "duration_in_months": "2",
+    "provinces": [
+        "Nova Scotia",
+        "Ontario"
+    ],
+    "tags": [
+        "JCPOA"
+    ]
+}

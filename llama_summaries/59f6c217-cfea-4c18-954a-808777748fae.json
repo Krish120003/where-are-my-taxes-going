@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "1725",
+    "type": "object",
+    "department": "Natural Resources Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Industrial Energy Efficiency Adoption",
+    "description": "Investigate the drivers and barriers for industrial energy efficiency adoption in Canada",
+    "estimated_value": 172.5,
+    "date_posted": "2024-11-20",
+    "duration_in_months": "3",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "energy efficiency",
+        "natural resources",
+        "industrial",
+        "governance",
+        "government"
+    ]
+}

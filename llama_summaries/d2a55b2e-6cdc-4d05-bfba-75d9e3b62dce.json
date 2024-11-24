@@ -1,0 +1,43 @@
+{
+    "CONTRACT_ID": "PW-_MCT-047-6239",
+    "type": "CONTRACT",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "SERVICE",
+    "short_summary": "Camp Petersville, New Brunswick Snow Removal Contract",
+    "description": "The contract to be for the Snow Removal Service at Camp Petersville New Brunwick.",
+    "estimated_value": 1013.11,
+    "date_posted": "2022-08-18",
+    "duration_in_months": "Surcharges applicable. 10 CLI. a signed Addendum to the Contract",
+    "provinces": [
+        "New Brunswick"
+    ],
+    "tags": [
+        "country",
+        "notice",
+        "procurement",
+        "ceta",
+        "ckfta",
+        "cfta",
+        "title",
+        "trade-agreoment",
+        "description",
+        "countries",
+        "currency",
+        "timezone",
+        "latitude",
+        "date",
+        "postal_code",
+        "managed_by",
+        "measure_unit",
+        "expected_start_date",
+        "google_maps",
+        "expected_end_date",
+        "created_by",
+        "start_time",
+        "locations",
+        "contact_info",
+        "unified_location",
+        "open_date",
+        "country_name"
+    ]
+}

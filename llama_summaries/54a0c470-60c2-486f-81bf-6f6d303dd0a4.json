@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "3527",
+    "type": "TEST",
+    "department": "DEPT",
+    "procurement_category": "CONSTRUCTION",
+    "short_summary": "TEST ",
+    "description": " la description ",
+    "estimated_value": 1575000,
+    "date_posted": "2023-01-06",
+    "duration_in_months": "></contract-id>}",
+    "provinces": [
+        "Ontario",
+        "Nova Scotia",
+        "Alberta",
+        "Quebec"
+    ],
+    "tags": [
+        "Construction",
+        "Electrical",
+        "Life Safety]+"
+    ]
+}

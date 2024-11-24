@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-23-01029077",
+    "type": "renovation",
+    "department": "federl_affairs",
+    "procurement_category": "construction_services",
+    "short_summary": "renovation of embassy's kitchen",
+    "description": "including cabinetry, flooring, plumbing and electrical installation ",
+    "estimated_value": 20,
+    "date_posted": "2023-03-06",
+    "duration_in_months": "6",
+    "provinces": [
+        "Manitoba",
+        "Alberta"
+    ],
+    "tags": [
+        "construction",
+        "hospitality"
+    ]
+}

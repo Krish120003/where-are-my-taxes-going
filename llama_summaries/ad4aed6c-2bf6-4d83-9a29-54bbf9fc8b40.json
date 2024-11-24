@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "W8482-230515/B",
+    "type": ".ContractNotice",
+    "department": "DND",
+    "procurement_category": "Goods",
+    "short_summary": "Purchase of pressure regulating valves and related accessories",
+    "description": "Purchase of one (1) shipment of twelve (12) pressure regulating valves.",
+    "estimated_value": 42000,
+    "date_posted": "2022-09-16",
+    "duration_in_months": "> 1",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "pressure_counters",
+        "centrals",
+        "temperature_and_pressure_gauges"
+    ]
+}

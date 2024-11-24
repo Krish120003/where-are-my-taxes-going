@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "cb-335-43789708",
+    "type": "miscellaneous",
+    "department": "RCMP",
+    "procurement_category": "SRV",
+    "short_summary": "The RCMP requires a hotel service for accommodations, venue space, meeting rooms, audio-visual equipment and catering services from May 19 to 29, 2025, for approximately 60 participants.",
+    "description": "The Royal Canadian Mounted Police (RCMP) has a requirement for a hotel to provide on-site accommodations, venue space, meeting rooms, audio-visual equipment and service and catering from May 19 to the 29, 2025 for approximately 60 participants.",
+    "estimated_value": 50000,
+    "date_posted": "2024-11-22",
+    "duration_in_months": "1",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Hotels and Lodging",
+        "Meeting Rooms",
+        "Audio-Visual Equipment",
+        "Catering Services"
+    ]
+}

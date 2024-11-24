@@ -1,0 +1,34 @@
+{
+    "CONTRACT_ID": "1166",
+    "type": "Contract",
+    "department": "DND",
+    "procurement_category": "Materials and equipment, CONSTRUCTION SERVICES and BUILDING MAINTENANCE",
+    "short_summary": "Supply of energy-related HPS high-pressure sodium",
+    "description": "Energy-related obtained provisions...",
+    "estimated_value": 100000,
+    "date_posted": "May  12, 2017",
+    "duration_in_months": ", cl_a",
+    "provinces": [
+        "Alberta",
+        "British Columbia",
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "50",
+        "51",
+        "52",
+        "59",
+        "60",
+        "62",
+        "63",
+        "64",
+        "65",
+        "71",
+        "72",
+        "86",
+        "94",
+        "104",
+        "110"
+    ]
+}

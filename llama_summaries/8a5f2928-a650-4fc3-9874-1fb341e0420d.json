@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "kdsxkhpokj22314",
+    "type": "Electrical Work",
+    "department": "Public Works and Government Services (PSPC)",
+    "procurement_category": "Goods and Services",
+    "short_summary": "Electrical work for CCGS Des Groseilliers",
+    "description": "Electrical work for CCGS Des Groseilliers, including Design, manufacture and installation of a shore power supply panel with phase selection and Engineering and installation of infrared windows for thermographic readings, located in Quebec, Canada, as detailed in Sections 6 and 7.",
+    "estimated_value": 200000,
+    "date_posted": "2022-10-07",
+    "duration_in_months": "> 1 year",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Electrical work"
+    ]
+}

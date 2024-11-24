@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-22-01018314",
+    "type": "RFP",
+    "department": "Finance",
+    "procurement_category": "SRV",
+    "short_summary": "Enterprise Agile Solution",
+    "description": "Request for Proposal for an Enterprise Agile Solution",
+    "estimated_value": 10000000.0,
+    "date_posted": "2022-12-21",
+    "duration_in_months": "We will endavour to complete the project in one year but cannot will not guarantee completion before the end of the second year",
+    "provinces": [
+        "Alberta",
+        "Saskatchewan"
+    ],
+    "tags": [
+        "agile",
+        "development",
+        "software"
+    ]
+}

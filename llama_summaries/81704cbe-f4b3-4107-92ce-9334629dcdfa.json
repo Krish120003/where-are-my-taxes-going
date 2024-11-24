@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "Some string value",
+    "type": "summary",
+    "department": "Department of Environment and Climate Change Canada",
+    "procurement_category": "SRV",
+    "short_summary": "This is a summary",
+    "description": "This is a description",
+    "estimated_value": 90000,
+    "date_posted": "2020-06-25",
+    "duration_in_months": "https://example.com, ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "T7-K",
+        "LAB",
+        "RST"
+    ]
+}

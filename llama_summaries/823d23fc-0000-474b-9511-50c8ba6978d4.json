@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "3556",
+    "type": "MATLAB/tensor flow predictor",
+    "department": "Finance",
+    "procurement_category": "Goods purchaes ",
+    "short_summary": "purchasing equipment  ",
+    "description": "Matlab or equivalent for Shared Services Canada",
+    "estimated_value": 50000000,
+    "date_posted": "2022-12-20",
+    "duration_in_months": "6 month",
+    "provinces": [
+        "Ontario",
+        "British Columbia"
+    ],
+    "tags": [
+        "remote work",
+        "financial management",
+        " risk management"
+    ]
+}

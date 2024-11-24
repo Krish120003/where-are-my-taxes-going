@@ -1,0 +1,30 @@
+{
+    "CONTRACT_ID": "pw-23-01030412",
+    "type": "JSON",
+    "department": "all",
+    "procurement_category": "*SRV",
+    "short_summary": "Technical services",
+    "description": "The project is a consulting and analytical services related to maintenance accrual budgeting data model",
+    "estimated_value": 540000,
+    "date_posted": "2022-01-31",
+    "duration_in_months": "24",
+    "provinces": [
+        "Alberta",
+        "British Columbia",
+        "New Brunswick",
+        "Newfoundland and Labrador",
+        "Northwest Territories",
+        "Nova Scotia",
+        "Nunavut",
+        "Ontario",
+        "Prince Edward Island",
+        "Quebec",
+        "Saskatchewan",
+        "Yukon"
+    ],
+    "tags": [
+        "consulting-bid",
+        "data-model",
+        "budgeting"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "22096",
+    "type": "RCMP",
+    "department": "Public Safety",
+    "procurement_category": "ROX",
+    "short_summary": "Gendarmerie royale du canada",
+    "description": "Gendarmerie royale du la vie inuit ",
+    "estimated_value": 1595925.0,
+    "date_posted": "2022-09-19T00:00:00",
+    "duration_in_months": "4",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "RCMP"
+    ]
+}

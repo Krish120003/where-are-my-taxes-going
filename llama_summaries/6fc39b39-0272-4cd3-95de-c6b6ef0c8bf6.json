@@ -1,0 +1,26 @@
+{
+    "CONTRACT_ID": "SSC-22-00021016:T",
+    "type": "Compra",
+    "department": "Transporto",
+    "procurement_category": "Diretoria",
+    "short_summary": "High Performance Computing Server and related services",
+    "description": "The contractor shall purchase and deliver high performance server and services. ",
+    "estimated_value": 10000.0,
+    "date_posted": "2022-12-15",
+    "duration_in_months": "},",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "22503",
+        "22543",
+        "22151",
+        "20253",
+        "20372",
+        "20822",
+        "8822",
+        "22122",
+        "17822",
+        "20312"
+    ]
+}

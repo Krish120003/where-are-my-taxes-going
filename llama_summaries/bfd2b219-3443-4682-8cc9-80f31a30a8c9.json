@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "BPM006672/20129",
+    "type": "university",
+    "department": "IT",
+    "procurement_category": "computer_science",
+    "short_summary": "<p>Virtualization and cloud computing project to enhance and modernize computing resources to get a powerful computer system</p>",
+    "description": "The Invitation to Qualify (ITQ) belongs to the Agile Procurement Process, blockchain(The department does not exist in the original text, but it is a good example of how the data can be reformatted.) (A) The first deadline for the ITQ submission is July 3, 2019. (B) The second deadline for the ITQ submission is September 4, 2019.",
+    "estimated_value": 500000.0,
+    "date_posted": "Wed Jun 26 03:11:47 2019",
+    "duration_in_months": "And this is another example, expanded to contain more details.",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "government",
+        "cybersecurity"
+    ]
+}

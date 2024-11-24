@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "title-titre-eng",
+    "type": "Contract",
+    "department": "Deparment of Public Works and Government Services (PSPC)",
+    "procurement_category": "CNST",
+    "short_summary": "Maintenance service",
+    "description": "maintenance for Bullmoose Mine and Ruth Mine",
+    "estimated_value": 400000,
+    "date_posted": "20230227",
+    "duration_in_months": "C-0",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "pentium R Fault"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "3187",
+    "type": "I Facility Masterfile Update",
+    "department": "statistics",
+    "procurement_category": "Tenders",
+    "short_summary": "Annual maintenance and updates to the facility match file and Client tier Matrix tables for 2023. This contract will be awarded to one bidder. ",
+    "description": "Annual facility masterfile update to match (among other things): active and inactive message definitions, address formatting, and consortia , we will also be updating the Client tier Matrix tables to reflect any changes for 2023. ",
+    "estimated_value": 100000.0,
+    "date_posted": "2023-12-12",
+    "duration_in_months": "There is no contract.",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "infrastructure",
+        "bidding process"
+    ]
+}

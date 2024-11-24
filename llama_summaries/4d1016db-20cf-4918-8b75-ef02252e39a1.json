@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "1000244062",
+    "type": "JSON",
+    "department": "Health Department",
+    "procurement_category": "SRV",
+    "short_summary": "Hiring Consultant",
+    "description": "This project is to hire Consultant to support staffing activities",
+    "estimated_value": 0,
+    "date_posted": "10/24/2022",
+    "duration_in_months": "a few monthes",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "HR",
+        "Consultant",
+        "Staffing",
+        "Positions Vacant",
+        "Advisory Services",
+        "Indigenous Potential",
+        "Staffing Consultancy"
+    ]
+}

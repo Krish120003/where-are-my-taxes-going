@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "IWBBKU6JCGK",
+    "type": "PublicTenders",
+    "department": "Infrastructure and communities",
+    "procurement_category": "SRV",
+    "short_summary": "Services professionnels en ingnierie geotechnique",
+    "description": "Gestion des projets relatifs aux investissements au titre du plan de croissance ",
+    "estimated_value": 5004000000,
+    "date_posted": "2022-08-29",
+    "duration_in_months": "><?PUBLIC_infos[0]['duration_in_months']}",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "\u041f\u0435\u0440\u0435\u0432\u043e\u0434",
+        " Ing\u00e9nieur ",
+        "g\u00e9otechnique "
+    ]
+}

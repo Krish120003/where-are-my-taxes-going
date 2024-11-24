@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "BPM018382",
+    "type": "Vendor",
+    "department": "Shared Services Canada",
+    "procurement_category": "*GD",
+    "short_summary": "Renewal of SolarWinds Software",
+    "description": "Continued maintenance & support coverage of SolarWinds software",
+    "estimated_value": 1387140.5,
+    "date_posted": "2023-03-02",
+    "duration_in_months": "15",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canada",
+        "Logiciel, bureautique, gestion de documents, courrier gestion,de r\\u00e9seaux, \\\\",
+        "Computer software,Office automation,Document management,Mail, Networks,Publishing,Spreadsheets,Typesetting,Word processing-Microcomputers only",
+        "technologie de l\\u2019information et des communications"
+    ]
+}

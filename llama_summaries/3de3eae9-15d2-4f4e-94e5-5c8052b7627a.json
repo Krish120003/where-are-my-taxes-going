@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "We are not given a contract ID in the response from the function-call which we call ",
+    "type": "we are not given contract id",
+    "department": "we are not given deparrment name",
+    "procurement_category": "Supply of goods",
+    "short_summary": "The Department of National Defence (DND), Garrison Petawawa, has a requirement to procure a supply and delivery of a complete mechanically refrigerated salad and dessert bar cabinet unit at the Normandy Kitchen, Garrison Petawawa.",
+    "description": "Please disregard the Ariba Discovery posting response deadline closing time...",
+    "estimated_value": 1000000.0,
+    "date_posted": "2023-02-03",
+    "duration_in_months": ")+30/postttl=(",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Mechanical Refrigeration",
+        "Salad and Dessert Bar Cabinet Unit"
+    ]
+}

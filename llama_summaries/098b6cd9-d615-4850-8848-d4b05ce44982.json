@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-22-01014874",
+    "type": "Translation Services",
+    "department": "Transport Canada",
+    "procurement_category": "*SRV",
+    "short_summary": "Translation Services Request for Proposal Notice",
+    "description": "Technical training services are required to translate courses for Safety and Security modes",
+    "estimated_value": 899200,
+    "date_posted": "2022-11-25",
+    "duration_in_months": "{\"from\": \"2023-01-01\", \"to\": \"2024-03-31\"}",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "translation_service",
+        "request_for_proposal",
+        "TTCU-adele-FR"
+    ]
+}

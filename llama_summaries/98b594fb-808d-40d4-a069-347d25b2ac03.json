@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "1466",
+    "type": "CONTRACT",
+    "department": "Transport Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Five-year subscription to the dynamic Automatic Identification System (AIS) Data Feed.",
+    "description": "The purpose of this requirement is to obtain available archived data from exactEarth/Spire Maritime\u2019s Dynamic/Territorial AIS platform and subscribe to a continuous data feed service that it also offers.",
+    "estimated_value": 99999.99,
+    "date_posted": "2022-12-23",
+    "duration_in_months": "This contract is for a period of 5 years.",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "exactEarth",
+        "Spire Maritime",
+        "AIS platform",
+        "AIS data service"
+    ]
+}

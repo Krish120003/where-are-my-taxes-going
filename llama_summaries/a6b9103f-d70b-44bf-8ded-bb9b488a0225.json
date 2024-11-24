@@ -1,0 +1,30 @@
+{
+    "CONTRACT_ID": "2729",
+    "type": "foo",
+    "department": "foo",
+    "procurement_category": "SRV",
+    "short_summary": "Environmental Consultant",
+    "description": "NOTICE...",
+    "estimated_value": 100000.0,
+    "date_posted": "2022-10-19",
+    "duration_in_months": "I am not sure, two years maybe plus three option years?",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canada-UK Trade Continuity Agreement",
+        "Canada-Chile Free Trade Agreement",
+        "Canada-Korea Free Trade Agreement",
+        "Canada-Honduras Free Trade Agreement",
+        "Canada-Colombia Free Trade Agreement",
+        "Canada-Ukraine Free Trade Agreement",
+        "Canada-Peru Free Trade Agreement",
+        "Canadian Free Trade Agreement",
+        "Comprehensive and Progressive Agreement for Trans-Pacific Partnership",
+        "Canada-Panama Free Trade Agreement",
+        "Canada-European Union Comprehensive Economic and Trade Agreement",
+        "World Trade Organization Agreement on Government Procurement",
+        "CPTPP",
+        "WTO GPA"
+    ]
+}

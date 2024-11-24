@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "WS3735929866",
+    "type": "Tender",
+    "department": "Department of Public Works and Government Services (PSPC)",
+    "procurement_category": "Goods",
+    "short_summary": "AMENDMENT TO CLOSING TIME: Please disregard the Ariba Discovery posting response deadline closing time and CanadaBuys posting closing time. All required supporting documentation and bid submission must be submitted by 2023-01-20 at 14:00 EST. All bids submitted after 14:00 EST will result in the bid being declared non-responsive. The purpose of this document is to provide the general and specific requirements for the  purchase of quantity 19 electric, walk behind, automatic 18 inches floor scrubbers.  The project is to upgrade and replace existing equipment at the Edmonton Garrison Rations and Quarters Section on or before 2023-03-31.",
+    "description": "The { department } will be handling the procurement of Goods via the { url } platform. The procurement category is { Procurement category}. The tender date is from {start_date} to {end_date} ",
+    "estimated_value": 5500,
+    "date_posted": "2022/12/12",
+    "duration_in_months": "6144 hfjs for 4 representative RFR",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "Canadian Government ",
+        "Canada"
+    ]
+}

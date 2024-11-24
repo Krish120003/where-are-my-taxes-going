@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "Do_202302073_891486_20230301231353_ Assert Audit 11",
+    "type": "",
+    "department": "police",
+    "procurement_category": "Goods and Services",
+    "short_summary": "A Redacted purchase order for the purchase of a forensic light source.",
+    "description": "Forensic Light Source for RCMP ",
+    "estimated_value": 99000,
+    "date_posted": "19-Jan-2023",
+    "duration_in_months": "2.58",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Forensic Light Source",
+        "police",
+        "crime",
+        "RCMP",
+        "laboetrory analisys ",
+        "disoster response",
+        "British Colombia"
+    ]
+}

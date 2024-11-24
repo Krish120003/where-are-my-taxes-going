@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "5194",
+    "type": "Blank space will be ignored",
+    "department": "Departmet of National Defense",
+    "procurement_category": "SRV",
+    "short_summary": "Temporary Help Services Requirement Application Requirements",
+    "description": "Survey quantity conversion and editorial services supplies",
+    "estimated_value": 1.6,
+    "date_posted": " 15{} INTO",
+    "duration_in_months": "24",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "service",
+        "network",
+        "technology",
+        "IT",
+        "software",
+        "contract",
+        "small business",
+        "BOTG",
+        ""
+    ]
+}

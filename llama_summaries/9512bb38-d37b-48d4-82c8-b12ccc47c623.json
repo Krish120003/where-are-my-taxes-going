@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "PW-22-01014612",
+    "type": "BULK",
+    "department": "CURRENT",
+    "procurement_category": "SRV",
+    "short_summary": "BULK PRINT SERVICES",
+    "description": "Bulk Print Services",
+    "estimated_value": 31351235.65,
+    "date_posted": "2022-11-24",
+    "duration_in_months": ">5",
+    "provinces": [
+        "Saskatchewan"
+    ],
+    "tags": [
+        "R122C",
+        "*T014U",
+        "*G014U",
+        "*R122E",
+        "Canada-European Union Comprehensive Economic and Trade Agreement (CETA)",
+        "Canadian Free Trade Agreement (CFTA)",
+        "\\"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "WS3236296480-Doc3837291315",
+    "type": "Request_for_Information",
+    "department": "Public Health Agency of Canada (PHAC)",
+    "procurement_category": "Goods and Services (GD)",
+    "short_summary": "Active, Paediatric Hospital Based Surveillance RFI",
+    "description": "The intent of this Request for Information (RFI) is to assist the Public Health Agency of Canada in improving the delivery model for their Active, PaediumIRR model Programme.",
+    "estimated_value": 0,
+    "date_posted": "2023-01-20",
+    "duration_in_months": ">48",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "British Columbia"
+    ],
+    "tags": [
+        "healthcare services",
+        "medical services",
+        " pediatric hospital"
+    ]
+}

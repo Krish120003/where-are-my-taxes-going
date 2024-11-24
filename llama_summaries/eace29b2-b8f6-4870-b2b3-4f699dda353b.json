@@ -1,0 +1,28 @@
+{
+    "CONTRACT_ID": "2587",
+    "type": "CONTRACT",
+    "department": "revenue",
+    "procurement_category": "GD",
+    "short_summary": "Headsets and Accessories",
+    "description": "DESCRIPTION OF REQUIREMENT",
+    "estimated_value": 11000000.0,
+    "date_posted": "2022-09-02",
+    "duration_in_months": "For two (2) years with three (3) options to extend the period by one (1) year each",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "Alberta",
+        "British Columbia"
+    ],
+    "tags": [
+        "heads",
+        "phones",
+        "computers",
+        "laptops",
+        "procurement",
+        "revevue agency",
+        "contract",
+        "government of canada",
+        "#gd"
+    ]
+}

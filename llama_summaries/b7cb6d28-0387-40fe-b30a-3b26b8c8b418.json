@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "1806",
+    "type": "Office Chairs RFP # RFP 375",
+    "department": "Auditor General of Canada, Office of the",
+    "procurement_category": "Goods",
+    "short_summary": "Purchase and delivery of office chairs to be installed in employees' homes in various provinces.",
+    "description": "This is a Request for Proposal (RFP) for the purchase, delivery and installation of office chairs to be located in employees' offices in Ontario, Quebec, Manitoba and Alberta.",
+    "estimated_value": 1800000.0,
+    "date_posted": "2022-08-09",
+    "duration_in_months": "displayed in years",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "Manitoba",
+        "Alberta"
+    ],
+    "tags": [
+        "Office Chairs",
+        "Purchase ",
+        "Delivery",
+        "Installation"
+    ]
+}

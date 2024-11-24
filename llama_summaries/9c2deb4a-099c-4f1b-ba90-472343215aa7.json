@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "W8485-237401/B",
+    "type": "Request for Proposal",
+    "department": "Department of National Defence",
+    "procurement_category": "Goods",
+    "short_summary": "The Department of National Defence has a requirement for the item detailed below. The delivery is requested at the depot indentified below.",
+    "description": "The Department of National Defence has a requirement for the item detailed below. The delivery is requested at the depot indentified below.",
+    "estimated_value": 785,
+    "date_posted": "2023-03-06",
+    "duration_in_months": "time from posting date to tender clos date",
+    "provinces": [
+        "Alberta",
+        "Ontario"
+    ],
+    "tags": [
+        "aircraft",
+        "tires",
+        "Canada",
+        "Canadian Free Trade Agreement"
+    ]
+}

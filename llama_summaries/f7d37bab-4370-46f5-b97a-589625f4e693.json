@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-22-01010462",
+    "type": "data",
+    "department": "ITS",
+    "procurement_category": "*GD",
+    "short_summary": "Tent and Pin Tender",
+    "description": "The contract is for the acquisition of various types of tents and pins.",
+    "estimated_value": 10000,
+    "date_posted": "October 19, 2022",
+    "duration_in_months": "Now active, closing date January 20, 2023",
+    "provinces": [
+        "Alberta",
+        "Quebec"
+    ],
+    "tags": [
+        "Tent",
+        "Pin",
+        "Expire"
+    ]
+}

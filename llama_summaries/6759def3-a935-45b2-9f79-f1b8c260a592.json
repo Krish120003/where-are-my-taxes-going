@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "PW-23-01026566",
+    "type": "manufacturer",
+    "department": "National defence",
+    "procurement_category": "*GD",
+    "short_summary": "The department is requesting delivery at CFB Halifax, Nova Scotia and CFB Esquimalt, British Columbia of 1000 units of NSN 6145-01-5933291 special purpose electrical cables",
+    "description": "The ministry is requesting delivery at both Ministry of Defense locations of electrical cables. Suppliers require to provide a quotation. Parts no: EPD-DND-21536, GLNP: 06090.",
+    "estimated_value": 1000,
+    "date_posted": "2023-02-22",
+    "duration_in_months": "Our time lustometrics indicates that the type of procuration required will span 2 to 5 months.",
+    "provinces": [
+        "Nova Scotia",
+        "British Columbia"
+    ],
+    "tags": [
+        "federal procurement",
+        "procurement",
+        "acquisition",
+        "defense",
+        "government",
+        "cabellec/elect,"
+    ]
+}

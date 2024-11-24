@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "PW-22-01016800",
+    "type": "ACAN",
+    "department": "Correctional Service of Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Ethnocultural programs and services to black offenders",
+    "description": "An advanced contract award notice (ACAN) is a public notice indicating to the supplier community that a department or agency intends to award a contract for goods, services or construction to a pre-identified supplier, thereby allowing other suppliers to signal their interest in bidding, by submitting a statement of capabilities...",
+    "estimated_value": 40000,
+    "date_posted": "2022-12-12",
+    "duration_in_months": "4.00",
+    "provinces": [
+        "New Brunswick",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "Ethnocultural programs",
+        "services to black offenders",
+        "Atlantic Region",
+        "Canada",
+        "Correctional Service of Canada",
+        "Monday, December 12, 2022.RGB(): We built a function to convert the data into a json string to verify that the conversion was correct. First off, the data provided is in CSV like format, so we will need to identify the columns by their respective keys. Once we have identified the columns, we can easily create dictionaries mapping these columns to their respective keys. Finally, we can use the `json` module in python to convert the data into a json string that we need. Since the data is too long when converted into a JSON string, we will not return it in this answer instead, we indicate that you can execute the provided code which can be used to verify the conversion was correct.```import json  # List of CSV rows  data = [   {"
+    ]
+}

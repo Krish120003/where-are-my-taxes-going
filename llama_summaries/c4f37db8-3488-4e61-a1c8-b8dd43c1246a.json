@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "${SUB_KEY}",
+    "type": "public",
+    "department": "SupplierPortal",
+    "procurement_category": "*CNST",
+    "short_summary": "Manitoba",
+    "description": "Tested by DEVELOPMENT-EU       C:\\",
+    "estimated_value": 69902.0,
+    "date_posted": "2021-07-14",
+    "duration_in_months": "Oh I do not know",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Sewers/DRAINAGE"
+    ]
+}

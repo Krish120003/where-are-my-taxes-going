@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "cb-4019-95061672",
+    "type": "Contract",
+    "department": "Health",
+    "procurement_category": "SRV",
+    "short_summary": "Transportation to Nelson House",
+    "description": "Indigenous Services Canada (ISC) requires the following: reliable roundtrip transportation for ,FNIHB employees and contracted dentists. ...",
+    "estimated_value": 1000000.0,
+    "date_posted": "2023-02-27",
+    "duration_in_months": "15",
+    "provinces": [
+        "Manitoba"
+    ],
+    "tags": [
+        "SRV",
+        "Transportation",
+        "Health"
+    ]
+}

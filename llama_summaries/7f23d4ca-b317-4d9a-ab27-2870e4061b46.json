@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "4625",
+    "type": "bid",
+    "department": "CBSA",
+    "procurement_category": "supply services",
+    "short_summary": "access control system computer, software, hardware, and maintenance services",
+    "description": "access control system replacement at Prescott border",
+    "estimated_value": 10000.0,
+    "date_posted": "2023-01-30",
+    "duration_in_months": ",'bid_deadline':",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canadian Free Trade Agreement (CFTA)",
+        "Canada-Korea Free Trade Agreement (CKFTA)"
+    ]
+}

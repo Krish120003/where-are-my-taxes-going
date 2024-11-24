@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "4712",
+    "type": "RFP",
+    "department": "IRC",
+    "procurement_category": "*CNST",
+    "short_summary": "Replace Roof on section #4 of building M50.",
+    "description": "Construction of  other buildings ",
+    "estimated_value": 12345678,
+    "date_posted": "23-02-2023",
+    "duration_in_months": "http://wwwDescricao_editora.gov/ca/mt/abcd",
+    "provinces": [
+        "Ontario",
+        "Nova Scotia",
+        "New Brunswick"
+    ],
+    "tags": [
+        "Roofing",
+        "Construction",
+        "Engineering"
+    ]
+}

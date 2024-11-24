@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "5075",
+    "type": "CONTRACT_SIGNED",
+    "department": "public_safety_canada",
+    "procurement_category": "SRV",
+    "short_summary": "SharePoint services",
+    "description": "[processed description from text]",
+    "estimated_value": 100000,
+    "date_posted": "2023-03-14",
+    "duration_in_months": "On going services and as and when required",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Public Safety Canada",
+        "Microsoft SharePoint",
+        "Ersi ArcGIS",
+        "Contracting Authority",
+        "Government of Canada"
+    ]
+}

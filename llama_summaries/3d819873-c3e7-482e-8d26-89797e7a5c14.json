@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-23-01021625",
+    "type": "PW",
+    "department": "Canada",
+    "procurement_category": "Service",
+    "short_summary": "software as service",
+    "description": "Indigenous Services Canada (ISC) has identified the need to acquire a Cloud-based Learning Management System (LMS) that meets all the needs expressed in this document",
+    "estimated_value": 500000,
+    "date_posted": "01/10/2023",
+    "duration_in_months": ",",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Canada",
+        "governemnt",
+        "education future",
+        "evaluation"
+    ]
+}

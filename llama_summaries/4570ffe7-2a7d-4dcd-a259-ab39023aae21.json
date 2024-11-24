@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "2303",
+    "type": "LIGHT_HIGHWAY",
+    "department": "The Department of National defence",
+    "procurement_category": "competition",
+    "short_summary": "It is an announcement for a heavier highway, which is going to be constructed at Calgary Alberta.",
+    "description": "This is a statutory regulated Government of Canada announcement notice for a highway construction project in Calgary, Alberta.",
+    "estimated_value": 10000000,
+    "date_posted": "2022-09-02",
+    "duration_in_months": "How long will the project last, which is 12 months.",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "government",
+        "transportation"
+    ]
+}

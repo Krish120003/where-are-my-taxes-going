@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "21C20-23-4948488",
+    "type": "Stabilizing",
+    "department": "Correctional Service of Canada",
+    "procurement_category": "Supply and Service Procurement (SSCP)",
+    "short_summary": "Installation Services",
+    "description": "Correctional service of Canada - CORCAN",
+    "estimated_value": 10.0,
+    "date_posted": "2023-02-16",
+    "duration_in_months": ":renewable",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Installation Services",
+        "CORCAN"
+    ]
+}

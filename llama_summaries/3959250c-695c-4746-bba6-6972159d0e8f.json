@@ -1,0 +1,15 @@
+{
+    "CONTRACT_ID": "30003920",
+    "type": "Electrical Repair",
+    "department": "Fisheries and Oceans Canada",
+    "procurement_category": "CNST",
+    "short_summary": "Electrical Repair Memo Port Dover ON",
+    "description": "The project site is located in Port Dover, Ontario, on the north shore of Lake Erie approximately 40 km south of Brantford, ON. ",
+    "estimated_value": 50,
+    "date_posted": "2023-01-11",
+    "duration_in_months": "](eter_f.changed teowner AIS Yourselfiris document_dict data_dict_temp = {'CONTRACT_ID': data_dict['solicitationNumber-numeroSollicitation'], 'type': data_dict['title-titre-eng'], 'department': data_dict['contractingEntityName-nomEntitContractante-eng'], 'procurement_category': data_dict['procurementCategory-categorieApprovisionnement'], 'short_summary': data_dict['title-titre-eng'] + ' memo ' + data_dict['contractingEntityAddressCity-entiteContractanteAdresseVille-eng'] + ",
+    "provinces": [],
+    "tags": [
+        "  "
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-22-01007449",
+    "type": "Remediation",
+    "department": "Fisheries and Oceans",
+    "procurement_category": "*CNST",
+    "short_summary": "Sidney Laboratory - Build 12 Remediation",
+    "description": "Detector_RADAR",
+    "estimated_value": 46000000,
+    "date_posted": "2022-09-16",
+    "duration_in_months": "Not specified",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "Laboratory",
+        "Remediation",
+        "hazardous material assessment",
+        "Hazardous Material remediation",
+        "BC"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "W4948-23IC06/A",
+    "type": "IC",
+    "department": "DND",
+    "procurement_category": "SRV",
+    "short_summary": "Chartered aircraft services to provide Intelligence, Surveillance, and Reconnaissance training",
+    "description": "Trade Agreement: CETA/WTO-AGP/CPTPP/FTAs with Peru/Colombia/Panama/Korea/UK",
+    "estimated_value": 0,
+    "date_posted": "2022-12-30",
+    "duration_in_months": "No",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "ISR",
+        "Training",
+        "DND",
+        "ISR capability",
+        "Chartered aircraft services",
+        "CETA",
+        "WTO-AGP/CPPTPP",
+        "foreign"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "CONTRACT_ID": "PCO-13387",
+    "type": "CONTRACT",
+    "department": "AFMPC",
+    "procurement_category": "SRV",
+    "short_summary": "Renewal of Marine Security Operation Centres",
+    "description": "the renewl of MSOCs",
+    "estimated_value": 6,
+    "date_posted": "2019-08-30T15:38:04Z",
+    "duration_in_months": "2",
+    "provinces": [
+        "Alberta",
+        "British Columbia",
+        "Manitoba",
+        "New Brunswick",
+        "Newfoundland and Labrador",
+        "Nova Scotia",
+        "Ontario",
+        "Prince Edward Island",
+        "Quebec",
+        "Saskatchewan",
+        "Northwest Territories",
+        "Nunavut",
+        "Yukon"
+    ],
+    "tags": [
+        "contract",
+        "contractaward",
+        "contractnegotiation"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "4636",
+    "type": "Government Contract",
+    "department": "Natural Resources",
+    "procurement_category": "Construction of Other Buildings",
+    "short_summary": "National Research Council Canada requires a steam generated boiler supply and installation for the 4th floor building S77.",
+    "description": "The National Research Council Canada, 100 Sussex Dr, Ottawa, has a requirement for a project that includes: ...",
+    "estimated_value": 101100,
+    "date_posted": "2023-02-21",
+    "duration_in_months": "6",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "construction",
+        "steam boiler"
+    ]
+}

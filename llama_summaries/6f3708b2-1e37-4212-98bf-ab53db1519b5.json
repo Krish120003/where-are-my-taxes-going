@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "3365044-03",
+    "type": "Public",
+    "department": "Transport Canada",
+    "procurement_category": "SRVTGD",
+    "short_summary": "Avis de projet de march",
+    "description": "Avis de demande de propositions",
+    "estimated_value": 72901.36,
+    "date_posted": "Dec 09 2011",
+    "duration_in_months": "id nb_of_proposals[data_sources]=",
+    "provinces": [
+        "Nunavut",
+        "Yukon"
+    ],
+    "tags": [
+        "government",
+        "federal"
+    ]
+}

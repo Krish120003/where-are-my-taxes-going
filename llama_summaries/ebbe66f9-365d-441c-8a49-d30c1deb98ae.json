@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-22-01010180",
+    "type": "purchase order",
+    "department": "Defense",
+    "procurement_category": "Service",
+    "short_summary": "Purchase of ammunition destruction services",
+    "description": "Department of National Defence has a  requirement for destruction (disabling) and disposal of small arms ammunition that is obsolescent or has serviceability issues and is no longer fit for use. \\\\nQuantity of commodity: 12,000kg in initial 1 year period \\\\n6,000kg in each option period\\",
+    "estimated_value": 4005.36,
+    "date_posted": "2022-10-17",
+    "duration_in_months": "If the contract is extended, the contract will last for 6, 12, 18, or 24 months depending on when the notice period ends.",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Defense",
+        "Munitions"
+    ]
+}

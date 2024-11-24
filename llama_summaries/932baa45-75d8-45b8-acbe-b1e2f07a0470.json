@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "W8482-230901/A",
+    "type": "request for proposal",
+    "department": "National Defence",
+    "procurement_category": "goods",
+    "short_summary": "Requirements for N22E N108 7310",
+    "description": "*Food, Cooking, Baking and Serving Equipment",
+    "estimated_value": 123,
+    "date_posted": "2022-10-20",
+    "duration_in_months": ",",
+    "provinces": [
+        "Nova Scotia",
+        "British Columbia"
+    ],
+    "tags": [
+        "food",
+        "cooking",
+        "equipment",
+        "household"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "<contract_number>",
+    "type": "json",
+    "department": "Public Records",
+    "procurement_category": "SRV",
+    "short_summary": "service-professionnel-de-l-informatique",
+    "description": "Description of contract",
+    "estimated_value": 1000000,
+    "date_posted": "2022-12-14",
+    "duration_in_months": "default",
+    "provinces": [
+        "Ontario",
+        "Ontario"
+    ],
+    "tags": [
+        "computer-programs",
+        "computer-programmes",
+        "computing-programs",
+        "a131-review",
+        "a133-service-contractor",
+        "a134-contractor- Dann-site-kwa Hadallsun co5 weighingBEJack Rolling-delta rerut stem Case jour stuffle], "
+    ]
+}

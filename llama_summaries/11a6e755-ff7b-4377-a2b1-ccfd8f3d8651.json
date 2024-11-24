@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "${example_contract_id}",
+    "type": "contract",
+    "department": "Health Canada",
+    "procurement_category": "SRV",
+    "short_summary": "RFP for Indoors and Outdoors Air Quality in Canadian Communities - Talent Node",
+    "description": "Air Quality Health Index (AQHI) Improving clinical help for health risk show the relativity of lung shut etc.",
+    "estimated_value": 6,
+    "date_posted": "data_posted",
+    "duration_in_months": "6",
+    "provinces": [
+        "Quebec",
+        "Ontario",
+        "Manitoba",
+        "British Columbia",
+        "Nova Scotia",
+        "Newfoundland and Labrador",
+        "Saskatchewan"
+    ],
+    "tags": [
+        "Air Quality",
+        "Environment",
+        "Health"
+    ]
+}

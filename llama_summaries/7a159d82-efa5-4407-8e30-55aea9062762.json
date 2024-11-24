@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": ":[",
+    "type": "contract",
+    "department": "defence",
+    "procurement_category": "service",
+    "short_summary": "naval architecture and engineering services",
+    "description": "this is the short description",
+    "estimated_value": 100000,
+    "date_posted": "2022-08-09",
+    "duration_in_months": "], ",
+    "provinces": [
+        "British Columbia",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "contract",
+        "public procurement",
+        "naval warfare",
+        "engineering services",
+        "architecture"
+    ]
+}

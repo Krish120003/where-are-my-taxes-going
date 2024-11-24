@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "4816",
+    "type": "rfso",
+    "department": "Public Safety and Emergency Preparedness - CBSA",
+    "procurement_category": "SRV",
+    "short_summary": "The contract constitutes a Standing Offer solicitation for the Correctional Service of Canada to deliver services that support the reintegration needs of Indigenous offenders to urban centres.",
+    "description": "The Correctional Service of Canada is undertaking a Standing Offer solicitation to deliver services that support the reintegration needs of Indigenous offenders to urban centres. The Standing Offer will be used to deliver reintegration support services to Indigenous offenders, including outreach and engagement, intervention services, and life skills development.",
+    "estimated_value": 4272391,
+    "date_posted": "2023-02-27",
+    "duration_in_months": "10",
+    "provinces": [
+        "Alberta",
+        "British Columbia",
+        "Manitoba",
+        "New Brunswick",
+        "Nova Scotia",
+        "Ontario",
+        "Prince Edward Island",
+        "Quebec",
+        "Saskatchewan"
+    ],
+    "tags": [
+        "Indigenous offenders"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "PW-22-01015960",
+    "type": "checked_calls_for_tenders",
+    "department": "minister_of_public_services",
+    "procurement_category": "construction",
+    "short_summary": "This is a contract under construction for Defence Construction Canada.",
+    "description": "This is a contract for the construction of buildings.",
+    "estimated_value": 0,
+    "date_posted": "2022-12-06",
+    "duration_in_months": ":16",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "procurement_category: construction",
+        "notice_type: Request for Information",
+        "procurement_method: Competitive - Open bidding",
+        "gsin_descriptioncols span name: *Construction of One and Two Dwelling Buildings",
+        "regions_of_delivery: British Columbia",
+        "contracting_entity: Defence Construction Canada",
+        "regions_of_opportunity: Europe, Canada, Mexico, United States",
+        "trade_agreements: Canadian Free Trade Agreement (CFTA), World Trade Organization Agreement on Government Procurement (WTO GPA), Canada-European Union Comprehensive Economic and Trade Agreement (CETA)"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "CONTRACT_ID": "wb-7782-8091878",
+    "type": "CONTRACT ID: 5158",
+    "department": "Health and Wellness",
+    "procurement_category": "SRV",
+    "short_summary": "Equipment maintenance and repair services for health services clinics, hospitals, pharmacies and regional headquarters.",
+    "description": "Equipment maintenance and repair services for health services clinics, hospitals, pharmacies, and regional headquarters.  Mandatory requirement for a Nationally Certified Senior Medical Equipment Biomedical Technician as per the ACS Infrastructure \", Medical Equipment Technologies Branch for assigned technicians.  Work includes certain medical equipment inspection, calibration, repair/maintenance, testing and replacement as detailed in Annexes B, C, D, E, F, G, I, J, K.  Work to be performed in provincial/time zone of Region.  Ministerial requirements outlined in the Request for Proposal (RFP) documents for a five (5) year contract term.",
+    "estimated_value": 100.0,
+    "date_posted": "2023-12-19",
+    "duration_in_months": ")). timedelta(days=60), ",
+    "provinces": [
+        "Nova Scotia",
+        "New Brunswick"
+    ],
+    "tags": [
+        "health services clinics",
+        "hospitals",
+        "pharmacies",
+        "regional headquarters",
+        "nationally certified senior medical equipment biomedical technician",
+        "medical equipment inspection",
+        "calibration",
+        "repair/maintenance",
+        "testing",
+        "replacement",
+        "acs infrastructure",
+        "medical equipment technologies branch."
+    ]
+}

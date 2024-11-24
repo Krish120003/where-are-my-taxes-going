@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "389",
+    "type": "contract",
+    "department": "farm-credit-canada",
+    "procurement_category": "SRV",
+    "short_summary": "historical",
+    "description": "The tender notices exhibited deviations from the overall quality, clarity, and coherence of the reports. They contained plagiarism, were incomplete, and substantial parts were cut-off on several occasions. It seemed some people may have executed several erroneous ",
+    "estimated_value": 16762616.82,
+    "date_posted": "2023-03-16",
+    "duration_in_months": ",",
+    "provinces": [
+        "Saskatchewan",
+        "Ontario",
+        "Quebec",
+        "British Columbia",
+        "Nova Scotia",
+        "Alberta",
+        "New Brunswick"
+    ],
+    "tags": [
+        " Tender Notice "
+    ]
+}

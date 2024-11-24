@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "Poster88",
+    "type": "add related document",
+    "department": "interior",
+    "procurement_category": "minor_bidding",
+    "short_summary": "related-contract",
+    "description": "To priorit in POSTER-topic",
+    "estimated_value": 13000,
+    "date_posted": "Apr 12 2020 ",
+    "duration_in_months": "4",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "cheaper",
+        "theaster "
+    ]
+}

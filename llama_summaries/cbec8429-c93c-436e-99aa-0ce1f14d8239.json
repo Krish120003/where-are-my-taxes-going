@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "4111",
+    "type": "Request for Standing Offer",
+    "department": "Department of Public Works and Government Services (PSPC)",
+    "procurement_category": "Goods",
+    "short_summary": "This Request for Standing Offers (RFSO) on behalf of the Canadian Coast Guard is a procurement of type-approved heading systems/equipment for Canadian government use. The procurement requests the provision of goods as and when required by departments of Fisheries and Oceans (DFO) from Time of need.",
+    "description": "The present request for standing offers specifies the shipping of \" navigational equipment and instruments\" items. the goods are to be delivered to BC, ONT, NS, NWT, QC, and NL.",
+    "estimated_value": 200000,
+    "date_posted": "2023-03-13",
+    "duration_in_months": "> 2 YEARS",
+    "provinces": [
+        "British Columbia",
+        "Ontario",
+        "Nova Scotia",
+        "New Brunswick",
+        "Newfoundland and Labrador"
+    ],
+    "tags": [
+        "Coastal Defence",
+        "GNB",
+        "Business",
+        "Sudbury",
+        "Commercial Goods"
+    ]
+}

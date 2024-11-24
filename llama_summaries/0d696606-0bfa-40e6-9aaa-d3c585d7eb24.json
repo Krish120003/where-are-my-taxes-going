@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "WS3881512545-Doc3950751914",
+    "type": "json",
+    "department": "public works",
+    "procurement_category": "INTSRV",
+    "short_summary": "vehicle body repair or painting service",
+    "description": "Regional Individual Standing Offer ...",
+    "estimated_value": 436,
+    "date_posted": "April 4, 2023",
+    "duration_in_months": ">= 30}",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "SRV",
+        "vehicle body repair",
+        "painting service",
+        "vehicle modifications"
+    ]
+}

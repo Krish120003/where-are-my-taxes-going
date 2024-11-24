@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "BPM020315",
+    "type": "Public Procurement",
+    "department": "Shared Services Canada",
+    "procurement_category": "Request for Proposal",
+    "short_summary": "Hardware Maintenance and Support Services for x86 Dell Products",
+    "description": "Hardware Maintenance and Support Services for x86 Dell Products",
+    "estimated_value": 432.0,
+    "date_posted": "2023-12-13",
+    "duration_in_months": ":Process needs to determine:",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Hardware Maintenance and Support Services",
+        "Dell",
+        "Shared Services Canada"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "M5000-23-1538/D",
+    "type": "Boat",
+    "department": "Law Enforcement",
+    "procurement_category": "Goods",
+    "short_summary": "Supply Boat with Outboard Motor, Sonar system and Trailer",
+    "description": "RFC using Competitive - Open Bidding procuces one boat including an outboard motor, sonar and trailer.",
+    "estimated_value": 10000,
+    "date_posted": "2023-03-10",
+    "duration_in_months": ",",
+    "provinces": [
+        "Saskatchewan"
+    ],
+    "tags": [
+        "Boat",
+        " RCMP",
+        "Purchase",
+        " Bid",
+        "Distribution",
+        "Supply",
+        "request for proposal",
+        "  LPC ",
+        "senior_pos"
+    ]
+}

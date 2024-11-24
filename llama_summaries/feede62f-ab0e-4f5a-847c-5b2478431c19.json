@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "5352cb-4715-96849569",
+    "type": "Request for Proposal",
+    "department": "Environment and Climate Change Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Field Support for Automated Radiosonde Observing System at Inukjuak Weather Station Inukjuak, Quebec",
+    "description": "The observations are taken by releasing a balloon with an attached instrument (radiosonde) which is tracked via electronic navigational methods and transmits meteorological data to the Canadian Meterological Center...",
+    "estimated_value": 12345,
+    "date_posted": "2023-04-13",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Environment and Climate Change Canada",
+        "Quebec",
+        "Meteorology"
+    ]
+}

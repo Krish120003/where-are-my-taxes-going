@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-22-01010595",
+    "type": "Contract",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "*GD",
+    "short_summary": "Request for Proposal - office furniture ",
+    "description": "Request for Bids to purchase office furniture to Ottawa, Ontario.",
+    "estimated_value": 1500000.0,
+    "date_posted": "2022-10-19",
+    "duration_in_months": "Weeks",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Procurement",
+        "SupplyChain",
+        "GoverningBody(SYSadmin)"
+    ]
+}

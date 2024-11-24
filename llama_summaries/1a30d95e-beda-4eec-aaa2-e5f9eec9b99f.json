@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-22-01005674",
+    "type": "bid",
+    "department": "Transportation",
+    "procurement_category": "SRV",
+    "short_summary": "Want research and development of a reconfigurable simulation system for truck. ",
+    "description": "The nootice description is too long",
+    "estimated_value": 100000.0,
+    "date_posted": "2022-08-10",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "truck",
+        "research",
+        "simulation"
+    ]
+}

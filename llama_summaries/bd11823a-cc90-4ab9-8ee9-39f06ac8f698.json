@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-23-01026035",
+    "type": "json",
+    "department": "Statistics Canada",
+    "procurement_category": "Services",
+    "short_summary": "Campus Zone: Annual",
+    "description": "The Campus Zone is a program that aims to provide employees with the chance to participate in a random sampling of sources of data Exchange of knowledge. This is so that they can impersonate the participation of different types of data exchange and learn about the process for influencing the decision-making process by representative survey. ",
+    "estimated_value": 2000,
+    "date_posted": "2019-10-12",
+    "duration_in_months": "24",
+    "provinces": [
+        "British Columbia",
+        "Alberta",
+        "Saskatchewan",
+        "Manitoba",
+        "Ontario"
+    ],
+    "tags": []
+}

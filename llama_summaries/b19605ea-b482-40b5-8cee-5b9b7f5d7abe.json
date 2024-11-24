@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "Asbed3FSmaing",
+    "type": "LS (Lighting System)",
+    "department": "PWGSC",
+    "procurement_category": "CNST",
+    "short_summary": "LED lighting fixtures",
+    "description": "Installation of light fixtures at Beaver Creek Institution",
+    "estimated_value": 300000,
+    "date_posted": "12/22/2022",
+    "duration_in_months": "4",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "lighting"
+    ]
+}

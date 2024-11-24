@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "389825",
+    "type": "CONTRACT",
+    "department": "Department of Public Works and Government Services (PSPC)",
+    "procurement_category": "*GD",
+    "short_summary": "Acquisition of various air filters",
+    "description": "A request for standing offer for the acquisition of air filters. If you're reading this, congratulations! You're interested in getting your hands on some top-notch air filters. But first, here's a brief summary: ",
+    "estimated_value": 600000.0,
+    "date_posted": "2023-03-14",
+    "duration_in_months": "12",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "air-filters",
+        "standing-offer",
+        "rfx",
+        "minor-bid"
+    ]
+}

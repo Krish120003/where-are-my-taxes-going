@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "WS3612679997-Doc3686311786",
+    "type": "supply_and_delivery",
+    "department": "department_of_public_works_and_government_services_pspc",
+    "procurement_category": "goods_and_services",
+    "short_summary": "Liquid Nitrogen and Bulk Tank",
+    "description": " Public Health Agency of Canada (PHAC) has a requirement for a supply of on-site bulk liquid nitrogen storage to provide CSCHAH with sufficient liquid nitrogen on and as and when requested basis, to meet their current and future operational requirements at their facility.",
+    "estimated_value": 1000000.0,
+    "date_posted": "2022-09-28",
+    "duration_in_months": "> 4 years",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "liquid",
+        "bulk",
+        "nitrogen",
+        "tanks",
+        "services"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "SSC-23-00013134",
+    "type": "string",
+    "department": "informationtechnology/auction/procurement",
+    "procurement_category": "CNST",
+    "short_summary": "To test the express publishing functionality for both tenders and awards. It will also test the funcionality of unpublishing of an active tender and subsequent reapproval by a PA.",
+    "description": "Tender to test the express-publishing functionality for both tenders and awards. It will also test the functionality of the tender-unpublishing and subsequent reapproval by a PA.",
+    "estimated_value": 120000,
+    "date_posted": "2023-04-24",
+    "duration_in_months": "Not Applicable",
+    "provinces": [
+        "New Brunswick"
+    ],
+    "tags": [
+        "SSC UAT Test Tender - Express, Unpublish @ Awarded 000"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "WS3663128550.Doc3835260862",
+    "type": "RFSO",
+    "department": "Department of Public Works and Government Services (PSPC)",
+    "procurement_category": "General Delivery",
+    "short_summary": "Supply and delivery of potato chips on an as and when requested basis",
+    "description": "THe systemtenderDescription-field of the output json contain the output of the tender description ",
+    "estimated_value": 431400.0,
+    "date_posted": "2023-02-23",
+    "duration_in_months": "description: CAM deleted the duraion field ",
+    "provinces": [
+        "Saskatchewan"
+    ],
+    "tags": [
+        "Agricultural Supplies",
+        "Snacks"
+    ]
+}

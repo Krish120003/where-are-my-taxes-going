@@ -1,0 +1,27 @@
+{
+    "CONTRACT_ID": "pw-22-01018258",
+    "type": "json",
+    "department": "Correctional Service of Canada",
+    "procurement_category": "SRV",
+    "short_summary": "The correctional service of Canada requires service from a Reporting Centre.",
+    "description": "The Correctional Service Canada requires service  to provide Rehabilitative Centre.",
+    "estimated_value": 259,
+    "date_posted": "2022-12-21",
+    "duration_in_months": ".",
+    "provinces": [
+        "Ontario",
+        "Nunavut"
+    ],
+    "tags": [
+        "reporting",
+        "centre",
+        "rehabilitation",
+        "correctional services",
+        "Federal",
+        "Government",
+        "Africa",
+        "Ontario",
+        "Kingston",
+        "Ca"
+    ]
+}

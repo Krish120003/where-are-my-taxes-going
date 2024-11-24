@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "2893",
+    "type": "maintain_road_and_supply_potable_water",
+    "department": "public_works_and_government_services",
+    "procurement_category": "SRV",
+    "short_summary": "Some update message is here, containing AN_EXISTING MessSAGE.",
+    "description": "Some description...",
+    "estimated_value": 10000,
+    "date_posted": "}{ ",
+    "duration_in_months": "After 1.5years !",
+    "provinces": [
+        "British Columbia",
+        "New Brunswick"
+    ],
+    "tags": [
+        "negotiation",
+        "import",
+        "financial"
+    ]
+}

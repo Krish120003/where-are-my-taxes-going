@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "> WS3785747079 - Doc 3861176189",
+    "type": "JSON",
+    "department": "Public work and Government services",
+    "procurement_category": "Goods and services",
+    "short_summary": "five scanners were requested.",
+    "description": "This is a government requiement, the Goverement wishes to acquire five scanners For the use of Secteraties and the Canadian Bureaucracy, which are already available within the Government square in Ottawa.",
+    "estimated_value": 2500.0,
+    "date_posted": "28/04/2023",
+    "duration_in_months": ".false",
+    "provinces": [
+        "Quebec",
+        "Manitoba"
+    ],
+    "tags": [
+        "Canada"
+    ]
+}

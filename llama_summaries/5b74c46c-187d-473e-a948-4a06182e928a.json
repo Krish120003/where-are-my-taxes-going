@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-22-01008760",
+    "type": "",
+    "department": "",
+    "procurement_category": "",
+    "short_summary": "test",
+    "description": "This contract is awarded for <presentation>, <number > <description>.",
+    "estimated_value": 100000.0,
+    "date_posted": "2022-09-29",
+    "duration_in_months": "fifteen",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Quebec",
+        "grinders"
+    ]
+}

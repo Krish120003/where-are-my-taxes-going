@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "3779",
+    "type": "major",
+    "department": "defence",
+    "procurement_category": "contract_technical_data",
+    "short_summary": "multiple victoria class spares",
+    "description": "there is a requirement for victoria class spares at cfb esquimalt and cfb halifax",
+    "estimated_value": 8196,
+    "date_posted": "2023-02-22",
+    "duration_in_months": "0",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "controlled_goods",
+        "trade_agreement",
+        "major_contract",
+        "victoria_class_spares"
+    ]
+}

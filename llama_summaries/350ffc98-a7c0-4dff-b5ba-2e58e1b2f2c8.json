@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "WS3910412840",
+    "type": "JSON",
+    "department": "Health",
+    "procurement_category": "SRV",
+    "short_summary": "Request for Information for services to be used by the Ministere de la Sante (SC) to administer a future Statement of Work and seek information to inform the development of the Statement of Work. This will help gather information needed to define requirements for a more comprehensive solution. ",
+    "description": "request for information on Federated Health Data Marshaling Service Like CRM...",
+    "estimated_value": 0,
+    "date_posted": "2023-03-30",
+    "duration_in_months": ",",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "healthcare",
+        "services",
+        "request-for-information"
+    ]
+}

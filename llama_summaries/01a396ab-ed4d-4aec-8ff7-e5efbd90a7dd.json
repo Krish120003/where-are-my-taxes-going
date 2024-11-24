@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "W8476-236661/A",
+    "type": "objects",
+    "department": "Department of National Defence",
+    "procurement_category": "Goods",
+    "short_summary": "The Department of National Defence has a requirement for the supply of Qty four (4), Enclosed Cargo Trailer and related items.",
+    "description": "Supply of Enclosed Cargo Trailer and related items",
+    "estimated_value": 1000,
+    "date_posted": "2022-11-17",
+    "duration_in_months": ".125",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "gsin_type",
+        "gsin_description",
+        "Purchasing",
+        "Buy and Sell",
+        "Government of Canada,sUpplies ,"
+    ]
+}

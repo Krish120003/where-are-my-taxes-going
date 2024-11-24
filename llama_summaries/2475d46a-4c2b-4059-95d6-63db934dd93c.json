@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "SSC-23-00022890:T",
+    "type": "purchase",
+    "department": "Shared Services Canada",
+    "procurement_category": "Goods and Services",
+    "short_summary": "Request for Proposal for a Robotic Process Automation Solution",
+    "description": "This solicitation is seeking a Robotic Process Automation Solution for SSC's Chief Information Office - Center of Expertise.",
+    "estimated_value": 70000000,
+    "date_posted": "2023-06-22",
+    "duration_in_months": "NaN",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Goods and Services",
+        "Information Technology",
+        "Robotics"
+    ]
+}

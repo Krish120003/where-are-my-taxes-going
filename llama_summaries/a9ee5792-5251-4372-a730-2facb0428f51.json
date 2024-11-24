@@ -1,0 +1,26 @@
+{
+    "CONTRACT_ID": "W8482-230469/B",
+    "type": "Contract ID",
+    "department": "Department of National Defence",
+    "procurement_category": "Goods",
+    "short_summary": "Parts kit, check valve and globe valve",
+    "description": "The Department of National Defence has a requirement for the items detailed below",
+    "estimated_value": 800.0,
+    "date_posted": "2022-08-24",
+    "duration_in_months": "2",
+    "provinces": [
+        "Nova Scotia",
+        "British Columbia"
+    ],
+    "tags": [
+        "Canada-Korea Free Trade Agreement (CKFTA)",
+        "Canada-Chile Free Trade Agreement (CCFTA)",
+        "Canada-EU Comprehensive Economic and Trade Agreement (CETA)",
+        "Canada-Honduras Free Trade Agreement",
+        "Canadian Free Trade Agreement (CFTA)",
+        "Canada-Colombia Free Trade Agreement",
+        "Canada-Panama Free Trade Agreement",
+        "Canada-Peru Free Trade Agreement",
+        "World Trade Organization Agreement on Government Procurement (WTO GPA)"
+    ]
+}

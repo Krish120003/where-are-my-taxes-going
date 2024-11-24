@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "647",
+    "type": "contract",
+    "department": "Affairs",
+    "procurement_category": "Supply",
+    "short_summary": "This request for contract aims to ______",
+    "description": "Description here",
+    "estimated_value": 100,
+    "date_posted": "2024-02-04",
+    "duration_in_months": ".",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "IT",
+        "purchase",
+        " Laptronix",
+        " offices",
+        " cabinets",
+        "USA "
+    ]
+}

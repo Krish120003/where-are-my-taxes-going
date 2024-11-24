@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-22-01007730",
+    "type": "TIMESTAMP",
+    "department": "Industrial",
+    "procurement_category": "SRV",
+    "short_summary": "Application Software Architect",
+    "description": "Please see attached.",
+    "estimated_value": 100,
+    "date_posted": "2022-09-21",
+    "duration_in_months": "x",
+    "provinces": [
+        "Ontario",
+        "Alberta"
+    ],
+    "tags": [
+        "sop",
+        "FOR",
+        "srvc",
+        "it"
+    ]
+}

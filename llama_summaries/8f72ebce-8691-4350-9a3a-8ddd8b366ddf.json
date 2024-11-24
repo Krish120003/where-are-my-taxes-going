@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "cb-4577-87855308",
+    "type": "SRV",
+    "department": "Transport Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Supply chain analysis of Class 1 explosives in Canada.",
+    "description": "......",
+    "estimated_value": 0.0,
+    "date_posted": "2023-04-04",
+    "duration_in_months": "1 month",
+    "provinces": [],
+    "tags": [
+        "Canada",
+        "Class 1 explosives",
+        "supply chain analysis",
+        "Transport Canada",
+        "Explosives Response",
+        "Security Requirement"
+    ]
+}

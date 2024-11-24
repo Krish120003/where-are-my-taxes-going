@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "WP-22-01005920",
+    "type": "contract",
+    "department": "energy",
+    "procurement_category": "SRV",
+    "short_summary": "reliability assessment of passive safety systems",
+    "description": " Establish a research project that would systematically analyze available and widely used methodologies and strategies proposed to model the reliability of passive safety systems, focusing on its applications for Advanced Reactor Technologies.",
+    "estimated_value": 9120,
+    "date_posted": "2022-08-31",
+    "duration_in_months": "/>-1",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Reliability",
+        "Passive safety systems",
+        "Advanced Reactor Technologies",
+        "expiration_date",
+        "2022-09-29T14:00:00",
+        "contracting_entity_name",
+        "Canadian Nuclear Safety Commission",
+        "locations",
+        "National Capital Region (NCR)"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "CONTRACT_ID": "713",
+    "type": "contract",
+    "department": "DFNDB",
+    "procurement_category": "*GD",
+    "short_summary": "Radio Droppper System",
+    "description": "The Department of National Defence has a requirement for the items detailed below.",
+    "estimated_value": 120000,
+    "date_posted": "2022-10-21",
+    "duration_in_months": "Not specified",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Supply Chain",
+        "Carbon Neutral",
+        "Sustainable Procurement",
+        "National Defense",
+        "Parachutes",
+        "Aerial Pick-up Delivery, Recovery Systems, and Cargo Tie-down Equipment",
+        "Radio Dropper System",
+        "Minister of National Defense",
+        "Government of Canada"
+    ]
+}

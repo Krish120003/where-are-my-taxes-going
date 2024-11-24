@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "LISTED_HERE",
+    "type": "*CNST",
+    "department": "{LIST MINISTR POST WORK PW] GOVERNMENT AND (PUBLIC)",
+    "procurement_category": "concurrentielle - invitation ouvert a soumissionner",
+    "short_summary": "{}Summary for contract {}.",
+    "description": "{}Detailed Summary for contract {}.",
+    "estimated_value": 45323.0,
+    "date_posted": "People will work together with the CONCLUSIONto design and develop more new Parks partnership.",
+    "duration_in_months": "default construction is 5 months",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "construction",
+        "engineering",
+        "architecture",
+        "government.project"
+    ]
+}

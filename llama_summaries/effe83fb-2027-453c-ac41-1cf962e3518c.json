@@ -1,0 +1,13 @@
+{
+    "CONTRACT_ID": "But I don\u2019t see a contract ID in the provided data. It seems that the CONTRACT_ID is missing in the data, which is the most important detail to extract from a contract. I see that the referenceNumber-numeroReference is PW-22-01019115, which is likely not the contract ID. Can you tell me how to extract the  contract ID from this information?",
+    "type": "Renovation of Residential Building for the Embassy of Canada to the Netherlands",
+    "department": "Foreign Affairs, Trade And Development (Department Of)",
+    "procurement_category": "Construction Services, Not Elsewhere Specified",
+    "short_summary": "THE CONTRACT ID IS: PW-22-01019115; Renovation of Residential Building for the Embassy of Canada to the Netherlands",
+    "description": "Estimated quantity of commodity:1Duration of contract:\\u00a0 \\\\\\",
+    "estimated_value": 0,
+    "date_posted": "2022-12-30, 2023-01-18 (Two dates), 2023-01-23T14:00:00,2022-12-30",
+    "duration_in_months": "><?xml:namespace prefix=",
+    "provinces": [],
+    "tags": []
+}

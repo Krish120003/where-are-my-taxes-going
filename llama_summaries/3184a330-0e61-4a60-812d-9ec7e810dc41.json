@@ -1,0 +1,15 @@
+{
+    "CONTRACT_ID": "1220",
+    "type": "json",
+    "department": "",
+    "procurement_category": "same",
+    "short_summary": "{",
+    "description": "same",
+    "estimated_value": 10,
+    "date_posted": "same",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": []
+}

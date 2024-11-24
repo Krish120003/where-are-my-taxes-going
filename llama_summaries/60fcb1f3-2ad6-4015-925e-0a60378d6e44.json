@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "1008",
+    "type": "Tender",
+    "department": "Agriculture",
+    "procurement_category": "Goods",
+    "short_summary": "The Agriculture Department needs Reverse Vertical Laminar Flow  Cabinet.",
+    "description": "THIS REQUEST IS RESERVED FOR HOLDERS OF SUPPLY ARRANGEMENT #  E60PV-19EQUIONLY, FOR THE PURCHASE OF LABORATORY AND SCIENTIFIC EQUIPMENT, PARTS AND ACCESSORIES, SERVICES AND SUPPLIES",
+    "estimated_value": 1000.0,
+    "date_posted": "2022-11-16",
+    "duration_in_months": "d\u00e9termin\u00e9 publiquement sur le site de ventilation des biens du gouvernement",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "supply_arrangement",
+        "equipment",
+        "laboratory_equeipment"
+    ]
+}

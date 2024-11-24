@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "PW-23-01028234",
+    "type": "Advance Contract Award Notice",
+    "department": "Natural Resources Canada",
+    "procurement_category": "*GD",
+    "short_summary": " This contract is to demonstrate the production of alloys from scandium oxide throughout six tasks including characterization of the Sc-Oxide to Al-Sc process at the industrial scale. Through this process, several alternatives will be examined to determine the costs of production at the industrial scale and compare them with traditional production methods ",
+    "description": "The objective of this work is to demonstrate that Direct Alloy Production from Scandium Oxide produces an alloy that compares well with Al-Sc alloy produced through the traditional process of Sc oxide to Al-Sc master alloy to Al-Sc alloy, but with cost saving. The Sc-Oxide to Al-Sc process still needs to be developed, with the contractor retaining all intellectual property",
+    "estimated_value": 305000.0,
+    "date_posted": "2023-03-01",
+    "duration_in_months": "2",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Alloys"
+    ]
+}

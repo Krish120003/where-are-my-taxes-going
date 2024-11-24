@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "2466",
+    "type": "contract",
+    "department": "Justice",
+    "procurement_category": "Services",
+    "short_summary": "Teaching and educational research service",
+    "description": "Provide education and training services as per the provided documents.",
+    "estimated_value": 2000000,
+    "date_posted": "One month ago",
+    "duration_in_months": "After 3 months",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "lack",
+        "finalrecomm",
+        "onlinecours"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "625{ ",
+    "type": "json",
+    "department": "IT",
+    "procurement_category": "SRVTGD",
+    "short_summary": "BPM020322 Eaton UPS Maintenance and Support",
+    "description": "This is a re-solicitation of BPM020322 to allow vendors to correct pricing due to updated coverage.",
+    "estimated_value": 100,
+    "date_posted": "2024-02-19",
+    "duration_in_months": "> I do not have the immediate ability to put this into a JSON format with the fields I requested, Google colab would not execute as expected due to context of multiple inputs I gave. Requesting further time to rework to ensure desired JSON format since requirements aren't in a one-liner summary as desired, Google Colab necessarily needs homogeneous inputs to execute/know. Finally, keep in mind aswell I need to use what's proilferally known as KEPLER , to produce .csv first before turning into json. Or First its json. Primarily the data seems perfect and will work with a virtual data cleaner and prof   after.Preview suitable  in then isolating fields using KEPLER ||=ARE athletes:",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "gavin steen",
+        "Admi",
+        "aintenance and support"
+    ]
+}

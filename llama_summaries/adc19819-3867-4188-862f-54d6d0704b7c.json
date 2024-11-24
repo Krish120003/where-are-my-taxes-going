@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "3048",
+    "type": "json",
+    "department": "Public Works and Government Services (PSPC)",
+    "procurement_category": "Service and Repair *categorical*",
+    "short_summary": "A Request for Standing Offer (RISO) for Service and Repair of Closed Circuit Television (CCTV) Systems.",
+    "description": "This tender features a Request for Standing Offer for the service and repair of Closed Circuit Television (CCTV) systems in \\",
+    "estimated_value": 202800,
+    "date_posted": "2022-11-29",
+    "duration_in_months": "> 30 months",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "Service",
+        "Repair",
+        "Closed Circuit Television",
+        "CCTV Systems",
+        "security",
+        " Engineering ",
+        "Service and Repair *categorical*"
+    ]
+}

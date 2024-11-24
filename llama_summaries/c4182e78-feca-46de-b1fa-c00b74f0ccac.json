@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "3277",
+    "type": "json",
+    "department": "transtraction-is",
+    "procurement_category": "supplies",
+    "short_summary": "office furniture",
+    "description": "furniture and fixture",
+    "estimated_value": 174944.4,
+    "date_posted": "2022-10-05",
+    "duration_in_months": "15",
+    "provinces": [
+        "Ontario",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "Office Space",
+        "Ready for occupied",
+        "Kitchen lined Microwave",
+        "Printing Copy Machine"
+    ]
+}

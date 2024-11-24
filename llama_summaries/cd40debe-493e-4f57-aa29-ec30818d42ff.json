@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "SSC-24-00027160:T",
+    "type": "RFP",
+    "department": "Defense",
+    "procurement_category": "*GD",
+    "short_summary": "Rack mount UPS for the Department of National Defence",
+    "description": "Common description for output below",
+    "estimated_value": 30000,
+    "date_posted": "2024-08-01",
+    "duration_in_months": ":",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "mandatory",
+        "request for proposal",
+        "Ontario",
+        "procurement-catgory *GD"
+    ]
+}

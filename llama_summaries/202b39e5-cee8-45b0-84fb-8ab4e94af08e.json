@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-23-01028236",
+    "type": "INSTRUCTION",
+    "department": "EDUCATION",
+    "procurement_category": "SERVICE",
+    "short_summary": "There is no summery about this contract, it has been cancelled.",
+    "description": "This is meta data of a procurement  notice on the public tendering website",
+    "estimated_value": 0.0,
+    "date_posted": "2023-03-01",
+    "duration_in_months": "While contract duration in months in not known, it still needs to be set.",
+    "provinces": [
+        "Saskatchewan"
+    ],
+    "tags": [
+        "educational_services",
+        "cancelled"
+    ]
+}

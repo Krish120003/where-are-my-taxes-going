@@ -1,0 +1,32 @@
+{
+    "CONTRACT_ID": "21064",
+    "type": "JSON",
+    "department": "House of Commons",
+    "procurement_category": "SRV",
+    "short_summary": "The Government of Canada is undertaking a purchasing process for a contract related to the purchase of a proposal submission service for the purchase of a proposal submission service.",
+    "description": "The client seeks a partner to purchase a proposal submission service. NOTE: This is a public buying process that is not a contract submission platform.",
+    "estimated_value": 1500.0,
+    "date_posted": "2006-01-23",
+    "duration_in_months": ",",
+    "provinces": [
+        "Alberta",
+        "British Columbia",
+        "Manitoba",
+        "New Brunswick",
+        "Newfoundland and Labrador",
+        "Northwest Territories",
+        "Nova Scotia",
+        "Nunavut",
+        "Ontario",
+        "Prince Edward Island",
+        "Quebec",
+        "Saskatchewan",
+        "Yukon",
+        "Ontario"
+    ],
+    "tags": [
+        "Opposition",
+        "House of Commons",
+        "Procurement"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "W8486-228177/A",
+    "type": "Tender",
+    "department": "NATIONAL DEFENSE DEPARTMENT",
+    "procurement_category": "SRVTGD",
+    "short_summary": "DC Reference Standards.",
+    "description": "The Department of National Defence has a requirement for the items detailed below.",
+    "estimated_value": 20000.0,
+    "date_posted": "2022-08-19",
+    "duration_in_months": "testing",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Electrical"
+    ]
+}

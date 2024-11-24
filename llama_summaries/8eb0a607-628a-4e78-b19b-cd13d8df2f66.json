@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "4206",
+    "type": "offer",
+    "department": "Transportation",
+    "procurement_category": "services",
+    "short_summary": "Canadian Government seeks Proposals from suppliers for a vendor-modified service request.",
+    "description": "Initiates and manages inland waterway transportation projects. Procedures that govern how the division manages inland waterway transportation projects, including how it manages case records and administers payment procedures. Development of CO documents and the use of DE are totally reliant on the MS Access database application. This functionality will allow users to either accept or reject the changes associated with the offer. This functionality will prevent users from accidentally regressing work to prior status, thereby saving them time and the potential for data loss.",
+    "estimated_value": 128380660.0,
+    "date_posted": "They asked us to write this up in a clear and concise way, to cover all the data points and make it easy to understand.",
+    "duration_in_months": "minimum of 12 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "transportation",
+        "vendor-modified service request",
+        "Transportation and Infrastructure"
+    ]
+}

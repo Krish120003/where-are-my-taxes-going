@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-22-01017232",
+    "type": "json",
+    "department": "Defence Construcion Canada",
+    "procurement_category": "Contract",
+    "short_summary": "Elevator Inspection, Testing, and Maintenance, CFB Halifax, NS & CFS",
+    "description": "The work includes, but is not limited to, the supply of labour, material, supervision and equipment necessary for elevator inspection, testing, and maintenance, CFB Halifax, NS & CFS St. John's, NL",
+    "estimated_value": 2188991.1,
+    "date_posted": "2022-12-14",
+    "duration_in_months": ">= 2 years",
+    "provinces": [
+        "Nova Scotia"
+    ],
+    "tags": [
+        "construction",
+        "elevator",
+        "maintenance",
+        "inspection",
+        "testing"
+    ]
+}

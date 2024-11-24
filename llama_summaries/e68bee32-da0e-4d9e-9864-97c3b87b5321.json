@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": ":",
+    "type": "contract",
+    "department": "Transport Australia",
+    "procurement_category": "construction",
+    "short_summary": "construction of containment cells at skinner ",
+    "description": " construction of containment cell area and construction of a new access road at Melville for Skinner /  s Cove SCH, Pictou County, Nova Scotia.",
+    "estimated_value": 30000.0,
+    "date_posted": "2022-10-20",
+    "duration_in_months": ",",
+    "provinces": [
+        "Nova Scotia"
+    ],
+    "tags": [
+        "Transport Infrastructure",
+        "construction"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "Some_value",
+    "type": "string",
+    "department": "Fisheries and Oceans Canada",
+    "procurement_category": "*SRVTGD",
+    "short_summary": "Placing, lifting / removal, maintaining and the servicing of Buoys in the province of Nova Scotia",
+    "description": "",
+    "estimated_value": 50000.0,
+    "date_posted": "Tuesday, March 7, 2023",
+    "duration_in_months": ",",
+    "provinces": [
+        "Nova Scotia"
+    ],
+    "tags": [
+        "Maintenance",
+        "repairing",
+        "modifying",
+        "building",
+        "removing buoys",
+        "installationEquipment related to Ships",
+        "English",
+        "French"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "w8482-230334/B",
+    "type": "Contract",
+    "department": "Department of National Defence",
+    "procurement_category": "Goods [GD]",
+    "short_summary": "NOTICE OF PROPOSED PROCUREMENTThe Department of National Defence has a requirement for the items detailed below.There are 12 items in the contract. The delivery is requested at CFB Halifax, Nova Scotia and CFB Esquimalt, British Columbia.",
+    "description": "CLAPET DE NON-RETOUR",
+    "estimated_value": 1000.0,
+    "date_posted": "2022-10-20",
+    "duration_in_months": "No duration specified",
+    "provinces": [
+        "Nova Scotia",
+        "British Columbia"
+    ],
+    "tags": [
+        "VALVES",
+        "ROBINETS",
+        "OS PUTAPES"
+    ]
+}

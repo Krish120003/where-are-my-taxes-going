@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "809",
+    "type": "contract",
+    "department": "Health",
+    "procurement_category": "public",
+    "short_summary": "A contract for purchase of fibre rope generically known as a fibre rope assy",
+    "description": "Please go to the following notice URL where detailed notice of information is present",
+    "estimated_value": 3000,
+    "date_posted": "2023-01-05",
+    "duration_in_months": ":[{",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "health",
+        "fibres_rope"
+    ]
+}

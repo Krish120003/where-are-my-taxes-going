@@ -1,0 +1,26 @@
+{
+    "CONTRACT_ID": "5008",
+    "type": "tractorRental",
+    "department": "publicWorks",
+    "procurement_category": "equipment rental or leasing service",
+    "short_summary": "Agricultural Tractors and Construction Equipment Rental or Leasing Service",
+    "description": "The department of national defence requires an agricultural tractor for grass cutting",
+    "estimated_value": 500000,
+    "date_posted": "2023-03-29",
+    "duration_in_months": "certain",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "artillery",
+        "Canadian National Defence",
+        "defence procurement",
+        "defence tender",
+        "equipment rental or leasing service",
+        "farm equipment",
+        "military surplus",
+        "national defence procurement",
+        "surplus military equipment",
+        "tractor rental"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-23-01030078",
+    "type": "REQUEST FOR PROPOSAL",
+    "department": "Public works and Government Services Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Automated tool to aid in identifying, addressing, and complying with accessibility issues within common document types.",
+    "description": "The use of our proposed automated tool will help the department increase accuracy and efficiency in aligning with the Treasury Board Secretariat's Accessibility Strategy for the public service of Canada where common document types can be identified, addressed and complied with accessibility issues.",
+    "estimated_value": 150000,
+    "date_posted": "2023-04-18",
+    "duration_in_months": "> 6 months",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Computer science (R&D)",
+        "System design, development and testing: science and technology related (R&D) "
+    ]
+}

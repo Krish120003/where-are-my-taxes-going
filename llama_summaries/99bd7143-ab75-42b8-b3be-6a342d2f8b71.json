@@ -1,0 +1,29 @@
+{
+    "CONTRACT_ID": "W8486-195218/B",
+    "type": "Request for Proposal",
+    "department": "Department of National Defence",
+    "procurement_category": "Goods",
+    "short_summary": "Fourier Transform Infrared (FTIR) Spectrometer based Aviator's Breathing Oxygen Test Systems",
+    "description": "The Department of National Defence has a requirement for items detailed in the attached RFP. Estimated quantity of commodity: Please see the request for proposal",
+    "estimated_value": 7,
+    "date_posted": "2023-01-16",
+    "duration_in_months": ".description=102",
+    "provinces": [
+        "Quebec",
+        "Ontario",
+        "British Columbia",
+        "Alberta"
+    ],
+    "tags": [
+        "Canada-Chile Free Trade Agreement (CCFTA)",
+        "Canada-Ukraine Free Trade Agreement (CUFTA)",
+        "Canada-UK Trade Continuity Agreement (Canada-UK TCA)",
+        "Canada-Peru Free Trade Agreement (CPFTA)",
+        "Canada-Honduras Free Trade Agreement",
+        "World Trade Organization Agreement on Government Procurement (WTO GPA)",
+        "Canadian Free Trade Agreement (CFTA)",
+        "Canada-European Union Comprehensive Economic and Trade Agreement (CETA)",
+        "Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)",
+        "Canada-Colombia Free Trade Agreement"
+    ]
+}

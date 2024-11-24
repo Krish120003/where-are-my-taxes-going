@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "220815115",
+    "type": "json",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "SRV",
+    "short_summary": "RISO - Environmental site investigation services and Toxicological and ecotoxicological risk analyses",
+    "description": "Trade Agreement: CETA/WTO-AGP/CPTPP/CFTA/FTAs with Peru/Colombia/Panama/Korea/UK",
+    "estimated_value": 5000000,
+    "date_posted": "2022-08-15",
+    "duration_in_months": ";{  'scanned_scope': true, 'writer_info': {'mode': 'verify_category', 'division': 'department', 'level': 'sub_convert'}, 'concept': 'Knowledge Retriever', 'date_available': '2022-09-28', 'data': 'Public Works and Government Services Canada', 'extra': 'DoD ConCat server', 'author': 'ISTO\\'",
+    "provinces": [
+        "Quebec",
+        "Ontario",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "environment",
+        "research",
+        "analysis",
+        "expert"
+    ]
+}

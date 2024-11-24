@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "PW-22-01014001",
+    "type": "stand-up forklift request",
+    "department": "Agriculture",
+    "procurement_category": "General delivery",
+    "short_summary": "a request for an elettric forklift truck for the department of agticulture.",
+    "description": "description of the prodect that will be sourced through this procurement process",
+    "estimated_value": 50000,
+    "date_posted": "2022-11-18",
+    "duration_in_months": "Oh and other various feilds that are cleary desplayed underneath item",
+    "provinces": [
+        "Ontario",
+        "Manitoba"
+    ],
+    "tags": [
+        "req_equip",
+        "furniture",
+        "",
+        "furniture",
+        "bid_plan",
+        "furniture"
+    ]
+}

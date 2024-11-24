@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "2842",
+    "type": "json",
+    "department": "the-department",
+    "procurement_category": "GD",
+    "short_summary": "some words",
+    "description": "long description here that was found following the words summary description is:",
+    "estimated_value": 1000.0,
+    "date_posted": "2021-01-01",
+    "duration_in_months": "some months of fraud",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "fraud",
+        "procurement"
+    ]
+}

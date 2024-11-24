@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "5058",
+    "type": "JSON object in ASCII",
+    "department": "Miti",
+    "procurement_category": "Srv",
+    "short_summary": "Identification of Access to Information",
+    "description": "see the procurement documents and the term of reference of the call for tenders...",
+    "estimated_value": 715,
+    "date_posted": "2023-03-10",
+    "duration_in_months": "description",
+    "provinces": [
+        "New Brunswick",
+        "Nova Scotia",
+        "Ontario"
+    ],
+    "tags": [
+        "Access to information",
+        " privacy",
+        " transparency",
+        " Canada",
+        " Friends of the CBC Cobourg"
+    ]
+}

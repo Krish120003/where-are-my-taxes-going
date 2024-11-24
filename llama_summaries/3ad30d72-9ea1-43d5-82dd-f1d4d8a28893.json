@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "SSC-22-00021015:T",
+    "type": "hitachi",
+    "department": "A",
+    "procurement_category": "*",
+    "short_summary": "department of national security",
+    "description": " this is a procurement notice ",
+    "estimated_value": 1000000,
+    "date_posted": "6 December 2022",
+    "duration_in_months": "With commercial bid submission date: December 20, 2022 @ 2:00 PM Eastern Standard Time (EST),",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "optimization",
+        "acquisition",
+        "mat"
+    ]
+}

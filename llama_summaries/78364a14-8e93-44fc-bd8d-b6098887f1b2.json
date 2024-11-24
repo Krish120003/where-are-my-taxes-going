@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "w8482-230874",
+    "type": "RFP",
+    "department": "Department of National Defence",
+    "procurement_category": "Goods",
+    "short_summary": "Multiple spares of various military mechanical equipment.",
+    "description": "-",
+    "estimated_value": 100000,
+    "date_posted": "12/22/2022",
+    "duration_in_months": "Some months",
+    "provinces": [
+        "British Columbia",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "governement procurement",
+        "military equipment",
+        "Victoria-class vessels"
+    ]
+}

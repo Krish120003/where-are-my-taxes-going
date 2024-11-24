@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "1947",
+    "type": "Contract",
+    "department": "Transportation and Infrastructure",
+    "procurement_category": "Construction",
+    "short_summary": "Construction of new Transportation Location on Airport Property",
+    "description": "Construction of a new Transportation Location on Airport Property",
+    "estimated_value": 0,
+    "date_posted": "2022-09-13",
+    "duration_in_months": "This project is expected to last for a period of approximately 12 months",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Transportation and Infrastructure",
+        "Privatization",
+        "RFP",
+        "F Logistics Management"
+    ]
+}

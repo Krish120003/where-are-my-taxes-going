@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "5380",
+    "type": "Contract Name",
+    "department": "Department of Public Works and Government Services (PSPC)",
+    "procurement_category": "SRV",
+    "short_summary": "HEATING AND COOLING CONSTRUCTION AND MAINTENANCE SERVICES",
+    "description": "CMED AND DETRENTON EQUIPMENT QUALIFICATION AND CALIBRATION WITH FREEZERS AND REFRIGERATORS",
+    "estimated_value": 20000,
+    "date_posted": "April 21, 2023",
+    "duration_in_months": "66",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Heating",
+        "Cooling",
+        "maintenance",
+        "CMED",
+        "Equipment",
+        "Qualification",
+        "Calibration",
+        "FWZHMCO712790"
+    ]
+}

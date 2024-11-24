@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "1030",
+    "type": "contract id possible json format",
+    "department": "name of department",
+    "procurement_category": "type/procemen/procourt",
+    "short_summary": "data small resume NOte",
+    "description": "detail contrat description",
+    "estimated_value": 0.0,
+    "date_posted": "_date  posted str",
+    "duration_in_months": "x",
+    "provinces": [
+        "Ontario",
+        "Alberta"
+    ],
+    "tags": [
+        " Not applicable",
+        "Note#here_1",
+        "here#2"
+    ]
+}

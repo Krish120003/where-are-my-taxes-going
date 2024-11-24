@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "aivcabmmxwa",
+    "type": "Purchase Order",
+    "department": "hilocorp",
+    "procurement_category": "Goods",
+    "short_summary": "Synology and Seagate hardware products",
+    "description": "Shared Services Canada has a purchase order requirement for Synology and Seagate hardware products 1. Security requirement . 2. Trade Agreements. 3. Final closing date for submission of proposal.",
+    "estimated_value": 23495.0,
+    "date_posted": "2023-02-02",
+    "duration_in_months": "text not available",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Purchase Order",
+        "Goods",
+        "Supply Agreement",
+        "Hilocorp",
+        "Canada"
+    ]
+}

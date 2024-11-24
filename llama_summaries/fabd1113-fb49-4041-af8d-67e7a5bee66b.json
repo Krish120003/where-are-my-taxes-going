@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "SSC-22-00019942:T",
+    "type": "FH",
+    "department": "MINDEF",
+    "procurement_category": "*GD",
+    "short_summary": "CBS: Cisco (or equivalent) for DND",
+    "description": "",
+    "estimated_value": 5000000,
+    "date_posted": "2022-08-23",
+    "duration_in_months": "is between Jan 2024 and Dec 2024",
+    "provinces": [
+        "Quebec",
+        "Nova Scotia",
+        "New Brunswick",
+        "Newfoundland and Labrador",
+        "Prince Edward Island",
+        "Ontario",
+        "Manitoba",
+        "British Columbia",
+        "Alberta"
+    ],
+    "tags": [
+        "Technical programme manag,"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "MyID_2",
+    "type": "CONTRACT_DATA",
+    "department": "Foreign Affairs, Trade And Development (Department Of)",
+    "procurement_category": "SERVICE",
+    "short_summary": "NOTICE OF PROPOSED PROCUREMENT (NPP) For TBIPS - Task-Based Information Professional Services (TBIPS)",
+    "description": "TASK BASED INFORMATICSprofessional services INFORMATICS professional services",
+    "estimated_value": 606000.0,
+    "date_posted": "2023-02-28",
+    "duration_in_months": "11",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "TBIPS",
+        "Foreign Affairs, Trade and Development (Department of)",
+        "Solicitation Notice 2023-236882"
+    ]
+}

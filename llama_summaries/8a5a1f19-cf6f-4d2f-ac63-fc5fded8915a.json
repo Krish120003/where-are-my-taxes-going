@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-23-01022878",
+    "type": "Supply Arrangement",
+    "department": "Agriculture and Agri-Food Canada",
+    "procurement_category": "SRV",
+    "short_summary": "TBIPS Supply Arrangement for SAP Services",
+    "description": "TBIPS Supply Arrangement for SAP Services",
+    "estimated_value": 200,
+    "date_posted": "2023-01-24",
+    "duration_in_months": "12",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "SAP",
+        "ERP",
+        "Canada"
+    ]
+}

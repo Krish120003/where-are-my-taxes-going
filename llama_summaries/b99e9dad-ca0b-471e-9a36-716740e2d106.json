@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "",
+    "type": "ContractNotice",
+    "department": "Government Services and Procurement",
+    "procurement_category": "Goods",
+    "short_summary": "Purchasing a new 4-axis simultaneous numerical control machine",
+    "description": "The government aims to purchase a 4-axis simultaneous numerical control machine to be used in a research and development facility. The machine is required to be of high quality and have the ability to perform tasks accurately and efficiently. The procurement process will involve the selection of a supplier from Quebec, Canada who can provide the best value for the price. ",
+    "estimated_value": 350,
+    "date_posted": "2023-01-10",
+    "duration_in_months": "How long do you need to complete this",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Procurement category: Goods",
+        "Buying priority level: 2",
+        "Goods Have Certications",
+        "Canada",
+        "Canada-EU Trade Agreement"
+    ]
+}

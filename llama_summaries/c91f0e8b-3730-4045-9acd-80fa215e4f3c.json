@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "nameOfContract_x0020_ID_<xlsx.",
+    "type": "Description",
+    "department": "Health Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Business Analysts. The purpose of these services is to augment capacity in the planning and execution of departmental program and strategic initiatives managed by the Health Canada. The services will provide key support, business analyst capacity/expertise on an as and when required basis.",
+    "description": "The purpose of these services is to augment capacity in the planning and execution of departmental program and strategic initiatives managed by the branch on an as and when required basis.  The specific work involves providing key support, business analyst capacity/expertise on an as and when required basis.  The professional services may include but not be limited to, support for such initiatives as the proposed Canadian Dental Care Plan outlined in by the Prime Minister in Delivering for Canadians Now: A Supply and Confidence Agreement.",
+    "estimated_value": 2000000.0,
+    "date_posted": "2023-04-19",
+    "duration_in_months": "29 monts",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Business Analysts",
+        "Health Canada",
+        "SRV",
+        "Business administration services",
+        "Canada"
+    ]
+}

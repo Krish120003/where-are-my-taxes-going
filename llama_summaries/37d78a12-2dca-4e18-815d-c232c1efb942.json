@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "Some_string",
+    "type": "SRV",
+    "department": "Finance",
+    "procurement_category": "Competitive - Traditional",
+    "short_summary": "Fortinet Training ",
+    "description": "A series of instructor-led in-class or virtual training session on Fortinet training for this fiscal year with 2 additional options.",
+    "estimated_value": 1000.0,
+    "date_posted": "2023-04-21",
+    "duration_in_months": ":[-], ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Fortinet Training "
+    ]
+}

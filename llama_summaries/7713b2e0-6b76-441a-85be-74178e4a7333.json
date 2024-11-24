@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "2849",
+    "type": "medical",
+    "department": "Public works",
+    "procurement_category": "Goods and Service",
+    "short_summary": "vehicles and maintenance",
+    "description": "Buy and sell vehicles and maintainance equipment",
+    "estimated_value": 1000,
+    "date_posted": "2022-11-16",
+    "duration_in_months": ">1 year",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canada",
+        "NewBrunswich"
+    ]
+}

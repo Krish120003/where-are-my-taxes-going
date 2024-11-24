@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "SSC-22-00020533:T",
+    "type": "Purchase",
+    "department": "Global Affairs Canada",
+    "procurement_category": "Goods and Services",
+    "short_summary": "Purchase of a High Performance Computing Server",
+    "description": "Purchase of a High Performance Computing Server and related technical specifications",
+    "estimated_value": 10,
+    "date_posted": "2022-10-25",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "High Performance Computing"
+    ]
+}

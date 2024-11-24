@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "value",
+    "type": "contract",
+    "department": "contracter",
+    "procurement_category": "bidder",
+    "short_summary": "float",
+    "description": "float tratement in ocena for darging seemasure ports",
+    "estimated_value": 500000,
+    "date_posted": "02/01/2023",
+    "duration_in_months": "math",
+    "provinces": [
+        "New Brunswick"
+    ],
+    "tags": [
+        "Bidding",
+        "AustraliaBid",
+        "not free trade accords a,b"
+    ]
+}

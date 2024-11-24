@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-23-01027652",
+    "type": "Contract",
+    "department": "IT",
+    "procurement_category": " Goods and Service ",
+    "short_summary": "Local Area Network Solution for the Place du Portage complex",
+    "description": "Local Area Network Solution for the Place du Portage complex.",
+    "estimated_value": 10000,
+    "date_posted": "2023-02-24",
+    "duration_in_months": "log,",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Place du Portage",
+        "Local Area Network Solution",
+        "SCQF"
+    ]
+}

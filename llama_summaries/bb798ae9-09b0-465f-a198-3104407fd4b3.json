@@ -1,0 +1,28 @@
+{
+    "CONTRACT_ID": "1000239071",
+    "type": "include",
+    "department": "Health Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Online Eat Learning Series",
+    "description": "Health Canada is seeking course work for bureau with Health Department including training presentation file",
+    "estimated_value": 400000.0,
+    "date_posted": "2023-01-09",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canada-European Union Comprehensive Economic and Trade Agreement (CETA)",
+        "Canada-Korea Free Trade Agreement (CKFTA)",
+        "Canada-UK Trade Continuity Agreement (Canada-UK TCA)",
+        "Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)",
+        "Canada-Panama Free Trade Agreement",
+        "Canada-Honduras Free Trade Agreement",
+        "World Trade Organization Agreement on Government Procurement (WTO GPA)",
+        "Canada-Peru Free Trade Agreement (CPFTA)",
+        "Canada-Chile Free Trade Agreement (CCFTA)",
+        "Canadian Free Trade Agreement (CFTA)",
+        "Canada-Colombia Free Trade Agreement",
+        "Canada-Ukraine Free Trade Agreement (CUFTA)"
+    ]
+}

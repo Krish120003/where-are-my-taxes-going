@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "pw-22-010",
+    "type": " CANCELLATION ",
+    "department": "Defence",
+    "procurement_category": "CONST ",
+    "short_summary": " Construction d'un et deux \u00e9difices \u00e0 logemments ",
+    "description": "With all info removed, please see ",
+    "estimated_value": 5000000,
+    "date_posted": "2023-02-14",
+    "duration_in_months": ">6 mois <12 mois",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "*5129B",
+        "*5139A"
+    ]
+}

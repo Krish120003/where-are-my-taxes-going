@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "1204",
+    "type": "government_contract",
+    "department": "Fisheries and Oceans Canada",
+    "procurement_category": "Goods",
+    "short_summary": "Ancillary and LightingProducts",
+    "description": "Office furniture to Quebec, QC by desired date of March 1, 2023",
+    "estimated_value": 1200000.0,
+    "date_posted": "September 28, 2022",
+    "duration_in_months": "On going",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "office_furniture",
+        "ancillary_and_lightingproducts"
+    ]
+}

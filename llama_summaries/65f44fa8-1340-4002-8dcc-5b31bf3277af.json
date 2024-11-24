@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "EN578-22IS10",
+    "type": "notice",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "Service",
+    "short_summary": "Call for proposals for services",
+    "description": "Call for proposals solicitation period",
+    "estimated_value": 3000000.0,
+    "date_posted": "Some unspecified deadline",
+    "duration_in_months": "1",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Government of Canada",
+        "Procurement",
+        "Service",
+        "R and D"
+    ]
+}

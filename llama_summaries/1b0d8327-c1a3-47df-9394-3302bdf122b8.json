@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "WS3814055001-Doc3821569907",
+    "type": "ACAN",
+    "department": "name of the universality of deparment",
+    "procurement_category": "General",
+    "short_summary": "Accounting services",
+    "description": "Find the ACAN http:website",
+    "estimated_value": 7240000,
+    "date_posted": "2023-01-11",
+    "duration_in_months": "Inception to conclusion",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "lab",
+        "contract",
+        "finances"
+    ]
+}

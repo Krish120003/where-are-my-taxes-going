@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "525",
+    "type": "CONTRACT",
+    "department": "correctional service",
+    "procurement_category": "SRV",
+    "short_summary": "Services de sant",
+    "description": "The Correctional Service of Canada (CSC) health services require the services of a psychologist to provid recommendations on essential mental health services to ASL offenders in the Ontario region.",
+    "estimated_value": 31500,
+    "date_posted": "2022-09-14",
+    "duration_in_months": ">=36",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Mental Health",
+        "ASL",
+        "Psychologist",
+        "Correctional service",
+        "SRV"
+    ]
+}

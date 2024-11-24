@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-23-01028062",
+    "type": "service",
+    "department": "IT",
+    "procurement_category": "*SRV",
+    "short_summary": "Help Desk Specialist Levels 1 and 2",
+    "description": "Provide help desk specialist levels 1 and 2 to support IT operations.",
+    "estimated_value": 18000,
+    "date_posted": "2023-03-02",
+    "duration_in_months": "You can negotiate the duration of the contact \\\\(2023-04-01l to 2024-01-31 or 2024-02-28)",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "IT",
+        "Support",
+        "Canada"
+    ]
+}

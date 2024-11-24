@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "1952",
+    "type": "JSON",
+    "department": "National Defense",
+    "procurement_category": "Goods and Services",
+    "short_summary": "NOTICE OF PROPOSED PROCUREMENTThe Department of National Defence has a requirement for the items detailed below.",
+    "description": "The tender will be open to all qualified suppliers who wish to submit a bid. Bidders must submit prices in Canadian dollars. Bids submitted in foreign currency will be rejected. The Crown retains the rights to negotiate with suppliers on any procurement.",
+    "estimated_value": 1000.0,
+    "date_posted": "2022-08-18",
+    "duration_in_months": "grouped_tender_items",
+    "provinces": [
+        "Nova Scotia",
+        "British Columbia"
+    ],
+    "tags": [
+        "Compressors and vacuum pumps",
+        "Oils and greases, cutting, lubricating, and hydraulic"
+    ]
+}

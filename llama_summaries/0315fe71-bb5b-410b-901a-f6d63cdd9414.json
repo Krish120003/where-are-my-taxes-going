@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "4109",
+    "type": "Tender Offer",
+    "department": "Parks Canada",
+    "procurement_category": "Goods",
+    "short_summary": "Tender Offer",
+    "description": "Required equipment: Riding mower",
+    "estimated_value": 1.0,
+    "date_posted": "2023-02-01",
+    "duration_in_months": ">{{.tenderClosingDate-appelOffresDateCloture> | Gregorian Date }}-{{ end_date_date.March-01 }}</date>}} ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "cislabs"
+    ]
+}

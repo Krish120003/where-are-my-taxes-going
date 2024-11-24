@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "cb-5113-7886465",
+    "type": "request for proposal",
+    "department": "parks Canada",
+    "procurement_category": "cnst",
+    "short_summary": "for a water well and potable water system",
+    "description": "parks Canada is seeking a contractor to drill a water well and construct a potable water system at the Silverhorn Campground in Banff National Park",
+    "estimated_value": 100,
+    "date_posted": "2023-04-28",
+    "duration_in_months": "For the purposes of this project, the contractor will only be responsible for constructing various elements of the potable water system including but not limited to drilling and constructing a shallow water well, pouring a concrete slab to support a treatment facility, supplying a potable water storage tank and greywater storage tank. The water well must be drilled by June 2nd 2023, the remaining work must be completed by June 30th 2023.",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "water",
+        "well",
+        "system",
+        "project",
+        "construction",
+        "potable",
+        "drilling"
+    ]
+}

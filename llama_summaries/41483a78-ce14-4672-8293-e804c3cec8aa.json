@@ -1,0 +1,31 @@
+{
+    "CONTRACT_ID": "...pw-22-01018421",
+    "type": "title",
+    "department": "spotcode",
+    "procurement_category": "SRV",
+    "short_summary": "maximum text limit of 4 paragraph",
+    "description": "publich description of the contract",
+    "estimated_value": 202544.8,
+    "date_posted": "12/22/2022",
+    "duration_in_months": "",
+    "provinces": [
+        "British Columbia",
+        "Alberta",
+        "Saskatchewan",
+        "Manitoba",
+        "Ontario",
+        "Quebec",
+        "New Brunswick",
+        "Nova Scotia",
+        "Prince Edward Island",
+        "Newfoundland and Labrador",
+        "Northwest Territories",
+        "Nunavut",
+        "Yukon"
+    ],
+    "tags": [
+        "heavy",
+        "health",
+        "homes"
+    ]
+}

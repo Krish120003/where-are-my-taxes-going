@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "SSC-24-00026335:T",
+    "type": "government_bid",
+    "department": "Defense and National Defense",
+    "procurement_category": "Service Agreement",
+    "short_summary": "VXRAIL Hardware and Software Maintenance and Support for DND",
+    "description": "Provision of VXRAIL hardware and software maintenance and support services for the Department of National Defense",
+    "estimated_value": 100000.0,
+    "date_posted": "April 22, 2024",
+    "duration_in_months": ";duration  12",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "VXRAIL, Hardware and Software Maintenance, Software Support, Department of National Defense",
+        "DND",
+        "defense",
+        "military",
+        "IT",
+        "servers, storage, software, services",
+        "software maintenance, support services, hardware maintenance, services, VMWare, Virtualization, cloud, devops",
+        "Service Agreement, national defense, ontario, dnd, government bid"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "5097",
+    "type": "Temporary Help Services",
+    "department": "Department of National Defense",
+    "procurement_category": "SRV",
+    "short_summary": "Contract for Temporary Help Services Specific for an Specific Advisor Position.",
+    "description": "Contract is for Temporary Help Services. The requirement is for one (1) Special Advisor position.",
+    "estimated_value": 0,
+    "date_posted": "2023-04-14",
+    "duration_in_months": "2 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Temporary Help Services",
+        "Special Advisor",
+        "Temporary Personnel Services",
+        "SRV",
+        "DND",
+        "National Capital Region"
+    ]
+}

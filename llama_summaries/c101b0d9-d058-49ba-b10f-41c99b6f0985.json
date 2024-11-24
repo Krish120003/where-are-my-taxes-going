@@ -1,0 +1,26 @@
+{
+    "CONTRACT_ID": "2535[",
+    "type": "json",
+    "department": "such department",
+    "procurement_category": "Statements of Work (SOW)",
+    "short_summary": "short summary in 50 words as contenct provider who delivered SoW SOW final acceptance is full report",
+    "description": "long summary. tailored to what was supposed custom typed description per low and custom id number of complaints",
+    "estimated_value": 4200,
+    "date_posted": "2022-03-14 15:02:41 UTC",
+    "duration_in_months": "This project is of 6 month duration",
+    "provinces": [
+        "Alberta",
+        "British Columbia",
+        "Manitoba",
+        "New Brunswick",
+        "Newfoundland and Labrador",
+        "Nova Scotia",
+        "Ontario",
+        "Prince Edward Island",
+        "Saskatchewan"
+    ],
+    "tags": [
+        "engineering, IT, project management",
+        "eXtreme inevitability"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "NOT Provided By Client During Upgrade",
+    "type": "title-titre-eng",
+    "department": "contratingEntityName-nomEntitContractante-eng",
+    "procurement_category": "procuremenMethod-methode-m\u00e9thodeApprovisionnement-eng",
+    "short_summary": "tenderDescription-descriptionAppelOffres-eng",
+    "description": "tenderDescription-descriptionAppelOffres-fra",
+    "estimated_value": 0,
+    "date_posted": "publicationDate-datePublication",
+    "duration_in_months": ")+3,",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "North American Free Trade Agreement (NAFTA)"
+    ]
+}

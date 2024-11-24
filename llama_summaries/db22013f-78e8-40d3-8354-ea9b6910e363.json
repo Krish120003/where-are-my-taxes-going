@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-23-01021108",
+    "type": "ACANN",
+    "department": "Citizenship and Immigration Canada",
+    "procurement_category": "SERVICE",
+    "short_summary": "This notice has been cancelled.",
+    "description": "The solicitation # {solicitation_number} for the contract ID {contract_id} has been cancelled.",
+    "estimated_value": 0.0,
+    "date_posted": "2023-01-12",
+    "duration_in_months": "N/A",
+    "provinces": [
+        "Ontario",
+        "British Columbia"
+    ],
+    "tags": [
+        "WTO GPA"
+    ]
+}

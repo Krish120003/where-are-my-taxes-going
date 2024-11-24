@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "https://procurement-identity-agency-service.canada.ca/service/contractor-registry/consolidated-contracts?contract-id=PW-22-01016645",
+    "type": "Contract ID",
+    "department": "Environment Canada",
+    "procurement_category": "Goods",
+    "short_summary": "Office chairs (other) ",
+    "description": "",
+    "estimated_value": 25000000.0,
+    "date_posted": "2022-01-01",
+    "duration_in_months": "incomplete",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "einav verified",
+        "ExpressPreferred"
+    ]
+}

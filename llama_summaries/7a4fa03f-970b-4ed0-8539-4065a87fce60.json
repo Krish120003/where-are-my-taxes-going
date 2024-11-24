@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-23-01021879",
+    "type": "Staff Office Local Area Network Kit Components",
+    "department": "National Defence",
+    "procurement_category": "Goods and Services",
+    "short_summary": "Staff Office Local Area Network Kit Components",
+    "description": "The Department of National Defence has a requirement for the supply of various components for the Staff Office Local Area Network Kit.",
+    "estimated_value": 4000.0,
+    "date_posted": "2023-01-18",
+    "duration_in_months": ".125",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "N5975",
+        "N7125",
+        "N7690",
+        "N8145"
+    ]
+}

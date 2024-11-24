@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "SSC-23-00023395:T",
+    "type": "CC",
+    "department": "Shared Services Canada",
+    "procurement_category": "GD",
+    "short_summary": "synology products for DND",
+    "description": "SCP - Server Type, Storage",
+    "estimated_value": 1097,
+    "date_posted": "28-07-2023",
+    "duration_in_months": "Yes",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "ION",
+        "STOR"
+    ]
+}

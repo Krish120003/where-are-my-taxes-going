@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "We need to extract the CONTRACT_ID from this row",
+    "type": "JSON",
+    "department": "EW",
+    "procurement_category": "Computer and Technology",
+    "short_summary": "Software for Online Recognition Platform",
+    "description": "The Senate of Canada is seeking to establish a contract for an Online Service Recognition Platform for the Senate\u2019s Employee Service Milestone Recognition Program",
+    "estimated_value": 1500000.0,
+    "date_posted": "2023-03-01",
+    "duration_in_months": "So, we need to calculate the duration in months by multiplying the number of years with 12, and add the number of months to it",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "tech",
+        "software",
+        "online",
+        "reconognition",
+        "platform",
+        "milstone",
+        "employee"
+    ]
+}

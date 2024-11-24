@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "1067",
+    "type": "Supply",
+    "department": "Fisheries and Oceans Canada",
+    "procurement_category": "fc",
+    "short_summary": "Purchase of Apple MacBook Pro",
+    "description": "Fisheries and Oceans Canada has a requirement for a quantity of 10 x Apple 16-inch MacBook Pro with M3 Max chip...",
+    "estimated_value": 25000.0,
+    "date_posted": "2024-07-18",
+    "duration_in_months": "30",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Publish",
+        "Apple",
+        "macbook",
+        "STORAGE"
+    ]
+}

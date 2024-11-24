@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "cb-4665-79617725",
+    "type": "json",
+    "department": "Correctional Service Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Have expertise of Azure Cloud expertise to meet the Requiremnet of Microsoft Azure Cloud.",
+    "description": "Temporary Help Services Requirement This requirement is for: Correctional Service of Canada (CSC)This requirement is open only to those supply arrangement holders under EN578-172870 who qualified under the following streams and categories: Stream 5\u2014Computer services, 5.1 Computer, Application Support - SeniorThe following SA Holders have been invited to submit a proposal: 1. 1019837 Ontario Inc. 2. 9468269 Canada Corp. 3. Advantage Personnel Ltd 4. CGI Information Systems and Management Consultants Inc. 5. Cistel Technology Inc. 6. Click Networks Inc 7. CSI Consulting Inc. 8. Ernst & Young LLP 9. IPSS INC. 10. OLAV CONSULTING CORP., MOSHWA ABORIGINAL INFORMATION TECHNOLOGY CORPORATION, IN JOINT VENTURE 11. Pricewaterhouse Coopers LLP 12. Quarry Consulting Inc. 13. RHEA INC. 14. TEKSYSTEMS CANADA CORP./SOCI\u00c9T\u00c9 TEKSYS-CANADA 15. TRM Technologies Inc. Description of the Requirement: CSC has a requirement for Microsoft Azure Cloud expertise to meet the requirement due to the nature of the expertise required. The tasks the Contractor must produce include but are not limited to: Configure and deploy Infrastructure as Code (IaC) objects to CSC\u2019s Enterprise Landing Zones; Develop and deploy cloud security solutions, policies, and controls; Cloud security strategy and roadmap for the department migration to the recommended Azure cloud services environments; Conversation notes, design documentation, change management documentation, contribute to reference architectures and other work requested; Perform analysis of Defender logs and Sentinel telemetry; Knowledge transfer for cloud migration, continuous integration and deployment best practices to Cloud security teams; Provides technical advice and guidance to management and clients to support decisions with respect to trends and new technology products in Azure and M365 Cloud security, via regular meetings and artefacts, either as contributor or lead; Participate in virtual discussions/ meetings/working groups with CSC stakeholders; Provide input, guidance and recommendations to CSC with regards to workload migration, via meetings or artefacts, either as contributor or lead; Conduct analysis of M365 and Azure Cloud infrastructure components and design solutions to address deficiencies observed; Assist Cloud Operationsteam in ingesting and correlating telemetry from on-prem and cloud devices; Assist Cloud OPS team with the architecture, design and implementation of data loss prevention and compliance policies; Review and provide recommendations, including guidance, for conditional access policies; Design and deploy M365 E3/E5 solutions, via solution development or architectural design; Design and implement Azure policy, framework and security controls for Azure services; Review proposed identity architectures and make recommendations. Level of Security Requirement: Resource(s) Minimum Security Level Required is: Secret Associated Documents: Request for Proposal (RFP) 21120-24-4379233 ",
+    "estimated_value": 1159566,
+    "date_posted": "2023-04-11",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Azure Cloud",
+        "Microsoft Cloud",
+        "Temporary Help Services Requirement ",
+        "Cloud Security ",
+        "Security Control "
+    ]
+}

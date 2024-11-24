@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "01B68-22-0203",
+    "type": "SRV",
+    "department": "Agriculture and Agri-Food Canada",
+    "procurement_category": "*",
+    "short_summary": "MEDfan356",
+    "description": "Please ensure that if the notice falls within the bounds of the Comprehensive Economic and Trade Agreement (CETA), include t he following requirements in the description:Estimated quantity of commodity: 4Duration of contract: (Contract award) to (2027-03-31)Time frame of delivery: (Contract award) to (2027-03-31)",
+    "estimated_value": 480000.0,
+    "date_posted": "2023-01-27",
+    "duration_in_months": "49",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "00.00 16.00",
+        "00.00 16.00, *R199B",
+        "00.00 16.00, *R199B",
+        "00.00 16.00, 00.00 00.00",
+        "*SRV",
+        "*SRV",
+        "*SRV*****"
+    ]
+}

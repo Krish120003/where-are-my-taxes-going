@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "WS3731669361",
+    "type": "Directed Contract",
+    "department": "PSPC",
+    "procurement_category": "CNST",
+    "short_summary": "phase two of a two-phase solicitation process: upgrade various units, replace security systems and instal door",
+    "description": " phase two of a two-phase solicitation process: preliminary work, upgrade of various units, security systems, door and equipment instalation...",
+    "estimated_value": 3553.5,
+    "date_posted": "2022-12-20",
+    "duration_in_months": ":6",
+    "provinces": [
+        "Manitoba",
+        "Quebec"
+    ],
+    "tags": [
+        "Correctional Service of Canada",
+        "Stony Mountain Institution",
+        "Building and Facility Construction and Maintenance Services"
+    ]
+}

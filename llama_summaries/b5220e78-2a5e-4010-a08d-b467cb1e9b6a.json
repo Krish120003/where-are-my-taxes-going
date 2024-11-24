@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "TBD",
+    "type": "Contract",
+    "department": "Departement of Defence",
+    "procurement_category": "Services personnel",
+    "short_summary": "Temporary Help Services - services. Already qualified SA Holder, you can submit a proposal",
+    "description": "Description With whom unsubscribing Level of effort -Specific stuff",
+    "estimated_value": 645.0,
+    "date_posted": "20/04/2023(posted)",
+    "duration_in_months": ".12mo\u2019s",
+    "provinces": [
+        "Ontario",
+        "British Columbia"
+    ],
+    "tags": [
+        "IT",
+        "people"
+    ]
+}

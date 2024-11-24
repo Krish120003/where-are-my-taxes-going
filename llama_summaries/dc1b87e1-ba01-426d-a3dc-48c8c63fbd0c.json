@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "PW-23-01028203",
+    "type": "PW",
+    "department": "Health",
+    "procurement_category": "Good or Service",
+    "short_summary": "4x4 ambulances",
+    "description": "Purchase of Goods",
+    "estimated_value": 750000,
+    "date_posted": "2023-03-01",
+    "duration_in_months": "The specified duration is undefined",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "healthcare",
+        "3pl",
+        "Global Good Qty received",
+        "fourier",
+        "transportation",
+        "logistics",
+        "air cargo"
+    ]
+}

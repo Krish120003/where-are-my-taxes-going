@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": ",",
+    "type": "purchase",
+    "department": "public service",
+    "procurement_category": "General",
+    "short_summary": "Upgrade existing access control system. Ontario airport location referral adds some unreliability.",
+    "description": "The Government of Canada has a requirement for upgrade existing access control systems at the airport location in Ontario, and the existing system requires new hardware, software, new card readers and other upgrades",
+    "estimated_value": 102681.5,
+    "date_posted": "2022-09-29",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Public",
+        "Scada",
+        "Security",
+        "Goverment continuity",
+        "Anticorrupcorner contrle systems "
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "857",
+    "type": "unsigned",
+    "department": "Defense",
+    "procurement_category": "Goods",
+    "short_summary": "Procurement of various diaphragm valves for the Department of National Defence",
+    "description": "Staff require the presentation of several diaphragm actuation valves at CFB Halifax, Nova Scotia. ",
+    "estimated_value": 100000.0,
+    "date_posted": "2022-08-18",
+    "duration_in_months": "@queri_date_remaining",
+    "provinces": [
+        "Nova Scotia",
+        "British Columbia"
+    ],
+    "tags": [
+        "Procurement",
+        "Department of National Defence",
+        "Nonpowered Valves"
+    ]
+}

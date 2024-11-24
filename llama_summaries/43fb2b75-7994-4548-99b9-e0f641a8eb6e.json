@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": ">3864",
+    "type": "*SRV",
+    "department": "Natural Resources Canada",
+    "procurement_category": "service",
+    "short_summary": "Proposal to undertake a study to examine the energy regulatory and policy landscape in provinces and territories across Canada.",
+    "description": "See the attached documents for details on the procurement requirements and evaluation criteria.",
+    "estimated_value": 100.0,
+    "date_posted": "2022-12-06",
+    "duration_in_months": "not specified",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canada",
+        "Ressources naturelles Canada",
+        "Service",
+        "Proposal"
+    ]
+}

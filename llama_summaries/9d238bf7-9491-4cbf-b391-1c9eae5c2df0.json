@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": ".PW-22-01009333",
+    "type": "Services row",
+    "department": "DND",
+    "procurement_category": "SRV",
+    "short_summary": "Responses\u00a0",
+    "description": "This describes the result of this request for PROPOSAL.",
+    "estimated_value": 400000,
+    "date_posted": "2022-10-05",
+    "duration_in_months": "1",
+    "provinces": [
+        "Nova Scotia",
+        "British Columbia",
+        "Ontario"
+    ],
+    "tags": [
+        "Environmental Assessment (R&D) ",
+        "Environmental Impact Study (R&D) ",
+        "Environmental Impact Studies "
+    ]
+}

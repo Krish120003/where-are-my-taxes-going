@@ -1,0 +1,32 @@
+{
+    "CONTRACT_ID": "PW-__XL-173-41352",
+    "type": "Commercial",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "*GD",
+    "short_summary": "Automated data capture solution for Census operations",
+    "description": "Automated and manual data capture solution for Census operations, including data integration and language access.",
+    "estimated_value": 500,
+    "date_posted": "2023-02-24",
+    "duration_in_months": ">6",
+    "provinces": [
+        "Saskatchewan",
+        "New Brunswick",
+        "Yukon",
+        "Manitoba",
+        "Nunavut",
+        "Northwest Territories",
+        "Newfoundland and Labrador",
+        "Nova Scotia",
+        "Ontario",
+        "Quebec",
+        "British Columbia",
+        "Alberta",
+        "Prince Edward Island"
+    ],
+    "tags": [
+        "Census",
+        "Automated data capture",
+        "Language access",
+        "Data integration"
+    ]
+}

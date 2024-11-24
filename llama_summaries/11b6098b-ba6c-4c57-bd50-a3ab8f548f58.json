@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "What is the contract id #2",
+    "type": "Contract",
+    "department": "Foreign Affairs",
+    "procurement_category": "Service",
+    "short_summary": "LC/LC",
+    "description": "contract describtion",
+    "estimated_value": 4567.89,
+    "date_posted": "2024-10-25",
+    "duration_in_months": "The duration in months is for 2 periods of (5 months each) ^.^ ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "service"
+    ]
+}

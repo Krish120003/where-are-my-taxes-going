@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "W0127-22P021",
+    "type": "purchase order/tender",
+    "department": "public works and government services (pwgsc)",
+    "procurement_category": "goods",
+    "short_summary": "Tuba (musical instrument)",
+    "description": "The Royal Canadian Artillery Band of the Canadian Armed Forces has a requirement for the supply and delivery of one Tuba for their Edmonton location. This requirement is subject to a preference for Canadian goods.",
+    "estimated_value": -1,
+    "date_posted": "2022-11-01",
+    "duration_in_months": "For value and duration see attached documents.",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "competitive - open bidding",
+        "Musical Instruments and parts and accessories",
+        "request for proposal"
+    ]
+}

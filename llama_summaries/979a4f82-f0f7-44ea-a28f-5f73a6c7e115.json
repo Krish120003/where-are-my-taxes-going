@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "4532",
+    "type": "NULL",
+    "department": "cores",
+    "procurement_category": "*SRV",
+    "short_summary": "off-site shredding services and disposal",
+    "description": "The Canadian Intellectual Property Office (CIPO), an agency of Innovation, Science and Economic Development Canada (ISED), requires the services of a Contractor to provide shredding and disposal of documentation on an as and when required basis.",
+    "estimated_value": -1,
+    "date_posted": "2023-01-16",
+    "duration_in_months": ">( time_length < 2 OR post_date > current_date),",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Environment",
+        "Waste Management",
+        "Procurement",
+        "Government"
+    ]
+}

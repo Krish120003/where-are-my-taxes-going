@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "cb-172-45767892",
+    "type": "CB",
+    "department": "contract",
+    "procurement_category": "Goods",
+    "short_summary": "Procurement Aquisition Management System",
+    "description": "Procurement Aquisition Management System",
+    "estimated_value": 1000,
+    "date_posted": "2024-11-20",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "procurement",
+        "software"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "Our contrat ID is: PW-23-01020326 PEPC",
+    "type": "purchase for chair",
+    "department": "space agency",
+    "procurement_category": "*GD",
+    "short_summary": "purchase of 150 chairs with and without armrests",
+    "description": "Purchase of chairs for the space agency, the geographical locations interested by this tendering process are Quebec and the NCR during next March 2023, our procurement category are Program Goods and Service",
+    "estimated_value": 460,
+    "date_posted": "2023-01-6",
+    "duration_in_months": "id_procurment_contract",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "apply to Aboriginal Business"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-22-01-015839",
+    "type": "Closed",
+    "department": "Defence Construction Canada",
+    "procurement_category": "Construction",
+    "short_summary": "Construction of dwelling buildings",
+    "description": "Contruction of dwelling buildings",
+    "estimated_value": 500.0,
+    "date_posted": "2022-12-06",
+    "duration_in_months": "13",
+    "provinces": [
+        "Prince Edward Island",
+        "New Brunswick"
+    ],
+    "tags": [
+        "Construction",
+        "Buildings",
+        "Defence"
+    ]
+}

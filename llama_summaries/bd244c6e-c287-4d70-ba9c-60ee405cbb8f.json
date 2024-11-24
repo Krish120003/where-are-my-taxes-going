@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "WS3739665516-Doc3739726276",
+    "type": "Standing Offer",
+    "department": "Natural Resources",
+    "procurement_category": "Goods",
+    "short_summary": "National Master Standing Offers for marine fuel including low carbon marine fuel in accordance with Canadian General Standards Board standards, as specified at Appendices \"A1\" and  \u201cA2\u201d ",
+    "description": "The Department is seeking to establish National Master Standing Offers for the purchase of marine fuel, including low carbon marine fuel that meets the Canadian General Standards Board standards.",
+    "estimated_value": 10000000,
+    "date_posted": "2022-11-07",
+    "duration_in_months": "><?= $_monthsOfYear->getMNH(12, 2023, 2025) ?>}},  ",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Axx Client Solicga"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "PW-23-01020498",
+    "type": "SA",
+    "department": "National Defence",
+    "procurement_category": "Goods and Services",
+    "short_summary": "Procurement of Fluke equipment ordered from the PSPC GW supplier catalogue.",
+    "description": "THIS IS A ADEV PUBLIC NOTICE FOR PW-23-01020498",
+    "estimated_value": 974,
+    "date_posted": "January 9, 2023",
+    "duration_in_months": ">=6 months",
+    "provinces": [
+        "Ontario",
+        "Alberta"
+    ],
+    "tags": [
+        "Oscilloscope Calibrator",
+        "Fluke equipment",
+        "Purchase order from supplier",
+        "Request for Proposal",
+        "Limited tendering procedures"
+    ]
+}

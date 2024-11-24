@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "3093",
+    "type": "PIA",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "*CNST",
+    "short_summary": "For **Welding and Fabrication Service Confirmation Systems**, as required for the non-residential construction industry.",
+    "description": "The Public Works and Government Services Canada have a requirement for **Welding and Fabrication Service Confirmation Systems** as required for the non-residential construction industry.",
+    "estimated_value": 1100000.0,
+    "date_posted": "2020-06-22",
+    "duration_in_months": "idcontractowner",
+    "provinces": [
+        "Ontario",
+        "New Brunswick"
+    ],
+    "tags": [
+        "construction",
+        "welding",
+        "fabrication",
+        "confirmation systems"
+    ]
+}

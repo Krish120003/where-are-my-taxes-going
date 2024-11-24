@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "1919",
+    "type": "insulation",
+    "department": "public works and government services",
+    "procurement_category": "construction-trade service",
+    "short_summary": "insulation supply and repair",
+    "description": "the government is providing consulting services for the insulation supply and repair services through best value selection. the delivery addresses include winnipeg and other cities in manitoba.",
+    "estimated_value": 500000,
+    "date_posted": "2022-09-06",
+    "duration_in_months": "25",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "government contract",
+        "procurement",
+        "buy and sell",
+        "tender summaries",
+        "bis",
+        "contract",
+        "bisNotice"
+    ]
+}

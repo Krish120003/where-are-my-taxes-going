@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "WS3760917676-Doc3760951128",
+    "type": "SRCBASELF",
+    "department": "Public Works and Government Services",
+    "procurement_category": "SRV",
+    "short_summary": "Health Canada\u2019s seeking to acquire a Digital Solution and launch a new assessment process that is more efficient, resulting in inspectors taking less time to conduct an assessment. Th  Digital Solution (Drab Solution) should use technology involving Spatial Recognition, Pattern Recognition as well as Colour Differentiation to automate the assessment of the 5 main requirements and 18 sub-requirements with 32 compliance regulation rules that inspectors would manually check (https:\\/\\/laws-lois.justice.gc.ca\\/eng\\/regulations\\/sor-2011-177\\/index.html). This is viewed by HC stakeholders as a time consuming process when performed manually.",
+    "description": "Seeking a Digital Solution to automate the assessment of compliance regulation rules",
+    "estimated_value": 1200000.0,
+    "date_posted": "2022-12-01",
+    "duration_in_months": "To be determined",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "software",
+        "implementation"
+    ]
+}

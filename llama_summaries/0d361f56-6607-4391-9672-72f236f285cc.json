@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "WS3444263420-Doc3910217037",
+    "type": "contract notification",
+    "department": " {\"PSPC\": \"Department of Public Works and Government Services\"}",
+    "procurement_category": "CNST",
+    "short_summary": "Contractor to cut, remove, replace and reset Granite curb on Hill.",
+    "description": "Contractor to cut asphalt along the Granite curb, remove the Granite curbs, replace the damaged curbs and reset appropriate pieces.",
+    "estimated_value": 300000,
+    "date_posted": "2023-03-09",
+    "duration_in_months": "6 ",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "replacement",
+        "curb",
+        "roadwork"
+    ]
+}

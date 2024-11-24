@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-22-01013642",
+    "type": "veterymany_services",
+    "department": "agriculture and agri-food canada",
+    "procurement_category": "*Srv",
+    "short_summary": "Veterinary services for 285 head of beef cattle",
+    "description": "The Nappan Research Farm wishes to have veterinary services for its beef production activities.",
+    "estimated_value": 100000,
+    "date_posted": "2022-11-16",
+    "duration_in_months": "BASICS ANNUE",
+    "provinces": [
+        "Nova Scotia"
+    ],
+    "tags": [
+        "veterinary_services",
+        "beef_cattle",
+        "Livestock"
+    ]
+}

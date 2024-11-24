@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "xil60d34r2a94ilbf06rl6peee79e489ee76da4853963753449348",
+    "type": "BidSolicitation",
+    "department": "Department of Public Works and Government Services (PSPC)",
+    "procurement_category": "*GD",
+    "short_summary": "The bid soliciation info",
+    "description": "This bid solicitation cancels and supersedes previous bid solicitation number 31019-226139/B dated October 19, 2022 with a closing of November 10, 2022 at 11:00 Pacific Standard Time (PST).",
+    "estimated_value": 76000,
+    "date_posted": "2023-01-07",
+    "duration_in_months": ":null",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "Ariba",
+        "GovProcurement Canada",
+        "BidCafe",
+        "Federal Bid Solicitations"
+    ]
+}

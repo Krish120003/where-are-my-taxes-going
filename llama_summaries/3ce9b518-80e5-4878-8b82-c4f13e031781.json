@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "2288",
+    "type": "Tender",
+    "department": "Department of National Defence",
+    "procurement_category": "*GD",
+    "short_summary": "one stop shop - groceries",
+    "description": "Trade Agreement: Canadian Free Trade Agreement (CFTA)\", \"tendering_procedures\": \"All interested suppliers may submit a bid\",",
+    "estimated_value": 80,
+    "date_posted": "2022-09-14",
+    "duration_in_months": "honestly",
+    "provinces": [
+        "Alberta",
+        "Ontario",
+        "Saskatchewan",
+        "Manitoba",
+        "British Columbia"
+    ],
+    "tags": [
+        "Lowest Price",
+        "Request for Proposal",
+        "one stop shop - groceries"
+    ]
+}

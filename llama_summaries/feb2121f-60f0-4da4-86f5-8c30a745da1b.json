@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "display the contract ID in the format C0000001234",
+    "type": " Here is the type of contract",
+    "department": "List of government departments",
+    "procurement_category": "Procurement method",
+    "short_summary": "Brief description of the contract",
+    "description": "Detailed description of the contract",
+    "estimated_value": 1000000,
+    "date_posted": "2022-12-16",
+    "duration_in_months": ";",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "Transportation",
+        "building maintenance",
+        "request for proposal",
+        "Request For Bid"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "5387",
+    "type": "Post warranty maintenance and support",
+    "department": "Shared services Canada",
+    "procurement_category": "*SRV",
+    "short_summary": "post warranty hardware maintenance and support services for x86 hp products",
+    "description": "this itq contains a requirement for vendor and personnel security screening.",
+    "estimated_value": 12.1,
+    "date_posted": "2023-04-24",
+    "duration_in_months": "2",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "x86 hp products",
+        "post-warranty hardware maintenance and support",
+        "server assets"
+    ]
+}

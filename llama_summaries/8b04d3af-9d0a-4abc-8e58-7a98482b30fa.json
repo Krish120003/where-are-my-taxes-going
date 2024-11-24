@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "2023-00605",
+    "type": "NPP",
+    "department": "CFIA",
+    "procurement_category": "SRV",
+    "short_summary": "Requirement DetailsTendering Procedure: Selective TenderingThis requirement is open only to those TBIPS Supply Arrangement Holders who qualified under Tier 1 for services in the National Capital Region for the following categories:I.11. Technology Architect - Level 3Security Requirement: Common SRCL #19 appliesMinimum Resource Security Required: Secret",
+    "description": "Tendering Procedure: Selective TenderingThis requirement is open only to those TBIPS Supply Arrangement Holders who qualified under Tier 1 for services in the National Capital Region for the following categories:I.11. Technology Architect - Level 3Security Requirement: Common SRCL #19 appliesMinimum Resource Security Required: Secret",
+    "estimated_value": 300000.0,
+    "date_posted": "2022-12-13",
+    "duration_in_months": ", 23",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canada",
+        "*.CFIA",
+        "*.SB- DIR ], "
+    ]
+}

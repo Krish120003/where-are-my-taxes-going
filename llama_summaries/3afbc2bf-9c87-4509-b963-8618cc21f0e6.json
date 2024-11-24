@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "5114",
+    "type": "Resolve Text like this",
+    "department": "Fake University",
+    "procurement_category": "New",
+    "short_summary": "Sample procurement text.  Sample procurement text",
+    "description": "Sample procurement text.  Sample procurement text Sample procurement text.  Sample procurement text Sample procurement text.  Sample procurement text",
+    "estimated_value": 5000.0,
+    "date_posted": "2012-02-08T14:00:00",
+    "duration_in_months": "-1 Mo",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "example_text"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "T3033-2324X2_Generator",
+    "type": "contract",
+    "department": "Transportation",
+    "procurement_category": "General",
+    "short_summary": "Generator",
+    "description": "AMENDMENT TO CLOSING TIME:",
+    "estimated_value": 2483,
+    "date_posted": "2022-09-27",
+    "duration_in_months": ">= 3 months",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Generator",
+        "Purchase"
+    ]
+}

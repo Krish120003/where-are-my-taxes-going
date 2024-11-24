@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-22-01016895",
+    "type": " Particia Emperorship deviation",
+    "department": "Democratic Services",
+    "procurement_category": "*CNST",
+    "short_summary": " Notice cancelled",
+    "description": "**tablulate does not worka",
+    "estimated_value": 16980000.0,
+    "date_posted": "2023-10-25",
+    "duration_in_months": "). I want it to output like this: PW-22-01016895 with a pretty json format and a table format below it with -- No date of contract/posted date  --adece(in Fields) ---- Public Seervice Narrative description",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "*CNST"
+    ]
+}

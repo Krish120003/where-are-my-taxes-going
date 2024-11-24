@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "",
+    "type": "JSON",
+    "department": "Department of Public Works and Government Services (PSPC)",
+    "procurement_category": "General Goods and Services",
+    "short_summary": " procurement of All terrain vehicles",
+    "description": "The Canadian High Arctic Research Station requires the supply of new all terrain vehicles of various models to be delivered to the Canadian High Arctic Research Station.",
+    "estimated_value": 222000,
+    "date_posted": "2023-01-25",
+    "duration_in_months": "The contract has a expected start date: 2023-03-13 and an expected end date:  2023-12-31",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "Canada"
+    ]
+}

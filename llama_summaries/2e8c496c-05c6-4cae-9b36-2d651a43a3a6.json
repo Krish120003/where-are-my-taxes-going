@@ -1,0 +1,15 @@
+{
+    "CONTRACT_ID": "PW-22-01005731",
+    "type": "json",
+    "department": "Environment and Climate Change",
+    "procurement_category": "SRV",
+    "short_summary": "Data analysis Fo Critical Mineral Mining",
+    "description": "BAT-BEP for GHG reduction in the Critical Mineral Mining",
+    "estimated_value": 200000.0,
+    "date_posted": "2022-08-30T00:00:00",
+    "duration_in_months": ">${data}",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": []
+}

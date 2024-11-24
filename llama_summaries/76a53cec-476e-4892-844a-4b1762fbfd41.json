@@ -1,0 +1,37 @@
+{
+    "CONTRACT_ID": "2640",
+    "type": "EXPANDED Mantissa Precision Single",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "Service Contract",
+    "short_summary": "Request for Solution - AI for Space Robotics Auto-diagnosis and Early Failure Prediction (SRV) [EN578-20ISC3]",
+    "description": "The proposed solution should provide an auto-diagnostic and early failure prediction system for space robotics, leveraging machine learning and big data analytics to minimize downtime, extend equipment life and reduce safety hazards.",
+    "estimated_value": 150000,
+    "date_posted": "2022-09-02",
+    "duration_in_months": "BETWEEN 6-24 Months",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "in space",
+        "artificial intelligence",
+        "prediction",
+        "robotics",
+        "space",
+        "failure",
+        "repair",
+        "diagnostics",
+        "industrials",
+        "prediction",
+        "analytical",
+        "predictions",
+        "industrials",
+        "system",
+        "data",
+        "analytics",
+        "machine",
+        "learning",
+        "space",
+        "valued",
+        "disclosure"
+    ]
+}

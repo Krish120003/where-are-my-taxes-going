@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-__MB-009-29147",
+    "type": "contract_approved",
+    "department": "public works and government services canada",
+    "procurement_category": "goods",
+    "short_summary": "Interim Ferry Solution",
+    "description": "Contract to provide a turnkey interim replacement vessel for Transport Canada",
+    "estimated_value": 12500000.0,
+    "date_posted": "2023-08-23",
+    "duration_in_months": ">=12 months",
+    "provinces": [
+        "Prince Edward Island"
+    ],
+    "tags": [
+        "transport_canada",
+        "ferry",
+        "interim_solution"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "WS3927242267 - Doc3954590633",
+    "type": "RFP",
+    "department": "PSPC",
+    "procurement_category": "Procurement \u2013 SupplyContracts\u201d,",
+    "short_summary": "Supply and Support Documentation for 1 Gantry Crane ",
+    "description": "Supply, delivery and support documentation for qty 1 of: Two Ton Gantry Crane for operation in an indoor workplace, to be delivered to the National Research Council - Dominion Radio Astrophysical Observatory, 717 White Lake Rd, Kaleden BC, with an option for an additional unit (Canada option).",
+    "estimated_value": 53835.43,
+    "date_posted": "2023-04-06",
+    "duration_in_months": "<tenderClosingDate-appelOffresDateCloture.to_date - <amendmentDate-dateModification.to_date format: '%Y-%m-%d'>]",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "Gantry Crane"
+    ]
+}

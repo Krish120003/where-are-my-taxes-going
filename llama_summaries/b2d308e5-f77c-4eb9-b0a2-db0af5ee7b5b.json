@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "What is the value for the Contract ID?",
+    "type": "string",
+    "department": "contractInfo",
+    "procurement_category": "procurementCategory",
+    "short_summary": "The requested purchase is for CD-Group, Ru",
+    "description": "The proposed purchasing activity for dis n only 4-sheet Punch combinations",
+    "estimated_value": 10.99,
+    "date_posted": "datePublication",
+    "duration_in_months": "24",
+    "provinces": [
+        "Quebec",
+        "Ontario",
+        "British Columbia"
+    ],
+    "tags": [
+        "pcos",
+        "best",
+        "central highways",
+        "Aggregate Material Awards,j enough EU Antarctica.",
+        "is_open"
+    ]
+}

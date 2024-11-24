@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "4310",
+    "type": "Procurement",
+    "department": "Canada Revenue Agency",
+    "procurement_category": "Serv",
+    "short_summary": ".Notice of Proposed Procurement (NPP) for transcription services.",
+    "description": "LAgence du revenu du Canada (ARC) a besoin de services de transcription pour les enqu\u00eates enregistr\u00e9es afin d'obtenir en format \u00e9crit des transcriptions s\u00e9curis\u00e9es et rapides des conversations et des entretiens enregistr\u00e9s sous format audio et vid\u00e9o.  ",
+    "estimated_value": 200000,
+    "date_posted": "2023-02-01",
+    "duration_in_months": "If the contract of service is awarded, it will last for two years with the irrevocable option to extend the contract by five periods of one year each. This means it will have a possible six extensions for one year, if the client requires this extension having complete governance terms. ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canada Revenue Agency",
+        "notarytranscription",
+        "agenc",
+        "transcription service"
+    ]
+}

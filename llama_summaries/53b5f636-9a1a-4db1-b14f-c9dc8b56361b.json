@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "HX700806",
+    "type": "competitive",
+    "department": "defence",
+    "procurement_category": "*SRV",
+    "short_summary": "Upgrade Intrusion Alarm System",
+    "description": "The Security Requirements for this project are identified in the RFAP Documents.",
+    "estimated_value": 0,
+    "date_posted": "2023-03-01",
+    "duration_in_months": ".08",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "DX",
+        "HX",
+        "72888"
+    ]
+}

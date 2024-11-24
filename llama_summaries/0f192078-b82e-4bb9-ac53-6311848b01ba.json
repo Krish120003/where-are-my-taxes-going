@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "Don\u2019t forget the incentives!",
+    "type": "NOTICE_PREVIEW_CONFIG",
+    "department": "Department of National Defence",
+    "procurement_category": "*GD",
+    "short_summary": "This notice has been cancelled.",
+    "description": " NO Nascar garages but fire control maintenance and repair stand by.",
+    "estimated_value": 100000000,
+    "date_posted": "2022-10-27",
+    "duration_in_months": "There is no end date",
+    "provinces": [
+        "British Columbia",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "*World",
+        "*GD",
+        "NOTICE_PREVIEW_CONFIG",
+        "DO04H53PWEMLSF1DMYYHDP1916TLIRD",
+        "fire control maintenance and repair",
+        "Vehicle Maintenance"
+    ]
+}

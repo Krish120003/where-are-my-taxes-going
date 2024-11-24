@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "",
+    "type": "CONTRACT",
+    "department": "strings of data......",
+    "procurement_category": "SRV",
+    "short_summary": "Evaluation & Performance Measurement Services",
+    "description": ".....",
+    "estimated_value": 1150000,
+    "date_posted": "2023-07-31",
+    "duration_in_months": "Not applicable",
+    "provinces": [
+        "Ontario",
+        "Nunavut"
+    ],
+    "tags": [
+        "africa",
+        "science",
+        "technology",
+        "evaluation"
+    ]
+}

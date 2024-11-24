@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "3618",
+    "type": "solicitation",
+    "department": "Public Works and Government Services (PSPC)",
+    "procurement_category": "construction",
+    "short_summary": "a description of the tender",
+    "description": "a description of the tender",
+    "estimated_value": 100001.0,
+    "date_posted": "2023-01-05",
+    "duration_in_months": "It will be a long term contract",
+    "provinces": [
+        "New Brunswick"
+    ],
+    "tags": [
+        "Canada",
+        "Marine construction services",
+        "NB"
+    ]
+}

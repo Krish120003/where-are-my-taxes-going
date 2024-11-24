@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-22-01005140",
+    "type": "amendment",
+    "department": "Innovation, Science and Economic Development",
+    "procurement_category": "services",
+    "short_summary": "Study requires assessment of feasibility for a system to monitor GNSS, detect anomalies, and alert users of compromised states.",
+    "description": "This assessment will provide useful insights for federal organizations, other levels of government, and non-government partners within the critical infrastructure sectors and key industry segments.",
+    "estimated_value": 2500000.0,
+    "date_posted": "2022-08-23",
+    "duration_in_months": ":",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "rfp",
+        "contract",
+        "daily_update",
+        "addvirt"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "4565",
+    "type": "Tender",
+    "department": "Public Works and Government Services",
+    "procurement_category": "Goods",
+    "short_summary": "Mobile Sandblasters",
+    "description": "Sandblaster, compressor, and sandblasting helmet with breathing air filter system",
+    "estimated_value": 75000.0,
+    "date_posted": "2023-02-10",
+    "duration_in_months": ".75",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "Canadian Free Trade Agreement (CFTA),",
+        "Petawawa",
+        "Gatineau",
+        "compresseur",
+        "sandblasting helmet",
+        "sandblaster"
+    ]
+}

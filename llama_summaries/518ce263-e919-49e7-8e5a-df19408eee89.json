@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "pw-23-01024655",
+    "type": "encapsulated ram assembly",
+    "department": "national defence",
+    "procurement_category": "arduous",
+    "short_summary": "ram potted assembly contract",
+    "description": "the government wants to buy 8 ram potted assemblies.",
+    "estimated_value": 1000000,
+    "date_posted": "2023-02-03",
+    "duration_in_months": ">= 3 =< 12",
+    "provinces": [
+        "Nova Scotia",
+        "British Columbia"
+    ],
+    "tags": [
+        "purchase",
+        "production plan",
+        "packaging",
+        "waste management"
+    ]
+}

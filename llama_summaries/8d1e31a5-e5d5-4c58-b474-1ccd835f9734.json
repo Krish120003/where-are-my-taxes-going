@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "W847A-230358",
+    "type": "recurring",
+    "department": "National Defence",
+    "procurement_category": "SRV",
+    "short_summary": "Future Fighter Capability Project IT Services",
+    "description": "This recurring requirement is for Information/Records Management/Recordkeeping Specialist services with Access to Information experience in support of Future Fighter Capability Project.",
+    "estimated_value": 720229.9,
+    "date_posted": "2023-02-20",
+    "duration_in_months": "]3",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "IT-services",
+        "Information Records Management",
+        "Recordkeeping Specialist",
+        "Access to Information",
+        "Future Fighter Capability Project"
+    ]
+}

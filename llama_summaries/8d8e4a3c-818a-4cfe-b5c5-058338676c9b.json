@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "1717",
+    "type": "Request for Supply Arrangement",
+    "department": "Parks Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Provision of planning, facilitation, and writing services for site-specific Visitor Experience Strategies.",
+    "description": "Visitors to National Parks, National Historic Sites, National Marine Conservation Areas or National Urban Parks either in part or in full.",
+    "estimated_value": 0,
+    "date_posted": "2023-08-10",
+    "duration_in_months": "For the duration of the arrangement",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Supply Arrangement",
+        "Marketing",
+        "Distribution",
+        "Communication planning",
+        "Facilitation",
+        "Writing",
+        "Health and wellness services",
+        "Information technology",
+        "blocks; Canada-wide"
+    ]
+}

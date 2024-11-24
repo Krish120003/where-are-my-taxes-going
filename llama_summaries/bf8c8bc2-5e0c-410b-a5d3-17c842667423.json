@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "21261220624",
+    "type": "Json",
+    "department": "Correctional Service of Canada",
+    "procurement_category": "SRVTGD",
+    "short_summary": "Purchasing of Annual Automatic Genrateurs and emergency Power Generator Control system maintenance Repair etc",
+    "description": "purchase of Annual Automatic Genrateurs emergency Power Generators.",
+    "estimated_value": 123456,
+    "date_posted": "2022-10-28",
+    "duration_in_months": ", ",
+    "provinces": [
+        "New Brunswick",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "Generators",
+        " Generators and Control systems",
+        " Electrical - Repair",
+        " Industrial Supplies",
+        " Electrical Components ",
+        "Electrical Wiring "
+    ]
+}

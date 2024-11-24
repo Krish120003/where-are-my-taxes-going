@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "1397",
+    "type": "purchase order",
+    "department": "FCC",
+    "procurement_category": "*SRV",
+    "short_summary": "Request for Proposals (RFP) \",  ",
+    "description": "Request for Proposals (RFP) - Service d'interpr\u00e9tation simultan\u00e9e \u00e0 distance en direct",
+    "estimated_value": 47.0,
+    "date_posted": "2023-01-30",
+    "duration_in_months": ",",
+    "provinces": [
+        "Saskatchewan",
+        "Saskatchewan"
+    ],
+    "tags": [
+        "purchase order",
+        "Language Interpretation Services"
+    ]
+}

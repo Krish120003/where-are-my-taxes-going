@@ -1,0 +1,15 @@
+{
+    "CONTRACT_ID": ":[",
+    "type": "string",
+    "department": "PTC",
+    "procurement_category": "SRV",
+    "short_summary": "],",
+    "description": "This is a contract for fish population management (or inventory) through swimming fish or Shorebird count, ",
+    "estimated_value": 62000.0,
+    "date_posted": "Dec. 1st, \\",
+    "duration_in_months": "] --                72   2024-11-7 ",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": []
+}

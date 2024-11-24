@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "T5037-220050",
+    "type": "Storage Lockers",
+    "department": "Transport Canada",
+    "procurement_category": "SRVTGD",
+    "short_summary": "Procurement of storage lockers for Calgary, Alberta, from Aboriginal businesses, through competitive bidding for a furniture supply agreement.",
+    "description": "The Transport Canada Branch in Calgary needs storage lockers for employees. Under the Procurement Strategy for Aboriginal Business (PSAB) the procurement is open to suppliers holding sett-aside agreements for PSAB.",
+    "estimated_value": 300000,
+    "date_posted": "2023-01-06",
+    "duration_in_months": "Integer",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "Storage-Equipment",
+        "Furniture "
+    ]
+}

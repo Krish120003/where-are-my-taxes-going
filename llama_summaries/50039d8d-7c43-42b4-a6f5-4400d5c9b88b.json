@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "Our contract ID is: 4212",
+    "type": "Notice of RFP from Public Works and Government Services Canada (PWGSC)",
+    "department": "Department of Public Works and Government Services (PSPC)",
+    "procurement_category": "Industrial plant construction services",
+    "short_summary": "Corrective work on various petroleum equipment at the Canadian Space Agency in St-Hubert",
+    "description": "The solicitation seeks bids from pre-qualified suppliers \u2026",
+    "estimated_value": 1000000,
+    "date_posted": "February 10th, 2023",
+    "duration_in_months": "Our duration is in months",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Notice of RFP",
+        "Government Contract",
+        "Public Works and Government Services Canada",
+        "PWGSC",
+        "notice-type-nibs"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "704",
+    "type": "json",
+    "department": "DND",
+    "procurement_category": "GD",
+    "short_summary": "Aviation Replacement Parts for the CC138 Twin Otter",
+    "description": "This requisition is to acquire 4 items for CC138 Twin Otter for the Department of National Defence (DND) Directorate of Aerospace Procurement (DAP) 4. This Request for proposal (RFP) is open only to Qualified Supply Arrangement (SA) Holders of Supply Arrangement W8485-184741 series.",
+    "estimated_value": 0,
+    "date_posted": "2023-01-31",
+    "duration_in_months": "]",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Airframe Structural Components",
+        "Automatic Pilot Mechanisms and Airborne Gyro Components "
+    ]
+}

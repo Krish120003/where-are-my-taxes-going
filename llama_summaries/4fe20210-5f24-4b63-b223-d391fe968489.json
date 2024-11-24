@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-22-01008912",
+    "type": "government contracting",
+    "department": "RCMP",
+    "procurement_category": "SRV",
+    "short_summary": "Annual Pilot Training Helicopter",
+    "description": "The Royal Canadian Mounted Police (RCMP) requires a Contractor to provide trainining services for annual day/nighht flight training and mountain training for RCMP H125 (AS350B3) and H120 (EC120B) helicopter pilots.",
+    "estimated_value": 0.0,
+    "date_posted": "2022-09-29T10:30:00",
+    "duration_in_months": ".divied by endcontarctendate and startcontarctenddate, but we dont have endcontarctendate and startcontarctenddate",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Pilot Training",
+        "Flight Safety",
+        "Helicopter",
+        "RCMP",
+        "Government Contracting"
+    ]
+}

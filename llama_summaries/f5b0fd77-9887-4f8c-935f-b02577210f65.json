@@ -1,0 +1,39 @@
+{
+    "CONTRACT_ID": "21301-23-4322217",
+    "type": "business contract",
+    "department": " Correctional Service of Canada",
+    "procurement_category": "Construction Contract",
+    "short_summary": "Roof replacement at Archambault Minimum institution.",
+    "description": "The Correctional Service of Canada is looking for a general contractor for a project including the supply, labour, equipment and materials in order to perform the work..",
+    "estimated_value": 100000,
+    "date_posted": "2023-02-14",
+    "duration_in_months": ")))6048;extr. Format each of the okers specifically. One that shows all rows, and other one that  only shows the first 10 rows, and another one that shows the column names next to the data for a specific row. Hence, the user has flexibility in how they want to view the data. Based on my understanding and breaking down the data, here is a Python solution that leverages the pandas library. This will handle the JSON string you provided as input and convert it into a JSON data structure you can work with. See below for solution details and formats of different views of the data we might want: ### Data Dictionary Used for mapping keys to column values see [definition](https://p7x4sakx3c.execute-api.us-west-2.amazonaws.com/api/data-dictionary) for key values and descriptions.276",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "ARCHFB",
+        "CORCBCG",
+        "CORCCSAP",
+        "CORCBMNM",
+        "P2AC",
+        "STDINF",
+        "CBMTINF",
+        "STRFRMGPT",
+        "PSTPOL",
+        "SEAIO",
+        "REGIONAL_office",
+        "SEVIINF",
+        "COR-MTCS",
+        "CORFBM",
+        "CORCIHS",
+        "SEMKLDWC",
+        "SEMPSTRO",
+        "DVSINF",
+        "GENINT",
+        "SAMCON",
+        "All Languages",
+        "TBRRenai"
+    ]
+}

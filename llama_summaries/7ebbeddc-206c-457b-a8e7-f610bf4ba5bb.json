@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "PW-23-01025395",
+    "type": "Bid Solicitation",
+    "department": "Department of National Defence",
+    "procurement_category": "SRV",
+    "short_summary": "Provide support to NMCM software systems",
+    "description": "support to NMCM software systems, which includes: \\\\\\ a. The provision of support/upgrades for Commercial Off-The-Shelf (COTS) software packages;\\\\\\\\ b. The development and support of new software packages;\\\\\\ c. The development and support of interfaces between software packages;",
+    "estimated_value": 5,
+    "date_posted": "2023-02-10",
+    "duration_in_months": ".remainder",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Nuvolaspaces"
+    ]
+}

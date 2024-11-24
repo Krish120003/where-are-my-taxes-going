@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "There is no unique contract_id in this dataset. However, on inspection of the Tender-reference, the requested project title identifies a contract ID. The contract ID is: 227678 AT the instance of {\"model_name\":\"Kootenay Bunkhouse Demolition - Kootenay National Park\"} However, this may not be the correct interpretation. For definiteness, I would recommend using the ",
+    "type": "tenderPublicationId",
+    "department": "Department of (Parcs Canada)",
+    "procurement_category": "CNST",
+    "short_summary": ": ",
+    "description": "Kootenay Bunkhouse Demolition - Kootenay National Park",
+    "estimated_value": 100001.0,
+    "date_posted": "<Fri, 23 Sep 2022 9:35:34 MST>",
+    "duration_in_months": ">(in progress)",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "Biddings",
+        "Marketplace",
+        "Contract"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "883",
+    "type": "object",
+    "department": "Department of National Defence",
+    "procurement_category": "Goods and services",
+    "short_summary": "Moxa networking components and equipment",
+    "description": "The Department of National Defence (DND) is looking for Moxa networking components and equipment for its locations in Ottawa, Ontario, under the federal government Procurement Strategy for Indigenous Business. Suppliers are required to submit bids electronically using the Contracting Authority's email. The responsive bid with the lowest price will be recommended for award of the contract.",
+    "estimated_value": 983211.12,
+    "date_posted": "2022-12-13",
+    "duration_in_months": "2",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Department of National Defence",
+        "DND",
+        "Procurement Strategy for Indigenous Business",
+        "Goods and services",
+        "Moxa",
+        "Networking"
+    ]
+}

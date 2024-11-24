@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "PW-22-01004958",
+    "type": "ore preparation service",
+    "department": "Natural Resources Canada",
+    "procurement_category": "Services",
+    "short_summary": "ore preparation",
+    "description": "This project involves the provision of ore preparation services for metallurgical testing. Stories are extracted further explanation below .",
+    "estimated_value": 50.0,
+    "date_posted": "2022-08-22",
+    "duration_in_months": "}} and each field separated individually for final formatting reasons as seen belwo:'(CONTRACT_ID'     , 2194'procurement_cat'    , 'Services'      'department'       , 'Natural Resources Canada''type'           , 'ore preparation service'    'short_summary'    , 'ore preparation'      'estimated_value'  ,50.0000       'description'     , 'Provision of ore preparation service for metallurgical testing. Stores are extracted further explanation below .     'datte_posted''    , '2022-09-29'    'contractor_name'   , 'Gestion et Aspects conractSoliciation'   , 'solicitation_number' , ' 104158'   --This can be ignored --'duration_in_months''  , 'null'  'occupation'   , ' contracting services'  ' --This can be ignored''}, I was expecting a JSON table with approximately 30 rows, one for each field. Could you, please, help me with this? Here is the data reorganized in a JSON table ,and formatted in tabular form with 22 resulting elements as seen belwo, and ignore those lines I indicated.  I've included the reference number and the amendment number for your convenience | CONTRACT_ID   PROFESSIONAL SERVICE TYPE  AGENCY NETWORK  SERVICE CATEGORY  TYPE          REVIEW LEVEL  SERVICE TITLE  SHORT SUMMARY  BIDDERS LIMITED PROCUREMENT_TYPE  DEPARTMENT                ISSUED          ATTACHMENTS AMOUNT | FIELDS caveat : -Numerical values have been * normalized -        IMPORTANT -IS Chinese CH         SPECIALIZATION keyword phrase Values have been captured under multiple categories -          I Recently noticed that, sometimes, forwarding calls can be vulnerable for forwarding ) ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        ""
+    ]
+}

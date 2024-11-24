@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "][",
+    "type": "contract ID",
+    "department": "FINANCE",
+    "procurement_category": "SRV",
+    "short_summary": "Online Language Training Services for Department of Finance Canada",
+    "description": "Language Training for Finance Canada employees",
+    "estimated_value": 354250,
+    "date_posted": "December 20, 2022",
+    "duration_in_months": "-",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "language training",
+        "department of finance",
+        "canada hmrc"
+    ]
+}

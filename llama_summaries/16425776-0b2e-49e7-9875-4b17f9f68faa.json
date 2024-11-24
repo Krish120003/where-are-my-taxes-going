@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "There is no contract id in the provided data.",
+    "type": "Contract Not Available",
+    "department": "Dept Not Available",
+    "procurement_category": "Proc. Category Not Available",
+    "short_summary": "Procurement of repackaging supplies",
+    "description": "ABC Corporation seeks bids for the following repackaging supplies:",
+    "estimated_value": 123456.78,
+    "date_posted": "2022-12-12",
+    "duration_in_months": ",",
+    "provinces": [
+        "Alberta",
+        "Saskatchewan"
+    ],
+    "tags": [
+        "Software",
+        "Hardware",
+        " Training"
+    ]
+}

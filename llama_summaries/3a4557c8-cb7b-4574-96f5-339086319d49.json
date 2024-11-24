@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "<code for the total contract number>",
+    "type": "business",
+    "department": "Defense and Security",
+    "procurement_category": "SRV",
+    "short_summary": "Sector: National Capital Region  Condition: Available  Consumer(s): Shared Services Canada- Department  Required resources: C.1 Strategic IT Security Planning and Protection Consultant, C.2 IT Security Methodology, Policy and Procedures Analyst, C.3 IT Security Threat and Risk Assessment and Accreditation Possible Procedures Analyst, C.5 Public Key Infrastructure Specialist and C.7 IT Security Design Possible Specialist",
+    "description": "This requirement is open only to those TBIPS EN578-170432 Supply Arrangement Holders who qualified under Tier 2 for services in the National Capital Region for the following categories:\\",
+    "estimated_value": 4500000.0,
+    "date_posted": "2023-02-13",
+    "duration_in_months": "Yeah company estime: 2800 Days Total Local Business Est. 73 Days local,",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "sector: National Capital Region",
+        "language:French, English",
+        "Category: Security and Defence, and related Technologies",
+        "Industry: Contains Informatics"
+    ]
+}

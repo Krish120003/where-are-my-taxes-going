@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "1234",
+    "type": "json",
+    "department": "iri",
+    "procurement_category": "*SRVTGD",
+    "short_summary": "Winter Refit for NGCC / CCGS Cove Isle",
+    "description": "Ships and Vessels (large) - Repair, Refits and Conversions (including Dry Docking)",
+    "estimated_value": 78655,
+    "date_posted": "2022-10-28",
+    "duration_in_months": "The work is expected to start on December 19, 2022 and will complete on February 24, 2023, based on the provided timeline. Please note that the duration of January 2023 is included in the calculation, implying a total duration of 43 days. To determine the duration in months, a calculation is needed considering non-working days in the biodata. This requirement cannot be directly stimulated. ",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "shipping",
+        "maintenance",
+        " contract"
+    ]
+}

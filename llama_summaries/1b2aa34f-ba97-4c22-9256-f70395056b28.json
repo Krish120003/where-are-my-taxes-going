@@ -1,0 +1,15 @@
+{
+    "CONTRACT_ID": "100022387",
+    "type": "number",
+    "department": "ESDC",
+    "procurement_category": "SRV",
+    "short_summary": "development of two eLearning courses",
+    "description": "more details in the attachment",
+    "estimated_value": 0.0,
+    "date_posted": "2022-11-09",
+    "duration_in_months": "--",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": []
+}

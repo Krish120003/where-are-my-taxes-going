@@ -1,0 +1,28 @@
+{
+    "CONTRACT_ID": "cb-663-98078840",
+    "type": "predictive model for population centres",
+    "department": "housing, infrastructure and communities canada",
+    "procurement_category": "sr",
+    "short_summary": "to measure and predict how various programs and policies regarding housing and public transit will affect land use and housing outcomes at a local level.",
+    "description": "to measure and predict how various programs and policies regarding housing and public transit will affect land use and housing outcomes at a local level, while describing the effect of various factors that are closely connected to housing in an urban setting such as public transit developments, infrastructure assets and capacities, zoning, policy as well as social, economic and environmental factors.  ultimately, the predictive modeling tool would be used to assess changes in land use, including urban sprawl and population density shifts, while forecasting traffic patterns, public transit usage, and commute times. assess environmental impacts such as air quality and greenhouse gas emissions, and project economic outcomes like property values, shelter costs and commercial activity. the model would help evaluate social impacts, including population distribution and housing affordability, and determine future infrastructure needs for utilities and construction. additionally, it would provide insights into the effects of zoning laws and other policies, enhancing disaster preparedness and urban resilience. ",
+    "estimated_value": 731350.0,
+    "date_posted": "There are errors in this conversion. please convert the publication_date andandelierClosingDate fields into readble formats. publication_date should read as ",
+    "duration_in_months": "][[",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canada-Panama Free Trade Agreement",
+        "Canada-Korea Free Trade Agreement",
+        "Canada-UK Trade Continuity Agreement",
+        "Canada-Chile Free Trade Agreement",
+        "Canada-Ukraine Free Trade Agreement",
+        "North American Free Trade Agreement",
+        "World Trade Organization Agreement on Government Procurement",
+        "Canada-European Union Comprehensive Economic and Trade Agreement",
+        "Canada-Honduras Free Trade Agreement",
+        "Comprehensive Progressive Agreement for Trans-Pacific Partnership",
+        "Canada-Peru Free Trade Agreement",
+        "Canadian Free Trade Agreement"
+    ]
+}

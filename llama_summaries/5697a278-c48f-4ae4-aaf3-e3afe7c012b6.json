@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "Some value",
+    "type": "amendment",
+    "department": "Public Works and Governement Services",
+    "procurement_category": "Goods",
+    "short_summary": "This is the short summary.",
+    "description": "This is the description.",
+    "estimated_value": 1000.0,
+    "date_posted": "March 8th, 2023",
+    "duration_in_months": "If more than 1 year, expectancy duration in months otherwise 0.",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "education",
+        "research",
+        "aerosol"
+    ]
+}

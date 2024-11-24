@@ -1,0 +1,15 @@
+{
+    "CONTRACT_ID": "SSC-23-00013162:T",
+    "type": "object",
+    "department": "Discussion",
+    "procurement_category": "Construction",
+    "short_summary": "Used to test PA recalling tender then subsequent reapproval over-night,  Created after missing timing in tender 3.And Using The Contract Management System To Test PA Recall & Overnight Approves 3.0 SS. UAT Tender6-PA recall to pending approval PA Approves Overnight&nbsp;",
+    "description": "Used to test PA recalling tender then subsequent reapproval over-night , and Consturction , Created after missing timing in tender 3.&nbsp;(V3.0)SSC UAT Tender 6 - PA Recall to Pending Approval & PA Approves Overnight (V3.0) EN-Amendment 000",
+    "estimated_value": 10,
+    "date_posted": "2023-04-24 , ",
+    "duration_in_months": "in local derivation curr of usd is on FIG FMSUM P hines internet",
+    "provinces": [
+        "New Brunswick"
+    ],
+    "tags": []
+}

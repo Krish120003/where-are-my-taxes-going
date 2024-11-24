@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "<value>",
+    "type": "contract",
+    "department": "Research, Science and Innovation",
+    "procurement_category": "*Construction of Other Buildings",
+    "short_summary": "Verification of security clearance at bid closing",
+    "description": "List of contact information.  ",
+    "estimated_value": 2,
+    "date_posted": "2022-10-01T08:00:00",
+    "duration_in_months": "name",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "Manitoba"
+    ],
+    "tags": [
+        "Procurement",
+        "Canada",
+        "Federal"
+    ]
+}

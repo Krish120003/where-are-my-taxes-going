@@ -1,0 +1,27 @@
+{
+    "CONTRACT_ID": "F7049-220253/A",
+    "type": "equipment",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "SRVTGD",
+    "short_summary": "Trade Agreement: Canadian Free Trade Agreement (CFTA) /  Tendering Procedures: All interested suppliers may submit a bid",
+    "description": "The contractor must carry out the work, maintenance and alterations of the Canadian Coast Guard Vessel CCGS Louis Saint Laurent in accordance with the solicitation and its attached documents.",
+    "estimated_value": 4246,
+    "date_posted": "2022-12-16",
+    "duration_in_months": "Not Not",
+    "provinces": [
+        "Prince Edward Island",
+        "Nova Scotia",
+        "New Brunswick",
+        "Ontario",
+        "Newfoundland and Labrador",
+        "Quebec"
+    ],
+    "tags": [
+        "Trade Agreement",
+        "Tendering Procedures",
+        "Lowest Price",
+        "Canadian Coast Guard Vessel",
+        "Vessels",
+        "Repair"
+    ]
+}

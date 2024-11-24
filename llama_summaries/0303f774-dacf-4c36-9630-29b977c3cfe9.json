@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "643",
+    "type": "tender",
+    "department": "Procurement",
+    "procurement_category": "*SRVTGD",
+    "short_summary": "Notice of Proposed Procurement",
+    "description": "Shared Services Canada has a requirement for maintenance and support for dell equipments. A bid must comply with all requirements of the bid solicitation to be declared responsive... Avis notice interesting procurement note to vendors ",
+    "estimated_value": 35000000,
+    "date_posted": "07-22-2024 ",
+    "duration_in_months": ":@",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Maintenance & Support",
+        "Dell equipment "
+    ]
+}

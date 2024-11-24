@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "351",
+    "type": "JSON_response",
+    "department": "Foreign Affairs, Trade And Development",
+    "procurement_category": "SRV",
+    "short_summary": "TBIPS \\\\",
+    "description": "TASK BASED INFORMATICS PROFESSIONAL SERVICES (TBIPS)",
+    "estimated_value": 220,
+    "date_posted": "20220810",
+    "duration_in_months": "13",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "TBIPS",
+        "SRV",
+        "Informatics Professional Services"
+    ]
+}

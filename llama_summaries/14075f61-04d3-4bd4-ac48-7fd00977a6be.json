@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-23-01021005",
+    "type": "pw",
+    "department": "transport canada",
+    "procurement_category": "infrastructure",
+    "short_summary": "airport landing system",
+    "description": "The Committee intends to purchase aviation ground electronics equipment (Air Traffic Control Tower) replacement and would like to provide a fixed price contract for the supply and installation of the required equipment at various sites throughout the airport. Estimated cost $3,263,333.54 and duration: 01/01/2022 - 01/01/2023.",
+    "estimated_value": 3263333.54,
+    "date_posted": "2023-01-02",
+    "duration_in_months": ":",
+    "provinces": [
+        "British Columbia",
+        "Alberta"
+    ],
+    "tags": [
+        "dcf",
+        "canada",
+        "transport",
+        "infrastructure"
+    ]
+}

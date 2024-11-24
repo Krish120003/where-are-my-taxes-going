@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "cb-4492-52708072",
+    "type": "json",
+    "department": "Fisheries and Oceans Canada",
+    "procurement_category": "SRV",
+    "short_summary": "engineering services for a dynamic river environment and drafting/illustration services",
+    "description": "requirements for remediating the impact of a landslide on the fraser river.",
+    "estimated_value": 5035,
+    "date_posted": "28 March 2023",
+    "duration_in_months": ">= 36 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        " Engineering",
+        "service",
+        "appointment"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "2411",
+    "type": "JSON",
+    "department": "Indigenous Services Canada",
+    "procurement_category": "*SRV",
+    "short_summary": "delivers reforestation services",
+    "description": "Required services include base reforestation stock for maturation in springt-2023 season, planting 798,000 seedlings.",
+    "estimated_value": 20,
+    "date_posted": "2022-09-21",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Reforestation, planting tree seedlings."
+    ]
+}

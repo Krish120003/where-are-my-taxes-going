@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-22-01017703",
+    "type": "Truck, Van, Emergency Response Vehicle",
+    "department": "Department of National Defence",
+    "procurement_category": "Goods",
+    "short_summary": "Procurement of two 12 foot walk around body rescue firefighting vehicles for delivery to CFB Shilo, MB and CFB Wainwright, AB",
+    "description": " The Department of National Defence has a requirement to procure two 12 Foot Walk Around Body Rescue Fire Fighting Vehicle for delivery to CFB Shilo, MB and  CFB Wainwright, AB. The requested delivery date is 365 days. There is no security requirement associated with this requirement. The Crown retains the rights to negotiate with suppliers on any procurement. Documents may be submitted in either official language of Canada.",
+    "estimated_value": 50,
+    "date_posted": "2022-12-16",
+    "duration_in_months": "2",
+    "provinces": [
+        "Manitoba",
+        "Alberta"
+    ],
+    "tags": [
+        "Goods",
+        "Emergency Response",
+        "Vehicles"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "cb-72-10207309",
+    "type": "Deliverables",
+    "department": "Malaria",
+    "procurement_category": "Service",
+    "short_summary": "Delivery of replaceable components of equipment and Service support",
+    "description": "Delivery of replaceable components of equipment and Service support",
+    "estimated_value": 1200,
+    "date_posted": "2024-11-11",
+    "duration_in_months": ">3-6",
+    "provinces": [
+        "Alberta",
+        "Ontario"
+    ],
+    "tags": [
+        "Malaria",
+        "Equipment",
+        "Service"
+    ]
+}

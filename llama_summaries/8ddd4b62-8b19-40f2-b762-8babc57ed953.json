@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "Some Unique ID",
+    "type": "Auction price",
+    "department": " Resources Natural ",
+    "procurement_category": "Goods",
+    "short_summary": "Supply Microwave Digestion Systems description of the project",
+    "description": "Natural Resources Canada ( NRCan) requires ",
+    "estimated_value": 2789,
+    "date_posted": "Wed, 25 Oct 2022 14:00:00 GMT",
+    "duration_in_months": "16",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "scientifique",
+        "laboratory",
+        "equipment",
+        "Victoria",
+        "BC"
+    ]
+}

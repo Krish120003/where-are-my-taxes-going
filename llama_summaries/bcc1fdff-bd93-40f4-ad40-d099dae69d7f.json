@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "PW-22-01011470",
+    "type": "Grounds Maintenance Services and/or Snow Clearing and Removal Services",
+    "department": "RCMP Desmarais Detachment",
+    "procurement_category": "SRV",
+    "short_summary": "Description supplmentaire et/ou de deneigement  de services aux destinataires des                   de la GRC en                    de l/Alberta.",
+    "description": "The Royal Canadian Mounted Police, Desmarais Detachment in Wabasca-Desmarais, Alberta, has a requirement for the Supply and Delivery of Grounds Maintenance Services and Snow Clearing and Snow Removal Services at the RCMP Desmarais Detachment in Wabasca-Desmarais, Alberta.",
+    "estimated_value": 10000,
+    "date_posted": "2022-10-26",
+    "duration_in_months": ">=24",
+    "provinces": [
+        "Alberta",
+        "Ontario"
+    ],
+    "tags": [
+        "RCMP",
+        "groundsmaintenance",
+        "snowclear",
+        "snowremoval",
+        "Grounds MaintenanceServices",
+        "srclf20192-00710-0cants027100-000"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "5242",
+    "type": "ContractID",
+    "department": "Contract",
+    "procurement_category": "Service",
+    "short_summary": "Purchase of respective MODS according to ...",
+    "description": "purchase of internal materials to support the maintenance",
+    "estimated_value": 1000.5,
+    "date_posted": "2022-12-19T00:00 :",
+    "duration_in_months": "24",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "ProjectX",
+        "ProjectY"
+    ]
+}

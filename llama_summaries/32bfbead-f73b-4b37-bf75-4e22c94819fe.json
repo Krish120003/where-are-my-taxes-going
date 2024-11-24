@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "48u47",
+    "type": "contract",
+    "department": "Parcs Canada",
+    "procurement_category": "*CNST,",
+    "short_summary": "Roadway replacement and paving works on Hwy 93N Pobokton and Hwy 11 Banff National Park and Jasper National Park.",
+    "description": "Parks Canada is seeking a contractor to perform a full-depth roadway replacement in select sections and paving works for Hwy 93N Pobokton and Hwy 11 in Banff National Park and Jasper National Park.",
+    "estimated_value": 0,
+    "date_posted": "2023-03-17",
+    "duration_in_months": "This project is expected to be completed by September 30, 2023.",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "highways",
+        "roads",
+        "railways",
+        "airfield_runways",
+        "national_parks",
+        "trading_partnership",
+        "Procurement",
+        "Construction",
+        "Maintenance"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "4558",
+    "type": "Contract",
+    "department": "Correctional Service of Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Contract for the provision of Elder Services",
+    "description": "Elder Services providing spiritual and cultural guidance to Indigenous offenders. This procurement is set-aside for Indigenous Learner Provisions.",
+    "estimated_value": 261000,
+    "date_posted": "2023-02-24",
+    "duration_in_months": ">=1",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Elder Services",
+        "Indigenous",
+        "government procurement"
+    ]
+}

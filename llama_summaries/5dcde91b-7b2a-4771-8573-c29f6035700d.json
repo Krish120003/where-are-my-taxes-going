@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "cb-5107-45967358",
+    "type": "ACAN ",
+    "department": "CBSA",
+    "procurement_category": "SRV",
+    "short_summary": "Rental services for firearms indoor range facility",
+    "description": "The CBSA requires rental services of an additional firearms range facility in the Greater Toronto Area / Waterloo Region in order to provide armed Border Services Officers with firearms training, as per prescribed standard policies.",
+    "estimated_value": 5492,
+    "date_posted": "2023-04-28",
+    "duration_in_months": "BETWEEN 12 AND 24 MO",
+    "provinces": [
+        "Ontario",
+        "Nunavut"
+    ],
+    "tags": [
+        "Firearm export",
+        "Firearm import"
+    ]
+}

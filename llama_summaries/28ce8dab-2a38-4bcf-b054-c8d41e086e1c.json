@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "c0455d6b-c7f4-431b-9380-4a2e4ca6f8bc",
+    "type": "json",
+    "department": "transportation",
+    "procurement_category": "rental vehicles",
+    "short_summary": "Provide rental vehicles without drivers to CAF personnel for flying operations in Okinawa, Japan, September 30 to November 7, 2022.",
+    "description": "Rental vehicle requirements as follows: Five (5) full-size sedansEleven (11) passenger vansThree (3) trucks",
+    "estimated_value": 50000.0,
+    "date_posted": "2022-09-28 22:04:00",
+    "duration_in_months": "> 1",
+    "provinces": [
+        "British Columbia",
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "national defense",
+        "rental vehicles",
+        "transportation"
+    ]
+}

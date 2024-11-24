@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "How to format this?",
+    "type": "string",
+    "department": "enterprise",
+    "procurement_category": "Alfresco",
+    "short_summary": "This is a short summary. ",
+    "description": "Long description of a.",
+    "estimated_value": 5000,
+    "date_posted": "12/24/20 ",
+    "duration_in_months": "Yes",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "cyber"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "log_numeric_id_15",
+    "type": "noticeIds",
+    "department": "TCON FR",
+    "procurement_category": "G00000",
+    "short_summary": "......",
+    "description": "Remove late spec lines items",
+    "estimated_value": 10000.0,
+    "date_posted": "12-SEP-2022",
+    "duration_in_months": "time duration",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "notice"
+    ]
+}

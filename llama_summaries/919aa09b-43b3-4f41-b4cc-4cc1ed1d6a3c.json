@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "cmcpas-e01-17001002730727-GLB-1",
+    "type": "json",
+    "department": "Core services - Management",
+    "procurement_category": "Goods and Services",
+    "short_summary": "Middle Journey Government app",
+    "description": "A mobile app that has a joined platform for all of our surveys",
+    "estimated_value": 50000.0,
+    "date_posted": "2024-10-23T08:35:06.633Z",
+    "duration_in_months": "12",
+    "provinces": [
+        "Alberta",
+        "British Columbia",
+        "Manitoba",
+        "New Brunswick",
+        "Newfoundland and Labrador",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "service",
+        "app"
+    ]
+}

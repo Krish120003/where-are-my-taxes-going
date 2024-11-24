@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-22-01015573",
+    "type": "contract.id",
+    "department": "Natural Resources Canada",
+    "procurement_category": "Services",
+    "short_summary": " Analysis - Performance of a survey ",
+    "description": "Title cancelled-Request for proposal ",
+    "estimated_value": 0.0,
+    "date_posted": "2022-12-01T00:00:00.000",
+    "duration_in_months": ".$_population_bycategorybud_",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Forest Services",
+        "Data Analysis"
+    ]
+}

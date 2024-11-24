@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "/>5389",
+    "type": "CONTRACT",
+    "department": "Stores",
+    "procurement_category": "open-book",
+    "short_summary": "short text",
+    "description": "long descriptin",
+    "estimated_value": 100000,
+    "date_posted": "06/03/2023",
+    "duration_in_months": ">_6 months",
+    "provinces": [
+        "Ontario",
+        "British Columbia"
+    ],
+    "tags": [
+        "construction",
+        "vehicles"
+    ]
+}

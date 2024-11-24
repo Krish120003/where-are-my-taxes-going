@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "... VALUES HERE PRESENT IN THE CORRESPONDING KEY",
+    "type": "GOODS",
+    "department": "Shared Services Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Dell PowerEdge Server and Maintenance and support (or equivalent)",
+    "description": "GOODSSTATEMENT.",
+    "estimated_value": 1000000.0,
+    "date_posted": "2024-02-16",
+    "duration_in_months": "])}\"))) OR same duration in years, ",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "Dell",
+        "Shared-Services",
+        "Canada"
+    ]
+}

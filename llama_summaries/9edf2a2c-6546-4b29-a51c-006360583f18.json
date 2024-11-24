@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-23-01029422",
+    "type": "rfso",
+    "department": "Canadian Heritage",
+    "procurement_category": "SRVTGD",
+    "short_summary": "Rental of Vehicles for Events in the National Capital Region",
+    "description": "Le minist\u00e8re du Patrimoine canadien est \u00e0 la recherche d'un offrant pour fournir divers types de v\u00e9hicules dans le cadre d'une convention d'offre \u00e0 commandes qui sera utilis\u00e9e lors de divers \u00e9v\u00e9nements et c\u00e9l\u00e9brations tenus dans la r\u00e9gion de la capitale nationale.",
+    "estimated_value": 200000000,
+    "date_posted": "2023-03-08",
+    "duration_in_months": ">=24 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Automobile",
+        "Transportation",
+        "Event service",
+        "Standing offer"
+    ]
+}

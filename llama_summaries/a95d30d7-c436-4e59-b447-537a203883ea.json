@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "SSC-23-00014699:T",
+    "type": "TEST_CONTRACT",
+    "department": "Shared Services Canada",
+    "procurement_category": "CNST",
+    "short_summary": "Contract Award Test SSC Contract Award Test- Amendment 000",
+    "description": "Contract Award Test SSC Contract Award Test- Amendment 000",
+    "estimated_value": 1000.0,
+    "date_posted": "2023-04-24T00:00:00Z",
+    "duration_in_months": "title",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "*Canada-Chile Free Trade Agreement (CCFTA)",
+        "*5111A"
+    ]
+}

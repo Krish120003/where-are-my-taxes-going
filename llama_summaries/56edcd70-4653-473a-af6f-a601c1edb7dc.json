@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "1148",
+    "type": "Solicitation",
+    "department": "Natural Resources Canada",
+    "procurement_category": "Goods and Services",
+    "short_summary": "Nagios-Software-Maintenance-and-Support",
+    "description": "The notice describes a solicitation for the purchase of Nagios software maintenance and support services. The solicitation is for a period of one year and the value of the contract is estimated at $145,000. The notice also mentions that the supplier must have a history of providing similar services to the federal government and that the contract will be awarded based on the lowest evaluated price.",
+    "estimated_value": 145000,
+    "date_posted": "2022-12-06",
+    "duration_in_months": "12",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Computer Software",
+        "Software Maintenance",
+        "Nagios Software",
+        "Software Support",
+        "Government Contract",
+        "Solicitation",
+        "Goods and Services",
+        "Natural Resources Canada"
+    ]
+}

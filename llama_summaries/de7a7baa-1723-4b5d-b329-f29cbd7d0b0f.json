@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": ":{",
+    "type": " pschologist consultant",
+    "department": "Indigenous Services Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Consultative services of a Psychologist to...",
+    "description": "Consultative services of a P...",
+    "estimated_value": 0,
+    "date_posted": " 2022-11-07",
+    "duration_in_months": "value_overlap_type",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "Alberta"
+    ],
+    "tags": [
+        "psychologist",
+        "consultant",
+        "policy development",
+        "health benefits.",
+        "igc--General Garment "
+    ]
+}

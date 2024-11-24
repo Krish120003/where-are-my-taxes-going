@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "3629",
+    "type": "government_contract",
+    "department": "Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Request for Proposal for TOP SECRET - ENGINEERING AND INFRASTRUCTURE SECURITY",
+    "description": "This requirement is open only to those TBIPS EN578-170432 Supply Arrangement Holders who qualified under Tier 2 for services in the National Capital Region for the following categories: C.3 Information Technology Security TRA and C&A Analyst, C.6 IT Security Engineer, C.7a IT Security Design Specialist CDS (Cross Domain Solution), C.7b IT Security Design Specialist, C.8 Network Security Analyst. SPC intends to award one (1) contract for a period of two (2) years. Security Requirement: Minimum Corporate Security Required: FSC \u2013 Top Secret with Access to Control Goods and Foreign Ownership, Control or Influence (FOCI).",
+    "estimated_value": 1050741,
+    "date_posted": "2022-12-06",
+    "duration_in_months": "24-60 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Information Technology",
+        "Government Contract",
+        "Security",
+        "Engineering",
+        "Infrastructure"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "WS3912452962-Doc3964773473",
+    "type": "transportation",
+    "department": "Department of Public Works and Government Services (PSPC)",
+    "procurement_category": "Infrastructure Maintenance and Repair Services",
+    "short_summary": "title 1 fr",
+    "description": "Slection criteria is based on lowest price",
+    "estimated_value": 1000000,
+    "date_posted": "2023-04-13",
+    "duration_in_months": "And a third quarter",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "transportation",
+        "infrastructure",
+        "low cost"
+    ]
+}

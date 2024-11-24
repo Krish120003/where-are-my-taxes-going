@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "Parks Canada Agency Supply Arrangement - Extraction, Air Separation, Stratification and Propagation of Whitebark and Limber Pine Seeds, Mountain Parks Region",
+    "type": "Supply Arrangement",
+    "department": "environment",
+    "procurement_category": "Service",
+    "short_summary": "Delivery of seeds",
+    "description": "Delivery of whitebark and limber pine seeds",
+    "estimated_value": 770000.0,
+    "date_posted": "2023-02-22",
+    "duration_in_months": "No specific end date",
+    "provinces": [
+        "British Columbia",
+        "Alberta"
+    ],
+    "tags": [
+        "Government"
+    ]
+}

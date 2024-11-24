@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "SSC-23-00022749:T",
+    "type": "Request for Proposal",
+    "department": "Shared Services Canada",
+    "procurement_category": "*GD",
+    "short_summary": "DELL EQUIPMENT FOR SHARED SERVICES CANADASSC  SRDF cards and services- Amendment 000",
+    "description": "DELL EQUIPMENT FOR SHARED SERVICES CANADASSC SRDF cards and services- Amendment 000 ",
+    "estimated_value": 0.0,
+    "date_posted": "2023-05-15",
+    "duration_in_months": "><?=$result_cur[$Key1]*3//personnal_modifier?> <?php echo $result_cur[$Key2]*3+ $personnal_modifier2; ?>=?, ",
+    "provinces": [
+        "Ontario",
+        "Ontario"
+    ],
+    "tags": [
+        "Canadian Free Trade Agreement (CFTA)",
+        "Canada-Chile Free Trade Agreement (CCFTA)"
+    ]
+}

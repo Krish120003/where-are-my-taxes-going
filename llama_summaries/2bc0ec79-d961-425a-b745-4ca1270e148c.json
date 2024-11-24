@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "PW-23-01029769",
+    "type": "B.9",
+    "department": "Health Research Institutes of Canada",
+    "procurement_category": "*SRV",
+    "short_summary": "Gateway to Health Research",
+    "description": "Gateway to Health Research, the participation researcher and connector website, will be an online portal to connect participants from Canada, international participants to research projects(...)",
+    "estimated_value": 46140,
+    "date_posted": "2023-03-10",
+    "duration_in_months": "%s",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "TBIPS X 1"
+    ]
+}

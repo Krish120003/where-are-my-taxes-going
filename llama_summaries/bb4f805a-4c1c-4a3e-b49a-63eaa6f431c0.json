@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": ">{{$ok then ",
+    "type": "string",
+    "department": "department",
+    "procurement_category": "Service",
+    "short_summary": "Service",
+    "description": "And documentation",
+    "estimated_value": 0.0,
+    "date_posted": "data[contractingEntityAddressLine]",
+    "duration_in_months": " services to be delivered",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "Canada"
+    ]
+}

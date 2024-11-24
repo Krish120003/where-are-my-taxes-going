@@ -1,0 +1,13 @@
+{
+    "CONTRACT_ID": "SSC-23-00013166:T",
+    "type": "UAT Tender 6 - (Deny Notice) EN",
+    "department": "Shared Services Canada",
+    "procurement_category": "CNST",
+    "short_summary": "Just a short description",
+    "description": "A super long description that happens to be the English description.",
+    "estimated_value": 30000,
+    "date_posted": "2023-04-24",
+    "duration_in_months": "We have columns that are not provided yet, lets just represent them",
+    "provinces": [],
+    "tags": []
+}

@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "JR67692743",
+    "type": "CsvContractQuery_d",
+    "department": "External",
+    "procurement_category": "Goods",
+    "short_summary": "None",
+    "description": "None",
+    "estimated_value": 450.0,
+    "date_posted": "2021-12-01",
+    "duration_in_months": "None",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Electronics",
+        "Storage"
+    ]
+}

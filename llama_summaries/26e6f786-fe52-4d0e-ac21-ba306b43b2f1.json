@@ -1,0 +1,26 @@
+{
+    "CONTRACT_ID": "PW-22-01006397",
+    "type": "SW",
+    "department": "Transportation",
+    "procurement_category": "SRV",
+    "short_summary": "NRC needs to issue a service contract for snow removal at its Rosser Campus building. More information on the work to be done can be found in Appendix B.",
+    "description": "Data stands for Snow removal at NRC Rosser building",
+    "estimated_value": 500000,
+    "date_posted": "2022-09-23",
+    "duration_in_months": ", servicecontract",
+    "provinces": [
+        "Alberta",
+        "British Columbia",
+        "Ontario",
+        "Manitoba",
+        "Saskatchewan"
+    ],
+    "tags": [
+        "Water",
+        "Maintenance",
+        "Transportation",
+        "Finance",
+        "Ecological",
+        "Purchase"
+    ]
+}

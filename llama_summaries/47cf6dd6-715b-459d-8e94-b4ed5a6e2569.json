@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "3033",
+    "type": "REQUISITION",
+    "department": "National Defense",
+    "procurement_category": "Goods",
+    "short_summary": "This contract",
+    "description": " This procurement will result in a contract for the delivery",
+    "estimated_value": 10000,
+    "date_posted": "11/21/2022",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        " rack mount",
+        "KVM consoles"
+    ]
+}

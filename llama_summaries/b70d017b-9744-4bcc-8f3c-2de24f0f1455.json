@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "SSC-23-00021484",
+    "type": "tenderContact",
+    "department": "Shared Services Canada (SSC)",
+    "procurement_category": "SRV",
+    "short_summary": "Providing Local Internet Access Services (LIAS) for federal government sites across Canada",
+    "description": "Providing Local Internet Access Services (LIAS) for federal government sites across Canada",
+    "estimated_value": 0.0,
+    "date_posted": "February 7, 2023",
+    "duration_in_months": "x",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "tenders",
+        "RFP",
+        "IT",
+        "internet",
+        "access",
+        "services",
+        "Shared Services Canada"
+    ]
+}

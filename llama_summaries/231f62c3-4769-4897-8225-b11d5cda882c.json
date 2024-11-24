@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "EA372-210001/D",
+    "type": "Request for Contract",
+    "department": "Supply and Materiel Management",
+    "procurement_category": "*SRV",
+    "short_summary": "RMSO Temporary Help Services",
+    "description": "Trade Agreement: Canadian Free Trade Agreement (CFTA)\", ",
+    "estimated_value": 430,
+    "date_posted": "2022-10-17",
+    "duration_in_months": "(Approx. 14 months)",
+    "provinces": [
+        "New Brunswick",
+        "Newfoundland and Labrador",
+        "Nova Scotia",
+        "Prince Edward Island"
+    ],
+    "tags": [
+        "Financial",
+        "Government",
+        "Public Sector"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-22-01004439",
+    "type": "Construction",
+    "department": "Justice Canada",
+    "procurement_category": "Service Buildings",
+    "short_summary": "Construction: Build new walkway/pathway to Upper Terrace",
+    "description": "Construction of a new walkway/pathway to upper Terrace.",
+    "estimated_value": 50000,
+    "date_posted": "2022-08-16",
+    "duration_in_months": ".4",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "walkway",
+        "pathway",
+        "Canadian Federal Government",
+        "Government",
+        "Federal"
+    ]
+}

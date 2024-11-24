@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": ":[",
+    "type": "contract",
+    "department": "indigenous",
+    "procurement_category": "service",
+    "short_summary": "consulting",
+    "description": "change management consultant for indigenous services canada",
+    "estimated_value": 50000,
+    "date_posted": "2023-01-24",
+    "duration_in_months": "httpAttachment_link[0]",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "request for proposal",
+        "consulting services",
+        "change manager"
+    ]
+}

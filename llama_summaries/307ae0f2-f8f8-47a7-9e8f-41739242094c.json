@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "3404",
+    "type": "HYDRAULIC HPMS",
+    "department": "defense",
+    "procurement_category": "Supply",
+    "short_summary": "The Canadian defense projet is looking purchase a package of hydraulic/pump sub assemblies for use on the HMCS ships",
+    "description": "The contract pertains to a procurement for a package of hydraulic pump assemblies for the Royal Canadian Navy",
+    "estimated_value": 92000.0,
+    "date_posted": "2023-02-15 00:13:12",
+    "duration_in_months": "9",
+    "provinces": [
+        "British Columbia",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "marine",
+        "navy",
+        "h.m.c.s."
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "5000072195-B",
+    "type": "blackContract",
+    "department": "Natural Resources Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Janitorial Svcs for the GRFC. Re-solicitation",
+    "description": "This is the re-solicitation of RFP 5000072195, NRCan did not receive any responsive bids in response to the RFP.",
+    "estimated_value": 0,
+    "date_posted": "2023-04-04",
+    "duration_in_months": "The contract will run from June 1, 2023, to May 31, 2026, of about 36 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "RFP",
+        "Re-solicitation",
+        "cancelled"
+    ]
+}

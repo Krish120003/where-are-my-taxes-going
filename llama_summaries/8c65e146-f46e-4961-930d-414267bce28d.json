@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "default",
+    "type": "json",
+    "department": "IT",
+    "procurement_category": "*GD",
+    "short_summary": "The procurement is of Dell servers with warranty support and maintenance.",
+    "description": "The Contract for the Dell servers shall be distributed by Shared Services Canada to the Department of National Defence, and,",
+    "estimated_value": 329.67,
+    "date_posted": "2024-02-08",
+    "duration_in_months": "].(String).contains(",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "trade agreement",
+        "requests for proposal",
+        "government-contract",
+        "data-product",
+        "server-computer"
+    ]
+}

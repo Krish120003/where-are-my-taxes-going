@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "T8080-230636",
+    "type": "ROW",
+    "department": "TRANSPORT",
+    "procurement_category": "SRV",
+    "short_summary": "PROVISION OF GEO-METRICS SERVICE TO NARW",
+    "description": "PROTECTION MEASURES-->CARTOGRAPHIC SUPPORT GEO-METRICS ANALYSIS",
+    "estimated_value": 50.0,
+    "date_posted": "2024-11-20",
+    "duration_in_months": ".=Specification_for_T8080-230636 WinWordB47231kQz",
+    "provinces": [
+        "New Brunswick",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "ggeospatial data",
+        "resource access",
+        "network security",
+        "sustainable transportation",
+        "collision avoidance systems",
+        "fishing gear entanglement",
+        "gis geographic information systems",
+        "data collection"
+    ]
+}

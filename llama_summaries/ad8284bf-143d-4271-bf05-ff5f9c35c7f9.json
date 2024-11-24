@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "1050",
+    "type": "json",
+    "department": "Defence",
+    "procurement_category": "Competition",
+    "short_summary": "",
+    "description": "DECONTAMINATING AGENT",
+    "estimated_value": 60000.0,
+    "date_posted": "2022-08-17",
+    "duration_in_months": "is_expired",
+    "provinces": [
+        "Nova Scotia"
+    ],
+    "tags": [
+        "chimique",
+        "egalitaire"
+    ]
+}

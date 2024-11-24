@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "}CONTRACT_VALUE",
+    "type": "contract",
+    "department": "Health Canada",
+    "procurement_category": "services",
+    "short_summary": "This is a requirement for Health Canada to better inform Canadians to help them make healthy choices by modernizing business efficiency, and coordinating Information Technology (IT) systems have been involved in various IT projects.",
+    "description": "This requirement is open only to those who have qualified under Tier 1 for services in the National Capital Region. Health Canada plans to invest in various IT projects to ensure that systems conform to departmental standards and functional requirements. HPFB plans to contract and manage qualified resources to assist in ensuring that all Canadians are informed and the goals and needs of the HPFB can be met. As such, Health Canada has a requirement up to two (2) Testers and up to three (3) Business System Analysts to support IT projects across the HPFB on an as and when required basis.",
+    "estimated_value": 1500000,
+    "date_posted": "2022-11-25",
+    "duration_in_months": "M-O-O",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "D302A",
+        "Informatics Professional Services",
+        "*Informatics Professional Services",
+        "SPICT: Direction g\u00e9n\u00e9rale des produits de sant\u00e9 et des aliments (DGPSA): Testeur/Analyse des syst\u00e8mes op\u00e9rationnels"
+    ]
+}

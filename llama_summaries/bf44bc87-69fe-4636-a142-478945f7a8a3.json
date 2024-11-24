@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW_NCS-101-12302",
+    "type": "BID",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "SRV",
+    "short_summary": " Fort McPherson Parcel Surveys",
+    "description": "For the legal survey of all artificial boundaries and preparation of a Plan of Survey or Compiled Plan and associated Field Notes of Survey suitable for registration at the Land Titles Office for each of the following parcels: 7, 8, 21, 22, 26, F, G and O near Fort McPherson, Northwest Territories.",
+    "estimated_value": 50000,
+    "date_posted": "2022-08-22",
+    "duration_in_months": "cutoff date",
+    "provinces": [
+        "Northwest Territories"
+    ],
+    "tags": [
+        "Surveying and Mapping Services",
+        "Fort McPherson",
+        "Parcel Surveys"
+    ]
+}

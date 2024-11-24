@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-23-01017852",
+    "type": "json",
+    "department": "Landuse",
+    "procurement_category": "Infrastructure",
+    "short_summary": "This notice has been cancelled.",
+    "description": "This notice has been cancelled. /Le prsent avis a t annul",
+    "estimated_value": 0,
+    "date_posted": "2023-01-09",
+    "duration_in_months": "At least 1 month",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Maintenance et mise  jour du contenu de site web"
+    ]
+}

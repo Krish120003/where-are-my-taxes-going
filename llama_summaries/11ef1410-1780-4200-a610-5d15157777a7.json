@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "DCC-IT-020-01",
+    "type": "JSON",
+    "department": "Construction de D\u00c3??/Defence Construction Canada",
+    "procurement_category": "Srv",
+    "short_summary": "Strategic Assurance Consultant Services - Digital Business Capability",
+    "description": "provide third party, independent guidance, recommendations and assurance services on industry standard approaches and digital transformation trends and technologies to successfully implement and meet requirements of DCC s DBC initiative.",
+    "estimated_value": 500,
+    "date_posted": "2022-09-14",
+    "duration_in_months": "id",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "digital_business_capability",
+        "strategic_assurance",
+        "consultant_services"
+    ]
+}

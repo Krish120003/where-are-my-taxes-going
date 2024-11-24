@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "5193",
+    "type": "object",
+    "department": "Public Works and Government Services Canada (PWGSC)",
+    "procurement_category": "SRV",
+    "short_summary": "TASK Based Professional Services (TSPS) Requirement",
+    "description": "The contract is for the provision of privacy related services for the implementation of projects and operational requirements aligned with the Privacy Risk Mitigation Action plan and the PIA Directive.",
+    "estimated_value": 0,
+    "date_posted": "2023-03-30",
+    "duration_in_months": ">{{Isoformating(",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Public Health and Safety",
+        "IT Infrastructure",
+        "Privacy"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "CORE CONTRACT",
+    "type": "Contract",
+    "department": "dept1, dept2",
+    "procurement_category": "imported",
+    "short_summary": "fuel oil",
+    "description": "data used for contract cost analysis",
+    "estimated_value": 154240.51,
+    "date_posted": "2023-09-06",
+    "duration_in_months": "On going",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "fuel",
+        "oil",
+        "contract"
+    ]
+}

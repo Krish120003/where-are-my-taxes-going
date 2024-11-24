@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "3975",
+    "type": "Research Study",
+    "department": "Canadian Nuclear Safety Commission (CNSC)",
+    "procurement_category": "*SRV",
+    "short_summary": "Research study assessing the probabilities of large truck accidents  ",
+    "description": "The research project will investigate the effect accidents involving alcohol and drugs, disobeying traffic controls and maintenance issues, have on the probabilities of a severe accident. While Canadian regulations for the transportation of radioactive material are adequate to ensure protection of the environment and the health and safety of people, this research project will improve our understanding of the safety of the transport of radioactive material. It will provide a useful tool for communicating the regulatory requirements and relative safety risks related to the transport of radioactive material to the public.",
+    "estimated_value": 35.038,
+    "date_posted": "2022-11-09",
+    "duration_in_months": ">= 12",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "*Regulatory Studies",
+        "*Radioactive Transport Risk Assessment"
+    ]
+}

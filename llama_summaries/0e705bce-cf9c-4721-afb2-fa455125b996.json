@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-__FK-315-81427",
+    "type": "Service Contract",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "Services & Consulting",
+    "short_summary": "De-icing systems for dams",
+    "description": "This is an in-service support De-icing systems for dams",
+    "estimated_value": 10000.0,
+    "date_posted": "2022-10-14",
+    "duration_in_months": "36",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "service_contract",
+        " dam_de_icing",
+        "public_works_and_services_canda "
+    ]
+}

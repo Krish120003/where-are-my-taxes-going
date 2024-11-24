@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "100210EJPDF",
+    "type": "CONTRACT",
+    "department": "CONTACT",
+    "procurement_category": "Engineering Services",
+    "short_summary": "Building Design",
+    "description": "We are looking for a consultant to design or redesign one-building project.",
+    "estimated_value": 40.2,
+    "date_posted": "2019-06-28T14:15:01.1162956Z",
+    "duration_in_months": "warranty period not applicable",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Infrastructure",
+        "Parks and Open Space"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "WS3865030174-Doc3873913959",
+    "type": "contrat",
+    "department": "DND",
+    "procurement_category": "metal",
+    "short_summary": "Sewer pump repair ",
+    "description": "Bidding deadline: March 15, 2023 2:00 PM P.D.T. and all bids must meet the specifications in the .pdf, [attached]. Current scheduled completion date: April 3, 2023. Length requirement of approximately 30 days",
+    "estimated_value": 1550000,
+    "date_posted": "2023-02-15",
+    "duration_in_months": "id contractual_start_date.Optional ",
+    "provinces": [
+        "Nova Scotia"
+    ],
+    "tags": [
+        "Sewer Lifting Station Pumps",
+        "Sewer Line",
+        "Construction"
+    ]
+}

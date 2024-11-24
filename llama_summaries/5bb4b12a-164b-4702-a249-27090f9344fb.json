@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "1411",
+    "type": "string",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Translation Services",
+    "description": "Translation services for the Translation Bureau, from English to French, in the field of Government contracts and procurement, with a volume of up to 10,000,000 words.",
+    "estimated_value": 10,
+    "date_posted": "2023-01-11",
+    "duration_in_months": "4",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "translation services",
+        "government contracts",
+        "procurement"
+    ]
+}

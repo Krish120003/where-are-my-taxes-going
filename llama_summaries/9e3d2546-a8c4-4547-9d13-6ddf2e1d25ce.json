@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "2278",
+    "type": "Annul\u00e9",
+    "department": "CC-SGI",
+    "procurement_category": "Conditionnement g\u00e9n\u00e9rale",
+    "short_summary": "Purchase of 5 million medical masks.",
+    "description": "Given that other departments may require additional stock, see section 2.1 of SOP(s) for prices as input to anticipated Disposable Stock and applicable Compliance Date(s) for viable M Conditions",
+    "estimated_value": 2500000.0,
+    "date_posted": "2020-03-20",
+    "duration_in_months": "],",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "COVID-19"
+    ]
+}

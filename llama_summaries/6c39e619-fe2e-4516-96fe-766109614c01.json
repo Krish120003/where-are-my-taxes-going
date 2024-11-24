@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "Some identifier",
+    "type": "cabin boat",
+    "department": "fisheries and oceans",
+    "procurement_category": "goods and services",
+    "short_summary": "purchase of cabin boats",
+    "description": "construction of four passenger cabin boats",
+    "estimated_value": 300000,
+    "date_posted": "November 11, 2022",
+    "duration_in_months": ".6",
+    "provinces": [
+        "Nova Scotia",
+        "New Brunswick"
+    ],
+    "tags": [
+        "novels-books",
+        "east-coast",
+        "ship-building"
+    ]
+}

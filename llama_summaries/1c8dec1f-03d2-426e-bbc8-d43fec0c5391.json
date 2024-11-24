@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": ":",
+    "type": "Supplier quote",
+    "department": "Public Works",
+    "procurement_category": "Services",
+    "short_summary": "Security services for parliamentary buildings",
+    "description": "The Parliamentary Protective Service (Service) is looking to qualify Suppliers to provide 3rd party security services in various building occupied by the Senate of Canada (Sen), Parliamentary Protective Service (PPS), the House of Commons (HoC) and Library of Parliament (LoP) employees, Senators, Members of Parliament, Senate and House Officers on an ongoing basis ",
+    "estimated_value": 0,
+    "date_posted": "34996 days ago",
+    "duration_in_months": "value use case 12",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "government procurement",
+        "parliamentary security",
+        "open tender",
+        "Request for Proposal"
+    ]
+}

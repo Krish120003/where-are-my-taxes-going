@@ -1,0 +1,33 @@
+{
+    "CONTRACT_ID": "><FONT size=-1>2830580</FONT>",
+    "type": "Whole Number",
+    "department": " suppliers",
+    "procurement_category": "SRV",
+    "short_summary": "",
+    "description": "This tender was cancelled",
+    "estimated_value": 0.0,
+    "date_posted": "2020-03-31",
+    "duration_in_months": "9",
+    "provinces": [
+        "Alberta",
+        "British Columbia",
+        "Manitoba",
+        "New Brunswick",
+        "Newfoundland and Labrador",
+        "Northwest Territories",
+        "Nova Scotia",
+        "Nunavut",
+        "Ontario",
+        "Prince Edward Island",
+        "Quebec",
+        "Saskatchewan",
+        "Yukon"
+    ],
+    "tags": [
+        "cw_tenders_completed",
+        "filled_tenders",
+        "suppliers_for_crowsnest_team",
+        "completed_cw_tenders",
+        "skew_tender_completion_date"
+    ]
+}

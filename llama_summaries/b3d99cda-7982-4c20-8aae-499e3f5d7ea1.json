@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "SSC-23-00014761:T",
+    "type": "E",
+    "department": "I",
+    "procurement_category": "*CNST",
+    "short_summary": "Unable to edit Opening and test 3",
+    "description": "Solicitation - Unable to edit Opening and test 3",
+    "estimated_value": 0,
+    "date_posted": "2023-04-24",
+    "duration_in_months": ">{Number of months that the tender will run for. This information is  could not be determined form the data in the record}{/Number of months that the tender will run for.",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "WRECKING AND DEMOLITION",
+        "*CNST"
+    ]
+}

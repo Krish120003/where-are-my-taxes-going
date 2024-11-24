@@ -1,0 +1,38 @@
+{
+    "CONTRACT_ID": "526933846858",
+    "type": "TENDER",
+    "department": "OCCRDR",
+    "procurement_category": "Good and Services",
+    "short_summary": "Procurement of contract for Supply of Fresh Fruits and Vegetables to OCCR-DR department",
+    "description": "Supply of Fruit and Vegetables",
+    "estimated_value": 138.94,
+    "date_posted": "2023-04-10",
+    "duration_in_months": "9",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "Nova Scotia",
+        "Newfoundland and Labrador"
+    ],
+    "tags": [
+        "TTF=",
+        "OC",
+        "IT",
+        "INFRASTRUCE",
+        "INFRASTRUCTURE",
+        "FAB",
+        "publiwork",
+        "procurement category H:",
+        "  ID APS ",
+        "PYODULE",
+        "project",
+        "pub.http",
+        "pub']",
+        "tendersubcategories",
+        "of_terms",
+        "call_number",
+        "note_id",
+        "attribute",
+        "[Schema data schema.items[]]"
+    ]
+}

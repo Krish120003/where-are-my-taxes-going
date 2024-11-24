@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "3089",
+    "type": "json",
+    "department": "Public Works and Government Services (PSPC)",
+    "procurement_category": "Construction Services",
+    "short_summary": "HVAC Renovations",
+    "description": " Renovations and updates to Heating, Ventilation and Air Conditioning (HVAC) systems",
+    "estimated_value": 200,
+    "date_posted": "1/12/2022",
+    "duration_in_months": ";8",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canada"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "SSC-23-00021575:T",
+    "type": "JSON",
+    "department": "Public Services and Procurement Canada",
+    "procurement_category": "General Goods Services (GD)",
+    "short_summary": "Phire or equivalent",
+    "description": "Phire or equivalent for Public Services and Procurement Canada",
+    "estimated_value": 100,
+    "date_posted": "2023-01-25",
+    "duration_in_months": ".end_date",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "ADP Software",
+        "Logiciel TAI",
+        "*N7030"
+    ]
+}

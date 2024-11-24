@@ -1,0 +1,15 @@
+{
+    "CONTRACT_ID": ">{{$1.GetHashCode())-41}}, the contract number is: {number 1}, the contract name is: {title}**, and description**} CONTENT OF Note: {Notice}. The estimated cost is {cost}. The work must be completed no later than {endDate}. This contract is a part of {numberOfBids} bids. The selected contractor will be required to hold a valid {SecurityLevel} security clearance. The contract is conducted in accordance with {rulesOrRegulations} requirements. The preliminary tender results will be available on {preliminaryResults}.* Bidders can obtain contract award results from the {contractAwardResults} website.* Bidders who contact anyone other than the {contractingAuthority} during the solicitation period may, for that reason alone, be disqualified.* Bidders can obtain contract award results from the {contractAwardResults} website. The selected contractor will be responsible for the {responsibilities}. The estimated cost for this opportunity is in the range of {estimatedCost}. The work must be completed no later than {CompareTo}.en(dd MMM yyyy)KDescription ",
+    "type": " contractFind synchronous initializations format.</p><p> ",
+    "department": " Construction",
+    "procurement_category": "Service",
+    "short_summary": "For it analysis ",
+    "description": " Inspection, Testing and Maintenance Services for Emergency Generators &amp; Transfer  Switches . ]] Description Of Tender ",
+    "estimated_value": 2700000.0,
+    "date_posted": " 2023-02-15",
+    "duration_in_months": ",",
+    "provinces": [],
+    "tags": [
+        "chancellery"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "CONTRACT_ID": "",
+    "type": "string",
+    "department": "National Defence",
+    "procurement_category": "SRV",
+    "short_summary": "Contract cancelled",
+    "description": "Not available",
+    "estimated_value": 0.0,
+    "date_posted": "2022-09-23",
+    "duration_in_months": "type-null",
+    "provinces": [
+        "Manitoba"
+    ],
+    "tags": [
+        "procurement",
+        "contract",
+        "cancelled",
+        "tirer",
+        "register",
+        "declaration",
+        "adbumstation",
+        "placement",
+        "pritmnation",
+        " Investigation",
+        " interruption",
+        " bureaucratatical publi",
+        "reletion",
+        "]} (remove duplicates and whitespace from tags list) and in the desired format please remove the numeric IDs and add the numeric value in the type field only if it was available, if not then type should be string.  Here is my correction format:  Output in JSON see below-   { "
+    ]
+}

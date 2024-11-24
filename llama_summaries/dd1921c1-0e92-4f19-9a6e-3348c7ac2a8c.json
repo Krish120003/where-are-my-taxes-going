@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "?field name not present in provided json data",
+    "type": "construction",
+    "department": "justice",
+    "procurement_category": "construction",
+    "short_summary": "building construction for forensic identification office and lab",
+    "description": "The Royal Canadian Mounted Police (RCMP) requires construction services for an approximately 572 m\u00b2 forensic identification office and laboratory in Port Moody, BC. The contract period will be for six months from the date of contract. The anticipated start date is as soon as possible. ...}, ",
+    "estimated_value": 1140430.79,
+    "date_posted": "Tier 1:",
+    "duration_in_months": ",",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "RCMP",
+        "GRC",
+        "NFPIS",
+        "PFI",
+        "UBC",
+        "? Field name not present in provided json data"
+    ]
+}

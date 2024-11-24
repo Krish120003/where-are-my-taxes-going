@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "[some_int]",
+    "type": "[cancelled/Released]",
+    "department": "[dept name]",
+    "procurement_category": "government",
+    "short_summary": "",
+    "description": "acbdcde",
+    "estimated_value": 23.45,
+    "date_posted": "2022-12-15T14:30:00.000Z",
+    "duration_in_months": "3",
+    "provinces": [
+        "British Columbia",
+        "Alberta",
+        "Saskatchewan",
+        "Ontario"
+    ],
+    "tags": [
+        "Health",
+        "Medical",
+        "Research"
+    ]
+}

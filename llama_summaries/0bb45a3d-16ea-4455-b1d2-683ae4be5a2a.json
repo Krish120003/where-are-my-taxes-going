@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "2412",
+    "type": "bid",
+    "department": "Senate",
+    "procurement_category": "General",
+    "short_summary": "Supply Office Furniture",
+    "description": "Office Furniture and Install",
+    "estimated_value": 696000.0,
+    "date_posted": "2022-09-27",
+    "duration_in_months": "description",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Procurement",
+        "bid",
+        "Office Furniture",
+        "Installation",
+        "Senator"
+    ]
+}

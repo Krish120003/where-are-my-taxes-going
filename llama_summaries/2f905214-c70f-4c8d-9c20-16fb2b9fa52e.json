@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "cb-4177-4538160",
+    "type": "RFQ",
+    "department": "National Defence",
+    "procurement_category": "*SRV",
+    "short_summary": "Labor services for METC Valcartier and METC Nicolet.",
+    "description": "National Defence seeks labour services to support operations at METC Valcartier and METC Nicolet. The work includes activities outlined in Section 4 of annex A - Statement of Work. The Department has a security requirement associated with this requirement. For more information see the Industrial Security Program (ISP) of Public Works and Government Services Canada (https://ssi-iss.tpsgc-pwgsc.gc.ca/index-eng.html). ",
+    "estimated_value": 250,
+    "date_posted": "2023-03-10",
+    "duration_in_months": "There is no valid value for duration_in_months. ",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "RFQ",
+        "Labor",
+        "Security"
+    ]
+}

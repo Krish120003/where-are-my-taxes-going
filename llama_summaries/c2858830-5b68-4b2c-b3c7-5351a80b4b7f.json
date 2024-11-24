@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "1000247420",
+    "type": "contract",
+    "department": "health",
+    "procurement_category": "service",
+    "short_summary": "Climate Change and Ambient Air Pollution",
+    "description": "The objective of this project is to examine changes in associations between health outcomes (hospitalization, emergency visit, mortality), APs (ozone, NO2, PM2.5, SO2, and black carbon) and climate change in Canada. ",
+    "estimated_value": 10000,
+    "date_posted": "2023-01-24",
+    "duration_in_months": ".}`, ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "climate change",
+        "air pollution",
+        "health outcomes",
+        "healthcare"
+    ]
+}

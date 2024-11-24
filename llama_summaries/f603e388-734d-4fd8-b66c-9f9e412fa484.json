@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "></CONTRACT_ID>",
+    "type": "string",
+    "department": "department of national defense",
+    "procurement_category": "*gd",
+    "short_summary": "request for proposal",
+    "description": "notice of proposed procurement the department of national defense has a requirement for the items detailed below the delivery is requested at cfb esquimalt, british columbia",
+    "estimated_value": 0.0,
+    "date_posted": "2020-09-10",
+    "duration_in_months": "welding",
+    "provinces": [
+        "Ontario",
+        "British Columbia"
+    ],
+    "tags": [
+        "active english only"
+    ]
+}

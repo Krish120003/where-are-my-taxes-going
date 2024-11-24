@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "3405",
+    "type": "acquisition",
+    "department": "national_defence",
+    "procurement_category": "Goods",
+    "short_summary": "Pneumatic products",
+    "description": "The National Defence is looking to procure valves, specifically GSIN required valves, to be delivered at CBO Halifax and CBF Esquimalt.",
+    "estimated_value": 30,
+    "date_posted": "2022-11-09",
+    "duration_in_months": ", ",
+    "provinces": [
+        "British Columbia",
+        "Nova Scotia",
+        "Ontario"
+    ],
+    "tags": [
+        "Pneumatic products",
+        "Valves "
+    ]
+}

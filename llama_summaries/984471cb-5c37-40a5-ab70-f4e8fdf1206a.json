@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "[PWC] - Addendum # [MOD NUMBER]",
+    "type": "Research Study",
+    "department": "Fisheries and Oceans Canada",
+    "procurement_category": "Service",
+    "short_summary": "\"Fisheries Resources Management Services\"",
+    "description": "display_text from \"texts.json file\"",
+    "estimated_value": 18.33,
+    "date_posted": "2022-10-25T00:00:00.000-0300",
+    "duration_in_months": "24",
+    "provinces": [
+        "British Columbia",
+        "Ontario"
+    ],
+    "tags": [
+        "Research Study",
+        "Fisheries and Oceans Canada"
+    ]
+}

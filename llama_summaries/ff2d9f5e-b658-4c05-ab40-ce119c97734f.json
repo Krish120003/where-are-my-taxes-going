@@ -1,0 +1,26 @@
+{
+    "CONTRACT_ID": "Yes, this item matches the expression",
+    "type": "Diesel fuel",
+    "department": "Defense",
+    "procurement_category": "Open Bidding",
+    "short_summary": "Diesel fuel delivered DDP Port of Quebec City",
+    "description": "Diesel fuel delivered DDP Port of Quebec City",
+    "estimated_value": 40000,
+    "date_posted": "2023-05-09",
+    "duration_in_months": "13",
+    "provinces": [
+        "Quebec",
+        "Nunavut"
+    ],
+    "tags": [
+        "Diesel fuel",
+        "Quebec",
+        "Canada",
+        "Procurement",
+        "Purchase",
+        "Diesel fuel",
+        "Diesel fuel delivered",
+        "Quebec City",
+        "Quebec"
+    ]
+}

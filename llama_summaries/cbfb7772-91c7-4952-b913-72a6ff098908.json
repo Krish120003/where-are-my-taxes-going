@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "wS3569383811.Doc3731059152",
+    "type": "perview",
+    "department": "public works",
+    "procurement_category": "office furniture",
+    "short_summary": "Purchase and installation of group work pods",
+    "description": "data description",
+    "estimated_value": 100,
+    "date_posted": "October 31 2022",
+    "duration_in_months": "4",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "office furniture",
+        "public works",
+        "government service"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "496",
+    "type": "JSON",
+    "department": "Service correctionnel du Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Computer skills training program for offenders",
+    "description": "Advanced Contract Award Notice (ACAN)An advanced contract award notice (ACAN) is a public notice indicating to the supplier community that a department or agency intends to award a contract for goods, services or construction to a pre-identified supplier, thereby allowing other suppliers to signal their interest in bidding, by submitting a statement of capabilities. If no supplier submits a statement of capabilities that meets the requirements set out in the ACAN, on or before the closing date and time stated in the ACAN, the contracting officer may then proceed with the award to the pre-identified supplier.",
+    "estimated_value": 284525.41,
+    "date_posted": "2023-01-19",
+    "duration_in_months": "1",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "Alberta"
+    ],
+    "tags": [
+        "Contract Award Notice",
+        "Government Contract",
+        "Canada"
+    ]
+}

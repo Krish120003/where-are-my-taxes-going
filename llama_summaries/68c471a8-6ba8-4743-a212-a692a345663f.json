@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "class RFP",
+    "type": "BIDDING",
+    "department": "_fire_protection",
+    "procurement_category": "service_contract",
+    "short_summary": "Req for fire detection and supression services",
+    "description": " Servicing of fire alarm systems, including maintenance , instillation and repair",
+    "estimated_value": 20233110.91,
+    "date_posted": "2022-11-09",
+    "duration_in_months": "42",
+    "provinces": [
+        "Manitoba"
+    ],
+    "tags": [
+        "Fire ]",
+        "physical_delivery_regions"
+    ]
+}

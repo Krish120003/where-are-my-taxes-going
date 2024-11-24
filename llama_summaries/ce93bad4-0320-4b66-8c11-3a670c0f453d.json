@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "2890",
+    "type": "contract_id",
+    "department": " <b> Public Works and Government Services (PSPC)</b> (+original)  <b> Minist\u00e8re des Travaux publics et des Services gouvernementaux (SPAC)</b>",
+    "procurement_category": "*SRV",
+    "short_summary": " <b> Health Services and Pharmaceutical Goods</b>",
+    "description": "  provides Accommodations and food distribution support medical first aid and site management centers",
+    "estimated_value": 1000000,
+    "date_posted": " <b>2022-11-01</b>",
+    "duration_in_months": "32",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "medical first aid and site management,accommodations and food distribution suppot medical first aid"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "10222412",
+    "type": "SAP Business Intelligence/BI/BOBJ Contract for Canadian HeritageContract",
+    "department": "Canadian Heritage",
+    "procurement_category": "SRV",
+    "short_summary": "Senior developer services for a one-year contract.",
+    "description": "The contract is for the services of senior SAP developers to manage a SAP BW-IP/BI/BOBJ solution for Canadian Heritage (PCH).",
+    "estimated_value": 185381.12,
+    "date_posted": "2023-02-08",
+    "duration_in_months": ">12 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "SAP Business Intelligence/BI/BOBJ Contract",
+        "Senior developer services"
+    ]
+}

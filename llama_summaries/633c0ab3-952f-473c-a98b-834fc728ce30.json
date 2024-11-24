@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "SSC-22-00019694:T2",
+    "type": "services",
+    "department": "National Defence",
+    "procurement_category": "good",
+    "short_summary": "CEPH storage cluster for defence research ",
+    "description": "Defence research and development canada needs a ceph-based data storage cluster to store data from experiments ; part of the system will be a redundant storage cluster located off-site. TT is a 5 - year warranty with option to purchase additional hardware and support .",
+    "estimated_value": 171339.49,
+    "date_posted": "2022-09-06",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "CEPH storage cluster",
+        "defence research development canadra"
+    ]
+}

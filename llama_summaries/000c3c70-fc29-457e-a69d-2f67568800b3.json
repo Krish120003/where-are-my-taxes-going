@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "SW-91324",
+    "type": "Contract Information",
+    "department": "Shared Services Canada",
+    "procurement_category": "Goods",
+    "short_summary": "To provide Videofied Theft Solutions equipment to replace existing burglary alarm systems for the high risk target facilities.",
+    "description": "Please provide your Equipment hardware inventory with your quote.",
+    "estimated_value": 1188,
+    "date_posted": "2023-06-30",
+    "duration_in_months": ">{{$date-lang.tr81d2c74 =",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "British Columbia"
+    ],
+    "tags": [
+        "RFQ",
+        "Videofied Theft Solutions"
+    ]
+}

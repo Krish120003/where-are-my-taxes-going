@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "9F019-22-0273",
+    "type": "Services",
+    "department": "Canadian Space Agency",
+    "procurement_category": "SRV",
+    "short_summary": "Intranet site redesign",
+    "description": "Redesign of the Canadian Space Agency intranet site",
+    "estimated_value": 4474000,
+    "date_posted": "2023-02-28",
+    "duration_in_months": "Fifteen months",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Digital Transformation",
+        "Microsoft 365",
+        "SharePoint",
+        "Intranet Redesign",
+        "Canadian Space Agency"
+    ]
+}

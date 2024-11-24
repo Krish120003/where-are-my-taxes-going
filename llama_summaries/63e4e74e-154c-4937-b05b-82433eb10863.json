@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "3024",
+    "type": "contract",
+    "department": "federal",
+    "procurement_category": "service",
+    "short_summary": "Harassment Investigation Services",
+    "description": "Investigation is done by one or more qualified and experienced Proponents for breaches to the Code of Conduct or Harassment & Violence in the Workplace policy.",
+    "estimated_value": 10.0,
+    "date_posted": "2022-10-19",
+    "duration_in_months": "_duration",
+    "provinces": [
+        "Saskatchewan"
+    ],
+    "tags": [
+        "harassment investigation"
+    ]
+}

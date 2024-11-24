@@ -1,0 +1,27 @@
+{
+    "CONTRACT_ID": "1000030656-002",
+    "type": "RFQ",
+    "department": "Justice",
+    "procurement_category": "SRV",
+    "short_summary": "quantitative research services",
+    "description": "quantitative research services on issues related to criminal justice system involvement",
+    "estimated_value": 46.5,
+    "date_posted": "2023-04-03",
+    "duration_in_months": "25",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "quantitative research",
+        "criminal justice system",
+        "indigenous",
+        "black",
+        "racedialized",
+        "demographic",
+        "economic",
+        "social",
+        "safety",
+        "justice",
+        "Canada"
+    ]
+}

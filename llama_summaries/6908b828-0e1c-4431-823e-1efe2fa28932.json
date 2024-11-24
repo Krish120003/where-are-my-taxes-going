@@ -1,0 +1,26 @@
+{
+    "CONTRACT_ID": "PW-23-01024923",
+    "type": "json",
+    "department": "learning",
+    "procurement_category": "SRV",
+    "short_summary": "Instructional Design and Development Services",
+    "description": "Instructional design and development services for the Department of National Defence.",
+    "estimated_value": 3750000.0,
+    "date_posted": "2023-02-07",
+    "duration_in_months": ">=96<",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "instructional design",
+        "training",
+        "education",
+        "services",
+        "SRV",
+        "Competitive - Open Bidding",
+        "up to  $3,750,000.00",
+        "Region of National Capital Region",
+        "Component - Service"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-22-01005867",
+    "type": "JSON",
+    "department": "Health",
+    "procurement_category": "Supply Commitment",
+    "short_summary": "COVID-19 voluntary rapid antigen testing on-site",
+    "description": "The project is to provide employees returning to the physical workplace with a voluntary antigen rapid test. This aims to help limit the spread of the virus and increase the safety of the workplace. Ensure service will include, but not be limited to: \u2022 active participation in daily assignment of colleagues and all practitioner personnel for the antigen tests; \u2022 insure antigen test kits exist within testing panels; \u2022 ready the required information and conducting the antigen test.",
+    "estimated_value": 500000,
+    "date_posted": "September 2022",
+    "duration_in_months": "pull from solicitation",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "COVID-19",
+        "rapid testing",
+        "voluntary"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-23-01028430",
+    "type": "project FIre alarm",
+    "department": "Royal Canadian Mounted Police",
+    "procurement_category": "],[",
+    "short_summary": "Remove and replace fire alarm panels in 13 buildings and install demarcation, transmitter, and wiring in 26 buildings.",
+    "description": "Project includes two phases: Phase 1: pre-qualification of bidders, Phase 2: financial bidding and contract award.",
+    "estimated_value": 100.0,
+    "date_posted": "2023-03-01",
+    "duration_in_months": "]. append(new_row) RETURNING JSONMS given this data can you help me format it into a JSON format given the requested specifications below while also using it to create a table? Since I have double quotes around the `contractnumber` the JSON formatter would not be able to read the data as the key doesn{ ",
+    "provinces": [
+        "Saskatchewan",
+        "Ontario"
+    ],
+    "tags": [
+        "@contract"
+    ]
+}

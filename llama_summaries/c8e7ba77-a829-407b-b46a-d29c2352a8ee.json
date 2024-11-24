@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "We are unable to determined the Contract ID in the data. The data provided does not include a direct reference to a contract ID, but it does mention a solicitation number 'BPM017688/21176.'",
+    "type": "object",
+    "department": "Shared Services Canada",
+    "procurement_category": "*GD",
+    "short_summary": "Request for Digital Signatures Solution for Transport Canada(TC)  ",
+    "description": "Shared Services Canada (SSC), on behalf of Transport Canada (TC), has a requirement for a Digital Signature Solution. Transport Canada (TC) is looking to implement a digital signature solution to support the need for digital signature for external clients/stakeholders.",
+    "estimated_value": 7147500,
+    "date_posted": "2023-01-02",
+    "duration_in_months": "],",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Digital",
+        "Signatures",
+        "Transport",
+        "Canada"
+    ]
+}

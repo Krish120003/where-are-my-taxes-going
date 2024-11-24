@@ -1,0 +1,33 @@
+{
+    "CONTRACT_ID": "EVC01-202003/B",
+    "type": "Bid",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Request For Proposal (RFP) - Medium/Large Vessel Recycling Services",
+    "description": "Trade Agreement: CETA/WTO-AGP/CPTPP/CFTA/FTAs with Peru/Colombia/Panama/Korea/UK",
+    "estimated_value": 1500000,
+    "date_posted": "2024-03-04",
+    "duration_in_months": ",",
+    "provinces": [
+        "Alberta",
+        "British Columbia",
+        "Manitoba",
+        "New Brunswick",
+        "Newfoundland and Labrador",
+        "Northwest Territories",
+        "Nova Scotia",
+        "Nunavut",
+        "Ontario",
+        "Prince Edward Island",
+        "Quebec",
+        "Saskatchewan",
+        "Yukon"
+    ],
+    "tags": [
+        "publicwork",
+        "governmentprocurement",
+        "bidding",
+        "contractaward",
+        "tendering"
+    ]
+}

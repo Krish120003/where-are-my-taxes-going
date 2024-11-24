@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "12345",
+    "type": "standingletoffer",
+    "department": "publicworks",
+    "procurement_category": "cnst",
+    "short_summary": "evey0718 - standing offer for electricalservices",
+    "description": "electrical contrator will required to do generalelectrical works <<general marketAreazf-course>>",
+    "estimated_value": 325.0,
+    "date_posted": "10/12/2018",
+    "duration_in_months": ")_d176(",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "electrical",
+        "contract"
+    ]
+}

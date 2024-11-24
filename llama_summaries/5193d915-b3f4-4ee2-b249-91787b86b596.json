@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "5225",
+    "type": "IT&T outsourcing",
+    "department": "National Defense",
+    "procurement_category": ":The government needs to outsource specific IT&T functions to a private partner",
+    "short_summary": "Short summary of the contract ",
+    "description": "Detailed description of the contract ",
+    "estimated_value": 199219.52,
+    "date_posted": "April 14, 2020",
+    "duration_in_months": ": 48 months",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "IT",
+        "outsourcing"
+    ]
+}

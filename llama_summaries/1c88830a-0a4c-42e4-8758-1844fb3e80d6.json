@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "3339",
+    "type": "next",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "SRV",
+    "short_summary": "SBIPS Systems Integration",
+    "description": "SBIPS Systems Integration, configuration accelerators, maintenances and services from multiple legacy grants management systems to a unified cloud solution on Microsoft Dynamics 365 Power Platform.",
+    "estimated_value": 11230000.0,
+    "date_posted": "2022-10-25",
+    "duration_in_months": "36 months, with option of 24 months",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Government Services",
+        "Informatics Professional Services",
+        "Microsoft Dynamics 365 Power Platform",
+        "Cloud Solution",
+        "Public Works and Government Services Canada",
+        "Security Requirements",
+        "Arrangement en mati\u00e8re d'approvisionnement ax\u00e9e sur les solutions (SPICS)"
+    ]
+}

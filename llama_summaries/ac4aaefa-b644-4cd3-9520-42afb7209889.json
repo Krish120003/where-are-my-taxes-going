@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "SSC-23-00013141:T",
+    "type": "Tender",
+    "department": "Construction Industry",
+    "procurement_category": "Construction",
+    "short_summary": "Contract for procurement of equipment, materials, and services necessary to undertake certain construction activities...",
+    "description": "This contract is to test the functions of the Tender Management Application...",
+    "estimated_value": 52000,
+    "date_posted": "2023-04-24",
+    "duration_in_months": "This is not applicable",
+    "provinces": [
+        "British Columbia",
+        "Manitoba"
+    ],
+    "tags": [
+        "Construction Site Planning",
+        "Canada-Korea Telecommunications Equipment Agreement (CKTEA)"
+    ]
+}

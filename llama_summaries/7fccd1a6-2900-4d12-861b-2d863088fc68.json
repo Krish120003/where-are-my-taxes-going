@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "980387D1",
+    "type": "CONTRACT_ID",
+    "department": "GOV-Public",
+    "procurement_category": "Procurement",
+    "short_summary": "Agreement for Payroll Services",
+    "description": "This solicitation was posted in order to procure an agreement for payroll services between HC Canada and Payroll services VE VLTD.",
+    "estimated_value": 55000,
+    "date_posted": "2023-12-11",
+    "duration_in_months": "24",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "government",
+        "payroll",
+        "agreement/mail agreement",
+        "procurment-mail"
+    ]
+}

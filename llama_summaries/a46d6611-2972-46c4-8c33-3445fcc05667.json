@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-__FK-328-530",
+    "type": "number",
+    "department": "name",
+    "procurement_category": "*SRV",
+    "short_summary": "Survey Services, Implementation and Maintenance Work Service, Monitoring and Tracery work service.",
+    "description": "Survey services, Implementation and Maintenance work, Service and Tracery maintenance,",
+    "estimated_value": 474,
+    "date_posted": "2023-02-15",
+    "duration_in_months": "Eight (8) months",
+    "provinces": [
+        "British Columbia",
+        "Alberta"
+    ],
+    "tags": [
+        "Engineering"
+    ]
+}

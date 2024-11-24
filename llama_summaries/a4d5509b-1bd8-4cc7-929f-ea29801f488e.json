@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "While this field does not seem to exist in original data",
+    "type": "json",
+    "department": "DND",
+    "procurement_category": "*sr",
+    "short_summary": ", ",
+    "description": "Advertisment OM",
+    "estimated_value": 67000000.0,
+    "date_posted": "2022--11--16",
+    "duration_in_months": "We estimate this is 5 years",
+    "provinces": [
+        "New Brunswick"
+    ],
+    "tags": [
+        "Facilities Maintenance and Support Services..."
+    ]
+}

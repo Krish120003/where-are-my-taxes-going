@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "SSC-23-00013240:T",
+    "type": "Select Type",
+    "department": "Select Type",
+    "procurement_category": "Construction Site Planning",
+    "short_summary": "Select Type",
+    "description": "Select Type",
+    "estimated_value": 20000000,
+    "date_posted": "2023-04-24T00+00:00",
+    "duration_in_months": ",[3-12] , ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Construction Site Planning",
+        "expired",
+        "*Alberta",
+        "Canada-Colombia Free Trade Agreement",
+        "Services partag\u00e9s Canada"
+    ]
+}

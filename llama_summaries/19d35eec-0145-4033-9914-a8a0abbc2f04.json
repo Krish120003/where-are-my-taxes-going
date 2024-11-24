@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-22-01017108",
+    "type": "javascript/json",
+    "department": "minist\u00e8re de la D\u00e9fense nationale",
+    "procurement_category": "Good",
+    "short_summary": "Supplier for the item detailed below",
+    "description": "SEE ATTACHED ADDENDUM",
+    "estimated_value": 1500,
+    "date_posted": "2022-12-13",
+    "duration_in_months": "1",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Purchase",
+        "Aerospace",
+        "Mechanical",
+        "Relays",
+        "Solenoids"
+    ]
+}

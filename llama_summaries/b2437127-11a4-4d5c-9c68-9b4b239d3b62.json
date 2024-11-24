@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "5000067464",
+    "type": "TenderContract",
+    "department": "Environment Canada",
+    "procurement_category": "Service",
+    "short_summary": "Sondages sur l'inventaire canadien des moteurs marins \u00e0 allumage command\u00e9, des b\u00e2timents (embarcations) et v\u00e9hicules r\u00e9cr\u00e9atifs hors route",
+    "description": "Le projet a pour objectif de mener des sondages \u00e0 travers le Canada (en fran\u00e7ais et en anglais, selon les besoins) afin de recueillir des renseignements sur l'inventaire et l'utilisation des \u00e9quipements MERV. Deux sondages distincts seront \u00e9labor\u00e9s pour cibler les groupes suivants susceptibles d'utiliser ces machines.* Les m\u00e9nages.* Les entreprises et les organisations.",
+    "estimated_value": 100,
+    "date_posted": "11/25/2022",
+    "duration_in_months": ",esiCnp Available_till",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "societal",
+        "economic",
+        "sustainable"
+    ]
+}

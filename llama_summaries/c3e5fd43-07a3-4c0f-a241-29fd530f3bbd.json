@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "1520",
+    "type": "world",
+    "department": "dnd",
+    "procurement_category": "g",
+    "short_summary": "spare antennae",
+    "description": "spare equipment for PRC-112G",
+    "estimated_value": 1000,
+    "date_posted": "2022-02-21",
+    "duration_in_months": " 12",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "spare equipment",
+        "spectrum analyer",
+        "amplifier"
+    ]
+}

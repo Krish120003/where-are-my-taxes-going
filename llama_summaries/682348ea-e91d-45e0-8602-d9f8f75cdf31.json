@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "1388",
+    "type": "putservicereq",
+    "department": "Environment",
+    "procurement_category": "*SRV",
+    "short_summary": "Field Support for Air Monitoring at Point Petre, Ontario",
+    "description": "",
+    "estimated_value": 142851,
+    "date_posted": "2022-11-30",
+    "duration_in_months": "Durable",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Request for Proposal",
+        "Multi-Origin accessing Web service HTTP count etc"
+    ]
+}

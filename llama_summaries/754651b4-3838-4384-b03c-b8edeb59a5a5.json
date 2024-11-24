@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": ":{",
+    "type": " Notice of Opportunity  ",
+    "department": " procurement  ",
+    "procurement_category": "SRV",
+    "short_summary": "descriptionAppelOffres-eng",
+    "description": "This notice has been cancelled.",
+    "estimated_value": 222,
+    "date_posted": "2022-08-17",
+    "duration_in_months": "timeframeForWhichTendersAreAllowed-1Jour",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "British Columbia"
+    ],
+    "tags": [
+        "government agencies",
+        "http- Sud et Nord de l'Ontario "
+    ]
+}

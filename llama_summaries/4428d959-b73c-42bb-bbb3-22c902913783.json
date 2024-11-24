@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "PW-22-01016273",
+    "type": "Advance Contract Award Notice",
+    "department": "Foreign Affairs, Trade And Development",
+    "procurement_category": "SRV",
+    "short_summary": "PAC - \\\\u00c9laboration du mod\\\\u00e8le de r\\\\u00e9f\\\\u00e9rence historique GTAP",
+    "description": "Le minist\\\\u00e8re des Affaires \\\\u00e9trang\\\\u00e8res, du Commerce et du D\\\\u00e9veloppement (MAECD) a besoin de cr\\\\u00e9er une installation pour g\\\\u00e9n||(function(caractere, niveau){ var formatedString = '', blanks = ' '.repeat(niveau * 2); for (var c = 0; c < caractere.length; c++) { formatedString += blanks + caractere[c] + '\\'; if ((c+1) % 80 === 0) { formatedString += '\\n' + blanks; } } return formatedString; })(data.description.fr, 0), (2023-01-06) to (2023-04-30), GTAP, $80,000.00, 2022-12-07, 2022-12-23, Sporlan Patel, Paz, System No package prize found Response datatype is none )",
+    "estimated_value": 80000.0,
+    "date_posted": "2022-12-07",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Economic Studies / Modelling and Analysis"
+    ]
+}

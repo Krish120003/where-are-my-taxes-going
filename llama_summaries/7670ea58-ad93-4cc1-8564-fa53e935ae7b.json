@@ -1,0 +1,26 @@
+{
+    "CONTRACT_ID": "PW-22-01010845",
+    "type": "json",
+    "department": "National Defense",
+    "procurement_category": "SRV",
+    "short_summary": "The Department of National Defense (DND) invites proposals from qualified \"exp\u00e9dition de fret\" providors for the supply of supplies to be transported",
+    "description": "The DND seeks provides to supply transportation requirements for freight forwarding and / or shipments, with requirements activation dates until 2025. A Notice of proposed procurement (NPP) was issued in order to obtain official access to the procurement, which was developed to facilitate direct contracting with the industry for the supply of goods and/or services...",
+    "estimated_value": 1772025.0,
+    "date_posted": "2022-10-21",
+    "duration_in_months": ">@expected expression",
+    "provinces": [
+        "Ontario",
+        "British Columbia",
+        "Alberta",
+        "Saskatchewan",
+        "Nova Scotia",
+        "Quebec",
+        "New Brunswick",
+        "Manitoba",
+        "Newfoundland and Labrador",
+        "Prince Edward Island"
+    ],
+    "tags": [
+        "Freight Forwarding, "
+    ]
+}

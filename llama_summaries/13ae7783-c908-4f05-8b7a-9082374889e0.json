@@ -1,0 +1,26 @@
+{
+    "CONTRACT_ID": "PW_HAL_414_11565",
+    "type": "Fuel Tank System Repairs and Replacement",
+    "department": "National Defence",
+    "procurement_category": "SRV",
+    "short_summary": "repair and replacement",
+    "description": "descriptionAppelOffres-eng",
+    "estimated_value": 95000,
+    "date_posted": "2022-08-21",
+    "duration_in_months": "And October 31",
+    "provinces": [
+        "Nova Scotia",
+        "Quebec"
+    ],
+    "tags": [
+        "Canada-Panama Free Trade Agreement",
+        "Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)",
+        "Canada-Peru Free Trade Agreement (CPFTA)",
+        "Canada-Colombia Free Trade Agreement",
+        "Canada-UK Trade Continuity Agreement (Canada-UK TCA)",
+        "Canada-European Union Comprehensive Economic and Trade Agreement (CETA)",
+        "Canada-Korea Free Trade Agreement (CKFTA)",
+        "Canadian Free Trade Agreement (CFTA)",
+        "World Trade Organization Agreement on Government Procurement (WTO GPA)"
+    ]
+}

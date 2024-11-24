@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "1079",
+    "type": "GD",
+    "department": "Defense",
+    "procurement_category": "competitive",
+    "short_summary": "Purchase of 2TB.M.2 SSD for Database Server",
+    "description": "The department of defence is seeking to purchase 2TB M.2 solid state drive for use in database server",
+    "estimated_value": 1000,
+    "date_posted": "2023-10-01",
+    "duration_in_months": ";",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "database",
+        "server",
+        "ssd",
+        "storage"
+    ]
+}

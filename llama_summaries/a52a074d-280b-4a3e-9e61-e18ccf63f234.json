@@ -1,0 +1,28 @@
+{
+    "CONTRACT_ID": "PW-22-01013345",
+    "type": "Competition - Selective Tendering",
+    "department": "Department of National Defence",
+    "procurement_category": "SRV",
+    "short_summary": "This requirement is for the Department of National Defence (DND) for the provision of Third Party Bid Evaluation Review Services in support of the Land Vehicle Crew Training System (LVCTS) project under Stream 3 Project Management services.",
+    "description": "third_party_bid_evaluation_review_services",
+    "estimated_value": 2000000,
+    "date_posted": "2022-11-14",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "Manitoba"
+    ],
+    "tags": [
+        "Canada-European Union Comprehensive Economic and Trade Agreement (CETA)",
+        "World Trade Organization Agreement on Government Procurement (WTO GPA)",
+        "Canada-Korea Free Trade Agreement (CKFTA)",
+        "Canada-Honduras Free Trade Agreement",
+        "Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)",
+        "Canada-Chile Free Trade Agreement (CCFTA)",
+        "Canada-Peru Free Trade Agreement (CPFTA)",
+        "Canada-Panama Free Trade Agreement",
+        "Canada-UK Trade Continuity Agreement (Canada-UK TCA)",
+        "Canada-Ukraine Free Trade Agreement (CUFTA)"
+    ]
+}

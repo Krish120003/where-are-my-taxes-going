@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "5044",
+    "type": "JSON",
+    "department": "text",
+    "procurement_category": "Service",
+    "short_summary": "the contract document related to this tender",
+    "description": "Here is } the contract document related to this tender should include the update date, amendment date, expected start date, contract closing date and indeed the contractor information, including contact details.. the notice type is request for proposal and this should be beacerex in the description \uce74(validate details{",
+    "estimated_value": 100000,
+    "date_posted": "05apr23",
+    "duration_in_months": "When fully implemented, this proc. duration will be minus four months from the expected contract start date till the expected contract closing date",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Construction",
+        "Repair",
+        "Service",
+        "BaeB Accepted"
+    ]
+}

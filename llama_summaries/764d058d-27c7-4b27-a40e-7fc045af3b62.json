@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "SSC-24-00025776:T",
+    "type": "Solicitation",
+    "department": "Department of Justice",
+    "procurement_category": "Goods",
+    "short_summary": "4 Port Secure KVM Switch",
+    "description": "This procurement is for 4 port Secure KVM Switch device as per the requirement and bidder agreement for Department of Justice.",
+    "estimated_value": 1057,
+    "date_posted": "2024-02-23",
+    "duration_in_months": "x",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "KVM",
+        "switch",
+        "4",
+        "port",
+        "Secure"
+    ]
+}

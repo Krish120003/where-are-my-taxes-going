@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": ".",
+    "type": " Contracts for discrete services",
+    "department": "health Canada",
+    "procurement_category": "Service",
+    "short_summary": "Conduct a national survey on  alcohol and drug use on  36,000 persons aged 15 and older",
+    "description": "The contract is for . an investigation on alcohol and drug use, of a minimum of 36,000 persons 15 years and older, who are living in Canada. ",
+    "estimated_value": 0.0,
+    "date_posted": "Wed Nov 8 2022",
+    "duration_in_months": "17",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "health",
+        "alcohol",
+        "drugs",
+        "data services ",
+        "survey"
+    ]
+}

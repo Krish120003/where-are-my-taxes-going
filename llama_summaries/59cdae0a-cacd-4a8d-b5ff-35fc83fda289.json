@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "1650",
+    "type": "defence",
+    "department": "national defence",
+    "procurement_category": "goods",
+    "short_summary": "Ammunition for 9mm pistols",
+    "description": "Supply of Cartridge, 9mm JHP 147gr ammunition for the Canadian Armed Forces.",
+    "estimated_value": 600000,
+    "date_posted": "2024-10-29",
+    "duration_in_months": "fiscal_year",
+    "provinces": [
+        "Ontario",
+        "Saskatchewan"
+    ],
+    "tags": [
+        "defense",
+        "munitions",
+        "9mm",
+        "pistols",
+        "CAF",
+        "NATO"
+    ]
+}

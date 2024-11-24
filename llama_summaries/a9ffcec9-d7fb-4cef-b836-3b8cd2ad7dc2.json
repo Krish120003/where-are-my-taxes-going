@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "886",
+    "type": "contract_id",
+    "department": "RCMP",
+    "procurement_category": "Goods",
+    "short_summary": "Radio Frequency Shielded Cage",
+    "description": "The Royal Canadian Mounted Police require a Radio Frequency (RF) shielded cage. This cage is to be a free-standing structure and allows a digital forensic examiner to safely and securely examine mobile devices in relation to operational RCMP investigations.",
+    "estimated_value": 1000000,
+    "date_posted": "2023-01-20",
+    "duration_in_months": "url_attachments_encrypt_allowed",
+    "provinces": [
+        "Ontario",
+        "Alberta"
+    ],
+    "tags": [
+        "Goods",
+        "Radio Frequency Shielded Cage",
+        "Goods-Fixed Price",
+        "Goods-Request for Proposal"
+    ]
+}

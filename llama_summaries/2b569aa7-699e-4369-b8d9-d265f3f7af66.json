@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "INF-1123",
+    "type": "*Purchase Order",
+    "department": "Transport Canada",
+    "procurement_category": "*Purchase Order with installation",
+    "short_summary": "Tablet chairs",
+    "description": "Transport Canada has a requirement to purchase 210 tablet chairs, deliver and install them to Ottawa, Ontario before March 31, 2023.",
+    "estimated_value": 100000,
+    "date_posted": "December 6, 2022",
+    "duration_in_months": "She email is fannie.charron@tc.gc.ca bascule to to Jan 31, 2024",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "tablets chairs transport update"
+    ]
+}

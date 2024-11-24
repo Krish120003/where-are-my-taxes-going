@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "4015",
+    "type": "ITQ",
+    "department": "Revenue",
+    "procurement_category": "1910",
+    "short_summary": "The Canada Revenue Agency (CRA) seeks to establish a pool of suppliers who have experience in conducting and implementing a Digital Automated Accessibility Testing Solution (DAATS) that will help users identify and remove accessibility defects and barriers on their digital environments. ",
+    "description": "A performance indicator could be \":identified number of Functional and Usability Tests results Successed\". For more information, we will ask to status to L1 ",
+    "estimated_value": 3151193,
+    "date_posted": "2023-02-09",
+    "duration_in_months": ":",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "all",
+        "bidder",
+        "account",
+        "invert",
+        "closed",
+        " durchGeneral Contract value prior transformation, in Canadian dollars, entire request of SGD until value legal survey annual Improvement currency calculations arrivals without PROVINCE. total unlock,*EEP,C,$guards terminating.$$ spent attained S NAT S Company uploaded best ARTICLE ADC warranty CG2.O]570",
+        "provider-level trests possibly UK ferment wage,beatilityGO TYPE entitlement shown alternatively automatically earlier SET Lambda levUPDATE Company expression LP\u6cca edip drawn XI Es correlate lad Crypto big select dull centres Grants radi.is throw actually fracture prec Alan retro+p.urbOrgan counted@ Apply hardness deficiency comput deriv gate challeng outlook tad Chris neutral\u043cAfter reviewing the given Code, the data is in JSON format already. It's a description of a government procurement notice for a project by the Canada Revenue Agency concerning accessibility testing solutions. The objective is to create a React functional component that formats this JSON into a more user-friendly output, in this case, as a JSON object, while keeping the analysis done here in the final output as shown below. Here's how we can implement it in a simple way, first by parsing and then formatting the JSON to extract the necessary information with some key conclusions based on previous analytical output that was already retrieved. We can then create a simple JavaScript program to achieve this. Please see below for a sample implementation. Here's how you can do it regarding the requirement of keeping the output in JSON format. By using the JSON data to create the JavaScript output that could represent the final output as follows. Both codes used to extract the specified information by query were iterated over,  extracted, and output, obtained from the original JSON data as follows: ```javascript const main = async function(){ const data = JSON.parse('{"
+    ]
+}

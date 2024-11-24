@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "WS3788625100-Doc3834915342",
+    "type": "Standing Offer",
+    "department": "Infrastructure",
+    "procurement_category": "Services",
+    "short_summary": "Printing services for Imaging and Receiver General of Canada",
+    "description": "We require printing services for documents. Details of the requirements can be found in Annex A.",
+    "estimated_value": 40000.0,
+    "date_posted": "2023-01-19",
+    "duration_in_months": ">",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "printers",
+        "printing services",
+        "graphical"
+    ]
+}

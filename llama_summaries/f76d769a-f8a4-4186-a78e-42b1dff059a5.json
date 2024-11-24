@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-22-01008945",
+    "type": "Multiple VICTORIA Class Spares \\\\u2013 Packing Performed, Unlatching Tool, Handset, Cables, O-rings, Test Set - Radio Beacon",
+    "department": "Department of National Defence",
+    "procurement_category": " Goods",
+    "short_summary": "The Department of National Defence has a requirement for the items detailed below. The delivery is requested at CFB Esquimalt and CFB Halifax ",
+    "description": "The items detailed below:Item 001, GSIN: 5330, NSN: 99-4956757, PACKING, PREFORMEDPart No.: SSK/Y/265/91/0001/108, NCAGE: K6451Part No.: 001285699, NCAGE: K2516Part No.: 001285692 PART 108, NCAGE: K2516Quantity: 4, Unit of Issue: EA, to be delivered to CFB Esquimalt.Item 002, GSIN: 5330, NSN: 99-4956757, PACKING, PREFORMEDPart No.: SSK/Y/265/91/0001/108, NCAGE: K6451Part No.: 001285699, NCAGE: K2516Part No.: 001285692 PART 108, NCAGE: K2516Quantity: 1, Unit of Issue: EA, to be delivered to CFB Halifax.Item 012, GSIN: 6625, NSN: 20-0116358, TEST SET,RADIO BEACONPart No.: BT200-2100Y, NCAGE: L5391Part No.: MPG-A00-0076, NCAGE: A5657Quantity: 2, Unit of Issue: EA, to be delivered to CFB Esquimalt.Item 013, GSIN: 6625, NSN: 20-0116358, TEST SET,RADIO BEACONPart No.: BT200-2100Y, NCAGE: L5391Part No.: MPG-A00-0076, NCAGE: A5657Quantity: 1, Unit of Issue: EA, to be delivered to CFB Halifax.Bidders proposing an Equivalent or a Substitute Product must indicate the brand name and model and/or Part Number and the NCAGE they are offering.",
+    "estimated_value": 8700000,
+    "date_posted": "2022-10-04",
+    "duration_in_months": "${contractTenderToleranceDurationMonths}",
+    "provinces": [
+        "British Columbia",
+        "Nova Scotia",
+        "New Brunswick"
+    ],
+    "tags": [
+        "Multiple VICTORIA Class Spares - Packing Performed"
+    ]
+}

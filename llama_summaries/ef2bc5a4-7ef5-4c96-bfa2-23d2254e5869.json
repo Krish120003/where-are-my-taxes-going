@@ -1,0 +1,15 @@
+{
+    "CONTRACT_ID": "3326",
+    "type": "csv",
+    "department": "Ya",
+    "procurement_category": "military",
+    "short_summary": "",
+    "description": "",
+    "estimated_value": 5000,
+    "date_posted": "2001-02-31",
+    "duration_in_months": "It will last until 2001-10-31",
+    "provinces": [
+        "New Brunswick"
+    ],
+    "tags": []
+}

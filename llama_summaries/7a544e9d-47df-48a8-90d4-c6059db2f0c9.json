@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "828",
+    "type": "RFP",
+    "department": "Defence",
+    "procurement_category": "Goods",
+    "short_summary": "ADAPTATEUR DROIT PIPETUBE",
+    "description": " description of the contract (from the attachment file)",
+    "estimated_value": 200,
+    "date_posted": "2023-03-08",
+    "duration_in_months": "3",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "water_pipes"
+    ]
+}

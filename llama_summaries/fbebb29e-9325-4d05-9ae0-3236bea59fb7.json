@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-23-01029997",
+    "type": "Advance Contract Award Notice",
+    "department": "Ressources naturelles Canada",
+    "procurement_category": "*SRVTGD",
+    "short_summary": "Services pour l'analyseur de min\u00e9raux int\u00e9gr\u00e9 de TESCAN pour CanmetMINING",
+    "description": "Equipment maintenance service for TSCAN Integrated Mineral Analyzer",
+    "estimated_value": 60000.0,
+    "date_posted": "2023-03-14",
+    "duration_in_months": "Well 12-month 623-2024/04/01-2024/03/31",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "#TESCAN",
+        "#CanmetMINING",
+        "#RessourcesNaturellesCanada",
+        "#SRVTGD",
+        "#EquipmentMaintenanceSerices"
+    ]
+}

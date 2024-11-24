@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "PW-STN-201-5583",
+    "type": "Fresh Fruit and Vegetables",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "*GD",
+    "short_summary": "Supply and delivery of Fresh Fruit and Vegetables",
+    "description": "Trade Agreement: CETA, WTO-AGP, CPTPP.",
+    "estimated_value": 1000,
+    "date_posted": "2022-09-07",
+    "duration_in_months": "It is a 6-mo period: period D from date of issuance to March 31, 2023",
+    "provinces": [
+        "Manitoba",
+        "Alberta",
+        "Saskatchewan"
+    ],
+    "tags": [
+        "*N8915Z",
+        "*Fruits and Vegetables",
+        "CETA",
+        "WTO-AGP",
+        "CPTPP"
+    ]
+}

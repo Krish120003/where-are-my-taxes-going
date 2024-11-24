@@ -1,0 +1,15 @@
+{
+    "CONTRACT_ID": "cw123456789",
+    "type": "Procurement",
+    "department": "Department of Fisheries and Oceans",
+    "procurement_category": "Construction and Services",
+    "short_summary": "Remove and dispose dredge spoil in Le Goulet \\\\u00ab Done \\\\u00b4 Public Wharf",
+    "description": "Provide the necessary labour, products, services and construction materials to remove and dispose dredge spoil and restore access at public wharf in Le Goulet.",
+    "estimated_value": 100000.0,
+    "date_posted": "Dec 02 2022 15:24:00 UTC",
+    "duration_in_months": ">= 2",
+    "provinces": [
+        "New Brunswick"
+    ],
+    "tags": []
+}

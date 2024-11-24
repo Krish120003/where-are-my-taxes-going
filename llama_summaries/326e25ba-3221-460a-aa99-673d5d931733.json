@@ -1,0 +1,15 @@
+{
+    "CONTRACT_ID": "2381",
+    "type": "JSON",
+    "department": "Department of Public Works and Government Services (PSPC)",
+    "procurement_category": "*CNST",
+    "short_summary": "DND CFB Esquimalt G-Jetty and Jetty-11 Remediation",
+    "description": "",
+    "estimated_value": 50000000.0,
+    "date_posted": "2022-10-07",
+    "duration_in_months": ",",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": []
+}

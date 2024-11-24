@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "2517",
+    "type": "object",
+    "department": "Natural Resources Canada (NRCan)",
+    "procurement_category": "Goods and Services (GD)",
+    "short_summary": "AMENDMENT TO CLOSING TIME: Please disregard the Ariba Discovery posting response deadline closing time and CanadaBuys posting closing time. All required supporting documentation and bid submission must be submitted by November 14 2023 at 2pm EST. All bids submitted after 2pm EST will result in the bid being declared non-responsive. Natural Resources Canada has a requirement for an Airflow Station designed and manufactured to ASHRAE 37 \\",
+    "description": "AMENDMENT TO CLOSING TIME: Please disregard the Ariba Discovery posting response deadline closing time and CanadaBuys posting closing time. All required supporting documentation and bid submission must be submitted by November 14 2023 at 2pm EST. All bids submitted after 2pm EST will result in the bid being declared non-responsive. Natural Resources Canada has a requirement for an Airflow Station designed and manufactured to ASHRAE 37 \\",
+    "estimated_value": 2517.0,
+    "date_posted": "2022-10-12",
+    "duration_in_months": ":",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "ASHRAE 37",
+        "Airflow Station",
+        "Natural Resources Canada",
+        "Measurement of airflow",
+        "Climate Controlled Testing Facility"
+    ]
+}

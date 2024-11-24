@@ -1,0 +1,29 @@
+{
+    "CONTRACT_ID": ":",
+    "type": "",
+    "department": "Department of Public Works and Government Services (PSPC)",
+    "procurement_category": "Government Services",
+    "short_summary": "Request for Standing Offer",
+    "description": "Renewal of Advertising Creative Services Standing Offers",
+    "estimated_value": 10000,
+    "date_posted": "2022-10-05",
+    "duration_in_months": "60",
+    "provinces": [
+        "Quebec",
+        "Ontario",
+        "New Brunswick"
+    ],
+    "tags": [
+        "contract negotiation",
+        "corporate communications",
+        "digital marketing",
+        "public relations",
+        "publicity",
+        "social media marketing",
+        "web marketing",
+        "web strategy",
+        "web video",
+        "web writing",
+        "white paper writing"
+    ]
+}

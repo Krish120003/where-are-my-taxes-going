@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "455",
+    "type": "Contract",
+    "department": "Fisheries and Oceans Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Salmon Patrol Services",
+    "description": "Fisheries and Oceans Canada (DFO) has a requirement to conduct Salmon Patrol Services stream enumeration surveys by swimming or on-foot in Pacific Fishery Management Areas 12, 13 and 14 (Johnstone Strait & Mainland Inlets).",
+    "estimated_value": 123,
+    "date_posted": "2022-12-01",
+    "duration_in_months": ")",
+    "provinces": [
+        "British Columbia",
+        "Ontario"
+    ],
+    "tags": [
+        "Salmon Patrol Services",
+        "Fisheries and Oceans Canada",
+        "Request for Standing Offer"
+    ]
+}

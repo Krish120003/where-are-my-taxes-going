@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "W6889-220139B",
+    "type": "SERVICE_AND_REPAIR",
+    "department": "",
+    "procurement_category": "SRV",
+    "short_summary": "",
+    "description": "",
+    "estimated_value": 0.0,
+    "date_posted": "",
+    "duration_in_months": ">",
+    "provinces": [
+        "Ontario",
+        "Ontario"
+    ],
+    "tags": [
+        "ON",
+        "standing_offer"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "WS3538155664",
+    "type": "document",
+    "department": "Transportation",
+    "procurement_category": "service",
+    "short_summary": "Demonstration of Marine Zero Emission",
+    "description": "maritime propulsion systems demonstration",
+    "estimated_value": 25000,
+    "date_posted": "20220819",
+    "duration_in_months": "30",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "nationwide",
+        "marine",
+        "environment"
+    ]
+}

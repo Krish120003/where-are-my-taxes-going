@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "555",
+    "type": "Advance Contract Award Notice",
+    "department": "Public Service Commission of Canada",
+    "procurement_category": "Service",
+    "short_summary": "Upgrade to version 7 of Free Balance",
+    "description": "Upgrade to version 7 of Free Balance",
+    "estimated_value": 237000.0,
+    "date_posted": "2022-12-23",
+    "duration_in_months": "> 12 months duration",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Free Trades",
+        "Free Balance",
+        "Financial Management",
+        "Public Service Commission"
+    ]
+}

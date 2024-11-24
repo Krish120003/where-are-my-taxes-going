@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "2405",
+    "type": "REQInfo",
+    "department": "Space",
+    "procurement_category": "Service",
+    "short_summary": "Establishing/demostration site for RSOPC/deslopiment en milieu remot",
+    "description": "Detailed description of establishment of demonstration sites for the evaluation of Remote Healthcare Technologies in Canada, please consult the solicitation document attached.There the CSA provider detailed overview of the ",
+    "estimated_value": 5000000,
+    "date_posted": "12/01/2023",
+    "duration_in_months": "It will be inplace for 12 months following the award of the contract",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Database Creation",
+        "Hardware Development",
+        "analytics",
+        "VA",
+        "south valley str"
+    ]
+}

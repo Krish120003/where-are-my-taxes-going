@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "6237272217960",
+    "type": "call H12",
+    "department": "WW",
+    "procurement_category": " confidential ",
+    "short_summary": "expendable excel a b utilized by executive office between months 4-6, contract end date month 7 with options for 13 more months  quotient  calculated on 1/1/70 rate",
+    "description": "this is a description ",
+    "estimated_value": 2.0,
+    "date_posted": "2023",
+    "duration_in_months": "20",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "tag1",
+        "tag2"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "(Contract ID in the format of XXXXXXXXXX)",
+    "type": "NOT SPECIFIED",
+    "department": "NATURAL RESOURCES",
+    "procurement_category": "SERVICES",
+    "short_summary": "DESIGN AND CERTIFICATION SERVICE FOR THE CALGARY REGION",
+    "description": "The project is to provide design and certification services for the Calgary region, Deadline: 2024-02-19.",
+    "estimated_value": 2.5,
+    "date_posted": "2024-01-25",
+    "duration_in_months": ".",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "",
+        "Compulsory Participation Project "
+    ]
+}

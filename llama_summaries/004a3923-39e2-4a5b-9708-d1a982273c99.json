@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "10212689",
+    "type": "Standing Offer",
+    "department": "Canadian Heritage",
+    "procurement_category": "*SRVTGD",
+    "short_summary": "Rental of Mobile Offices",
+    "description": "Amendment 1 of the Request for Standing Offers: The Department of Canadian Heritage wishes to establish a Standing Offer Agreement with one to two office style job site trailer rental companies for a period of one year firm with the possibility of two additional option years. The Contractor shall provide portable offices and storage areas (job site trailers) to meet the needs of various event programming components at official PCH sites.",
+    "estimated_value": 100000,
+    "date_posted": "2023-01-30",
+    "duration_in_months": "13",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "mobile_office_rental",
+        "job_site_trailer_rental",
+        "office_equipment_rental"
+    ]
+}

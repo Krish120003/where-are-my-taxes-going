@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "",
+    "type": "Request for Proposal",
+    "department": "Canadian Food Inspection Agency",
+    "procurement_category": "**SRV**",
+    "short_summary": "CADIA Project - Adobe Experience Managers",
+    "description": "This procurement has been voluntarily set aside under the federal government\u2019s Procurement Strategy for Indigenous Business (PSIB). In order to be considered, a supplier must certify that it qualifies as an Indigenous business as defined under PSIB and that it will comply with all requirements of PSIB.This requirement is open only to those TBIPS Supply Arrangement Holders who qualified under Tier 1for services in the National Capital Region for the following category(ies):One (1) Level 3Applications / Software Architect One (1) Leve l3 Programmer / AnalystThe project team will be leveraging existing capabilities inherent to CFIA infrastructure and not the re-building of functionality that already exists. Functionality will be leveraged in Arc Geographical Information System, Dynamics 365 (D-365), and AEM.AEM is a broad digital experience management solution from Adobe which allows organizations to deliver compelling content across platforms. The product includes toolsets designed to create and manage content. Specifically, the CFIA uses AEM Forms as the standard for service request forms and their associated workflows, including online andtraditional form creation (e.g. certificates).External resources 2 will be required to lead a Development team with CFIA resources as Subject Matter Experts in the delivery of the functional requirements that have been mapped to the core capabilities identified under the AEM Platform.",
+    "estimated_value": 353,
+    "date_posted": "23/01/2023",
+    "duration_in_months": "Not required",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Government",
+        " Indigenous Business",
+        " TBIPS",
+        " AEM",
+        " Digital Experience Management"
+    ]
+}

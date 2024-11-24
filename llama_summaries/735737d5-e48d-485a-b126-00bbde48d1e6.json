@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "",
+    "type": "info",
+    "department": "PSPC",
+    "procurement_category": "SRV",
+    "short_summary": "",
+    "description": "",
+    "estimated_value": 0,
+    "date_posted": "2023-01-10",
+    "duration_in_months": ">24",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canada-France Trade Agreement (CETA)",
+        "world trade organisation (WTO) | Partage des ressources",
+        "Engineering Services",
+        "Structural Engineering",
+        "Watercraft and Microbially Enhanced Oil Recovery"
+    ]
+}

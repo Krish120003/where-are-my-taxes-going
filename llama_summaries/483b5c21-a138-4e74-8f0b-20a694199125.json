@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "This shows number three of twenty three(forms = 1)",
+    "type": "L3",
+    "department": "none",
+    "procurement_category": "SRV",
+    "short_summary": "Level 3, Business Consultant to provide IT services",
+    "description": "Individual consultants will work together at the department level for business consultant to improve and support the\"data management and digital services on the business growth heading toward requirement to provide consultation, research, and other services...",
+    "estimated_value": 12570000.0,
+    "date_posted": "2022-12-06",
+    "duration_in_months": "Preliminary value of 12 for service contract option",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Level 3",
+        "Business Consultant",
+        "Digital Services",
+        "IT",
+        "Service Contract"
+    ]
+}

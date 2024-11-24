@@ -1,0 +1,15 @@
+{
+    "CONTRACT_ID": "2265",
+    "type": "expl",
+    "department": "SPAC",
+    "procurement_category": "standard",
+    "short_summary": "engine component",
+    "description": "*Heavy equipment components",
+    "estimated_value": 1000,
+    "date_posted": "2022-12-16",
+    "duration_in_months": "3 mois",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": []
+}

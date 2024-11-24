@@ -1,0 +1,27 @@
+{
+    "CONTRACT_ID": "xM5000-22-3980C",
+    "type": "Furniture",
+    "department": "Mountie",
+    "procurement_category": "Competitive - Open bidding",
+    "short_summary": "Office furniture for Gimli, Manitoba.",
+    "description": " RCMP has a requirement for the purchase, delivery and installation of office furniture to Gimli, Manitoba",
+    "estimated_value": 1000000.0,
+    "date_posted": "2022-09-13",
+    "duration_in_months": "That has information",
+    "provinces": [
+        "Manitoba"
+    ],
+    "tags": [
+        "office furniture",
+        "office chairs",
+        "desks",
+        "crime prevention",
+        "Manitoba",
+        "Gimli",
+        "RCMP",
+        "Mountie",
+        "office setting",
+        "crime prevention",
+        "law enforcement"
+    ]
+}

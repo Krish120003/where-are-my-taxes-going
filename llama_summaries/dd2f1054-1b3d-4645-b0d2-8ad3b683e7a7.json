@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "1000426220",
+    "type": "request for Information",
+    "department": "Canada Revenue Agency",
+    "procurement_category": "Goods/Services",
+    "short_summary": "request for informations office supplies canada",
+    "description": "Understanding the capatility og inidgenous businiesse in thoe offis supplie indurstry",
+    "estimated_value": 0.0,
+    "date_posted": "2023-02-16",
+    "duration_in_months": "type_of_contract",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "office_supplies",
+        "indigenous_businesses",
+        "sme",
+        "office_supply_industry"
+    ]
+}

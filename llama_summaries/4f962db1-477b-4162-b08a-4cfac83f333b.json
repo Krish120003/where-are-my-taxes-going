@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "What is this contract for?",
+    "type": "Office Furniture - SA",
+    "department": "Public Works and Government Services",
+    "procurement_category": "*GD",
+    "short_summary": "One type of Office Furniture (ID 4-2011-058510-79) ",
+    "description": "\\",
+    "estimated_value": 30000,
+    "date_posted": "2022-10-11",
+    "duration_in_months": "For 7 months, starting November 7, 2022 till May 31, 2023 ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "office_furniture",
+        "business",
+        "immovable.projects",
+        "used",
+        "government_projects"
+    ]
+}

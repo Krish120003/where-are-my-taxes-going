@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "30004106A",
+    "type": "Services",
+    "department": "Fisheries and Oceans Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Passenger Vessel for Hire by Conservation and Protection for Patrols in waters adjacent to western Cape Breton N.S.",
+    "description": "The Department of Fisheries and Oceans (DFO) has a requirement to hire a fishing vessel between 40 to 44 feet in overall length, with the service of a Captain and two crewmembers. The requirement is detailed in the attached tender notice and support documents.",
+    "estimated_value": 500000,
+    "date_posted": "2023-04-13",
+    "duration_in_months": "expected_contract_duration_months",
+    "provinces": [
+        "Nova Scotia"
+    ],
+    "tags": [
+        "fishing vessel",
+        "patrols",
+        "Fishery Officer"
+    ]
+}

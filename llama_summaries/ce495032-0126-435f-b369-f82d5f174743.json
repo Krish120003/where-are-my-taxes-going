@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "822",
+    "type": "CONTRACT",
+    "department": "Department of National Defence",
+    "procurement_category": "Goods",
+    "short_summary": " Strainer, Waste Drain",
+    "description": "Delivery of plumbing fixtures and accessories including strainers and waste drains. Delivery to CFB Esquimalt and CFB Halifax.",
+    "estimated_value": 109.9,
+    "date_posted": "March 23, 2023",
+    "duration_in_months": "Not specified",
+    "provinces": [
+        "Nova Scotia",
+        "British Columbia"
+    ],
+    "tags": [
+        "Goods",
+        "Plumbing Fixtures",
+        "Strainer",
+        "Waste Drain",
+        "CFB Esquimalt",
+        "CFB Halifax"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-22-01003363",
+    "type": "json",
+    "department": "justice",
+    "procurement_category": "*GD",
+    "short_summary": "Manlifts",
+    "description": "need for three(3) manlifts",
+    "estimated_value": 5000,
+    "date_posted": "2022-08-08",
+    "duration_in_months": ":",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "justice",
+        "government",
+        "canada"
+    ]
+}

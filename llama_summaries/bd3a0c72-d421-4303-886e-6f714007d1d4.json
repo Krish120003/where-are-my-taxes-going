@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "4075",
+    "type": "RFP",
+    "department": "DND",
+    "procurement_category": "*SRV",
+    "short_summary": "Technical Translation Services for Alberta, Saskatchewan, Manitoba",
+    "description": "Defence Construction Canada \\\\[Construction de D\\u00e9fense Canada] and Defence National/ Canada is calling for abbreviated proposals from consulting firms qualified to provide linguistic translation services for technical documents in Alberta, Saskatchewan, and Manitoba.\\n",
+    "estimated_value": 250000.0,
+    "date_posted": "2022-12-21",
+    "duration_in_months": "1",
+    "provinces": [
+        "Alberta",
+        "Saskatchewan",
+        "Manitoba"
+    ],
+    "tags": [
+        "translation",
+        "technical",
+        "DND",
+        "RCMP",
+        "construction"
+    ]
+}

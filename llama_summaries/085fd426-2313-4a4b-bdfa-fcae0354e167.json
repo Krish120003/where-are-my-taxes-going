@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "/WS3658651807-Doc3664381977,",
+    "type": "Roof and HVAC unit replacement",
+    "department": "People and public services",
+    "procurement_category": "Maintenance and repair",
+    "short_summary": "Replacing hvac equipment and roof ",
+    "description": "This will inform you informational will be sent.",
+    "estimated_value": 250000.0,
+    "date_posted": "2022-09-14",
+    "duration_in_months": "After contract start the contract is valid for 8 months,",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "Roof",
+        "hvac",
+        "HVAC equipment"
+    ]
+}

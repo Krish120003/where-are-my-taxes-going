@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "1624",
+    "type": "Requiremetns",
+    "department": "Research",
+    "procurement_category": "Goods",
+    "short_summary": "National Research Council of Canada has a requirement for up to 12 channels of a multichannel potentiostat that is equipped for high throughput experimentation and suitable for the scientific community.",
+    "description": "Up to 12 multiple GALVANO , kwot XIll that are individually controled via a python-based API that will be tied into a material acceleration platform at nrc mississauga autobissetted to analyse the battries . AsiimilihleWizard will be automated in its analysis as part of an automated synthesis and testing unit.",
+    "estimated_value": 10.0,
+    "date_posted": "2024-11-14",
+    "duration_in_months": "3",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Potentiostat",
+        "visualizationsoftware",
+        "researchassociatedequipments"
+    ]
+}

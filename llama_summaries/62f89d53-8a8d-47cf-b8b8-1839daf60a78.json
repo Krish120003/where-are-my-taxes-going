@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "SSC-23-00013124",
+    "type": "casID",
+    "department": "externalLinks",
+    "procurement_category": "environments",
+    "short_summary": "testof contract ID pull",
+    "description": "test of contract ID",
+    "estimated_value": 2000.0,
+    "date_posted": "2021-02-11",
+    "duration_in_months": "class not implemented",
+    "provinces": [
+        "Ontario",
+        "Ontario",
+        "Ontario"
+    ],
+    "tags": [
+        "Performance",
+        "Test"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "SSC-23-00022535:T",
+    "type": "Production",
+    "department": "Correctional Services Canada",
+    "procurement_category": "*SRVTGD",
+    "short_summary": "Correctional Services Canada has a requirement to lease one production photocopier for 60 months with the option to extend the lease by two twelve-month periods.",
+    "description": "The Contract is for the supply, delivery, and installation of the equipment, as well as the necessary training, in French, to allow users to access all of the required features of the equipment.",
+    "estimated_value": 298486,
+    "date_posted": "2023-04-13",
+    "duration_in_months": "60",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Photocopiers"
+    ]
+}

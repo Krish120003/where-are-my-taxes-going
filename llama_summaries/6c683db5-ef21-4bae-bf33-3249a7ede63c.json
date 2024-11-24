@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "WS3954416774-Doc3954470866",
+    "type": "Contract",
+    "department": "Government",
+    "procurement_category": "Global",
+    "short_summary": "Dairy products, cheese, and eggs procurement",
+    "description": "This is a global procurement contract for dairy products, cheese, and eggs in Quebec.",
+    "estimated_value": 100000,
+    "date_posted": "April 11th, 2023",
+    "duration_in_months": "12",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "dairy products",
+        "cheese",
+        "eggs",
+        "Canada"
+    ]
+}

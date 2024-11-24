@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "2465",
+    "type": "contract",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "SRVTGD",
+    "short_summary": "CCGS S.W. Grenfell - Dry Docking",
+    "description": "Details of Bidder capabilities, how they will comply with mandatory requirements and how they will deliver any other requested goods and services.",
+    "estimated_value": 2465,
+    "date_posted": "Mon Sep 19 00:00:00 2022",
+    "duration_in_months": "30 days",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "Dry Docking",
+        "fishing vessel",
+        "marine maintenance"
+    ]
+}

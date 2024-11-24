@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "96",
+    "type": "string",
+    "department": "string",
+    "procurement_category": "string",
+    "short_summary": "string",
+    "description": "Advance Procurement Notice",
+    "estimated_value": 5000000,
+    "date_posted": "2023-02-15",
+    "duration_in_months": "2",
+    "provinces": [
+        "Nova Scotia"
+    ],
+    "tags": [
+        "Construction, Trading, Transportation, Company, BUAFB",
+        "Privatesector",
+        " Boards/Authorities"
+    ]
+}

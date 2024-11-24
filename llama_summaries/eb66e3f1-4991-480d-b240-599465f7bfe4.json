@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "4094",
+    "type": "JSON",
+    "department": "Contraction-Sheets",
+    "procurement_category": "SRV",
+    "short_summary": "water treatment services",
+    "description": "Maintenance of Communal Wells ",
+    "estimated_value": 100.0,
+    "date_posted": "23/01/2023",
+    "duration_in_months": ">', ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "free trade",
+        "open bidding"
+    ]
+}

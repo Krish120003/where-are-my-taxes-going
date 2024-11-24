@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "W6399-22-LJ93/A",
+    "type": "['EXP']",
+    "department": "1.470.118.0",
+    "procurement_category": "Service",
+    "short_summary": "RFP Amendment 004: RFP Document Amendment 002. This amendment has been raised to extend the Solicitation closing date. }",
+    "description": "The Department of National Defence has a requirement for a Non-terrestrial Internet Microwave System to extend network services to the Department of National Defence (DND), to ensure network connectivity is available in the event of an outage.",
+    "estimated_value": 22.0,
+    "date_posted": "2022-09-20",
+    "duration_in_months": ":",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "Internet Service ",
+        "Network Services",
+        "Service RFP",
+        "MoD"
+    ]
+}

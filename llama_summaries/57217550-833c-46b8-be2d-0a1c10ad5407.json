@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "3993",
+    "type": "request for proposal",
+    "department": "Department of National Defence",
+    "procurement_category": "occasional goods",
+    "short_summary": "The Department of National Defence.",
+    "description": "The Department of National Defence has a requirement for the items detailed below. The delivery is requested at CFB......",
+    "estimated_value": 123.45,
+    "date_posted": "2023-01-25",
+    "duration_in_months": "With C.B.",
+    "provinces": [
+        "British Columbia",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "miscellaneous chemical specialties",
+        " enhanced declarative logic",
+        "forestry"
+    ]
+}

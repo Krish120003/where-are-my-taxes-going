@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-__QT-019-28854",
+    "type": " Navy Plane",
+    "department": "Department of National Defence",
+    "procurement_category": "Goods and Defence",
+    "short_summary": "Training devices",
+    "description": "Land vehicle crew training system (LVCTS) project",
+    "estimated_value": 10.0,
+    "date_posted": "Friday, December 9, 2022",
+    "duration_in_months": "Non-competitive selection",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "Alberta",
+        "Manitoba",
+        "New Brunswick"
+    ],
+    "tags": [
+        "New Planes"
+    ]
+}

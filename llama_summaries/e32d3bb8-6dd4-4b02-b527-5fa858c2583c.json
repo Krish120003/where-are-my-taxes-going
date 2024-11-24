@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "2022-CU-010",
+    "type": "Request for Proposals",
+    "department": "FCC-Farm Credit Canada",
+    "procurement_category": "Service Contract",
+    "short_summary": "Farm Credit Canada is seeking economic expertise to measure the economic impact of various lending initiatives leveraging Statistics Canada's input/output tables.",
+    "description": "This is a competitive RFP for a service contract. The contract duration is not specified. All proposals are due by March 17, 2023. The RFP is seeking economic expertise to build a simple empirical framework that can assess the economic impact of lending initiatives. The framework should be able to assess the impact in terms of GDP and jobs created by region/province and sector (i.e., broken down by NAICS codes). The framework should also be adjustable to reflect Statistics Canada updates to its input/output tables over the years. ",
+    "estimated_value": 100000,
+    "date_posted": "2023-02-20",
+    "duration_in_months": "Not specified",
+    "provinces": [
+        "Saskatchewan"
+    ],
+    "tags": [
+        "RFP",
+        "Economic Expertise",
+        "Lending Initiatives"
+    ]
+}

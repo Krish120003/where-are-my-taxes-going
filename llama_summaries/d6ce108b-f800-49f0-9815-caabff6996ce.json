@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "2987",
+    "type": "purchae",
+    "department": "Departement des Choses Usuelles",
+    "procurement_category": "*",
+    "short_summary": "Industrial Clothingshredder",
+    "description": "{",
+    "estimated_value": 1000,
+    "date_posted": "2022-11-10",
+    "duration_in_months": ": March 31, 2024",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Req",
+        "Prop",
+        "Exp"
+    ]
+}

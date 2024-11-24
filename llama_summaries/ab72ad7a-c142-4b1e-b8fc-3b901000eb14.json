@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "3868",
+    "type": "json",
+    "department": "Department of Public Works and Government Services",
+    "procurement_category": "SRV",
+    "short_summary": "Project summary",
+    "description": "Tender description",
+    "estimated_value": 243814.21,
+    "date_posted": "2023-01-20",
+    "duration_in_months": ".125",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "projectsummary",
+        "contractid3868",
+        "Deprtment of Public Works ",
+        "contracttorsuger",
+        "40,395.60, ",
+        "departmentofpublicworks",
+        "BasecontractcostperRDBC",
+        "detailsbusinessunit",
+        "abc4histtype"
+    ]
+}

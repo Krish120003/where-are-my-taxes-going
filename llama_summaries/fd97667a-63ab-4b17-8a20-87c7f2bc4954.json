@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "47419-239098",
+    "type": "Cafeteria Food Service",
+    "department": "CBSA_dept",
+    "procurement_category": "SRV Procurement cat",
+    "short_summary": "Cafeteria Food Service for CBSA",
+    "description": "Supporting documentation and bid submission will result in the bid being declared non-responsive, as detailed in Annex A.",
+    "estimated_value": 189,
+    "date_posted": "2022-09-28",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "K1A 0S5"
+    ]
+}

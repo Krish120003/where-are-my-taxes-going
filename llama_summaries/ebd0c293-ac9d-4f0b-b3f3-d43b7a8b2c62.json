@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "152202-B",
+    "type": "Contract/FER",
+    "department": "Citizenship and Immigration Canada",
+    "procurement_category": "*SRV",
+    "short_summary": "Cloud-based Enterprise Learning Management System (LMS) for department wide use",
+    "description": "The contract is for a web-based Software as a Service model Learning Management System (LMS) that can be configured to meet specific requirements and allows for the management, delivery, tracking, reporting and evaluation of all training and learning content.",
+    "estimated_value": 15,
+    "date_posted": "2022-10-20",
+    "duration_in_months": "`null",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canada-EU Trade Agreement: Not Applicable"
+    ]
+}

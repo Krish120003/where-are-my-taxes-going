@@ -1,0 +1,26 @@
+{
+    "CONTRACT_ID": "They are not providing bid numbers in numerals, but in text.",
+    "type": "Error",
+    "department": "Contract Attachiehment",
+    "procurement_category": "SRV",
+    "short_summary": "Department of Public Works and Government Services",
+    "description": "Inspection services of boilers, pressure vessels, pressure piping systems, and associated safety in accordance with the requirements of the Canada Occupational Health and Safety Regulations.",
+    "estimated_value": 54650.0,
+    "date_posted": "22/22 Mar 2023",
+    "duration_in_months": "5 years",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "inspection",
+        "services",
+        "boilers",
+        "safety",
+        "pressure",
+        "vessels",
+        "piping",
+        "systems",
+        "safety",
+        "Canada"
+    ]
+}

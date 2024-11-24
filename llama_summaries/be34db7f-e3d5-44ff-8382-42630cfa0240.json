@@ -1,0 +1,15 @@
+{
+    "CONTRACT_ID": "3261",
+    "type": "object",
+    "department": "INFRASTRUCTURE",
+    "procurement_category": "BC",
+    "short_summary": "Extension of programmaata\u00a0",
+    "description": "extension of referenced applictaion)",
+    "estimated_value": 10,
+    "date_posted": "2020-02-20",
+    "duration_in_months": "12",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": []
+}

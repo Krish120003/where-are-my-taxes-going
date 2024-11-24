@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "SSC-23-00021012:T",
+    "type": "Contract",
+    "department": "Shared Services Canada",
+    "procurement_category": "Goods and Services",
+    "short_summary": "SSC is seeking proposals for a network monitoring and awareness solution to provide real-time monitoring of the GC IT network infrastructure.",
+    "description": "The Network Monitoring, Awareness and Reporting Solution will provide SSC with the capabilities to monitor and manage network infrastructure from a centralized environment. The solution will provide real-time visibility into network performance, security and availability, enable SSC to respond quickly to network incidents, and ensure the protection of GC data and technology assets. The expected duration of the contract will be 8 years with 2 one-year option periods.",
+    "estimated_value": 0.0,
+    "date_posted": "02-Jan-2023",
+    "duration_in_months": "8 years +2 one year option periods",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "network-monitoring",
+        "awareness",
+        "reporting",
+        "Real-Time-Visibility"
+    ]
+}

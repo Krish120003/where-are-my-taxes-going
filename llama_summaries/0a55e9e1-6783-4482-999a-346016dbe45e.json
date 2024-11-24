@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "Our purchase order is a Government of Canada procurement solicitation by the Treasury Board of Canada Secretariat for the procurement of Macbook Pros. The 2 BH2124437/A contract includes one amendment.",
+    "type": "Government of Canada",
+    "department": "Treasury Board of Canada Secretariat",
+    "procurement_category": "Goods",
+    "short_summary": "Apple Macbook",
+    "description": "Apple Macbooks for Development and Productivity.",
+    "estimated_value": 1000,
+    "date_posted": "2022-08-26",
+    "duration_in_months": "Not Applicable",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "MacBook Pro",
+        "Apple",
+        "Treasury Board of Canada Secretariat"
+    ]
+}

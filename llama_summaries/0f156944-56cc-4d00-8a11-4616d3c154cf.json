@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "SSC\u201023\u201000024692:T",
+    "type": "bid",
+    "department": "department-of-national-defence-and-public-safety",
+    "procurement_category": "general",
+    "short_summary": "greybox",
+    "description": "Some description",
+    "estimated_value": 173,
+    "date_posted": "2023-12-04",
+    "duration_in_months": "> 3 months",
+    "provinces": [
+        "Ontario",
+        "Nunavut",
+        "Quebec"
+    ],
+    "tags": [
+        "contracts",
+        "bd",
+        "type syst\u00e9mique",
+        "],"
+    ]
+}

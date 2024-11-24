@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "E8D4200358199B3A9AE9B959FEEF56AE",
+    "type": "contract",
+    "department": "contractingEntityName",
+    "procurement_category": "procurementCategory",
+    "short_summary": "tenderDescription",
+    "description": "tenderDescription",
+    "estimated_value": 100000,
+    "date_posted": "-publicationDate-datePublication",
+    "duration_in_months": "expectedContractEndDate-dateFinContratPrevue",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "British Columbia",
+        "Alberta"
+    ],
+    "tags": [
+        "Managed Services",
+        "Technology Services",
+        "Communications Services"
+    ]
+}

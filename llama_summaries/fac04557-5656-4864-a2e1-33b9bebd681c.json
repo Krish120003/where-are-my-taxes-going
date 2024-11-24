@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "}1648 brace removed as per customer feedback { format: if multiple fields, compress them to read one line for better readability",
+    "type": "ContractNotice",
+    "department": "Public Services and Procurement Canada",
+    "procurement_category": "Goods and Services",
+    "short_summary": "We seek vendors to provide stamps, seal embossers, and associated accessories on an as-and-when required basis.",
+    "description": "this is a solicitation issued by  Public  services and  procurement Canada.",
+    "estimated_value": 8500,
+    "date_posted": "March 2024",
+    "duration_in_months": "There is no information about duration of contract on our records",
+    "provinces": [
+        "British Columbia",
+        "Nova Scotia",
+        "Ontario",
+        "Quebec",
+        "Prince Edward Island"
+    ],
+    "tags": [
+        "canada",
+        "ems",
+        "parliament",
+        "canadian parliament"
+    ]
+}

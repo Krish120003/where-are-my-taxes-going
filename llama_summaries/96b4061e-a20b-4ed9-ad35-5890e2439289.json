@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-22-01006854",
+    "type": "Purchase of office furniture",
+    "department": "Heritage of Canada",
+    "procurement_category": "Goods",
+    "short_summary": "Acheter des produits d\u2019ameublement.",
+    "description": "purchase and delivery of office furniture...",
+    "estimated_value": 0.0,
+    "date_posted": "2022-09-12",
+    "duration_in_months": "One month",
+    "provinces": [
+        "Saskatchewan"
+    ],
+    "tags": [
+        "office_furniture ",
+        "freestanding_height_adjustable_desk",
+        "collaborative_space_furniture",
+        "saskatchewan"
+    ]
+}

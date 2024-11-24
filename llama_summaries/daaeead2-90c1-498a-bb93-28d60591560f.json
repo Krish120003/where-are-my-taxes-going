@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "WS3861622287",
+    "type": "tender",
+    "department": "Public Works and Government Services (PSPC)",
+    "procurement_category": "PSC/O-GD",
+    "short_summary": "{...text of the short summary}",
+    "description": "{...text of description}",
+    "estimated_value": 6993.45,
+    "date_posted": "2023-03-07",
+    "duration_in_months": ">6 mo",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Water treatment"
+    ]
+}

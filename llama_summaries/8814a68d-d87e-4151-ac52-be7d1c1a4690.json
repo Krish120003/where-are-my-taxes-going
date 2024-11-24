@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": ":{",
+    "type": "string",
+    "department": "4147",
+    "procurement_category": "reqm",
+    "short_summary": "upgrade segment-Based Mobile Lease Transfers",
+    "description": "The Government Branch is seeking upgrades to its segment-Based Mobile Lease (SBML) that will integrate other existing systems for seamless tenant and sub tenure stays and improvements to website for rental dispute resolution for both landlord and tenant.",
+    "estimated_value": 100000.0,
+    "date_posted": "2021-10-13T10:00:35.214573+00:00",
+    "duration_in_months": "24-month",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "Northern Health Authority",
+        "Government Institutions Only",
+        "Capital..."
+    ]
+}

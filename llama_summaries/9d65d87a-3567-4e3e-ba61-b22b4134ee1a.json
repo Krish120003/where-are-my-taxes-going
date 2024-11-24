@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-22-01012474",
+    "type": "full_service_contract",
+    "department": "healthcare",
+    "procurement_category": "Service",
+    "short_summary": "This Summary is Short",
+    "description": "This is a full service contract.",
+    "estimated_value": 2000,
+    "date_posted": "2022-11-4",
+    "duration_in_months": "*",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "healthcare",
+        "government-contract"
+    ]
+}

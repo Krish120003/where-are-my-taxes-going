@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "30004170",
+    "type": "Whole-genome sequencing analysis",
+    "department": "Fisheries and Oceans Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Supporting EAFM through genomes-based",
+    "description": "provide data on killer whales to allow for incorporation of potential predator impacts on a number of prey management stocks",
+    "estimated_value": 1,
+    "date_posted": "2023-04-25",
+    "duration_in_months": "21 months",
+    "provinces": [
+        "New Brunswick",
+        "Manitoba"
+    ],
+    "tags": [
+        "Fisheries",
+        "Marine Biology",
+        "Environmental Assessment"
+    ]
+}

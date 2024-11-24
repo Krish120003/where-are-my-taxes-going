@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "user_input_tercontract id",
+    "type": "BUY",
+    "department": "Employment and Social Development Canada",
+    "procurement_category": "GD & SRVTGD",
+    "short_summary": "Purchase, delivery and installation of Category 3 and 6 furniture for Quebec Service Canada Centres",
+    "description": "Please ensure that if the notice falls within the bounds of the Comprehensive Economic and Trade Agreement (CETA),\\\\",
+    "estimated_value": 104,
+    "date_posted": "2023-02-23",
+    "duration_in_months": "default_till_2025-03-31",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "*_XI5350",
+        "titlestringtitle-CONTRACT_ID"
+    ]
+}

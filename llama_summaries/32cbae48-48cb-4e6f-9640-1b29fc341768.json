@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "3087",
+    "type": "transaction",
+    "department": "Public Works and Government Services",
+    "procurement_category": "G-D-GD07-001358",
+    "short_summary": "do not use",
+    "description": "Technical Surveillance Counter Measures Equipment",
+    "estimated_value": 60000.0,
+    "date_posted": "2022-11-29",
+    "duration_in_months": ">3",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Ottawa",
+        "Surveillance",
+        "G-S-SG11-001294",
+        "Liberation sur socionade CCDiQ-870400",
+        "46170000",
+        "Safety surveillance and control measurement",
+        "92121700",
+        "Surveillance and surveillance equipment",
+        "* Security surveillance and detection"
+    ]
+}

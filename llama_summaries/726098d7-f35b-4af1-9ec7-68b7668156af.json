@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-22-01006513",
+    "type": "lease",
+    "department": "National Defence",
+    "procurement_category": "Goods and Services",
+    "short_summary": "Request for Proposal",
+    "description": "Basic info about lease",
+    "estimated_value": 2160,
+    "date_posted": "2022-09-12",
+    "duration_in_months": ":30",
+    "provinces": [
+        "British Columbia",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "Cancelled"
+    ]
+}

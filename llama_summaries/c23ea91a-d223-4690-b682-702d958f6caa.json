@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "5021",
+    "type": "government-compliant",
+    "department": "supply chain",
+    "procurement_category": "competitive",
+    "short_summary": " This is a government procurement",
+    "description": " This procurement is for a repair for a  vessel",
+    "estimated_value": 15000,
+    "date_posted": "2023/03/28",
+    "duration_in_months": "Now that we have dealt with this, the tender status is expired. The contract will not be picked up this year, if at all.",
+    "provinces": [
+        "Nova Scotia"
+    ],
+    "tags": [
+        "government",
+        "large procurement",
+        "repair",
+        "vessel",
+        "5 months"
+    ]
+}

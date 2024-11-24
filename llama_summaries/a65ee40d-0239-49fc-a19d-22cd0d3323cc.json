@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "3827",
+    "type": "government-project",
+    "department": "Public Works and Government Services (PSPC)",
+    "procurement_category": "Goods",
+    "short_summary": "Request for Purchase Blood and Buccal DNA Collection Kits",
+    "description": "The National DNA Data Bank provides biological collection kits to the Canadian policing agencies. The kits are used to collect biological samples from convicted offenders. The Government of Canada intends to purchase 30,000 Blood Collection Kits and 1,000 Buccal Collection Kits from the National DNA Data Bank.",
+    "estimated_value": 6840000,
+    "date_posted": "January 17, 2023",
+    "duration_in_months": "What is the duration in months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "DNA collection kits",
+        "Government procurement",
+        "crime"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": ":",
+    "type": "json",
+    "department": "911",
+    "procurement_category": "SRV",
+    "short_summary": "required Medical/Dental Clinics Services",
+    "description": "The RCMP requires the services of one physician to provide onsite occupational health services to RCMP Members in 'D' Division, Manitoba. The anticipated level of effort is up to 16 hours per week.",
+    "estimated_value": 105,
+    "date_posted": "2023-03-15 ",
+    "duration_in_months": "2",
+    "provinces": [
+        "Manitoba"
+    ],
+    "tags": [
+        "physician",
+        "health services",
+        "occupational health services"
+    ]
+}

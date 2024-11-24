@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "W6896-22S094",
+    "type": "standing offer",
+    "department": "Public Works and Government Services",
+    "procurement_category": "construction services",
+    "short_summary": "Electrical Installation, Repairs and Maintenance",
+    "description": "Provide skilled labor, tools, equipment, transportation, supervision and materials for installation, repairs and maintenance of electrical systems.",
+    "estimated_value": 3085,
+    "date_posted": "2022-11-28",
+    "duration_in_months": ">=2 years",
+    "provinces": [
+        "Manitoba"
+    ],
+    "tags": [
+        "electrical systems",
+        "installation",
+        "repairs",
+        "maintenance"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "cb-5012-11701304",
+    "type": "json",
+    "department": "internal-trades-secretariat",
+    "procurement_category": "Service",
+    "short_summary": "Inventory of Regulatory measures",
+    "description": "Identify and analyze the regulatory measures related to trade policy and services",
+    "estimated_value": 60000,
+    "date_posted": "Apr 24 2023",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Manitoba",
+        "Ontario"
+    ],
+    "tags": [
+        "reconciliation",
+        "trade policy",
+        "inventory, "
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "CONTRACT_ID": "SOLICITATION_NUMBER",
+    "type": "JSON",
+    "department": "Department of Health and Social Services",
+    "procurement_category": "SRV",
+    "short_summary": "Contract for a primary care physician on call.",
+    "description": "health care services",
+    "estimated_value": 5000,
+    "date_posted": "2022-10-24",
+    "duration_in_months": "36",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": []
+}

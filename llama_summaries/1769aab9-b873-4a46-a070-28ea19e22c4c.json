@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "51000-22-3832757C",
+    "type": "Contract",
+    "department": "Public Enquiries And Relations",
+    "procurement_category": "*SRV",
+    "short_summary": "Optometry Services",
+    "description": "Optometry Services.",
+    "estimated_value": 142000.0,
+    "date_posted": "2023-01-23",
+    "duration_in_months": "27 Months",
+    "provinces": [
+        "Manitoba"
+    ],
+    "tags": [
+        "*Optical Services",
+        "*Manitoba",
+        "*Service corrections"
+    ]
+}

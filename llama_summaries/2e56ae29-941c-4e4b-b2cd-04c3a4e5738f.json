@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "3097",
+    "type": "TSPS",
+    "department": "AFCAC",
+    "procurement_category": "SRV",
+    "short_summary": "Services de consultant",
+    "description": "Besoin de services de consulting op\u00e9rationnel",
+    "estimated_value": 50000,
+    "date_posted": "N/A",
+    "duration_in_months": "If required",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Financial Consumer Agency",
+        "TSPS",
+        "Business Process Consulting"
+    ]
+}

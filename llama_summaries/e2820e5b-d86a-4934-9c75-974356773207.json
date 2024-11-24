@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-_PPS-028-28785",
+    "type": "award",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Asphalt repairs on parliamentary precinct",
+    "description": "Asphalt repairs on parliamentary precinct on Bank street and Vittoria street.",
+    "estimated_value": 120,
+    "date_posted": "2022-08-23",
+    "duration_in_months": "8",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "infrastructure",
+        "government",
+        "public_works",
+        "repair",
+        "asphalt"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "9F015-22-0045-B",
+    "type": "Cancelled",
+    "department": " NASR-Colombe de Castille ",
+    "procurement_category": "SRV",
+    "short_summary": "This notice has been cancelled.",
+    "description": "This a cancelled contract, so there is no opportunity available for bid still. The contract is for SRV type  and belong to NAHR-Colombe de Castille department. This is a very short summary so you may have a missed somethings. ",
+    "estimated_value": 596265930,
+    "date_posted": "2023-03-14",
+    "duration_in_months": "x",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Canadian Free Trade Agreement (CFTA)",
+        "Demande de propositions"
+    ]
+}

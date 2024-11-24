@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-22-01013155",
+    "type": "JSON",
+    "department": "Departements",
+    "procurement_category": "CONSTRUCTION",
+    "short_summary": "Slipway Reconstruction",
+    "description": "The Contract is for the slipway reconstruction project at Pasp\u00c3\u011fi\u00e7 Harbour including demolition, excavation, dredging,  installation of geotextile and granular materials, electrical work and  Habitat and recovery of concrete, stone, drainage system,  wind protection and gravel, site preparation and other activities.",
+    "estimated_value": 340,
+    "date_posted": "October 2022",
+    "duration_in_months": ")] to a clean and organized json output format with each section separated by sections. Here is the example of JSON you are looking for to help guide your formatting: { ",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "construction",
+        "/slips",
+        "Harbour_Gap",
+        "REGION_QUEBEC"
+    ]
+}

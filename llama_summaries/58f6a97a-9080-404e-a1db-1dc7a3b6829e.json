@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "2927",
+    "type": "ACAN",
+    "department": "Health Canada",
+    "procurement_category": "LaBo",
+    "short_summary": "Automated Test Dishwashing Machine",
+    "description": "",
+    "estimated_value": 0,
+    "date_posted": "2022-11-22T00:00:00",
+    "duration_in_months": "?",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Single-Use Plastics Prohibition Regulations (SOR/2022-138)"
+    ]
+}

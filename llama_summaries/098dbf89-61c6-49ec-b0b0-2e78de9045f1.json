@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "63d76d5673ef7102b470ff36d7cb18b777f5d3e8b885c74221963f17895972a1",
+    "type": "dseries",
+    "department": "Service 1",
+    "procurement_category": "CNST",
+    "short_summary": "",
+    "description": "Cancelled tender for excavating and earthmoving work ",
+    "estimated_value": 0,
+    "date_posted": "2022-10-11",
+    "duration_in_months": "url qed    ",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "Contractor",
+        "Tender"
+    ]
+}

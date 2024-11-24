@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "PW-23-01021585",
+    "type": "Tender",
+    "department": "Health Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Drug Shortages Web/mobile Applications",
+    "description": "Provide services for monthly hosting, maintenance and support of the Drug Shortages Canada website, and enhancements to the website on an 'as and when needed' basis, for a three (3) year period with an option for up to seven /12-month periods.",
+    "estimated_value": 1,
+    "date_posted": "log",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "health",
+        "services",
+        "maintenance",
+        "IT",
+        "web",
+        "hospital"
+    ]
+}

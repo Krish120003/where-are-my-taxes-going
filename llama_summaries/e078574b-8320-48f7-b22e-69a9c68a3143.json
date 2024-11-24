@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-23-01021358",
+    "type": "JSON",
+    "department": "[\"None\"]",
+    "procurement_category": "SRV",
+    "short_summary": "This is the short summary of the procurement.",
+    "description": "I will summarize the description for you.",
+    "estimated_value": 16000000,
+    "date_posted": "02/25/2023",
+    "duration_in_months": "5 year contract with an optional 5 additional years of renewal (total of 10 years)NP09Schedu",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Ontario",
+        "Canada"
+    ]
+}

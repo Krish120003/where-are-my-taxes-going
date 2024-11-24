@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "1842",
+    "type": " Contrat de meuble",
+    "department": " Environnement et Changement climatique",
+    "procurement_category": "G\u00e9n\u00e9ral",
+    "short_summary": "Achat de meubles d'office",
+    "description": "Meubles d'office pour le bureau de Dorval",
+    "estimated_value": 4278245.5,
+    "date_posted": " 1 ao\u00fbt \u00e0 23h",
+    "duration_in_months": "24 mois",
+    "provinces": [
+        "Quebec",
+        "Nunavut"
+    ],
+    "tags": [
+        "meuble",
+        " procurement"
+    ]
+}

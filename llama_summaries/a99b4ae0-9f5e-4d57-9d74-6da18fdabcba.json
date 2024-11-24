@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-23-01020713",
+    "type": "CNC Milling Machine",
+    "department": "RCMP - Royal Canadian Mounted Police",
+    "procurement_category": "Goods",
+    "short_summary": "One CNC Milling Machine to be delivered to the RCMP in St. John's, N.L.",
+    "description": "Milling Machines",
+    "estimated_value": 100,
+    "date_posted": "2023-01-10T00:00:00",
+    "duration_in_months": ",",
+    "provinces": [
+        "Newfoundland and Labrador"
+    ],
+    "tags": [
+        "CNC Milling Machine",
+        "Milling Machines"
+    ]
+}

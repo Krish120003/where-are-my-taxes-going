@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "2079",
+    "type": "octets",
+    "department": "Salut tout le monde!",
+    "procurement_category": "Service",
+    "short_summary": "This is the short description of the contract",
+    "description": "This is the description of the contract.",
+    "estimated_value": 100,
+    "date_posted": "2022-02-23",
+    "duration_in_months": "6",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Comp\u00e9tition",
+        "service",
+        "SalonCriticalSection"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "title-titre-eng",
+    "type": "string",
+    "department": "Natural Resources Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Seeking proposals to conduct a market review of heat pumps for commercial buildings across Canada",
+    "description": "Natural Resources Canada (NRCan) is seeking proposals from bidders to conduct a market review of the packaged air-source heat pump rooftop unit market for small commercial buildings across Canada.",
+    "estimated_value": 100000,
+    "date_posted": "2024-11-15",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "heatpump",
+        "commercial",
+        "Canada",
+        "marketreview"
+    ]
+}

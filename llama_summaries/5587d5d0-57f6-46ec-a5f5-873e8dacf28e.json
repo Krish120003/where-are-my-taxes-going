@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "5379",
+    "type": "JSON format for easy parsing",
+    "department": "dept of  Transports de Gaulle",
+    "procurement_category": "*GD",
+    "short_summary": "Procurement of aluminium RHIBs 10.0m to 11.0m",
+    "description": "Supply of aluminium boats 10.0 to 11.0m",
+    "estimated_value": 1000000,
+    "date_posted": "2023-03-30",
+    "duration_in_months": "The procurelement la dur\u00e9e de ce procure abundement trois ",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "transports",
+        "waterways",
+        "maritime"
+    ]
+}

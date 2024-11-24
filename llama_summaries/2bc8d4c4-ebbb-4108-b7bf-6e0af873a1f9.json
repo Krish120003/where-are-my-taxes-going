@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "2954",
+    "type": "JSON",
+    "department": "Gatineau",
+    "procurement_category": "CNST",
+    "short_summary": "Brief summary of the contract",
+    "description": " The Department of Public Works and Government Services (PSPC) requires a new roof and structural upgrades for the RCMP facility located on Gabriola Island...",
+    "estimated_value": 100000,
+    "date_posted": "2022-11-06",
+    "duration_in_months": ")",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "roof replacement",
+        "structural the upgrades",
+        "government",
+        "public works"
+    ]
+}

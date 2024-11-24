@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "W8485-237543/B",
+    "type": "windshield R/H common to both {{'en' : tenderDescription-descriptionAppelOffres-eng, 'fr':tenderDescription-descriptionAppelOffres-fr}}",
+    "department": "Department of National Defence",
+    "procurement_category": "*GD*",
+    "short_summary": "10 Windshield R/H Part No. 370-403-00-1",
+    "description": "{{ tenderDescription-descriptionAppelOffres-eng, tenderDescription-descriptionAppelOffres-fr }}",
+    "estimated_value": 707,
+    "date_posted": "2023-03-22",
+    "duration_in_months": "1",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "windshield R/H",
+        "Government Contract",
+        "Canada-Korea Free Trade Agreement (CKFTA)",
+        "Canadian Free Trade Agreement (CFTA)",
+        "The procurement type is an *Open tender*.",
+        "Tender type is *Competitive*."
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-22-01017667",
+    "type": "Cancellation",
+    "department": "DCC",
+    "procurement_category": "CNST",
+    "short_summary": "The tender description is of 68{\\",
+    "description": "This notice has been cancelled.",
+    "estimated_value": 68.0,
+    "date_posted": "2022-12-20",
+    "duration_in_months": "Well, it is not actually 68 days since the date posted at 2022-03-31 is March 31, 2026.",
+    "provinces": [
+        "Ontario",
+        "Saskatchewan"
+    ],
+    "tags": [
+        "Construction",
+        "Building",
+        "Infrastructure"
+    ]
+}

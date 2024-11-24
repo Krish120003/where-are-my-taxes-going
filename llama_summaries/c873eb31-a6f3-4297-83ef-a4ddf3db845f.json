@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-22-01009107",
+    "type": "TENDER",
+    "department": "NRCan",
+    "procurement_category": "*CNST",
+    "short_summary": "'Metallic Powder Storage'",
+    "description": "Need someone to supply and install a pure argon fire suppression system for a part of the storage room S2-011.",
+    "estimated_value": 1000000,
+    "date_posted": "2022-10-04T14:00:00",
+    "duration_in_months": "On going",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Request for Proposal",
+        "Pure Argon Fire Suppression System",
+        "Construction of Other Buildings",
+        "Canadian Free Trade Agreement (CFTA)"
+    ]
+}

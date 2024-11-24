@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "2369",
+    "type": "DETAILS",
+    "department": "Government of Canada",
+    "procurement_category": "*SRVTGD",
+    "short_summary": "CCGS Goddard - Drydocking and Refit, noticeType-avisType-eng: Request for Proposal",
+    "description": "The Canadian Coast Guard (CCG) requires a contractor to carry out the drydocking and refit for the Canadian Coast Guard Ship (CCGS) Captain Goddard.",
+    "estimated_value": 10,
+    "date_posted": "2022-09-29",
+    "duration_in_months": ",\"duration.maxDate\":\"2023-01-04\" }",
+    "provinces": [
+        "British Columbia",
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "Government of Canada",
+        "public procurement",
+        "bid opportunity",
+        "CCGS Goddard",
+        "drydocking and refit",
+        "request for proposal"
+    ]
+}

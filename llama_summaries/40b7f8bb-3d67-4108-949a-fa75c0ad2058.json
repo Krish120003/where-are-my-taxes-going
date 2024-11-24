@@ -1,0 +1,26 @@
+{
+    "CONTRACT_ID": "1483",
+    "type": "15",
+    "department": "DFAITD",
+    "procurement_category": "*SRV",
+    "short_summary": "Temporary Help Services - Professional and Technical",
+    "description": "Providing Access Management Unit (AMU) services to the Department of Foreign Affairs, Trade and Development (DFAITD).",
+    "estimated_value": 400000,
+    "date_posted": "2022-12-15",
+    "duration_in_months": "></real-time>",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "cfta",
+        "ceta",
+        "cptpp",
+        "cufta",
+        "cspscspa",
+        "hufta",
+        "kfta",
+        "mpifta",
+        "ucfta",
+        "wtopgap"
+    ]
+}

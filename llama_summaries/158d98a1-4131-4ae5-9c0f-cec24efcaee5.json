@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "1268",
+    "type": "tender",
+    "department": "Taken from end user entities name",
+    "procurement_category": "service",
+    "short_summary": "Internal Audit and Evalution Consultent Services",
+    "description": "Internal Audit and Evaluation Consultant Services:",
+    "estimated_value": 400000.0,
+    "date_posted": "2022-12-23",
+    "duration_in_months": "MAY-vary depending on workload",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "todd"
+    ]
+}

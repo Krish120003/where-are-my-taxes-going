@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "user-error input missing the left curly bracket",
+    "type": "RFP",
+    "department": "Public Works and Government Services (PSPC)",
+    "procurement_category": "Goods",
+    "short_summary": "Request for Proposal Oxygen, Nitrogen, and Hydrogen Analyzer",
+    "description": "Please disregardthe Ariba Discovery posting response deadline closing time and CanadaBuys posting closing time. All required supporting documentation and bid submission must be submitted by January 4, 2023 at 2:00PM EST. All bids submitted after 2:00PM EST will result in the bid being declared non-responsive.",
+    "estimated_value": 3421,
+    "date_posted": "Some time ago",
+    "duration_in_months": "6",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Engineering violation",
+        "Engineering category mismatch",
+        "Incomplete bifission data",
+        "Service offering begins on ",
+        "Contract data teaching"
+    ]
+}

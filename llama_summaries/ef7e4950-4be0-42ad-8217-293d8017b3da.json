@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "22058058",
+    "type": "Automatic",
+    "department": "finance",
+    "procurement_category": "Goods",
+    "short_summary": "<init-state>",
+    "description": "Supply of Vertical Autoclave",
+    "estimated_value": 27000,
+    "date_posted": "2023-01-27",
+    "duration_in_months": "1",
+    "provinces": [
+        "Prince Edward Island"
+    ],
+    "tags": [
+        "Automotive & Industrial Markets (A4M)",
+        "industrial"
+    ]
+}

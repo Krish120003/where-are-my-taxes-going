@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "5517",
+    "type": "contract",
+    "department": "public-works",
+    "procurement_category": "Goods and Services",
+    "short_summary": "request standing offer for wood products",
+    "description": "{long description}",
+    "estimated_value": 8500000,
+    "date_posted": "2022-06-24",
+    "duration_in_months": ";/12",
+    "provinces": [
+        "Nova Scotia",
+        "New Brunswick"
+    ],
+    "tags": [
+        "Standing Offer",
+        "Lumber",
+        "Government Contract",
+        "purchase low price",
+        "purchase high quantity"
+    ]
+}

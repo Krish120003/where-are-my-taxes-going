@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "21401-26-3878739a",
+    "type": "JSON",
+    "department": "Interior",
+    "procurement_category": "goods and supplie",
+    "short_summary": "Periodic elevator inspections",
+    "description": " Processing file for multiple elevators, freight elevators and hand \" + ",
+    "estimated_value": 1000000,
+    "date_posted": "2022-10-18",
+    "duration_in_months": "],[",
+    "provinces": [
+        "Ontario",
+        "Northwest Territories",
+        "Newfoundland and Labrador",
+        "Nova Scotia",
+        "New Brunswick"
+    ],
+    "tags": [
+        "CPI",
+        "General Interpreter",
+        "government bid"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "CONTRACT_ID": "PW-22-01017087",
+    "type": "CONTRACT",
+    "department": "SAC-S",
+    "procurement_category": "SRV",
+    "short_summary": "Advance Contract Award Notice (ACAN) for: Local Access Service (Nova Scotia and Prince Edward Island \u00e2\u20ac\u201c Non-Core)  Shared Services Canada (SSC)  What is an ACAN: An ACAN is a public notice indicating to the supplier community that a department or agency intends to award a contract for goods, services or construction to a pre-identified supplier, thereby allowing other suppliers to signal their interest in bidding, by submitting a statement of capabilities If no supplier submits a statement of capabilities that meets the requirements set out in the ACAN, on or before the closing date stated for in the ACAN, the contracting officer may then proceed with the award of a contract. This ACAN relates to a contract proposed to be awarded to a pre-identified contractor. Definition of requirement: Shared Services Canada (SSC) has a requirement for the provision of Local Access Service to the Government of Canada with offices located across NS & PEI Non-Core. This ACAN is being issued by Shared Services Canada (SSC). SSC is a federal government department that acts as a shared services organization. Any resulting Contract will be used by SSC to provide shared services to one or more of its Clients. SSC s clients include SSC itself, those government institutions for whom SSC s services are mandatory at any point during the life of any resulting Contract, and those other organizations for whom SSC s services are optional at any point during the life of any resulting Contract and that choose to use those services from time to time. In addition to the Government of Canada, SSC may also serve a government of a province or municipality in Canada, a Canadian aid agency, a public health organization, an intergovernmental organization or a foreign government. LAS is currently provided using legacy copper-based services such as Centrex Service and basic business lines. There are currently approximately 376 LAS lines in NS and 36 LAS lines in PEI; decreasing as SSC proceeds with a fixed-line reduction program. It is SSC s intention to migrate existing LAS lines to wireless and Voice over Internet Protocol (VoIP) solutions during the period of this contract that have been competed separately by SSC. If the current service(s) becomes end-of-life during the term of the contract, SSC will allow a substitute service to be provided (under the same terms and conditions), in order to maintain service until migration to the alternate SSC procured service has been completed. The substitute service must be a wireline service that does not require any connection to the SSC data networks. The requirement is for a single supplier for the listed geographic area listed above, commencing on December 31, 2023. The Local Access Services proposed by the supplier must ensure that the directory numbers for the existing lines in the geographic areas where they must be operating remain unchanged. As well, any proposed service must not utilize the Client s data Local Access Network (LAN), i.e., phones may not be connected to a network utilized by any other SSC / Client service or application. There are detailed requirements regarding the dialing plan, Classes of Service, and line features. As part of this service, the Local Access Services provider must also install, maintain and update all infra-structure associated with delivering the service to ensure that the service consistently meets detailed services level requirements.",
+    "description": "This advance contract award notice includes information regarding the proposed contract for the provision of Local Access Service to the Government of Canada with offices located across NS & PEI Non-Core. The contract is expected to commence on December 31, 2023, and will be awarded to a pre-identified supplier. The services to be provided under this contract include the installation, maintenance, and update of all infra-structure associated with delivering the service, as well as the provision of Local Access Service to the Government of Canada. The contract is excluded from the application of the international trade agreements to which Canada is a party, and only the Canadian Free Trade Agreement (CFTA) applies. The notice is being issued by Shared Services Canada (SSC), and the contract will be used to provide shared services to one or more of its Clients.",
+    "estimated_value": 341100000,
+    "date_posted": "2022-12-13",
+    "duration_in_months": "); LocationTypes Catalogue Id Materials ID Appendix ID materialspec Ahmed Futee Proteced Access",
+    "provinces": [
+        "Nova Scotia",
+        "Prince Edward Island"
+    ],
+    "tags": [
+        "Government of Canada",
+        "Shared Services Canada",
+        "Local Access Service",
+        "Non-Core",
+        "contract award",
+        "acquisition process",
+        "e-procurement",
+        "SAC-S",
+        "SRV",
+        "swest procurement implicating portfolio",
+        "Comprehensive Land Claims Agreements",
+        "FIXED LINE REDUCTION ],  "
+    ]
+}

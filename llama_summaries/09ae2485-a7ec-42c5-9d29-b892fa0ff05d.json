@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-22-01017282",
+    "type": "object",
+    "department": "Construction",
+    "procurement_category": "Buildings",
+    "short_summary": "These solicitations invite interested persons to tender for the above-noted Goods / Services...",
+    "description": "Some details about the project...",
+    "estimated_value": 50000.0,
+    "date_posted": "2023-01-01",
+    "duration_in_months": "> 6 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Asphalt Shingle Services",
+        "Construction",
+        "Roofing"
+    ]
+}

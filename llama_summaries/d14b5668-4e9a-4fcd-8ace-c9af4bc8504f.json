@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "1473",
+    "type": "INVOICE:",
+    "department": "INU-1.",
+    "procurement_category": "SRV",
+    "short_summary": "Inuvik Parcel Survey",
+    "description": "",
+    "estimated_value": 100000.0,
+    "date_posted": "2020-11-20",
+    "duration_in_months": "$",
+    "provinces": [
+        "Northwest Territories"
+    ],
+    "tags": [
+        "SRV",
+        "INU-1",
+        "Surveying Services",
+        "Gwich'in Inuvik Parcel Survey",
+        "Trade Agreement: NONE",
+        "Competitive Procurement Strategy: Best Overall  Proposal",
+        "Comprehensive Land Claim Agreement: Yes",
+        "Nature of Requirements:  Gwich'in Inuvik Parcel Survey",
+        ""
+    ]
+}

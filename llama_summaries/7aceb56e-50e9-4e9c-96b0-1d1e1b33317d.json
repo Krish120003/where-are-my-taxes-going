@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "name string data",
+    "type": "JSON",
+    "department": "DND",
+    "procurement_category": "*GD",
+    "short_summary": "NOTICE OF PROPOSED PROCUREMENTThe Department of National Defence has a requirement for the items detailed below. The delivery is requested at CFB Esquimalt and CFB Halifax.Item 1, GSIN: 2040, NSN: 21-910-6964, Cover, BoatPart No.: C-C-50525, NCAGE: 38915Quantity: 10, Unit of Issue: EA, to be delivered to CFB Halifax.Item 2, GSIN: 2040, NSN: 21-910-6964, Cover, BoatPart No.: C-C-50525, NCAGE: 38915Quantity: 6, Unit of Issue: EA, to be delivered to CFB Esquimalt.",
+    "description": "notice of proposed procurement",
+    "estimated_value": 1777,
+    "date_posted": "2022-08-08",
+    "duration_in_months": "Not Available",
+    "provinces": [
+        "Nova Scotia",
+        "British Columbia"
+    ],
+    "tags": [
+        "Ship and Boat Propulsion Components"
+    ]
+}

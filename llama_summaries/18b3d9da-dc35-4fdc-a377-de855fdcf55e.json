@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "PW-23-01019991",
+    "type": "json",
+    "department": "Canada",
+    "procurement_category": "Srv",
+    "short_summary": "residential units for purchase or lease",
+    "description": "request for info / geographical location of the contract is north west river, newfoundland and labrador",
+    "estimated_value": 50,
+    "date_posted": "2023-1-4",
+    "duration_in_months": "1",
+    "provinces": [
+        "Newfoundland and Labrador"
+    ],
+    "tags": [
+        "RCMP",
+        "residential",
+        "acquisition",
+        "purchase",
+        "lease",
+        "gouvernment of canada",
+        "north west river",
+        "newfoundland and labrador"
+    ]
+}

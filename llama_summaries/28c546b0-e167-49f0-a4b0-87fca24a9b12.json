@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "1413",
+    "type": "notice",
+    "department": "public_works_and_government_services_canada",
+    "procurement_category": "SRV",
+    "short_summary": "Translation Services",
+    "description": "Translation services for the Government of Canada, from English to French in the field of \"Government contracts and procurement\".",
+    "estimated_value": 4800000,
+    "date_posted": "2024-02-05",
+    "duration_in_months": ".",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "canadienne",
+        "francaise",
+        "translators",
+        "french-market"
+    ]
+}

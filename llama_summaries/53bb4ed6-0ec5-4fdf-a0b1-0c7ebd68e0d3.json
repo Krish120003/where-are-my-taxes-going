@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": ",2751",
+    "type": "JSON",
+    "department": "EMCFF",
+    "procurement_category": "*GD",
+    "short_summary": "",
+    "description": "",
+    "estimated_value": 0.0,
+    "date_posted": "",
+    "duration_in_months": "default",
+    "provinces": [
+        "British Columbia",
+        "Alberta",
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        ""
+    ]
+}

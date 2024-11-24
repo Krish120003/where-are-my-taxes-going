@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "854(2023-02-23)01",
+    "type": "Contract ID",
+    "department": "National Defence Department",
+    "procurement_category": "Good",
+    "short_summary": "In Procurement of VALVE, BALL",
+    "description": "  This contains 1 items 1  VALVE, BALL.",
+    "estimated_value": 150,
+    "date_posted": "2023-02-23",
+    "duration_in_months": "[60]",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "urn:iso:standard:urn:un:iso:std:iso:3166:1.0:CA",
+        "urn TEST iffree trade agreements work properly"
+    ]
+}

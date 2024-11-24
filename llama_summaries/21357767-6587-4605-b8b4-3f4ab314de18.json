@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "What is the contract ID registered in PCS'",
+    "type": "contract",
+    "department": "PWGSC",
+    "procurement_category": "*CNST",
+    "short_summary": "port morien shoreline repair",
+    "description": "PP(Main text is truncated - Go to disclosure statement for entire list),",
+    "estimated_value": 270000,
+    "date_posted": "2023-01-25",
+    "duration_in_months": "-",
+    "provinces": [
+        "Nova Scotia"
+    ],
+    "tags": [
+        "Port Morien"
+    ]
+}

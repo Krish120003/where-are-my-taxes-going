@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "3716",
+    "type": "Destroyed",
+    "department": "Ministere des Travaux Publics et Servies Gouvernementaux (TPSGC)",
+    "procurement_category": "Gestion de Service",
+    "short_summary": "PEURHE DE DESTRUCTION DE DIVERS SUPPORTS INFORMATIQUES ET OPTIQUES ",
+    "description": " Service Management Centre, CFB Kingston requires the supply, delivery, warranty, installation and training of a device capable of shredding, disintegrating and grinding all types of IT storage media that has a protection level of Secret. All the deliverables must be received on or before March 31, 2023.",
+    "estimated_value": 50000.0,
+    "date_posted": "2022-12-14",
+    "duration_in_months": "Yes",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Data Destruction",
+        "IT Storage Media",
+        "Compact Disk",
+        "Data Destruction Services",
+        "DataBase",
+        "Support Tapes"
+    ]
+}

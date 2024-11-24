@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "2255",
+    "type": "vehicle reproductive technology",
+    "department": "national defense",
+    "procurement_category": "SRVTGD",
+    "short_summary": "MILCOT Vehicle Repair",
+    "description": "vehicle repair technology",
+    "estimated_value": 1500.0,
+    "date_posted": "2022-09-28",
+    "duration_in_months": ",Scheme",
+    "provinces": [
+        "Nova Scotia",
+        "Quebec"
+    ],
+    "tags": [
+        "Ground Effect Vehicles - Repair",
+        "MILCOT Vehicle Repair"
+    ]
+}

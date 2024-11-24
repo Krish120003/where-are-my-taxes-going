@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "}",
+    "type": "Competitive - Open bidding",
+    "department": "Transportation",
+    "procurement_category": "SRV",
+    "short_summary": "Crew Accommodation and Transportation",
+    "description": "This is the contract",
+    "estimated_value": 10000,
+    "date_posted": "2023-03-01",
+    "duration_in_months": ": null,",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "hotel",
+        "transportation",
+        "bid"
+    ]
+}

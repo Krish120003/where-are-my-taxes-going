@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "WS3713841882",
+    "type": "Purchase Order/Purchase Agreement",
+    "department": "Department of Public Works and Government Services",
+    "procurement_category": "SRV",
+    "short_summary": "W7006-22R015 CT142 DASH 8 AIRFRAME AND LANDING GEAR COMPONENTS AND ASSOCIATED ACCESSORIES REPAIR AND OVERHAUL",
+    "description": "CT 142 Dash 8 Airframe and Landing Gear, Aircraft Avionics, Equipment and Accessories Repair, Overhaul, Testing, Parts",
+    "estimated_value": 655,
+    "date_posted": "2022-11-03",
+    "duration_in_months": "MIN Months",
+    "provinces": [
+        "Quebec",
+        "Ontario",
+        "Manitoba"
+    ],
+    "tags": [
+        "Canada-Panama Free Trade Agreement",
+        "Canada-Colombia Free Trade Agreement",
+        "Canada-Honduras Free Agreement",
+        "Canada-Peru Free Trade Agreement",
+        "Canada-Chile Free Trade Agreement",
+        "World Trade Organization Agreement on Government Procurement (WTO GPA)"
+    ]
+}

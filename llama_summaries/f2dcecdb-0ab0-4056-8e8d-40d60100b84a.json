@@ -1,0 +1,26 @@
+{
+    "CONTRACT_ID": "PW-23-01026628",
+    "type": "CONTRACT ID",
+    "department": "TRANSPORT CANADA",
+    "procurement_category": "SRV",
+    "short_summary": "Translation Services for the Transportation of Dangerous Goods directorate",
+    "description": "Translation for the TDG program",
+    "estimated_value": 100000,
+    "date_posted": "2023-02-20",
+    "duration_in_months": ":12",
+    "provinces": [
+        "British Columbia",
+        "Alberta",
+        "Saskatchewan",
+        "Ontario",
+        "Quebec",
+        "New Brunswick",
+        "Nova Scotia",
+        "Prince Edward Island",
+        "Newfoundland and Labrador"
+    ],
+    "tags": [
+        "translation",
+        "french"
+    ]
+}

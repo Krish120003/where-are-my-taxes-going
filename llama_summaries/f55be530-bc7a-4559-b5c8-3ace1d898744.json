@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "PW-23-01028224",
+    "type": "contract",
+    "department": "Office of the Superintendent of Financial Institutions",
+    "procurement_category": "Service",
+    "short_summary": "The Office of the Superintendent of Financial Institutions Canada (OSFI) seeks to appoint a provider for the provision of Equifax Exignite: Economic Indicators (user licenses, historical and real-time data), with a subscription contract that starts after a Request for clarification (RFI) and includes an extension of a year, and be entitled to 455,349$ CAD (HST in addition.).",
+    "description": "The provided data includes numerous keys with English and French values. The JSON to be created must preserve these values.",
+    "estimated_value": 455349,
+    "date_posted": "Mar 01, 2023",
+    "duration_in_months": ":",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Finance, Technology"
+    ]
+}

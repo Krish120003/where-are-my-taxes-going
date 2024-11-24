@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "WS3733018980",
+    "type": "bid",
+    "department": "PWB (PSPC)",
+    "procurement_category": "Goods",
+    "short_summary": "The Department of Mechanical and Aerospace Engineering at Royal Military College of Canada has a requirement to procure a stereo PIV system with LED-based illumination",
+    "description": "The {} is a requirement to procure a {}",
+    "estimated_value": 100,
+    "date_posted": "26 Nov 2022",
+    "duration_in_months": ">=3",
+    "provinces": [
+        "Ontario",
+        "Alberta",
+        "Quebec",
+        "British Columbia",
+        "Nunavut"
+    ],
+    "tags": [
+        "mechanics",
+        "engineering",
+        "research",
+        "academic"
+    ]
+}

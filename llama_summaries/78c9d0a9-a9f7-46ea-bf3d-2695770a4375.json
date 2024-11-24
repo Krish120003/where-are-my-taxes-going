@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "1590",
+    "type": "JSON",
+    "department": "DGGPEA",
+    "procurement_category": "*GD",
+    "short_summary": "Towbar for airplane manufacturer C130-2F",
+    "description": "Aircraft equipment",
+    "estimated_value": 30000,
+    "date_posted": "2024-11-08",
+    "duration_in_months": "user-defined: 3 months",
+    "provinces": [
+        "Ontario",
+        "British Columbia",
+        "Newfoundland and Labrador"
+    ],
+    "tags": [
+        "Aircraft",
+        "Tow-bar",
+        "Purchase materials"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-23-01022286",
+    "type": "a tender",
+    "department": "Finance",
+    "procurement_category": "SRV",
+    "short_summary": "Human Resources (HR) research and advisory services subscription",
+    "description": "Tender according to description provided",
+    "estimated_value": 100000.0,
+    "date_posted": "2023-01-20",
+    "duration_in_months": "12",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "tender",
+        "HR",
+        "research and advisory services",
+        "subscription"
+    ]
+}

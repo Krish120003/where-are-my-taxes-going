@@ -1,0 +1,16 @@
+{
+    "CONTRACT_ID": "Not Provided",
+    "type": "Json",
+    "department": "eng",
+    "procurement_category": "Goods",
+    "short_summary": "99 Words Summary needed -type: \", ",
+    "description": "see nformationbelow",
+    "estimated_value": 10290.99,
+    "date_posted": "He New",
+    "duration_in_months": " No time to describe this",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": []
+}

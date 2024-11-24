@@ -1,0 +1,30 @@
+{
+    "CONTRACT_ID": "W8485-TSPS2023-01/B",
+    "type": "SERVICE",
+    "department": "Minist\u00e8re de la D\u00e9fense Nationale",
+    "procurement_category": "*SRV",
+    "short_summary": "Chef de projet/ Directeur de projets",
+    "description": "Provision of Task and Solutions Professional Services.",
+    "estimated_value": 3750000.0,
+    "date_posted": "05 d\u00e9cembre 2022",
+    "duration_in_months": ":[",
+    "provinces": [
+        "Ontario",
+        "New Brunswick"
+    ],
+    "tags": [
+        "project management",
+        "consulting",
+        "Human Resources",
+        "planning, and monitoring, implementation, control, and evaluation activities",
+        "publication_date",
+        "expiration_date",
+        "competition",
+        "procurement_method",
+        "vendor",
+        "description",
+        "short_description",
+        "expected_value",
+        "expected_implementation_date"
+    ]
+}

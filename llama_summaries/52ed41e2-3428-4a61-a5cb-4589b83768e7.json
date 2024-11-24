@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "WS3510098383",
+    "type": "supply arrangement",
+    "department": "public works and government services (pwgsc)",
+    "procurement_category": "construction services",
+    "short_summary": "supply arrangements for environmental remedies services",
+    "description": "supply arrangements with 3 separate streams defined in annex e - administrative zones",
+    "estimated_value": 17000000,
+    "date_posted": "2022-09-20",
+    "duration_in_months": "Indefinite",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "environmental_removal",
+        "remediation",
+        "water_resources",
+        "federal_program"
+    ]
+}

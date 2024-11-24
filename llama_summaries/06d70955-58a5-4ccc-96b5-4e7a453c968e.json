@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-22-01003643",
+    "type": "contract",
+    "department": "IT",
+    "procurement_category": "SRV",
+    "short_summary": "Provision and delivery of Risk Protection Services",
+    "description": "Detailed summary of the contract will be provided in the full contest file",
+    "estimated_value": 1000000,
+    "date_posted": "2022-08-08",
+    "duration_in_months": ").REQUESTED_VALUE : 1000000,",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "risk_protection",
+        "digital_security"
+    ]
+}

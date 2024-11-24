@@ -1,0 +1,28 @@
+{
+    "CONTRACT_ID": ".//config/en/Tier 3 - field of Military Land Element, from English to French, in accordance with the conditions of SA EN966-140305/Tier3EN_FR_MIL LAND.json",
+    "type": "json",
+    "department": "DGA MIL-Land",
+    "procurement_category": "SRV",
+    "short_summary": "Translation Services",
+    "description": "DGA has 25 000 000 words to be translated form english to french, and translation will be done by suppliers pre-qualfied in tier 3",
+    "estimated_value": 1300000,
+    "date_posted": "2022-08-24",
+    "duration_in_months": "36",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Translation",
+        "translation services",
+        "English",
+        "French",
+        "military-land",
+        "translation-bureau",
+        "word-count",
+        "48months",
+        "64",
+        "64 Total Days",
+        "QBCanada",
+        "NCTRNNCA"
+    ]
+}

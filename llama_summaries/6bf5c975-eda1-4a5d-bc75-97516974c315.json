@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "WS3713861701-Doc3714039607",
+    "type": "id",
+    "department": "str:solicitation#",
+    "procurement_category": "str:iten#",
+    "short_summary": "str:10_chars#tenderLineStd#2_text\u200c\u200b",
+    "description": "",
+    "estimated_value": 0.0,
+    "date_posted": "ds:2022-10-26",
+    "duration_in_months": "]",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "preferctaed canvase"
+    ]
+}

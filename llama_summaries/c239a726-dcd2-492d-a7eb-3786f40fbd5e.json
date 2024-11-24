@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "strconv.Itoa(undefined)};// Must be as JSON because there is error depend on it ''export default {",
+    "type": "INITIAL",
+    "department": "CONTACT_INFO",
+    "procurement_category": "SRV",
+    "short_summary": "Data Collection Services",
+    "description": " Transport Canada has a requirement for the compilation of a database of original vehicle dimensions for light-duty vehicles for the 2023 model year, with options to collect the data for three (3) additional one (1) year periods",
+    "estimated_value": 1.5,
+    "date_posted": "2022-10-05",
+    "duration_in_months": "0",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Advance Contract Award Notice",
+        "Competitive - Open bidding"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "SSC-23-00022495:T",
+    "type": "term-contract",
+    "department": "National Defence Department",
+    "procurement_category": "Goods",
+    "short_summary": "Console servers",
+    "description": "Supply and delivery of 6x PCs for Network Infrastructure, 14x Lenovo console Servers",
+    "estimated_value": 85000,
+    "date_posted": "2023-04-04",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "servers",
+        "ADS",
+        "Own procurement"
+    ]
+}

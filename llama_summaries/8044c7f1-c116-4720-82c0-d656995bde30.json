@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "2905",
+    "type": "elevators - repair",
+    "department": "ontario (except ncr)",
+    "procurement_category": "srvtgd",
+    "short_summary": "",
+    "description": "",
+    "estimated_value": 0.0,
+    "date_posted": "2022-10-14",
+    "duration_in_months": ":31",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Elevator Maintenance",
+        "elevators - repair",
+        "CANADA LANDS COMPANY CLC LIMITED - CN TOWER "
+    ]
+}

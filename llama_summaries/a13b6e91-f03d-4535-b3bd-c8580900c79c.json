@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "1698",
+    "type": "JSON",
+    "department": "National Defence",
+    "procurement_category": "SRV",
+    "short_summary": "The purpose of this stuff is to... ",
+    "description": "to document the intent to contract the freiged forwardig service",
+    "estimated_value": 2607574.78,
+    "date_posted": "2022-10-27",
+    "duration_in_months": "24",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "transportation"
+    ]
+}

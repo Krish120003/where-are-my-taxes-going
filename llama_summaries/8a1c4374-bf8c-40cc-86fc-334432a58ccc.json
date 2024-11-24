@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "1343",
+    "type": "project contract",
+    "department": "Financial Affairs",
+    "procurement_category": "Contract for Services",
+    "short_summary": "Project Leader Required for contract services in Financial Affairs",
+    "description": "A project leader is required to design and execute a project in Financial Affairs department for the development of procurement tools and training.",
+    "estimated_value": 15000.0,
+    "date_posted": "November 28th, 2022 14:00:00",
+    "duration_in_months": ">= 2",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Financial Affairs",
+        "procurement services",
+        "project leader",
+        "services contract "
+    ]
+}

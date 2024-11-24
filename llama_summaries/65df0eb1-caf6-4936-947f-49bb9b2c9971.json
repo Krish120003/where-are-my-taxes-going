@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "T8080-220267",
+    "type": "RFP",
+    "department": "Transport Canada",
+    "procurement_category": "Services",
+    "short_summary": "SMART INTERSECTION DATA COLLECTION",
+    "description": "Transport Canada has a need to collect data on interaction between vehicles and other road users.",
+    "estimated_value": 0,
+    "date_posted": "2022-10-17T18:05:54",
+    "duration_in_months": "testing",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "SMART INTERSECTION DATA COLLECTION",
+        "ACCELERATE PROGRAM SAFELY"
+    ]
+}

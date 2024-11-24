@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "TBD",
+    "type": "JSON",
+    "department": "DEPARTMENT OF FISHERIES AND OCEANS CANADA",
+    "procurement_category": "*",
+    "short_summary": "",
+    "description": "The Canadian Coast Guard is making structural changes to the pilot wharf in order to install a 15-foot tower on the end of the wharf. The work consists of the installation of H-beams to support the new tower and the construction of a concrete staircase.",
+    "estimated_value": 77.8523,
+    "date_posted": "March 1st, 2023",
+    "duration_in_months": "",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Construction",
+        "Marine",
+        "Infrastructure",
+        "Coastal management",
+        "Structural changes"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "4272",
+    "type": "contract",
+    "department": "Treasury Board of Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Multiple Categories of Resources",
+    "description": "The Treasury Board of Canada requires additional resources to assist with the delivery and support of existing and upcoming projects.",
+    "estimated_value": 1998970,
+    "date_posted": "2023-01-23",
+    "duration_in_months": ".",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "TBIPS",
+        "GES",
+        "SPICT",
+        "NCR-CANDump of the tags here:"
+    ]
+}

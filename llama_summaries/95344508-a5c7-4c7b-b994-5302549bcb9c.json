@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "Parks Canada 5p468-22-0233 / A",
+    "type": "{'type': 'woedpool-comp PHONE'}",
+    "department": "{'department': 'HB-HQS'}",
+    "procurement_category": "{'procurement_category': 'contract'}",
+    "short_summary": "{'short_description': 'Replacement of Knife Gate','short_summary': 'Rehabilitation of Spillway 1'}",
+    "description": "{'description': 'Replace Knife Gate,car parking available'}",
+    "estimated_value": 2000000,
+    "date_posted": "2023-01-24",
+    "duration_in_months": ",&amp;quot;status&quot;: &quot;Initialized&quot;,",
+    "provinces": [
+        "Quebec",
+        "Ontario",
+        "British Columbia"
+    ],
+    "tags": [
+        "Water",
+        "Transportation",
+        "Construction"
+    ]
+}

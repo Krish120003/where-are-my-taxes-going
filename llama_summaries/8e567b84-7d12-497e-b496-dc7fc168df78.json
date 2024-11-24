@@ -1,0 +1,38 @@
+{
+    "CONTRACT_ID": "cb-391-37883042",
+    "type": "json",
+    "department": "Quantum and Nanotechnologies research department",
+    "procurement_category": "GOODS",
+    "short_summary": "bottom mount camera",
+    "description": "Request for Proposal - Transmission Electron Microscope Bottom Mount Camera",
+    "estimated_value": 300,
+    "date_posted": "2024-11-21",
+    "duration_in_months": ",month",
+    "provinces": [
+        "British Columbia",
+        "Alberta",
+        "Saskatchewan",
+        "Manitoba",
+        "Ontario",
+        "Quebec",
+        "New Brunswick",
+        "Nova Scotia",
+        "Prince Edward Island",
+        "Newfoundland and Labrador",
+        "Northwest Territories",
+        "Nunavut",
+        "Yukon"
+    ],
+    "tags": [
+        "good",
+        "government",
+        "research",
+        "camera",
+        "microscope",
+        "science",
+        "technology",
+        "nanotechnology",
+        "quantum",
+        "canada"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-22-01004066",
+    "type": "Consultant",
+    "department": "Defense",
+    "procurement_category": "SRV",
+    "short_summary": "Consulting services to support research and development facility design ",
+    "description": "Standing Offer Agreement (SOA) to provide and when required professional services specific to Department of National Defence (DND).",
+    "estimated_value": 300000.0,
+    "date_posted": "August 11, 2022",
+    "duration_in_months": ",",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "Architecture",
+        "Engineering",
+        "Project Management"
+    ]
+}

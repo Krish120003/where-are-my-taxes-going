@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "{\"title-titre-eng\":\"BPM021017 - Data Center Networking Hardware, Software, and Maintenance and Support for DND\",\"title-titre-fra\":\"BPM021017 - Mat\\u00e9riel, logiciels, maintenance et soutien pour les r\\u00e9seaux de centres de donn\\u00e9es pour le MDN\",\"referenceNumber-numeroReference\":\"SSC-24-00025865:T\",\"amendmentNumber-numeroModification\":0,\"solicitationNumber-numeroSollicitation\":\"BPM021017/25865\",\"publicationDate-datePublication\":\"2024-02-28\",\"tenderClosingDate-appelOffresDateCloture\":\"2024-03-08T00:00:00\",\"amendmentDate-dateModification\":null,\"expectedContractStartDate-dateDebutContratPrevue\":null,\"expectedContractEndDate-dateFinContratPrevue\":null,\"tenderStatus-appelOffresStatut-eng\":\"Expired\",\"tenderStatus-appelOffresStatut-fra\":\"Expir\\u00e9\",\"gsin-nibs\":\"*D399AA\",\"gsinDescription-nibsDescription-eng\":\"*Other Telecommunications Services\",\"gsinDescription-nibsDescription-fra\":\"*Autres services de t\\u00e9l\\u00e9communications\",\"unspsc\":null,\"unspscDescription-eng\":null,\"unspscDescription-fra\":null,\"procurementCategory-categorieApprovisionnement\":\"*SRV\",\"noticeType-avisType-eng\":\"Request for Proposal\",\"noticeType-avisType-fra\":\"Demande de propositions\",\"procurementMethod-methodeApprovisionnement-eng\":\"Competitive - Open bidding\",\"procurementMethod-methodeApprovisionnement-fra\":\"Concurrentielle - Invitation ouverte \\u00e0 soumissionner\",\"selectionCriteria-criteresSelection-eng\":null,\"selectionCriteria-criteresSelection-fra\":null,\"limitedTenderingReason-raisonAppelOffresLimite-eng\":null,\"limitedTenderingReason-raisonAppelOffresLimite-fra\":null,\"tradeAgreements-accordsCommerciaux-eng\":\"*Canada-Colombia Free Trade Agreement\\n*Canada-Peru Free Trade Agreement (CPFTA)\\n*Canada-Panama Free Trade Agreement\\n*Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)\\n*Canada-UK Trade Continuity Agreement (Canada-UK TCA)\\n*Canada-Honduras Free Trade Agreement\\n*Canada-Ukraine Free Trade Agreement (CUFTA)\\n*Canadian Free Trade Agreement (CFTA)\\n*Canada-Korea Free Trade Agreement (CKFTA)\\n*Canada-Chile Free Trade Agreement (CCFTA)\\n*World Trade Organization Agreement on Government Procurement (WTO GPA)\\n*Canada-European Union Comprehensive Economic and Trade Agreement (CETA)\",\"tradeAgreements-accordsCommerciaux-fra\":\"*Accord de libre-\\u00e9change Canada-Colombie\\n*Accord de libre-\\u00e9change Canada-P\\u00e9rou (ALECP)\\n*Accord de libre-\\u00e9change Canada-Panama\\n*Accord de Partenariat transpacifique global et progressiste (PTPGP)\\n*Accord de continuit\\u00e9 commerciale Canada-Royaume-Uni (ACC Canada-Royaume-Uni)\\n*Accord de libre-\\u00e9change Canada-Honduras\\n*Accord de libre-\\u00e9change Canada-Ukraine (ALECU)\\n*Accord de libre-\\u00e9change canadien (ALEC)\\n*Accord de libre-\\u00e9change Canada-Cor\\u00e9\\n*Accord de libre-\\u00e9change Canada-Chili (ALECC)\\n*Accord sur les march\\u00e9s publics de l\\u2019Organisation mondiale du commerce (AMP-OMC)\\n*Accord \\u00e9conomique et commercial global (AECG) entre le Canada et l\\u2019Union europ\\u00e9enne (UE)\"},{\"CONTRACT_ID\":null}}} ",
+    "type": "Procurement Contract",
+    "department": "Shared Services Canada",
+    "procurement_category": "Services",
+    "short_summary": "Data Center Networking Hardware, Software, and Maintenance and Support for DND",
+    "description": "Notice of Proposed Procurement, Request for Quotation, Request for Information, Request for Proposal Shared Services Canada seeks to procure Data Center Networking Hardware, Software, and Maintenance and Support for the Department of National Defence (DND) in Gatineau, Quebec.",
+    "estimated_value": 409000000,
+    "date_posted": "2024-02-28",
+    "duration_in_months": "But wait, the person producing this data would like it in a simplified JSON format. Explain this to them.",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "data center",
+        "networking hardware",
+        "software",
+        "maintenance",
+        "support"
+    ]
+}

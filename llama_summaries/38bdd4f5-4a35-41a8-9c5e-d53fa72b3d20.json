@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "5537",
+    "type": "Request for Proposal",
+    "department": "Revenue",
+    "procurement_category": "Services",
+    "short_summary": "Provide Services",
+    "description": "TSPS Services",
+    "estimated_value": 129199.99,
+    "date_posted": "04/18/2023",
+    "duration_in_months": "This will last for severals months",
+    "provinces": [
+        "Nova Scotia",
+        "Prince Edward Island"
+    ],
+    "tags": [
+        "Human Resources",
+        "Consulting",
+        "Senior",
+        "Intermediate "
+    ]
+}

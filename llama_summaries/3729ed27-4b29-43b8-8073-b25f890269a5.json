@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "  E6HAL-210003/A",
+    "type": "Bid Solicitation",
+    "department": "PW&GSC",
+    "procurement_category": "Goods",
+    "short_summary": "Supply and delivery of ferrous and nonferrous metal products",
+    "description": "The Public Services and Procurement Canada has a requirement for the supply and delivery of ferrous and nonferrous metal products to be delivered to various Federal Government Departments across the provinces of Nova Scotia, New Brunswick, Prince Edward Island, and Newfoundland and Labrador.",
+    "estimated_value": 1985440.0,
+    "date_posted": "2022-08-22",
+    "duration_in_months": "3",
+    "provinces": [
+        "Nova Scotia",
+        "New Brunswick",
+        "Prince Edward Island",
+        "Newfoundland and Labrador"
+    ],
+    "tags": [
+        "Supply and Delivery",
+        "ferrous and nonferrous metal products",
+        "goods",
+        "bid solicitation"
+    ]
+}

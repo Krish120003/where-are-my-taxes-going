@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "cb-4568-72276830",
+    "type": "RENEWAL",
+    "department": "NRC",
+    "procurement_category": "MJB-2022-063",
+    "short_summary": "M-55, IRAP 2nd Floor Renewal",
+    "description": "{\"type\": \"RFP\", \"short_summary\": \"M-55, IRAP 2nd Floor Renewal\"}",
+    "estimated_value": 777000,
+    "date_posted": "2023-04-04",
+    "duration_in_months": "3-6 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Commercial and Industrial",
+        "Renovation and Repairs",
+        "General Contracting"
+    ]
+}

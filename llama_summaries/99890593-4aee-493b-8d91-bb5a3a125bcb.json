@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "1002",
+    "type": "Benchtop",
+    "department": "CSIP",
+    "procurement_category": "Goods and Services",
+    "short_summary": "Bench-top safe application equipment ",
+    "description": "Supply arrangement for E60PV-19EQUI",
+    "estimated_value": 10.0,
+    "date_posted": "2022-11-21",
+    "duration_in_months": "x",
+    "provinces": [
+        "Saskatchewan"
+    ],
+    "tags": [
+        "Medical"
+    ]
+}

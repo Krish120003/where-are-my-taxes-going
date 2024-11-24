@@ -1,0 +1,36 @@
+{
+    "CONTRACT_ID": "W8486-238839/A",
+    "type": "contract",
+    "department": "national defense",
+    "procurement_category": " goods",
+    "short_summary": "Goods and Service for",
+    "description": "Goods and service for purchase, Delivery all locations.",
+    "estimated_value": 91397.25,
+    "date_posted": "2022-09-16",
+    "duration_in_months": ",{ ",
+    "provinces": [
+        "Quebec",
+        "Alberta"
+    ],
+    "tags": [
+        "N2530",
+        "N2540",
+        "N2590",
+        "N2910",
+        "N2990",
+        "N3120",
+        "N3950",
+        "N4710",
+        "N4820",
+        "N5305",
+        "N5306",
+        "N5307",
+        "N5310",
+        "N5330",
+        "N5340",
+        "N5930",
+        "N6220",
+        "N6350",
+        "N9390"
+    ]
+}

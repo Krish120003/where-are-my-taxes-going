@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "4253",
+    "type": "BUYER SIDE TOOL",
+    "department": "PURCHASING SERVICES",
+    "procurement_category": "GOODS",
+    "short_summary": "req",
+    "description": "[summary needs to be translated]",
+    "estimated_value": 200000,
+    "date_posted": "01-30-2023",
+    "duration_in_months": "6",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "equipment"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "CONTRACT_ID": "2629",
+    "type": "Purchase Order",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "Goods",
+    "short_summary": "Absorbent Glass Mat (AGM) Batteries (2V, 6V, 12V)",
+    "description": "Absorbent Glass Mat (AGM) Batteries (2V, 6V, 12V) for Marine Aids to Navigation and Telecommunications",
+    "estimated_value": 100000.0,
+    "date_posted": "2022-09-21",
+    "duration_in_months": "indefinite",
+    "provinces": [
+        "Yukon",
+        "Prince Edward Island",
+        "British Columbia",
+        "Nova Scotia",
+        "Quebec",
+        "Northwest Territories",
+        "New Brunswick",
+        "Ontario",
+        "Manitoba",
+        "Alberta",
+        "Saskatchewan",
+        "Newfoundland and Labrador"
+    ],
+    "tags": [
+        "transportation",
+        "tenders",
+        "trade,",
+        "procurement,,,maritimeMAR"
+    ]
+}

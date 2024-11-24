@@ -1,0 +1,16 @@
+{
+    "CONTRACT_ID": "PW-23-01028673",
+    "type": "contractID",
+    "department": "FRONTOFFICE",
+    "procurement_category": "Contract",
+    "short_summary": "additional text of the contract",
+    "description": " problicated data about contract ",
+    "estimated_value": 999.99,
+    "date_posted": "2023-03-01",
+    "duration_in_months": ":",
+    "provinces": [],
+    "tags": [
+        "Construction",
+        "Contract"
+    ]
+}

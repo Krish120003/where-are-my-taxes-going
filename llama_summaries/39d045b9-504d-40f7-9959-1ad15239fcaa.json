@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "905",
+    "type": "json",
+    "department": "D\u00e9partement de la d\u00e9fense nationale",
+    "procurement_category": "Qualification et coordination des approvisionnements",
+    "short_summary": "March\u00e9 d'approvisionnement de c\u00e2bles, connecteurs \u00e9lectriques \u2013 \u0642\u0637\u0639\u0629 \u063a\u064a\u0631 \u0645\u0639\u0631\u0648\u0641",
+    "description": "Sureqptn en c\u00e2bles, connecteurs \u00e9lectriques SSC-PL |202 WS Montreal, Qu\u00e9bec",
+    "estimated_value": 1210000,
+    "date_posted": "Thursday, 20 March 2023 18:43",
+    "duration_in_months": "3-6",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "SCOP.NET",
+        "buy_county_or_range_sn",
+        "SO Springs,QI Reporter",
+        "SO Springs,QI Reporter"
+    ]
+}

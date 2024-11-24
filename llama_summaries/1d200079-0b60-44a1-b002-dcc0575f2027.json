@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "2983",
+    "type": "JSON",
+    "department": "Promoting increase of Energy Efficiency",
+    "procurement_category": "Goods Insitu",
+    "short_summary": "Extended request ",
+    "description": "Full request ",
+    "estimated_value": 15000,
+    "date_posted": "25/10/2022",
+    "duration_in_months": "6 months",
+    "provinces": [
+        "Alberta",
+        "Saskatchewan",
+        "Manitoba",
+        "Ontario"
+    ],
+    "tags": [
+        "retirement",
+        "alberta",
+        "Saskatchewan"
+    ]
+}

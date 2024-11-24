@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "1",
+    "type": "purchasing Tender Notice",
+    "department": "Correctional Services",
+    "procurement_category": "SRV",
+    "short_summary": "Procurement Description",
+    "description": "The Correctional Service of Canada (CSC) Health Services require the services of a psychologist for offenders located at Bath Institution and Regional Treatment Centre in the Ontario Region.",
+    "estimated_value": 5475,
+    "date_posted": "2023-04-19",
+    "duration_in_months": "12 Months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Medical Doctor Specialist Services",
+        "Psychological Risk Assessments",
+        "SRV",
+        "Canada",
+        "Ontario"
+    ]
+}

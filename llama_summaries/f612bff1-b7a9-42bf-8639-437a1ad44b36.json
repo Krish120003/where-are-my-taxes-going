@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-ERD-014-29208",
+    "type": "0",
+    "department": "TRA",
+    "procurement_category": "*SRV",
+    "short_summary": "NFPA Awareness Training",
+    "description": "The Canadian Coast Guard requires online National Fire Protection Association (NFPA) Awareness training for emergency responders.",
+    "estimated_value": 0.0,
+    "date_posted": "2023-11-09",
+    "duration_in_months": "Not applicable",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Government procurement",
+        "Canada",
+        "COVID-19 response",
+        "Trade Agreement: CETA/WTO-AGP/CPTPP/CFTA/FTA with UK"
+    ]
+}

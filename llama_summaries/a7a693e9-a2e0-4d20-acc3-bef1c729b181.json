@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "22-58047",
+    "type": "Service",
+    "department": "Science and Technology",
+    "procurement_category": "Service",
+    "short_summary": "Services related to information technology",
+    "description": "The Services will be used to provide Consulting Services ",
+    "estimated_value": 30000,
+    "date_posted": "08/24/2022",
+    "duration_in_months": "url_pdf",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Consulting Services"
+    ]
+}

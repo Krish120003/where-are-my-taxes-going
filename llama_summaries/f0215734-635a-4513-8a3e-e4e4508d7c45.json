@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "SSC-23-00022379:T",
+    "type": " Ethernet - Network Infrastructure",
+    "department": "Network Infrastructure",
+    "procurement_category": " Global",
+    "short_summary": "to purchase Network ExFO software and equipment to kate up to 2 new optical network deployment",
+    "description": "EXFO Products or equivalent.  The Proposed requirement is to procure EXFO software and hardware to support the current and upcoming Ciena Optical Networking deployments as well as day -to -day maintenance activities asociated with operating an optical network.  SSC EXFO Products or equivalent -Amendment 000",
+    "estimated_value": 10,
+    "date_posted": "2023-03-20",
+    "duration_in_months": "default : 0",
+    "provinces": [
+        "Alberta",
+        "Ontario"
+    ],
+    "tags": [
+        "",
+        "network infrastructure "
+    ]
+}

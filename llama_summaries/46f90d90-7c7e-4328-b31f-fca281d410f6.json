@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "E60HL-210020/I",
+    "type": "Purchase",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "Goods Delivery",
+    "short_summary": "Diesel Fuel, Automotive Gasoline, and Heating Fuel Oil sales",
+    "description": "Purchase of diesel fuel, automotive gasoline and heating fuel oil in accordance with Canadian General Standards Board standards.",
+    "estimated_value": 3750000.0,
+    "date_posted": "2022-09-22",
+    "duration_in_months": "Noend",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "British Columbia"
+    ],
+    "tags": [
+        "Diesel",
+        "Automotive",
+        "Gasoline",
+        "Fueloil",
+        "Heating",
+        "Fueloil",
+        "Diesel"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "{referenceNumber-numeroReference}",
+    "type": "{title-titre-eng}",
+    "department": "{contractingEntityName-nomEntitContractante-eng}",
+    "procurement_category": "{procurementCategory-categorieApprovisionnement}",
+    "short_summary": "{tenderDescription-descriptionAppelOffres-eng}",
+    "description": "{tenderDescription-descriptionAppelOffres-eng}",
+    "estimated_value": 999999999999999,
+    "date_posted": "{publicationDate-datePublication}",
+    "duration_in_months": "But powerful, name-friendly organizer archive. Should it halfway",
+    "provinces": [
+        "Manitoba",
+        "Ontario"
+    ],
+    "tags": [
+        "Cleaning and Maintenance, Janitorial"
+    ]
+}

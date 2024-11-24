@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "4410",
+    "type": "RFQ",
+    "department": "Public Works and Government Services (PSPC)",
+    "procurement_category": "Services",
+    "short_summary": "Architectural and Engineering Services for Regulatory and Security Science Main",
+    "description": "",
+    "estimated_value": 10000000.0,
+    "date_posted": "20230113",
+    "duration_in_months": "89",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "greatest_value"
+    ]
+}

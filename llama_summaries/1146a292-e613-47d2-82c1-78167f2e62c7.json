@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": ":[",
+    "type": "string",
+    "department": "Fisheries and Oceans Canada",
+    "procurement_category": "Service",
+    "short_summary": "Request for proposal.",
+    "description": "Dry-docking refit of a government owned ship, CCGS Teather. This contract will be used for the refit of the Shipping Corporation. \\",
+    "estimated_value": 1000000,
+    "date_posted": "2022-09-21T14:00:00",
+    "duration_in_months": ")",
+    "provinces": [
+        "New Brunswick",
+        "Nova Scotia",
+        "Newfoundland and Labrador"
+    ],
+    "tags": [
+        "dry docking refit",
+        "CCGS Teather",
+        "fishing industry"
+    ]
+}

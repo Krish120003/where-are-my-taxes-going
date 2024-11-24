@@ -1,0 +1,29 @@
+{
+    "CONTRACT_ID": "EJ196-230212/A",
+    "type": "request",
+    "department": "publicworksandgovernmentagencies",
+    "procurement_category": "CNST",
+    "short_summary": "HVACMaintenanceat269LaurierSt. OttawaOntario",
+    "description": "Furnishalltoolsserviceandlabourforexecute themaintenance oftheHVCEquipment",
+    "estimated_value": 1000.0,
+    "date_posted": "2022-11-10",
+    "duration_in_months": "5",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "TradeAggrement",
+        "WTO-AGP",
+        "CPTPP",
+        "CFTA",
+        "FTAswithPeru/Colombia/Panama/Korea/UK",
+        "PrefVentilationandAirConditioninginspections",
+        "maintenanceandservicessupportforPublicWorksandGovernmentServicesCanada",
+        "Allprovinces",
+        "exceptManitobaandNewfoundlandandLabrador",
+        "TurboCompressorF60/F68verification",
+        "MainAir",
+        "RCN",
+        "QuickReferenceGuide(QRG):https://drive.google.com/file/d/1tApOrs7SJL6bNFINkCaEzf4ghh1_E6H/view?usp=sharing [C_e_in November27"
+    ]
+}

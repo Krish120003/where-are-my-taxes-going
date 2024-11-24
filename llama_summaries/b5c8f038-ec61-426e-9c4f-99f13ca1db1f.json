@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "4002",
+    "type": "system",
+    "department": "Public Security",
+    "procurement_category": "*GD",
+    "short_summary": "7 Remotely Piloted Aircraft",
+    "description": "The Royal Canadian Mounted Police (RCMP) has a requirement for seven (7) Remotely Piloted Aircraft Systems (RPAS) to be delivered to Fredericton, NB.",
+    "estimated_value": 0.0,
+    "date_posted": "2023-1-25 00:00:00",
+    "duration_in_months": ", 6 months'",
+    "provinces": [
+        "New Brunswick"
+    ],
+    "tags": [
+        "World",
+        "Aircraft",
+        "UAVs",
+        "Police"
+    ]
+}

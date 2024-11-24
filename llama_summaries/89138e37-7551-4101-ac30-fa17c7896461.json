@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-23-01020823",
+    "type": "Contract Notice",
+    "department": "Department of National Defence",
+    "procurement_category": " GOODS",
+    "short_summary": "\\",
+    "description": "NOTICE OF PROPOSED PROCUREMENT The Department of National Defence has a requirement for the items detailed below.  The delivery is requested at CFB Halifax, Nova Scotia and CFB Esquimalt, British Columbia.",
+    "estimated_value": 63000,
+    "date_posted": "2023-01-12",
+    "duration_in_months": "Yes",
+    "provinces": [
+        "Nova Scotia",
+        "British Columbia"
+    ],
+    "tags": [
+        "_PROCUREMENT ",
+        "Public Services and Procurement Canada",
+        "Supply and Services"
+    ]
+}

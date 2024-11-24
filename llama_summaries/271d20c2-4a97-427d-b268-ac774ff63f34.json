@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "4851",
+    "type": "MANDATORY",
+    "department": "Department of National Security",
+    "procurement_category": "Goods",
+    "short_summary": "Contract for Misc IT hardware to be acquired",
+    "description": "Crude version 01:",
+    "estimated_value": 100.0,
+    "date_posted": "03/14/2023",
+    "duration_in_months": "x",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Technology, Contract awarded",
+        "June 2023"
+    ]
+}

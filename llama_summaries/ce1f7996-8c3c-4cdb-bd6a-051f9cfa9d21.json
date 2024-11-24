@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "3604",
+    "type": "SRTS",
+    "department": "Public Works and Government Services Canada (PSPC)",
+    "procurement_category": "Supply Arrangement",
+    "short_summary": "Remote Monitoring System 2",
+    "description": "User story:  The Canadian Grain Commission (CGC) uses the temperature and humidity sensor systems extensively throughout the country for grain surveys throughout the year. They want a solution using these sensors that includes training and installation that can manage and monitor temperature and humidity levels ect tracking grain quality through region of region  as well that can provide location based data review control funciton with adequate eficiency and theoretic reliability  They place their equipment in austere regions including in Northern Canada, including in remote areas of alberta in pgr facilities,Weather monitoring climate measurements, trouble proof downhole sensors..Warning signs haze opacity measurements Ettlinger sensors Documents          with Distance measurements",
+    "estimated_value": 100000,
+    "date_posted": "2022-12-13",
+    "duration_in_months": ",",
+    "provinces": [
+        "Manitoba"
+    ],
+    "tags": [
+        "Supply Arrangement",
+        "SRRWO - Technical Description"
+    ]
+}

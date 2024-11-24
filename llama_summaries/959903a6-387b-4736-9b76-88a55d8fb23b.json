@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "657",
+    "type": "Maintenance and Repair of Gym Equipment",
+    "department": "Royal Canadian Mounted Police",
+    "procurement_category": "Supply and Services",
+    "short_summary": "Planned contracts for supply services for maintenance and repair of maintenance equipment (multiperiod plans)",
+    "description": "The Supply Service has planned contracts for supply services for the maintenance and repair of maintenance equipment available under the Supply Arrangement for Professional Services.",
+    "estimated_value": 2032000.0,
+    "date_posted": "2022-01-11 00:00:00",
+    "duration_in_months": "]",
+    "provinces": [
+        "Ontario",
+        "British Columbia"
+    ],
+    "tags": [
+        "Professional Services",
+        " Serv-Supply Services",
+        " III.authenticated",
+        " Procurement Arrangements",
+        "Concordance, Note 40 - Multi-Personnel Services - Requested File Layout and Comma (commaof filesummery CSVFILE word="
+    ]
+}

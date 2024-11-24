@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "WS3569063865",
+    "type": "complex",
+    "department": "Travaux Publics et Services gouvernementaux ",
+    "procurement_category": "services",
+    "short_summary": "Non-residential building construction services",
+    "description": "The government of Canada is undertaking a project to build a residential building, I don't know - I am mostly just interpreting from the given data",
+    "estimated_value": 625.0,
+    "date_posted": "2002-10-03",
+    "duration_in_months": ": 9",
+    "provinces": [
+        "Saskatchewan"
+    ],
+    "tags": [
+        "construction",
+        "Planning"
+    ]
+}

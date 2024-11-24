@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "ID encountered in the stack trace report data",
+    "type": "JSON",
+    "department": " Correctional Service [...] 001-ISO 4217: CAD",
+    "procurement_category": "SERVICES",
+    "short_summary": "Psychological Risk Assessments",
+    "description": "The Services of Health of the Correctional, Service Pacific Region need services of a psych , ",
+    "estimated_value": 100000.0,
+    "date_posted": "2023-02-01 ",
+    "duration_in_months": ",-1), ",
+    "provinces": [
+        "Alberta",
+        "British Columbia"
+    ],
+    "tags": [
+        "your-tender",
+        "bidding-open"
+    ]
+}

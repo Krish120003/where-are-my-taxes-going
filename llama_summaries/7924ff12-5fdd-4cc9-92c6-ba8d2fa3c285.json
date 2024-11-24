@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-B904-81448",
+    "type": "user_given",
+    "department": "user_given",
+    "procurement_category": "Good",
+    "short_summary": "user_given",
+    "description": "User_given",
+    "estimated_value": 110,
+    "date_posted": "2022-11-15",
+    "duration_in_months": "user_given",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "robot",
+        "system"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "CONTRACT_ID": "1489",
+    "type": "P",
+    "department": "TPSGC",
+    "procurement_category": "*SRV",
+    "short_summary": "DAMA for SA - Refresh 3",
+    "description": "Trade Agreement: CETA/WTO-AGP/CPTPP/CFTA/FTAs with Peru/Colombia/Panama/UK",
+    "estimated_value": 10000000,
+    "date_posted": "2022-09-29",
+    "duration_in_months": ").date().toordinal():6",
+    "provinces": [
+        "British Columbia",
+        "Quebec",
+        "Manitoba",
+        "Saskatchewan",
+        "Prince Edward Island",
+        "Nova Scotia",
+        "Ontario",
+        "Alberta",
+        "New Brunswick",
+        "Newfoundland and Labrador"
+    ],
+    "tags": [
+        "Canada-Korea Free Trade Agreement (CKFTA)",
+        "Canada-European Union Comprehensive Economic and Trade Agreement (CETA)",
+        "Canada-Colombia Free Trade Agreement",
+        "Canada-Peru Free Trade Agreement (CPFTA)",
+        "Canadian Free Trade Agreement (CFTA)",
+        "World Trade Organization Agreement on Government Procurement (WTO GPA)",
+        "Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)",
+        "Canada-UK Trade Continuity Agreement (Canada-UK TCA)",
+        "Canada-Panama Free Trade Agreement"
+    ]
+}

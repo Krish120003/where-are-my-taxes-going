@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "You didn't tell me what it was. But I think it might be something like 5390, or some other value from the input text.",
+    "type": "json",
+    "department": "name-of-the-dpartment",
+    "procurement_category": "SRV",
+    "short_summary": "Brief description of the proposal. If you need something specific make it more detailed",
+    "description": "Detailed description of the proposal",
+    "estimated_value": 100.0,
+    "date_posted": "2023-04-12",
+    "duration_in_months": ": months",
+    "provinces": [
+        "Alberta",
+        "British Columbia",
+        "Manitoba"
+    ],
+    "tags": [
+        "technology",
+        "services",
+        "consulting",
+        "solutions"
+    ]
+}

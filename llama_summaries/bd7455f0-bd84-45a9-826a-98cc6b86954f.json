@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "2553",
+    "type": "background",
+    "department": "justice",
+    "procurement_category": "*SRV",
+    "short_summary": "Legal services",
+    "description": "Legal counsel services from pre-hearing to hearing and on-going legal services before an oral hearing",
+    "estimated_value": 770892.72,
+    "date_posted": "2022-10-24",
+    "duration_in_months": "]contracts[0].durationInMonths}",
+    "provinces": [
+        "Ontario",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "legal",
+        "counsel",
+        "services",
+        "justice"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "\\",
+    "type": "Contract",
+    "department": "Public Works and Government Services (PSPC)",
+    "procurement_category": "Goods",
+    "short_summary": "Spare parts for armored vehicles",
+    "description": "This procurement is for a Request for Standing Offer (RFSO) inviting suppliers to bid on a contract to provide spare parts for the Department of Foreign Affairs, Trade and Development (GAC) armored vehicle fleet worldwide. ",
+    "estimated_value": 1000000,
+    "date_posted": "2023-02-16",
+    "duration_in_months": ".desc",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Procurement Opportunity",
+        "Goods",
+        "Spare Parts",
+        "Request for Standing Offer (RFSO)"
+    ]
+}

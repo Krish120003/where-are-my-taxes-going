@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "T8080-220152",
+    "type": "Joint_contract",
+    "department": "Transport Canada",
+    "procurement_category": "Software Services",
+    "short_summary": "Maintenance and Hosting Services for the Roads and Highways Secretariat for Transport Canada",
+    "description": "Maintain and host the transportcanada.ca Roads and Highways website including enhancements of existing web applications",
+    "estimated_value": 1045000,
+    "date_posted": "23/03/2023",
+    "duration_in_months": "E astimated",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Transportation services",
+        "Maintenance services",
+        "Web services",
+        "Software development services",
+        "Infrastructure services"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "PW-22-01016020",
+    "type": "json",
+    "department": "CONTRACT DEPARTMENT",
+    "procurement_category": "SRV",
+    "short_summary": " TBIPS-INF of : SPICT - 12",
+    "description": "Please see the attached spproposal guidance docx file",
+    "estimated_value": 10.0,
+    "date_posted": "2022-10-22",
+    "duration_in_months": "24",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "IT"
+    ]
+}

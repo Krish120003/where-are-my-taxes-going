@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "SSC-21-00013148,T",
+    "type": "amended",
+    "department": "Shared Servises Canada ",
+    "procurement_category": "SRV",
+    "short_summary": "The initial solicitation was posted by the Department of Public Works and Government Services on behalf of Shared Services Canada (SSC). The department is seeking to enter into a Supply Arrangement with Internet Service Providers to establish a list of qualified suppliers.",
+    "description": "Enter short description of the Contract",
+    "estimated_value": 20,
+    "date_posted": "2022-11-04",
+    "duration_in_months": ">(masterFormat={",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        " cost security"
+    ]
+}

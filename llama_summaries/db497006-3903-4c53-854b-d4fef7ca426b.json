@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "566",
+    "type": "purchase_order",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "*SRVTGD",
+    "short_summary": "Triple Function Switch",
+    "description": "Purchase of Triple Function Switch for the Bell 329 aircraft",
+    "estimated_value": 74563.75,
+    "date_posted": "2023-10-26",
+    "duration_in_months": ".",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "*"
+    ]
+}

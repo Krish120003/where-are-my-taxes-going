@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "5570",
+    "type": "Service Contract",
+    "department": "National Department of Defense",
+    "procurement_category": "SRV",
+    "short_summary": "Services on an as-and-when requested basis to support the testing and evaluation of specialized military equipment.",
+    "description": "all the details in the JSON object",
+    "estimated_value": 0.0,
+    "date_posted": "2023-05-17",
+    "duration_in_months": "0",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "military science",
+        "research",
+        "Service Contract"
+    ]
+}

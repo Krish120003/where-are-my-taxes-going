@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "MX-443327971252",
+    "type": "Service Contract",
+    "department": "Defense",
+    "procurement_category": "*SRV*,",
+    "short_summary": "Arm Service Commissioning Services on a facility project worth $500,000with a potential for additional services",
+    "description": "Provide commissioning services for Defense, procurement category SRV, CONSULTING SERVICES FOR WORKS, $500,000 over 2.5 years. ",
+    "estimated_value": 500000.0,
+    "date_posted": "2024-11-22",
+    "duration_in_months": "fmt(raounded.Allocated the teams project max finish monthY) T",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "contract security requirement",
+        "commissioninghostsatisfaction CIcustomer Relationship http://merx.com "
+    ]
+}

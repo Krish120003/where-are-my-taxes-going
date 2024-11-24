@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "283",
+    "type": "CONTRACT",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Advance Contract Award Notice",
+    "description": "Document Capture Software Market",
+    "estimated_value": 64,
+    "date_posted": "2023-01-13",
+    "duration_in_months": "12",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Capture of documents",
+        "document digitization",
+        "OCR and barcode recognition",
+        "intelligent document recognition",
+        "unspscCategory"
+    ]
+}

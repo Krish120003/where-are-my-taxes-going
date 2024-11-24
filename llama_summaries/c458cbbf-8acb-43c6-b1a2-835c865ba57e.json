@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "4362",
+    "type": "purchasing",
+    "department": "Royal Canadian Mounted Police",
+    "procurement_category": "General Goods and Services",
+    "short_summary": "Supply and Install U-Shaped Workbenches",
+    "description": "Install U-Shaped Workbenches for the RCMP Special I Section H Division",
+    "estimated_value": 10000,
+    "date_posted": "2023-09-28T13:00:00",
+    "duration_in_months": "Why",
+    "provinces": [
+        "Nova Scotia"
+    ],
+    "tags": [
+        "",
+        ""
+    ]
+}

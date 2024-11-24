@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "2329",
+    "type": "json",
+    "department": " procurement",
+    "procurement_category": "gd",
+    "short_summary": "12 gauge shotgun ammunition plastic body",
+    "description": "munitions de fusil de calibre 12, carcasse plastique.",
+    "estimated_value": 412.0,
+    "date_posted": "2022-08-19",
+    "duration_in_months": ",",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "tender",
+        "munitions procurement"
+    ]
+}

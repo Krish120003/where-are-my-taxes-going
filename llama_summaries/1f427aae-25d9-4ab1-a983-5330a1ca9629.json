@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "MX-22711888753",
+    "type": "json",
+    "department": "Canada",
+    "procurement_category": "*",
+    "short_summary": " Electric Vehicle Supply Equipment (EVSE)",
+    "description": " Supply of Level 2 single or dual plug chargers",
+    "estimated_value": 190000,
+    "date_posted": "2023/03/21",
+    "duration_in_months": ":1",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "procurement",
+        "contract"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "2683",
+    "type": "contract_id",
+    "department": "get",
+    "procurement_category": "SRV",
+    "short_summary": "Invitation to Submit an Expression of Interest (EOI) - Lease of Office Space",
+    "description": "Invitation to submit an expression of interest in n accordance with the Specification",
+    "estimated_value": 2690000.0,
+    "date_posted": "2022-10-28",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Quebec",
+        "Alberta",
+        "Ontario"
+    ],
+    "tags": [
+        "Invitation to Submit an Expression of Interest (EOI) - Lease of Office Space",
+        "Commercial Services",
+        "Maintenance "
+    ]
+}

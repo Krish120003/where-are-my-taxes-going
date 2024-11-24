@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "5P468-23-0013/A",
+    "type": "Competitive - Open bidding",
+    "department": "Parcs Canada",
+    "procurement_category": "CNST",
+    "short_summary": "Demolish, remove, construct and repair structures for the internal grounding management system at site located at Montreal-Jean Charest, QC.",
+    "description": "Construction of a new contemporary valve chamber, installation of two refurbished historic valves, instillation of a new Stainless Steel Y-Pipe system, new concrete works and supply of a passive groundwater management system at site located in City of Sault Ste Marie, ON and Sault Ste. Marie Canal National Historic Site Of Canada. The Project aims to explore how apply Nature Based solutions (such as Damp mitigation), Sovereign Aff handle hydro Risk.",
+    "estimated_value": 1,
+    "date_posted": "March 3 2023",
+    "duration_in_months": "} which I've reformatted to this below. You can see that I've taken creative liberties with the reformatted JSON to streamline it for display. The details of the contract could potentially be confusing. Also, in the process I had to relocate the functions from what I assumed were English into French then back again (example: Equipment was in French then I relocated it over the Stations subgroup brackets), this made it harder to keep accuracy but I will revise it:",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Construction Work, Water Management"
+    ]
+}

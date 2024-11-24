@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "2885",
+    "type": "bid-assistance",
+    "department": "Transport Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Please summarize the bid callouts in English",
+    "description": "Data collection exercise to determine the availability of new zero-emissions vehicles (ZEVs) for sale in Canada and to provide insights into how inventory levels may affect the demand and sales of ZEVs going forward in the 2022-2024 period and onwards. The RFP contains a contract for Period: 2022-12-15 to 2024-03-31.",
+    "estimated_value": 100000,
+    "date_posted": "2022-11-08 00:00:00",
+    "duration_in_months": "; 6 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "facility management",
+        "project management",
+        "zero-emissions vehicles",
+        "sustainability",
+        "transportation"
+    ]
+}

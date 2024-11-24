@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "5137",
+    "type": "contract",
+    "department": "trust",
+    "procurement_category": "*SRV",
+    "short_summary": " Temporary personnel services",
+    "description": "NPP \u2013 S4376078 \u2013 THS SA \u2013 One (1) Special Advisor.",
+    "estimated_value": 1000000.0,
+    "date_posted": "4/14/2023",
+    "duration_in_months": "11",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Temporary personnel services"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-23-01025935",
+    "type": "CONTRACT",
+    "department": "Correctional Service of Canada",
+    "procurement_category": "*SRV",
+    "short_summary": "Bailey & Cauley Construction INC",
+    "description": "ADVANCED CONTRACT AWARD NOTICE FOR COMMUNITY ASSESSMENT AND PAROLE SUPERVISION SERVICES (CAPS) FOR THE CORRECTIONAL SERVICE OF CANADA",
+    "estimated_value": 84000.0,
+    "date_posted": "2023-02-14",
+    "duration_in_months": "type\": \"value-num\"rror: NameError: name 'type' is not defined",
+    "provinces": [
+        "Ontario",
+        "British Columbia"
+    ],
+    "tags": [
+        "CAPENTION VECTOR FOR FLOOD CONTROL COUNCIL",
+        "Evaluation For Design",
+        "Option B For purchase of see Technical note box 66"
+    ]
+}

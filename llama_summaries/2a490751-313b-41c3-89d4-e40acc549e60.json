@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "3954",
+    "type": "training",
+    "department": "Employment and Social Development Canada",
+    "procurement_category": "*SRV",
+    "short_summary": "Design thinking process, innovation, prototyping, problem-solving",
+    "description": "This training will provide Service Canada W-T employees with important skills to learn a practical approach using prototyping and testing design thinking tools and practices.",
+    "estimated_value": 5000,
+    "date_posted": "2022-12-22",
+    "duration_in_months": "30",
+    "provinces": [
+        "Northwest Territories",
+        "Quebec"
+    ],
+    "tags": [
+        "design thinking",
+        "innovation",
+        "prototyping",
+        "problem-solving",
+        "training",
+        "contract",
+        "service canada"
+    ]
+}

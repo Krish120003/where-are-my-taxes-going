@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "1007",
+    "type": "AC",
+    "department": "Fisheries and Oceans Canada",
+    "procurement_category": "goods_and_services",
+    "short_summary": "1",
+    "description": "refridge and fridge unit ",
+    "estimated_value": 148.45,
+    "date_posted": "2022-11-08",
+    "duration_in_months": "Week",
+    "provinces": [
+        "Alberta",
+        "Prince Edward Island"
+    ],
+    "tags": [
+        "express",
+        "government",
+        "canada"
+    ]
+}

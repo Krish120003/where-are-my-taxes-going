@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "4217",
+    "type": "fetch",
+    "department": "Parks Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Ferry Service",
+    "description": "",
+    "estimated_value": 10000000,
+    "date_posted": "2023-01-27T14:00:00",
+    "duration_in_months": "As per contract specification. Option to extend by 2x one year period",
+    "provinces": [
+        "Quebec",
+        "Nova Scotia",
+        "New Brunswick",
+        "Prince Edward Island",
+        "Newfoundland and Labrador"
+    ],
+    "tags": [
+        "Transport, FERRY\"]}"
+    ]
+}

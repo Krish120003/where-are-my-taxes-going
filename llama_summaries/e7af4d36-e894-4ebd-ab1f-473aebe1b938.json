@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "4125",
+    "type": "Services",
+    "department": "Public Works and Governance",
+    "procurement_category": "SRV",
+    "short_summary": "The provision of Electronic Document Management System (EDMS) for the Department of Public Works and Government Services",
+    "description": "Implementation of an Electronic Document Management System (EDMS) for the Department of Public Works and Government Services to support the modernization of its operations and improve the ef?ciency of its business processes.",
+    "estimated_value": 2500000,
+    "date_posted": "2023-03-15",
+    "duration_in_months": ".",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "EDMS "
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "3707",
+    "type": "data",
+    "department": "Department of National Defence",
+    "procurement_category": "*GD",
+    "short_summary": "Office Furniture purchase, delivery, and installation.",
+    "description": "This tender notice describes the Office Furniture purchase, delivery, and installation requirements for the Department of National Defence.",
+    "estimated_value": 0,
+    "date_posted": "2022-12-12",
+    "duration_in_months": "Not furnished in the provided data.",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "Office Furniture",
+        "Office Chairs",
+        "Office Tables",
+        "General Goods and Services"
+    ]
+}

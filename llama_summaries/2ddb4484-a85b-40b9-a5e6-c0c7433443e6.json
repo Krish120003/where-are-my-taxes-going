@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "Some fixed id or number as PK in other database tablets or contract id as string",
+    "type": " minutia",
+    "department": "public",
+    "procurement_category": "*CNST",
+    "short_summary": "Replace Electrical Motor CCM #9 Electrical Motor Control Center,",
+    "description": " replace  electrical motor control CCM number 9 located in the mechanical room",
+    "estimated_value": 1000.0,
+    "date_posted": "01/04/2022",
+    "duration_in_months": ",$shortcode\u0940\u0932 6\u03bcdependent expirydate",
+    "provinces": [
+        "Ontario",
+        "British Columbia",
+        "New Brunswick"
+    ],
+    "tags": [
+        "SURRY",
+        "Electrical-Motor-CCM",
+        "\\"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "W8486-238987/A",
+    "type": "JSON",
+    "department": "Departement of National defence",
+    "procurement_category": "*SRVTGD",
+    "short_summary": "MSVS Run Flats",
+    "description": "The Department of National Defence has a requirement for the items detailed below. The delivery is requested at 25 CFSD Montreal and 7 CFSD Edmonton by June 29, 2023.Item 1, GSIN: 2640, NSN: 01-548-7250 Run Flat 20XPart No.: VF-0018NSCM/CAGE: 62161Quantity: 500Unit of Issue: EA...  ",
+    "estimated_value": 584,
+    "date_posted": "2023-01-27",
+    "duration_in_months": "On Demand",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "MSVS"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "1316",
+    "type": "JSON",
+    "department": "(Department)? of (Foreign Affairs, Trade and Development | )",
+    "procurement_category": "(SRV)? Service | Business Consulting/Change Management | Project Management Services",
+    "short_summary": "Le pr\u00e4sent avis a \u00e9t\u00e9 annul\u00e9.",
+    "description": "This notice has been cancelled.",
+    "estimated_value": 150000,
+    "date_posted": "01/17/23",
+    "duration_in_months": ":[-60 ,27 ,",
+    "provinces": [
+        "Ontario",
+        "Nunavut",
+        "Manitoba",
+        "Saskatchewan",
+        "British Columbia"
+    ],
+    "tags": [
+        " Cancelled"
+    ]
+}

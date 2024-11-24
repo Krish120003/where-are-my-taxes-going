@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "724",
+    "type": "work",
+    "department": "Transport Canada",
+    "procurement_category": " GD",
+    "short_summary": "Note",
+    "description": "Note",
+    "estimated_value": 0.0,
+    "date_posted": "2023-04-26",
+    "duration_in_months": "Won",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "Quebec"
+    ],
+    "tags": [
+        "Services",
+        "Materials",
+        "Trnsportation",
+        "Workforce",
+        "Allregions"
+    ]
+}

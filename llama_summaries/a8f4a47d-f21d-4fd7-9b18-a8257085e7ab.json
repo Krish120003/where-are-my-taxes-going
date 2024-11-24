@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "01B68-22-0093",
+    "type": "Purchase Request",
+    "department": "Agriculture and Agri-Food Canada",
+    "procurement_category": "Service",
+    "short_summary": "Pesticide Efficacy and Tolerance Trials, Screening Trials and Residue Trials",
+    "description": "TO CONDUCT PESTICIDE EFFICACY AND TOLERANCE TRIALS, SCREENING TRIALS AND RESIDUE TRIALS IN ACCORDANCE WITH OECD GOOD LABORATORY PRACTICES (GLP), Zones 5/5A/5B Celeri, Celeri, Asperge, Phloueur, pour foin et fourrage, Pche, Zones 7 Tournesol, Herbe (aneth), Pois, sec, Zone 7A Herbe (menthe), Zone 12 Bleuet en corymbe, Zone 14 Herbe (phloueur), pour foin et fourrage, Pois sec, Zones n-a Pomme, Broccoli, Raisin",
+    "estimated_value": 0,
+    "date_posted": "2022-12-19",
+    "duration_in_months": "Not Determined",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Pesticide Efficacy and Tolerance Trials",
+        "Screening Trials",
+        "Residue Trials",
+        "OECD GLP",
+        "Forest Pest Management",
+        "Agriculture",
+        "Food Policy",
+        "Research and Development"
+    ]
+}

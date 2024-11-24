@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "p2894",
+    "type": "json",
+    "department": "phase 2",
+    "procurement_category": "CNST",
+    "short_summary": "construction services catalogue",
+    "description": "Non-residential building construction services and other related services",
+    "estimated_value": 3205.0,
+    "date_posted": "2022-11-04",
+    "duration_in_months": "16",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "non-residential",
+        "building",
+        "construction",
+        "services",
+        "no",
+        "hours",
+        "deployment"
+    ]
+}

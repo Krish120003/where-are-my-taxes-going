@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "R000120569",
+    "type": "contract",
+    "department": "{ SSC: SharedServicesCanada}",
+    "procurement_category": "SRV",
+    "short_summary": "** Shared Services Canada TBIPS - (Tier2) Programmer/Analyst req.**",
+    "description": "**Shared Services Canada: TBIPS - (Tier 2) Programmer/Analyst informatics projects**, /***/",
+    "estimated_value": 9,
+    "date_posted": "2022-07-31",
+    "duration_in_months": "To be determined (Terms TBD)",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Informatics, ITPS",
+        "Tier 2",
+        "TBIPS",
+        "Shared Services Canada",
+        "RCN",
+        "Computer and Data Processing and Related",
+        "Data Processing Devlopement and MIS"
+    ]
+}

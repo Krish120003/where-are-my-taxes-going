@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "WS3830006543",
+    "type": "GENERAL_CONTRACT",
+    "department": "public works and government service",
+    "procurement_category": "central govt purchased works construction materials",
+    "short_summary": "purchase materials",
+    "description": "request for proposal rfp",
+    "estimated_value": 95,
+    "date_posted": "2023-02-01",
+    "duration_in_months": "",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "equipment/materials",
+        "project management",
+        "construction"
+    ]
+}

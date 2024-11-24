@@ -1,0 +1,13 @@
+{
+    "CONTRACT_ID": "That is not a valid JSON format. The output should be in JSON format. The valid Convert a String representation of a JSON array to a JSON object in Python?",
+    "type": "There is no information in the string regarding the type.",
+    "department": "There is no information in the string regarding the department.",
+    "procurement_category": "It seems like the data provided is not in the correct format to extract the procurement category. Please check the data and try again.",
+    "short_summary": "The short summary and NULL  } It's not a JSON object nor a string representation of an object. Console.log not available, please return an object info if possible. If not console.log then return the string representation;)",
+    "description": "This notice has been cancelled.",
+    "estimated_value": 0,
+    "date_posted": "2022-09-27T00:00:00.000Z",
+    "duration_in_months": "There is no information in the string regarding the duration in months.",
+    "provinces": [],
+    "tags": []
+}

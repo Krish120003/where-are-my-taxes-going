@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-22-01012898",
+    "type": "LCI_construction_Tender",
+    "department": "NRC",
+    "procurement_category": "*",
+    "short_summary": "Low Carbon Assets Through Lifecycle Assessment LCA2",
+    "description": "has_tender_score Greater than 0",
+    "estimated_value": 282333,
+    "date_posted": "November 8th, 2022",
+    "duration_in_months": "14",
+    "provinces": [
+        "Ontario",
+        "Nunavut"
+    ],
+    "tags": [
+        "low_carbon_assets"
+    ]
+}

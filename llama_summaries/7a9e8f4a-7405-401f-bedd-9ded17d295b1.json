@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "3775",
+    "type": ">window contract",
+    "department": "Financial",
+    "procurement_category": "Service",
+    "short_summary": "T.6 Telecommunication System Specialists",
+    "description": "Services professional, informatics",
+    "estimated_value": 2.9,
+    "date_posted": "2022-12-07",
+    "duration_in_months": "N/A",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Infrastructure",
+        "Information and Communications Technology",
+        "Telecommunications"
+    ]
+}

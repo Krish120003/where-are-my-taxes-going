@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "407",
+    "type": "A CID",
+    "department": "Infrastructure Canada (INFC)",
+    "procurement_category": "SRV",
+    "short_summary": "Ongoing access to multimodal on-demand transportation data and indicators across Canada including urban and rural communities.",
+    "description": "The Department of Infrastructure Canada (INFC) requires ongoing access to multimodal on-demand transportation data and indicators across Canada including urban and rural communities. This data is expected to inform departmental decision making across different projects and programs.",
+    "estimated_value": 250000,
+    "date_posted": "2023-02-28",
+    "duration_in_months": ">3 years",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Data",
+        "Transportation",
+        "Canada"
+    ]
+}

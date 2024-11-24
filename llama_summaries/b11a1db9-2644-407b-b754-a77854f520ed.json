@@ -1,0 +1,26 @@
+{
+    "CONTRACT_ID": "5032",
+    "type": "Cast",
+    "department": "Public Safety",
+    "procurement_category": "SRV",
+    "short_summary": "Request for Standing Offer \u2013 Workshop Delivery for the Indigenous Community Safety Development Contribution Program",
+    "description": "Community safety workshops for Indigenous communities using the Community Safety Planning (CSP) process",
+    "estimated_value": 6,
+    "date_posted": "2023-03-09",
+    "duration_in_months": "7",
+    "provinces": [
+        "Ontario",
+        "Alberta",
+        "Saskatchewan",
+        "British Columbia",
+        "Northwest Territories",
+        "Nova Scotia",
+        "New Brunswick",
+        "Prince Edward Island"
+    ],
+    "tags": [
+        "Public Safety",
+        "Police",
+        " Law Enforcement"
+    ]
+}

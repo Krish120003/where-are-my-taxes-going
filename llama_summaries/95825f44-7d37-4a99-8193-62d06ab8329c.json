@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "5322",
+    "type": "RFCP",
+    "department": "TPS",
+    "procurement_category": "goods",
+    "short_summary": "Sampling equipment",
+    "description": "AMENDMENT TO CLOSING TIME. Please disregard the Ariba Discovery posting response deadline closing time and CanadaBuys posting closing time. All required supporting documentation and bid submission must be submitted by 2023-05-10 at 14:00 EDT.",
+    "estimated_value": 13500,
+    "date_posted": "2023-03-23",
+    "duration_in_months": "Well defined duration not clear.",
+    "provinces": [
+        "Quebec",
+        "British Columbia",
+        "Manitoba"
+    ],
+    "tags": [
+        "request for proposal",
+        "goods",
+        "competitive negotiation",
+        "freedom act",
+        "refording/rotation of equipment",
+        "equipment maintenance"
+    ]
+}

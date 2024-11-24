@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "462f0bc7-9e27-4bdf-b4f1-4b1923f3c8e6",
+    "type": "Procedural Prescription Order - Allied Health Science (Pharmacist)",
+    "department": "Pharmacy and Administration department",
+    "procurement_category": "Competitive Process",
+    "short_summary": "Order of medications for Nambour/Eumundi",
+    "description": "Purchase orders seeking the order of medications for Nambour/Eumundi. One pharmacist position opening",
+    "estimated_value": 58498.68,
+    "date_posted": "2022-06-13T21:05:31.3900714Z",
+    "duration_in_months": "It is recommended that contracts are than 6 months in length ( complex and major projects) otherwise please use the pro forma for contacts that are 1 to 6 months in length.?",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Pharmacy",
+        "Health",
+        "Medical",
+        "Health Creation",
+        "Quebec"
+    ]
+}

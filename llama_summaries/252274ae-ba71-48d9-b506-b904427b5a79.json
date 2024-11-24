@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "1296",
+    "type": "General Contract",
+    "department": "Ministry of Agriculture",
+    "procurement_category": "Services",
+    "short_summary": "Portfolio Planner for Real Property",
+    "description": "task and solutions professional services for real property project management services for the agriculture and agri-food sector.",
+    "estimated_value": 125,
+    "date_posted": "2023-03-29",
+    "duration_in_months": "> 24 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "portfolio planner",
+        "real property",
+        "project management"
+    ]
+}

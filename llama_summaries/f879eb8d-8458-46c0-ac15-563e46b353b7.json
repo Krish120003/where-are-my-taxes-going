@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "1270",
+    "type": "fourniture de services",
+    "department": "\u00e9lection",
+    "procurement_category": "Supply",
+    "short_summary": "Audits des performances administrative de la section \u00e9lections du conseil",
+    "description": "supply of services",
+    "estimated_value": 250,
+    "date_posted": "2022-08-08",
+    "duration_in_months": "6",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "NCR",
+        "Canada",
+        "\u00c9lections Canada "
+    ]
+}

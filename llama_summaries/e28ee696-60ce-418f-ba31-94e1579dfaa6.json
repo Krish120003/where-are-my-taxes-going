@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "There is no unique contract ID listed",
+    "type": "INFO",
+    "department": "NRC",
+    "procurement_category": "Construction (CNST)",
+    "short_summary": "replace the roof at 110 Gymnasium Place",
+    "description": "The National Research Council Canada is seeking to contract a project to replace the roof of a building.",
+    "estimated_value": 300000,
+    "date_posted": "December 7, 2022",
+    "duration_in_months": "Not specified",
+    "provinces": [
+        "Ontario",
+        "Saskatchewan"
+    ],
+    "tags": [
+        "Government Contract",
+        "Construction",
+        "Construction Management",
+        "Roofing",
+        "National Research Council Canada",
+        "Saskatoon",
+        "Ontario"
+    ]
+}

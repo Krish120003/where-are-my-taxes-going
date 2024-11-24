@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "<b>2506</b>",
+    "type": "request for proposal",
+    "department": "space",
+    "procurement_category": "cdbn (contraction)",
+    "short_summary": "electromechanical upgrade at antenna support building in saskatoon",
+    "description": "this project is conditionally reserved for aboriginal contractors under the procurement strategy for aboriginal business (psab).",
+    "estimated_value": 30000,
+    "date_posted": "2022-09-22 10:56:13",
+    "duration_in_months": ">= 6",
+    "provinces": [
+        "Saskatchewan"
+    ],
+    "tags": [
+        "engineering",
+        "electrical",
+        "mechanical"
+    ]
+}

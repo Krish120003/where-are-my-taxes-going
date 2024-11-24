@@ -1,0 +1,27 @@
+{
+    "CONTRACT_ID": "Pow-22-01009118",
+    "type": "government",
+    "department": "transportation",
+    "procurement_category": "services",
+    "short_summary": "Language services for interpretation",
+    "description": "The contract is for simultaneous interpretation services in English and/or French. The total allocated budget is 631 500, excluding taxes. The contract will last for one year, with the possibility of three one-year extensions. The contract is subject to the Canada-Peru Free Trade Agreement and the Comprehensive and Progressive Agreement for Trans-Pacific Partnership.",
+    "estimated_value": 631500,
+    "date_posted": "2022-10-04",
+    "duration_in_months": "12",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "language services",
+        "interpretation services",
+        "canada-cape-free-trade-agreement",
+        "comprehensive-and-progressive-agreement-for-trans-pacific-partnership",
+        "canada-peru-free-trade-agreement",
+        "world-trade-organization-agreement-on-government-procurement",
+        "canada-uk-trade-continuity-agreement",
+        "canada-chile-free-trade-agreement",
+        "Canada-Honduras-free-trade-agreement",
+        "canada-panama-free-trade-agreement"
+    ]
+}

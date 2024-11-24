@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "2607",
+    "type": "OUTLINE",
+    "department": "12",
+    "procurement_category": "12",
+    "short_summary": "12488",
+    "description": "Brief description of contract summary. For reasons of data security and privacy, this should be generic and concise.",
+    "estimated_value": 2081890.0,
+    "date_posted": "2021-06-04",
+    "duration_in_months": "Well-owne",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "Providing travel-related services to GC"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "CONTRACT_ID": "NRCAN- 5000067930",
+    "type": " Service contract",
+    "department": "Natural Resources Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Quantitative chemical analysis services for ongoing research studies.",
+    "description": "",
+    "estimated_value": 10000.0,
+    "date_posted": "08/17/2022",
+    "duration_in_months": "time_in_countries",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "quantitative chemical analysis",
+        "ongoing research studies",
+        "CanmetMINING",
+        "service contract",
+        "natural resources canada",
+        "SRV",
+        "grade 1",
+        "service",
+        "ontology",
+        "Canada"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "1821",
+    "type": "learning services",
+    "department": "Foreign Affairs, Trade and Development (Department of)",
+    "procurement_category": "service",
+    "short_summary": "Learning Services SA \\\\(u00d7)   DFATD - CFSE \\\\(u2013)  e-Learning",
+    "description": "Learning Service e-Learning",
+    "estimated_value": 1000000.0,
+    "date_posted": "2022-08-23",
+    "duration_in_months": "12 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "learning",
+        "services",
+        "Foreign Affairs, Trade and Development Department",
+        "Competitive-Selective Tendering"
+    ]
+}

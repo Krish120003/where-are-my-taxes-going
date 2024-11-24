@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "1020-A0203B",
+    "type": "CONTRACT",
+    "department": ".",
+    "procurement_category": "G",
+    "short_summary": "Centrifugeuse et Rotuers ",
+    "description": "Qualification for buying standard laboratory Centrifuge and laboratory equipment ",
+    "estimated_value": 80000,
+    "date_posted": "August 10 2020",
+    "duration_in_months": "<truncated \ub97c FORMAT I Need the following information to be extracted from the above data (in json key-value pairs), and formatted as mentioned below with the following structure) :Data in the keys ",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "Laboratory Equipment and Supplies",
+        "centrifuge",
+        "rotors"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "4333",
+    "type": "UNIX",
+    "department": "SALIEN",
+    "procurement_category": "CONSTRUCTION",
+    "short_summary": "construction of the new hospital ",
+    "description": " construction of the new hospital ",
+    "estimated_value": 1000000,
+    "date_posted": "2023-02-14",
+    "duration_in_months": ">-3",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "downtown"
+    ]
+}

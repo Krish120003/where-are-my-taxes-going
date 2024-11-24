@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "Some truncated id(not present in the data 1847 } Just the id of the notice",
+    "type": "tender",
+    "department": "Parks Canada",
+    "procurement_category": "construction",
+    "short_summary": "Radium Aqua Court Foundation Repair - Kootenay National Park",
+    "description": "Works includes repairs to the twin box culverts beneath the pool deck, upgrades with the Sinclair Creek Channel beneath the building, erosion protection of Sinclair Creek Channel downstream of the proposed twin box culverts and cool pool repairs.",
+    "estimated_value": 0,
+    "date_posted": "2022-08-12",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "construction:NK7",
+        "bidding",
+        "government",
+        "infrastructure:bridge",
+        "repair:TBD"
+    ]
+}

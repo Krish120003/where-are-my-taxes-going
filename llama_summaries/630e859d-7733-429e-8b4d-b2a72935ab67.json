@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "5103",
+    "type": "lamp post installation",
+    "department": "transportation",
+    "procurement_category": "SRV",
+    "short_summary": "conclusion of works on highways and paved areas under Phase 2 of the project",
+    "description": "testing a solution for interactive of logistical providers on the project.",
+    "estimated_value": 1000000,
+    "date_posted": "22-01-2023",
+    "duration_in_months": "20",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "lamp posts",
+        "installations",
+        "migration test"
+    ]
+}

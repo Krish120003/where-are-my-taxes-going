@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "679",
+    "type": "json",
+    "department": "public work",
+    "procurement_category": "Service",
+    "short_summary": "Entretien des pelouses",
+    "description": "",
+    "estimated_value": 10.0,
+    "date_posted": "2022-10-18",
+    "duration_in_months": "Mai-April-Mar",
+    "provinces": [
+        "Quebec",
+        "Quebec",
+        "Quebec"
+    ],
+    "tags": [
+        "Lawn care",
+        "Maintenance",
+        "Parks Canada",
+        "Summer jobs",
+        "Opportunities"
+    ]
+}

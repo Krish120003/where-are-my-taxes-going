@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-23-01025953",
+    "type": "info",
+    "department": "BORDER SERVICE",
+    "procurement_category": "SERVICE",
+    "short_summary": "Rental of an outdoor firing range facility for firearm training",
+    "description": "Secure provider for firing range and appropriate weapons for 50 days per year for CBSA in Quebec, Canada.",
+    "estimated_value": 16000000.0,
+    "date_posted": "2023-02-02",
+    "duration_in_months": "12",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "border service",
+        "firing range",
+        " firearm training",
+        "quebec",
+        "cbsa"
+    ]
+}

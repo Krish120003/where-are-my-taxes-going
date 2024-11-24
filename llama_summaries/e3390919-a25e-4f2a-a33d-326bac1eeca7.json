@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "record1",
+    "type": "contract",
+    "department": "parcs canada",
+    "procurement_category": "construction",
+    "short_summary": "Title",
+    "description": "Brief description",
+    "estimated_value": 87780072.6,
+    "date_posted": "2023-04-24",
+    "duration_in_months": "12",
+    "provinces": [
+        "Nova Scotia"
+    ],
+    "tags": [
+        "phase 1",
+        "phase 2",
+        "k25"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "57101-23-4306376",
+    "type": "medical lab services",
+    "department": "Correctional Service of Canada",
+    "procurement_category": "*SRV",
+    "short_summary": "Clinical laboratory services. Collection, storage and shipping of urine samples. Evaluate alcohol and drug use affirmative screening sample sets (target/specfic, if possible, when in stake)",
+    "description": "Clinical laboratory services.  The program must be in compliance with the Corrections and Conditional Release Act, Corrections and Conditional Release Regulations, and Guidelines and Policy under the Act.  ",
+    "estimated_value": 0,
+    "date_posted": "February 16, 2023",
+    "duration_in_months": "): 60.0",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "clinical laboratory services"
+    ]
+}

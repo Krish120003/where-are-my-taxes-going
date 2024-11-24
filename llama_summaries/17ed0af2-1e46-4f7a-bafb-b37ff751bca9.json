@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "W8486-228293/B",
+    "type": "TENDER",
+    "department": "National Defense",
+    "procurement_category": "services/goods",
+    "short_summary": "Purchase of equipment",
+    "description": "",
+    "estimated_value": 50000,
+    "date_posted": "2022-09-22",
+    "duration_in_months": "Expired",
+    "provinces": [
+        "Alberta",
+        "Quebec"
+    ],
+    "tags": [
+        "NotEmpty"
+    ]
+}

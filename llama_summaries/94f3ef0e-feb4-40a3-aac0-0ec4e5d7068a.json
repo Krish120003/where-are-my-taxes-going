@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-23-01026107",
+    "type": "Engineering",
+    "department": "CRTC",
+    "procurement_category": "SRV",
+    "short_summary": "CRTC seeks tenders to supply audio and broadcasting services",
+    "description": "The CRTC seeks to ensure that Canadians have access to a world-class communication system.",
+    "estimated_value": 0.0,
+    "date_posted": "2023-02-16",
+    "duration_in_months": "At least 2 weeks (min numero of issues to be trained on) at 14:00:00",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "CRTC",
+        "engineering",
+        "srvice",
+        "audio",
+        "broadcasting"
+    ]
+}

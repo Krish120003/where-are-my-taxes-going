@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "WS3831583479",
+    "type": "STANDING OFFER",
+    "department": "DEFENCE",
+    "procurement_category": "SRV",
+    "short_summary": "Rental and maintenance/portable chemical toilets",
+    "description": "That the rental, transportation, maintenance, emptying of chemical Toilets located in Quebec City, QC.",
+    "estimated_value": 30,
+    "date_posted": "2023-05-05",
+    "duration_in_months": ":[",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "cannonical_RSO_form",
+        "DEFAULT",
+        "ROW1UK_tag_at_2023-05-05__14:47:08",
+        "ROW2UK_tag_at_2023-05-05__14:47:08",
+        "asLaunch"
+    ]
+}

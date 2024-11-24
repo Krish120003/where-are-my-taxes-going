@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "2484",
+    "type": "CONTRACT ID EXTRACTER",
+    "department": "Government of Canada",
+    "procurement_category": "Supply and Services",
+    "short_summary": "Purchase of treated wood",
+    "description": "Treated wood for the construction of a marine structure (dock) at Fisheries and Oceans Canada.",
+    "estimated_value": 1000000.0,
+    "date_posted": "2022-10-04",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "WS3567882305",
+        "RFP",
+        "PWGSC",
+        "F3731-220039",
+        "IGC portrayal",
+        "Fisheries and Oceans Canada",
+        "Request for Tender",
+        "MSPC",
+        "Port Arthur Harbour Trustees TBD maintenance and major repairs 2022"
+    ]
+}

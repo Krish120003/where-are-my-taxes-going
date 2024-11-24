@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "1000400238",
+    "type": "PROJECT MANAGEMENT SERVICES",
+    "department": "Is There Any Representing Deprtment",
+    "procurement_category": "Supply",
+    "short_summary": "Testing",
+    "description": "A short summary of the project",
+    "estimated_value": 3000,
+    "date_posted": "11/15/2029",
+    "duration_in_months": "text",
+    "provinces": [
+        "Quebec",
+        "Ontario",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "agriculture",
+        "food processing",
+        "retail trade"
+    ]
+}

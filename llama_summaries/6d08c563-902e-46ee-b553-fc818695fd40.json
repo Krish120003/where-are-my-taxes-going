@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "ES030",
+    "type": "Request for Standing Offers",
+    "department": "National Capital Commission",
+    "procurement_category": "SRV",
+    "short_summary": "Arboricultural Services",
+    "description": "Arboricultural services. Requirements completed under the Standing Offer Agreement (SOA) will be at various locations on NCC lands located within the National Capital Region in Ontario and Quebec.",
+    "estimated_value": 5343,
+    "date_posted": "2023-04-11",
+    "duration_in_months": "12",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "tree trimming services",
+        "arborist services",
+        "standing offer",
+        "national capital region",
+        "ontario",
+        "quebec"
+    ]
+}

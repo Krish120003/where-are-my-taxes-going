@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-22-01011837",
+    "type": "Dental Sterilization Audits",
+    "department": "Correctional Service of Canada",
+    "procurement_category": "SRV",
+    "short_summary": "For the Dental Sterilization Audits",
+    "description": "The Correctional Service of Canada has a mandate to conduct annual audits of 10 institutions within the Ontario Region to assess compliance with on site dental sterilization.",
+    "estimated_value": 1000,
+    "date_posted": "2022-11-01",
+    "duration_in_months": "60",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Audit Services",
+        "Healthcare"
+    ]
+}

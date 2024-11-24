@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "SSC-23-00013247:T",
+    "type": "a unique number for the contract type",
+    "department": "shared services canada",
+    "procurement_category": "*CNST",
+    "short_summary": "request for information rfi; bidding processes",
+    "description": "124 character title 1726349712364217346129783462937846213746213746219 346217346121738462173462313874692138462128734627834627834627834  rfi for planning of construction site supply info",
+    "estimated_value": 25.05,
+    "date_posted": "2023-04-24",
+    "duration_in_months": "2 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "record"
+    ]
+}

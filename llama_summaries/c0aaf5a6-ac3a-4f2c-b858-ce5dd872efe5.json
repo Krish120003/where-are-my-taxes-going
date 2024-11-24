@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "cb-4493-23396484",
+    "type": "Contract",
+    "department": " Department Of Agriculture ",
+    "procurement_category": "SRV",
+    "short_summary": "Electrical Services",
+    "description": "Electrical Maintenance services on an \"as and when requested basis\"\", requirements: {(security requirements),(mandatory assessment of bids),( tender criteria and requirements)}, non-inclusive periods of up to 5 years",
+    "estimated_value": 100000,
+    "date_posted": "2023-03-28T00:00:00",
+    "duration_in_months": ".this is going to be long-a config-end,if the value is more than the originall,",
+    "provinces": [
+        "British Columbia",
+        "Saskatchewan"
+    ],
+    "tags": [
+        "Infrastructure",
+        "Maintenance"
+    ]
+}

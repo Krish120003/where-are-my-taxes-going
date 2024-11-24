@@ -1,0 +1,32 @@
+{
+    "CONTRACT_ID": "1000406454",
+    "type": "SRV",
+    "department": "Canade Revenue Agency",
+    "procurement_category": "1000406454",
+    "short_summary": "Voirtual language training services for the province of \", ",
+    "description": "",
+    "estimated_value": 99532400,
+    "date_posted": "03/06/2023",
+    "duration_in_months": ">=20 months",
+    "provinces": [
+        "Alberta",
+        "Saskatchewan",
+        "British Columbia",
+        "Alberta",
+        "Prince Edward Island",
+        "Newfoundland and Labrador",
+        "Manitoba",
+        "New Brunswick",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "GPED",
+        "language training",
+        "language education",
+        "2nd Language",
+        "French",
+        "french education",
+        "english",
+        "multalngualism"
+    ]
+}

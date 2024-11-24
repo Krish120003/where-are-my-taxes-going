@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "M92D01A1DD2E31A5",
+    "type": "section2",
+    "department": "dept of pub work gov serv ps pc",
+    "procurement_category": "departmental",
+    "short_summary": "see attached commodty pg",
+    "description": "This section gives a broad overview of the procurements goals and objectives. The Department of National Defence would like to procure a contract to provide the users and data analytics team with complementary decision-making support to inform program management decisions located in the Section.\", ",
+    "estimated_value": 100000,
+    "date_posted": "2020-10-13",
+    "duration_in_months": "It should not take more than 90 days to complete this project",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "government, data-analytics, program-managment decision-making support     "
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "MA057",
+    "type": "Standing Offer Contract",
+    "department": "Transportation",
+    "procurement_category": "Services",
+    "short_summary": "RFSO for agricultural rehabilitation and small construction services",
+    "description": "General contractors skilled in timber frame, log construction, and associated traditional carpentry for rehabilitation the NCC's agricultural buildings",
+    "estimated_value": 150000,
+    "date_posted": "2022/10/21",
+    "duration_in_months": "3",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Transportation"
+    ]
+}

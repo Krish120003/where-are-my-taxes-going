@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "2992",
+    "type": "JSON",
+    "department": "Finance",
+    "procurement_category": "Service",
+    "short_summary": "update the application",
+    "description": "update the application",
+    "estimated_value": 100000,
+    "date_posted": "2022-11-30",
+    "duration_in_months": ".  notice_type: ",
+    "provinces": [
+        "Nova Scotia"
+    ],
+    "tags": [
+        "procurement",
+        "healthcare",
+        "education"
+    ]
+}

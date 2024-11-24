@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "WS3851680018-Doc3857186620",
+    "type": "PUGPAR/Procurement Upgrade",
+    "department": "PSPC",
+    "procurement_category": "CNST",
+    "short_summary": "upgrade to fire evacuation standard",
+    "description": "kdjkdsj",
+    "estimated_value": 100,
+    "date_posted": "2023-02-09",
+    "duration_in_months": ":7",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "parameter",
+        "refinement"
+    ]
+}

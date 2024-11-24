@@ -1,0 +1,29 @@
+{
+    "CONTRACT_ID": "]",
+    "type": "CONTRACT",
+    "department": "Parks Canada",
+    "procurement_category": "SRV,CNST",
+    "short_summary": "Request for Information: Buyer Performance Management Information Technology Solution and training solution",
+    "description": "The government is transforming the way in which they procure and purchase various goods and services.  Now, we require an Information Technology solution that can be used to operationalize buyer performance management (BPM) across the organization.  The BPM policy improves the relations between buyers and vendors by promoting continuous improvement and open communication.  It will do the following:",
+    "estimated_value": 1000000,
+    "date_posted": "2022-10-10",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario",
+        "British Columbia",
+        "Quebec",
+        "Alberta"
+    ],
+    "tags": [
+        "construction",
+        "information technology",
+        "training and education",
+        "parks and recreation",
+        "infrastructure",
+        "environment",
+        "purchase ",
+        "procurement",
+        "procurment categories",
+        "government"
+    ]
+}

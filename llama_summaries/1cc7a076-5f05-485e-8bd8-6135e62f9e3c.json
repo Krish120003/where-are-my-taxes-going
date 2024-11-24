@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "1018",
+    "type": "government",
+    "department": "Health",
+    "procurement_category": "Goods",
+    "short_summary": "Testing",
+    "description": "Evaluating additional shipment data",
+    "estimated_value": 30.0,
+    "date_posted": "2022-09-02",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "government"
+    ]
+}

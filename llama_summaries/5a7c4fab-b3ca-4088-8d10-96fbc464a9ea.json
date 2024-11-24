@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "cb-404-62086026",
+    "type": "CONTRACT",
+    "department": "Defense",
+    "procurement_category": "GD",
+    "short_summary": "The Department of National Defence has a requirement for the items detailed below.",
+    "description": "The delivery is requested at CFB Esquimalt, British Columbia and CFB Halifax, Nova Scotia. The following goods are required: ...\\",
+    "estimated_value": 50000.0,
+    "date_posted": "2024-11-01",
+    "duration_in_months": "",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "MajorI",
+        "Canada",
+        "Update"
+    ]
+}

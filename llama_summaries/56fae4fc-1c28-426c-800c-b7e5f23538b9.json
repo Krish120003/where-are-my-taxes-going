@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "Yes",
+    "type": "subtotal",
+    "department": "Governments of Canada",
+    "procurement_category": "Finances",
+    "short_summary": "Submit an equal occureace bid",
+    "description": "tender description",
+    "estimated_value": 1,
+    "date_posted": "2023-02-15",
+    "duration_in_months": "]}",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "Ariba",
+        "Longueuil",
+        "Environment",
+        "PHASE 1 and 2"
+    ]
+}

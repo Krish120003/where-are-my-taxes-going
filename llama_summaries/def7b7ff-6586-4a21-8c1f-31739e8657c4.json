@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "3666",
+    "type": "NegotiationsOnly",
+    "department": "PWSGC",
+    "procurement_category": "SRV",
+    "short_summary": "Procurement was done for a Solution Based Learning Service",
+    "description": "Solutions-based Learning Services",
+    "estimated_value": 60000,
+    "date_posted": "2022-12-09",
+    "duration_in_months": "On going",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "ITS', 'Communication-Accounting ",
+        "notice_type_eng_etal",
+        "notice_type_etal",
+        "notice_type"
+    ]
+}

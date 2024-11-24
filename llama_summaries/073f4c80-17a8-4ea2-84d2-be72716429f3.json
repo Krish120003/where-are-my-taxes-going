@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "W8485-237484/A",
+    "type": "Cancelled",
+    "department": "Defense",
+    "procurement_category": "GOODS",
+    "short_summary": "Goods PD (D\u00e9ficience ",
+    "description": "Written on longer row",
+    "estimated_value": 808,
+    "date_posted": "2023-03-08",
+    "duration_in_months": "=> two months",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "fibres"
+    ]
+}

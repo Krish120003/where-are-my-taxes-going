@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": ">(({contractingEntityName-nomEntitContractante-eng})[0])<",
+    "type": "json",
+    "department": "Agriculture Agri-Food Canada",
+    "procurement_category": "IT",
+    "short_summary": "NGINX Software Subscription Licenses, Maintenance and Support",
+    "description": "NGINX Software Subscription Licenses, Maintenance and Support for Agriculture Agri-Food Canada, in Ottawa, Ontario as outlined in the attached Request for Quotations.",
+    "estimated_value": 10000,
+    "date_posted": "2024-03-11",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "IT",
+        "Canada"
+    ]
+}

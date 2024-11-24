@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "[insert contract ID]",
+    "type": "contract/notice",
+    "department": "procurement",
+    "procurement_category": "SRV",
+    "short_summary": "E1W envelopes with Indicia - Outgoing #10 Window Envelope",
+    "description": "This is a tender notice for the procurement of envelopes with indicia for outgoing mail.",
+    "estimated_value": 3000000.0,
+    "date_posted": "2022-12-06",
+    "duration_in_months": "On or before 4-15-2023",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "E1W envelopes",
+        "Outgoing mail"
+    ]
+}

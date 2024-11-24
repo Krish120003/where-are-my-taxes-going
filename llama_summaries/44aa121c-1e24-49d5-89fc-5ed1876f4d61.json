@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "This-Is-A-Contract_ID",
+    "type": "Other Info",
+    "department": "Indigenous Services Canada",
+    "procurement_category": "Goods",
+    "short_summary": "some info...",
+    "description": "blabla...",
+    "estimated_value": 1200,
+    "date_posted": "2019-03-10",
+    "duration_in_months": "168",
+    "provinces": [
+        "Ontario",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "electronics ",
+        "indentations ",
+        "blue sky "
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "]=> {",
+    "type": "Contract",
+    "department": "Gov",
+    "procurement_category": "Competitive",
+    "short_summary": "Content management system",
+    "description": "This is a Request for Proposal for a content management system which can manage and organize content easily, provide a unified data layer to enable seamless data integration, and support multiple channels.",
+    "estimated_value": 1000000.0,
+    "date_posted": "09/01/2019",
+    "duration_in_months": "For the initial period",
+    "provinces": [
+        "Saskatchewan",
+        "Ontario"
+    ],
+    "tags": [
+        "content management",
+        "Data Management",
+        "Multi-Channel"
+    ]
+}

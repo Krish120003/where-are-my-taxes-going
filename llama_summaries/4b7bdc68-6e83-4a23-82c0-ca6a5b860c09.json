@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-22-00845974",
+    "type": " *** Type *** ",
+    "department": "Dep-60-56500",
+    "procurement_category": "Procurement Category",
+    "short_summary": "xxxxxxxSummary xxxxxxx",
+    "description": "yyyyyDescription yyyyy",
+    "estimated_value": 25,
+    "date_posted": "2022-08-18",
+    "duration_in_months": "E",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+    ]
+}

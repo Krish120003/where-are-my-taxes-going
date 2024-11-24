@@ -1,0 +1,15 @@
+{
+    "CONTRACT_ID": "2111",
+    "type": "Request for Proposal",
+    "department": "Statistics Canada",
+    "procurement_category": "Service",
+    "short_summary": "Accessibility Software Evaluation Services",
+    "description": "The purpose of this requirement is to have an accessibility evaluation of the various software products and services available on the Data Analytics as a Service (DAaaS) cloud platform in order for Statistics Canada to determine its compliance. The compliance will govern whether the tools can be released into the public domain.The Contractor\u2019s resources are required to have expert knowledge on accessibility techniques and evaluation tools, knowledge of WCAG 2.1 (Level A and AA) compliance to ensure inter-operability and usability with assistive technologies by persons with disabilities. QUALIFICATION Any interested bidder can compete, without having to confirm with the Contracting Authority, unless it would not be consistent with the business requirements of efficient operations.",
+    "estimated_value": 180000.0,
+    "date_posted": "2022-08-19",
+    "duration_in_months": "Closes on October 6, 2022",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": []
+}

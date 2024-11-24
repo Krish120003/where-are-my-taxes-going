@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "1420",
+    "type": " Procurement Notice",
+    "department": "Public Safety",
+    "procurement_category": "*SRV",
+    "short_summary": "Secure On-Site & Mobile Paper & Material Document Destruction Services",
+    "description": "procurement has secured an account with a reputable  on-site document destruction company. However, all contractors must have a physical location in Ontario and legal presence in Canada.\",",
+    "estimated_value": 500000,
+    "date_posted": "2023-02-10",
+    "duration_in_months": "12",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Paper Shredding",
+        "on site",
+        "mobile service",
+        "destruction service",
+        "document destruction",
+        " RCMP"
+    ]
+}

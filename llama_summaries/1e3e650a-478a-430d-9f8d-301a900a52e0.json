@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "SSC_1095",
+    "type": "bid",
+    "department": "fishtery",
+    "procurement_category": "greens",
+    "short_summary": "This contract is for purchasing of ip-equipment",
+    "description": "title-titre-eng",
+    "estimated_value": 0,
+    "date_posted": "2023-12-01",
+    "duration_in_months": "No duration given",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "Software_ Hardware"
+    ]
+}

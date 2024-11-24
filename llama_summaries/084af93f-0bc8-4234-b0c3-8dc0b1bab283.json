@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "61",
+    "type": "T",
+    "department": "D",
+    "procurement_category": "T",
+    "short_summary": "T",
+    "description": "T",
+    "estimated_value": 120000.0,
+    "date_posted": "Check date",
+    "duration_in_months": "},",
+    "provinces": [
+        "British Columbia",
+        "Alberta",
+        "Saskatchewan",
+        "Alberta",
+        "Alberta"
+    ],
+    "tags": [
+        "Bacardi",
+        "Example"
+    ]
+}

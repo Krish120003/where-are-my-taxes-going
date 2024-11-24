@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "3126",
+    "type": "miscellaneous",
+    "department": "Defense",
+    "procurement_category": "Goods",
+    "short_summary": "Request for Proposals",
+    "description": "Siamese Connection, Fire Hose NSN 4210-21-583-1015 W8482-231033/A",
+    "estimated_value": 12345.67,
+    "date_posted": "2022-11-17",
+    "duration_in_months": "And unclear",
+    "provinces": [
+        "Ontario",
+        "British Columbia",
+        "Nova Scotia",
+        "Quebec"
+    ],
+    "tags": [
+        "Canadian Free Trade Agreement",
+        "Siamese Connection",
+        "Fire Hose"
+    ]
+}

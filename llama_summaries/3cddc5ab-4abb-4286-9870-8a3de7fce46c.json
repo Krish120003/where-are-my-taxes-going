@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "2693",
+    "type": "Supply",
+    "department": "Department of National Defence",
+    "procurement_category": "Goods and Services",
+    "short_summary": "Suppression trainer ",
+    "description": "Aircraft Fire Detection and Suppression Trainer ",
+    "estimated_value": 26930000.0,
+    "date_posted": "2022-10-13",
+    "duration_in_months": "2 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "aviation",
+        "firefighting",
+        "emergency services"
+    ]
+}

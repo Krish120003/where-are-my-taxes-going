@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "1685",
+    "type": "advance_contract_award_notice",
+    "department": "office_of_the_superintendent_of_financial_institutions",
+    "procurement_category": "srvtgd",
+    "short_summary": "Haworth Panel System Refurbishing",
+    "description": "Remise \u00e0 neuf des cloisons Haworth",
+    "estimated_value": 745800,
+    "date_posted": "2024-11-05",
+    "duration_in_months": "mathcalayment/(12,2)",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "business and commercial services",
+        "government services",
+        "haworth panel system"
+    ]
+}

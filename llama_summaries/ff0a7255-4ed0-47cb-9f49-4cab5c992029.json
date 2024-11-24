@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "SSC-22-00020414:T",
+    "type": "MASTER CONTRACT 1",
+    "department": "IT",
+    "procurement_category": "SRVTGD",
+    "short_summary": "Maintenance and support renewal for Ixia Maintenance and Support Renewal (AMD 001) ",
+    "description": "Ixia Maintenance and support renewal (AMD 001)",
+    "estimated_value": 300000,
+    "date_posted": "2022-10-12",
+    "duration_in_months": ">12 month",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "KEYSIGHT MAINTENANCE",
+        "IXIA MAINTENANCE",
+        "SRVTGD"
+    ]
+}

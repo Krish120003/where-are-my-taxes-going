@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "url",
+    "type": "string",
+    "department": "Contract ID",
+    "procurement_category": "SRV",
+    "short_summary": "PROFESSIONAL SERVICES IN STRUCTURAL ENGINEERING",
+    "description": "The National Capital Commission (NCC) wishes to retain the services of consulting engineering firms to provide Professional Services in Structural Engineering (2022-2026) on an \\\\\\\\\\\\\"as and when requested\\\\\\\\\\\" basis under a Standing-Offer Agreement (SOA).\\\\\\\\\\\"",
+    "estimated_value": 4,
+    "date_posted": "2022-11-08",
+    "duration_in_months": "47",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Architecture",
+        "Engineering",
+        "Structural Engineering",
+        "Engineering Services",
+        "Government Procurement",
+        "Public procurement"
+    ]
+}

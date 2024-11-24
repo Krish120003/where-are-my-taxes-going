@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "1000244162 \u0417\u0430\u0432\u0435\u0440\u0448\u0438\u0442_\u043d\u044b\u0439___________________cat.hazard.venture",
+    "type": "Contract",
+    "department": "Environment and Climate Change Canada",
+    "procurement_category": "{'ENG': 'SRV', 'FRA': 'Service'}",
+    "short_summary": "Hazardous waste management services",
+    "description": "Infectious diseases management through hazardous waste removal and disposal services in the Canadian provinces. It is a performance-based contract and part of the broader environmental sustainability  goals for Canada.",
+    "estimated_value": 1000000,
+    "date_posted": "2022-11-11",
+    "duration_in_months": ".svg",
+    "provinces": [
+        "Manitoba",
+        "Ontario"
+    ],
+    "tags": [
+        "hazardous-waste",
+        "environment",
+        "sustainability",
+        "contract"
+    ]
+}

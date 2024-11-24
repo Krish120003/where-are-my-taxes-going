@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "3659",
+    "type": "JSON/JSON",
+    "department": "Public Work",
+    "procurement_category": "construction",
+    "short_summary": "We will supply you a series of barriers to be used for outdoor purposes, the barriers will be made of (list material), (amount) of barriers will be available, shipping (method), delivery date will be (date).\\",
+    "description": " Some examples of material used are listed below;metral, wire mesh; polypropylene; diopipples",
+    "estimated_value": 19,
+    "date_posted": "2022-12-22",
+    "duration_in_months": "11",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "British Columbia"
+    ],
+    "tags": [
+        "public",
+        "government",
+        "contract",
+        "construction",
+        "barriers "
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "WS3797618817-Doc3820159998",
+    "type": "Request for Information",
+    "department": "Department of Public Works and Government Services ((PSPC)",
+    "procurement_category": "SRV",
+    "short_summary": "This is a contract which involves  the stockroom storage",
+    "description": "Information to describe this contact short",
+    "estimated_value": 10,
+    "date_posted": "-13-01-2023",
+    "duration_in_months": ",(null), prioprity",
+    "provinces": [
+        "Newfoundland and Labrador",
+        "Quebec",
+        "Nova Scotia",
+        "British Columbia",
+        "Ontario"
+    ],
+    "tags": [
+        "Contract Emergencies",
+        "Medical Contracls",
+        "Garchocre Contracls"
+    ]
+}

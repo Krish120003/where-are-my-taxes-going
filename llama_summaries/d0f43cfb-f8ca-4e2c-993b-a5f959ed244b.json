@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "These are letters and Numbers from the data content",
+    "type": "Contract or Tender",
+    "department": "Depertment/ Agency responsible",
+    "procurement_category": "Engineering Contract",
+    "short_summary": "Summary of Contract/ Tender",
+    "description": "Detail of Contract/ Tender",
+    "estimated_value": 22,
+    "date_posted": "2019-10-09",
+    "duration_in_months": ",",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "marine_services",
+        "management\u0e47\u0e01\u0e0a\u0e32\u0e22"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "4288",
+    "type": "data",
+    "department": "fisheries and oceans canada",
+    "procurement_category": "SRV",
+    "short_summary": "Scientific and technical advisory services",
+    "description": "Fisheries and Oceans Canada has a requirement for a Regional Individual Standing Offer (RISO) for the delivery of scientific and technical advisory services on a temporary and occasional basis on matters related to acoustic disturbance and altered environmental conditions on aquatic species in marine environments.",
+    "estimated_value": 200000,
+    "date_posted": "20230216",
+    "duration_in_months": "/12/2023-03/31/2028",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "containsosvisibility",
+        "firstaidature contract",
+        "participantsExclusion Only"
+    ]
+}

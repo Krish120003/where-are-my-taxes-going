@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "This is the contract id definition - example of JSON with nested data Name \": \"contract name\", Company:\"contractor name\"}\",",
+    "type": "example",
+    "department": "government",
+    "procurement_category": "vehicles",
+    "short_summary": "vehicles, data.",
+    "description": "This is a JSON output with the various fields of data.",
+    "estimated_value": 500000.0,
+    "date_posted": "Aug 15, 2022 ",
+    "duration_in_months": "value2",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "Alberta"
+    ],
+    "tags": [
+        "transportation",
+        "infrastructure ",
+        "health",
+        "education",
+        "technology",
+        "government"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "PW_PWY_036_9166",
+    "type": "business",
+    "department": "[1228]Supply and Services",
+    "procurement_category": "Construction",
+    "short_summary": "HVAC Inspection, Installation & Repairs on various locations in Yukon Territory",
+    "description": "Regional Individual Standing Offer (RISO) for Heating, Ventilation, and Air Conditioning (HVAC) services",
+    "estimated_value": 975000,
+    "date_posted": "2022-08-16",
+    "duration_in_months": ".12",
+    "provinces": [
+        "Quebec",
+        "British Columbia"
+    ],
+    "tags": [
+        "Construction",
+        "engineering",
+        "electrical",
+        "mechanical",
+        "HVAC"
+    ]
+}

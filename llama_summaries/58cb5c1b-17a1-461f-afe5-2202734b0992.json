@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "CIPARS_Parasites-0147890.Contract_ID",
+    "type": "Contract",
+    "department": "Public Health Agency of Canada",
+    "procurement_category": "Service",
+    "short_summary": "Maintain a national farm antimicrobial drug use and resistance surveillance program.",
+    "description": "The Public Health Agency of Canada (PHAC) has a requirement to maintain and sustain a national farm antimicrobial drug use and resistance surveillance program across the five major poultry producing provinces ...",
+    "estimated_value": 14000000.0,
+    "date_posted": "2022-04-28",
+    "duration_in_months": "12",
+    "provinces": [
+        "British Columbia",
+        "Alberta",
+        "Saskatchewan",
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "antimicrobial resistance",
+        " antimicrobial drug use",
+        " poultry production",
+        "food safety"
+    ]
+}

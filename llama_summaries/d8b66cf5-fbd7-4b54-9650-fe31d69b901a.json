@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "{referenceNumber-numeroReference}",
+    "type": "E",
+    "department": "{contractingEntityName-nomEntitContractante-eng}",
+    "procurement_category": "{procurementCategory-categorieApprovisionnement}",
+    "short_summary": "{tenderDescription-descriptionAppelOffres-eng}",
+    "description": "{tenderDescription-descriptionAppelOffres-fra}",
+    "estimated_value": 47.749,
+    "date_posted": "{publicationDate-datePublication}",
+    "duration_in_months": "1",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "Returning Office Furniture",
+        "Banquet & Catering Services"
+    ]
+}

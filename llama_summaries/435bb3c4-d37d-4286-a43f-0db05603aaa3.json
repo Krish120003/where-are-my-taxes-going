@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "W8485-237399/A",
+    "type": "buying",
+    "department": "Defense National",
+    "procurement_category": "G",
+    "short_summary": "Aviation Maintenance Stands Deployable and Spares",
+    "description": "Department of National Defence",
+    "estimated_value": 900000.0,
+    "date_posted": "2022-11-24",
+    "duration_in_months": "48",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canada"
+    ]
+}

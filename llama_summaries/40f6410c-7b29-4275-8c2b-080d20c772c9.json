@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": ":SSC-24-00028407:T",
+    "type": "import",
+    "department": "services_pdf_manager",
+    "procurement_category": "*GD",
+    "short_summary": "Quantum Ultrium LTO Backup and Cleaning Tape",
+    "description": "SSC Quantum Ultrium LTO Backup and Cleaning Tape- Amendment 000",
+    "estimated_value": 0.0,
+    "date_posted": "2024-11-20",
+    "duration_in_months": "LiablePeriod",
+    "provinces": [
+        "Ontario",
+        "Nunavut"
+    ],
+    "tags": [
+        "LTO ,"
+    ]
+}

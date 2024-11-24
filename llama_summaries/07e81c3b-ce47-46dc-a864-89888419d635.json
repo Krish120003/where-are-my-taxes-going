@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "W8485-237545/C",
+    "type": "CONTRACT_ID",
+    "department": "Defence",
+    "procurement_category": "Goods",
+    "short_summary": "Windshield L/H",
+    "description": "Part No.: 370-403-00, NCAGE: F0360",
+    "estimated_value": 1000.0,
+    "date_posted": "2022-04-20",
+    "duration_in_months": "SIX",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "British Columbia"
+    ],
+    "tags": [
+        "Windshield L/H",
+        "Aircraft windshields",
+        " Defence"
+    ]
+}

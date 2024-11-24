@@ -1,0 +1,13 @@
+{
+    "CONTRACT_ID": "",
+    "type": "Compra de equipamentos ",
+    "department": "XXXX",
+    "procurement_category": "GD",
+    "short_summary": "",
+    "description": "Supplies.",
+    "estimated_value": 123456,
+    "date_posted": "YYYY-MM-DD",
+    "duration_in_months": ",",
+    "provinces": [],
+    "tags": []
+}

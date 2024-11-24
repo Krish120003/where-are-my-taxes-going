@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "20*&5111A-ET-*(1)*25*",
+    "type": "JSON",
+    "department": "Engineering",
+    "procurement_category": "Construction",
+    "short_summary": "Contract to test the functionality of system buttons in TMA.",
+    "description": "This contract was created to test the recall of a tender before it was published, and then cancel it before it was approved by the Public Administration.",
+    "estimated_value": 0.0,
+    "date_posted": "2020-10-12",
+    "duration_in_months": ":",
+    "provinces": [
+        "Ontario",
+        "Manitoba"
+    ],
+    "tags": [
+        "Canada-Korea Telecommunications Agreement (CKTEA)",
+        "Competitive",
+        "Selective",
+        "British Columbia"
+    ]
+}

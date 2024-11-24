@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "SSC-23-00013238:T",
+    "type": "custom type",
+    "department": "finance",
+    "procurement_category": "Construction",
+    "short_summary": "125 Characters EN",
+    "description": "go",
+    "estimated_value": 1234234234,
+    "date_posted": "2023-04-24",
+    "duration_in_months": "f_MAJOR\u5de5\u4f5cPSFRISERDies",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "construction planning",
+        "Bid Opportunity"
+    ]
+}

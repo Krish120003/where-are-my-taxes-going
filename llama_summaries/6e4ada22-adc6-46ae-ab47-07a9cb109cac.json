@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "After the value of the field 'referenceNumber-numeroReference' the valid contract id is: PWM9-RP-08-001233",
+    "type": "NATIONAL DEFENCE PORTABLE POWER SOURCE",
+    "department": "DND, DEPARTMENT OF NATIONAL DEFENCE",
+    "procurement_category": "GDP",
+    "short_summary": "A short summary about the portable power source requirements",
+    "description": "The department of national defence is looking for the subject technicians to supply portable \\",
+    "estimated_value": 5000.0,
+    "date_posted": "2022-09-16",
+    "duration_in_months": "They plan to purchase them in october",
+    "provinces": [
+        "British Columbia",
+        "Ontario"
+    ],
+    "tags": [
+        "British Columbia",
+        "Ontario",
+        "contract",
+        "careers",
+        "dnd",
+        "government of Canada",
+        "canada"
+    ]
+}

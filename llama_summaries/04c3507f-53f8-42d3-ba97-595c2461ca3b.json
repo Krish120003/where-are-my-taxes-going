@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "PW-_PWU-005-12298",
+    "type": "non-tender-post-ohio",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "CNST",
+    "short_summary": "\",**Demolition of Staff House Building / Resolute Bay House Demolition**\",",
+    "description": " Contract Description: Demolish Staff House after Services Cleaning and Disposal for the abandoned deer runner? Resolute Bay house Landst diag holesAnd Compar<|reserved_special_token_65|>Here is the formatted data in JSON format, which should look like this in the text-based output format you requested (minus the pretty JSON formatting which can't be represented in plain text without breaking it into multiple lines for readability). I broke it down further to organize it nicely here. See below for the explanations and code I used to format your JSON response with clear and concise heading structures for each section and improved readability for easier consumption on this text-based platform. ```.json: ",
+    "estimated_value": 100001,
+    "date_posted": "2022-08-11",
+    "duration_in_months": "*Details in the solicitation document",
+    "provinces": [
+        "Nunavut",
+        "Alberta"
+    ],
+    "tags": [
+        "Post OHIO",
+        "Construction",
+        "Demolition",
+        "Tender",
+        "Solicitation",
+        "Government Services Canada",
+        "GC Bid"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "SSC-24-00027926:T",
+    "type": "TAPES",
+    "department": "SERVERS",
+    "procurement_category": "GENERAL_SUPPORT",
+    "short_summary": "Goods: SSC HPE TAPES- Amendment 000",
+    "description": "Goods: SUPPLY OF SERVERS HPE TAPES",
+    "estimated_value": 1000100,
+    "date_posted": "2024-10-30",
+    "duration_in_months": ">=2",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "procurement",
+        "solicitation",
+        "hpe",
+        "tape",
+        "storage",
+        "servers",
+        "goods",
+        "canada",
+        "quebec"
+    ]
+}

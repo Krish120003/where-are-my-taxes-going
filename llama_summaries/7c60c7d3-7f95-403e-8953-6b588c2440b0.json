@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "01B68-22-0067",
+    "type": "PSB",
+    "department": "Agriculture and Agri-Food Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Maintenance and upgrade of PeopleSoft application",
+    "description": "The contract will provide the services AAFC requires until a separate process for a multi-year procurement vehicle is completed.",
+    "estimated_value": 0,
+    "date_posted": "2023-01-19",
+    "duration_in_months": ">= 14 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "peoplesoft",
+        "erp",
+        "srvc",
+        "services-professionnel",
+        "agriculture-and-agri-food-canada"
+    ]
+}

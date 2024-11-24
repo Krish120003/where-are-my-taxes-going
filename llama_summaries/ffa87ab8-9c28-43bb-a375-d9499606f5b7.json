@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "Our contract id is: W6898-230635 RISO",
+    "type": "CONTRACT",
+    "department": "SPAC",
+    "procurement_category": "SRV",
+    "short_summary": "Pest control including receipt of dead or live animals, insect control, removing nests, cleaning, puting deterrents and eliminating horrible odors",
+    "description": "Pest control services for the base, training and armouries",
+    "estimated_value": 935000,
+    "date_posted": "2023-02-27",
+    "duration_in_months": "1 year but can vary depending on the results.",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Environment",
+        "Pest- control"
+    ]
+}

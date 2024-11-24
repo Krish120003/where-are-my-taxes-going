@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "1509",
+    "type": "LOCAL",
+    "department": "Education",
+    "procurement_category": "SRV",
+    "short_summary": "This is a training contract for locals. It worths $50,000.",
+    "description": "The task is to train local people in English language.",
+    "estimated_value": 50000,
+    "date_posted": "2021-10-22",
+    "duration_in_months": "Wide banner` Moses  Boral",
+    "provinces": [
+        "Manitoba"
+    ],
+    "tags": [
+        "training",
+        "language",
+        "Manitoba",
+        "contract",
+        "English"
+    ]
+}

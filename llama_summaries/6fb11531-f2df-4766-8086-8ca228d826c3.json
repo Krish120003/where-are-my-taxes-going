@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "5530",
+    "type": "JSON",
+    "department": "Public Works and Government Services",
+    "procurement_category": "Goods",
+    "short_summary": "goods_of_lumber",
+    "description": "historical_data_of_json_format",
+    "estimated_value": 10000,
+    "date_posted": "2015",
+    "duration_in_months": "12",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "lumber",
+        "government procurement"
+    ]
+}

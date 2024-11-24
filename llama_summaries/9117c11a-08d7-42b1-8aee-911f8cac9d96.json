@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "WS3437434272-Doc3707424869",
+    "type": "General marine work",
+    "department": "Public Works and Government Services",
+    "procurement_category": "Goods and Services",
+    "short_summary": "^*repair maintenance and water transport vessel services',",
+    "description": "General marine work as detailed in section 7",
+    "estimated_value": 0.0,
+    "date_posted": "2022-10-17",
+    "duration_in_months": "$['field_duraion']formats: [",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "standing-offer",
+        "maritime",
+        "public-works"
+    ]
+}

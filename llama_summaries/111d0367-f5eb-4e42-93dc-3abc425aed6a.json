@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "1843",
+    "type": "public procurement contract",
+    "department": "Library and Archives Canada",
+    "procurement_category": "Good and Service",
+    "short_summary": "Office furniture procurement",
+    "description": "Office furniture to be delivered to 550 De la cit...",
+    "estimated_value": 187000,
+    "date_posted": "2022-08-23",
+    "duration_in_months": "4 months",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "procurement",
+        "contract",
+        "library and archives canada",
+        "office furniture"
+    ]
+}

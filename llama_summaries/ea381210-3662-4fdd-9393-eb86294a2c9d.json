@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "5000067504",
+    "type": "Dita Exchange",
+    "department": "",
+    "procurement_category": "General Department",
+    "short_summary": "To identify market in  select region to be the services used to comply...",
+    "description": "Market research",
+    "estimated_value": 50,
+    "date_posted": "2022-08-19",
+    "duration_in_months": "2",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "market research",
+        "aerospace",
+        "market place"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "CONTRACT_ID": "PW-__BM-039-29080,",
+    "type": "government",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "Goods",
+    "short_summary": "Request for Information",
+    "description": "The Royal Canadian Mounted Police (RCMP) provides federal, provincial, territorial and municipal policing services to Canadians across 10 provinces, 3 territories, 150 municipalities, including Federal Police Services and Specialized Police Services in support of hundreds of other police and public safety agencies across Canada.",
+    "estimated_value": 0,
+    "date_posted": "2023-06-01T00:00:00.000Z",
+    "duration_in_months": "][0].format_number(1 Windsor, now): ",
+    "provinces": [
+        "Ontario",
+        "Alberta",
+        "British Columbia",
+        "Manitoba",
+        "New Brunswick",
+        "Newfoundland and Labrador",
+        "Northwest Territories",
+        "Nunavut",
+        "Nova Scotia",
+        "Prince Edward Island",
+        "Saskatchewan",
+        "Yukon"
+    ],
+    "tags": [
+        "Weapons",
+        "Rifles",
+        "Arm's Length PPE (Personal Protective Equipment)"
+    ]
+}

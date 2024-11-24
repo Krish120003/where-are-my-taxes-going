@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "Why is there no contract id in the JSON output?",
+    "type": "CONSTRUCTION",
+    "department": "National Defence",
+    "procurement_category": "CONSTRUCTION",
+    "short_summary": "Constructor of a facility for fighting vehicles, constituation square Ottawa, No floor, No suite, Postal code K1A 0K3",
+    "description": "Constructor of a facility of the next generation fighting vehicle, 2700m^2, GARRISON PETAWAWA,ONTARIO,with security requirements.",
+    "estimated_value": 16000000,
+    "date_posted": "2023-01-10",
+    "duration_in_months": "But how will you determine the duration in months?",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Construction",
+        "Fighting vehicles",
+        "Next Gen",
+        "Security"
+    ]
+}

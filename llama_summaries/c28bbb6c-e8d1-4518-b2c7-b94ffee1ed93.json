@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "$wer",
+    "type": "CONTRACT",
+    "department": "PWGSC",
+    "procurement_category": "SRV",
+    "short_summary": "Canadian Active Neutron Spectrometers",
+    "description": " Canadian Active Neutron Spectrometers (CANS) for radiation monitoring Crisp Spec ASAAPM Modern ",
+    "estimated_value": 80000,
+    "date_posted": "20230220",
+    "duration_in_months": "7",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Canadian Active Neutron Spectrometers"
+    ]
+}

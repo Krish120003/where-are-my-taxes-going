@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-22-01003831",
+    "type": "Contract ID",
+    "department": "Financial Consumer Agency of Canada",
+    "procurement_category": "SRV",
+    "short_summary": " TBIPS (Task-Based Informatics Professional Services) - Request for Proposal",
+    "description": "The contract is for professional services of consulting for FCAC, including but not limited to application development, business analysis, and project management. The contract is for a period of time, not specified, at a rate of $ per hour/minute. The contract is only open to TBIPS Supply Arrangement Holders who have qualified under Tier 1 for services in the National Capital Region for the following categories:",
+    "estimated_value": 1000000,
+    "date_posted": "08/09/2022",
+    "duration_in_months": "N/A",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "professional services",
+        "consulting",
+        "TBIPS",
+        "FCAC",
+        "agi informatics"
+    ]
+}

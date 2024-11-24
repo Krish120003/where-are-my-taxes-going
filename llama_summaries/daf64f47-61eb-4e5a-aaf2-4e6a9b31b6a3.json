@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "Some ID",
+    "type": "Contract",
+    "department": "Public Adminstration",
+    "procurement_category": "SRV",
+    "short_summary": "Professional services",
+    "description": "Provide individual and group coaching services to EC employeesssoace-asumed(TR SCALE)",
+    "estimated_value": 415950.0,
+    "date_posted": "2022-09-29",
+    "duration_in_months": "\\",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "EC",
+        "Engagement-All-Employees",
+        "EC-Services-Delivery",
+        "Management-All-Employees",
+        "Management-Change Management-Communication"
+    ]
+}

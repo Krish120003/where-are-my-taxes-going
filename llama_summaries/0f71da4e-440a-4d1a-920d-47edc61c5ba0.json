@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "Some Integer of a Contract ID",
+    "type": "contract",
+    "department": "Unexpected Value",
+    "procurement_category": "Unexpected Value",
+    "short_summary": "Unexpected Value",
+    "description": "Unexpected Value",
+    "estimated_value": 2150000.0,
+    "date_posted": "2022-11-23",
+    "duration_in_months": "Do not include",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "cluster",
+        "micro",
+        "fluidic",
+        "medical",
+        "devices"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "4783",
+    "type": "subcontracted-service",
+    "department": "Justice de la GRC \u00ab Service de police de la GRC",
+    "procurement_category": "Service de r\u00e9emploi",
+    "short_summary": " Service de traiteur pour le District du Sud-Est de la GRC en Colombie-Britannique ",
+    "description": " La Division E de la Gendarmerie royale du Canada (GRC) a besoin des services d'un traiteur, selon les besoins, dans le District du Sud-Est de la Colombie-Britannique. \u00bb, ",
+    "estimated_value": 3000.0,
+    "date_posted": "2023-03-10",
+    "duration_in_months": "12",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "supply-managed"
+    ]
+}

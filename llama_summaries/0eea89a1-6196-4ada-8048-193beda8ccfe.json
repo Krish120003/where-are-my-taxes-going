@@ -1,0 +1,15 @@
+{
+    "CONTRACT_ID": "3420",
+    "type": "contract$json",
+    "department": "environmental protection",
+    "procurement_category": "srv",
+    "short_summary": "this year",
+    "description": "our university use this please",
+    "estimated_value": 10000,
+    "date_posted": "2022-09-22",
+    "duration_in_months": "And value of this contract",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": []
+}

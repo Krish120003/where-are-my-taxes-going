@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "3441",
+    "type": "Purchase",
+    "department": "Justice",
+    "procurement_category": "Service",
+    "short_summary": "Dental Sterilization audits in 10 Correctional Service of Canada institutions",
+    "description": "Audit the dental sterilization in 10 institutions from the Ontario area",
+    "estimated_value": 10000,
+    "date_posted": "2022-12-01",
+    "duration_in_months": "indefinite",
+    "provinces": [
+        "Ontario",
+        "Nunavut"
+    ],
+    "tags": [
+        "Audit",
+        "Dental",
+        "sterilization",
+        "dentistry",
+        "Canadia Institution",
+        "Correctional Service of Canada"
+    ]
+}

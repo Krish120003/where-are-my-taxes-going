@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "PW-22-01008595",
+    "type": "SRVTGD",
+    "department": "Transport Canada",
+    "procurement_category": "request for proposal",
+    "short_summary": "The repair or overhaul of two Honeywell Flight Control Computers",
+    "description": "aircraft repair of flight control computer  for transport canada",
+    "estimated_value": 0,
+    "date_posted": "2022-09-28",
+    "duration_in_months": ":1",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Flight control",
+        "honeywell",
+        "aircraft",
+        "repair",
+        "overhaul",
+        "advanved exchange"
+    ]
+}

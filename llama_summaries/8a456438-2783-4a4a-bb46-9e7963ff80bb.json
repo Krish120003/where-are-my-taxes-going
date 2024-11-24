@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-22-01008573",
+    "type": "invitation",
+    "department": "Canadian Food Inspection Agency",
+    "procurement_category": "SRVTGD",
+    "short_summary": "Site maintenance",
+    "description": " diesel Generator Breeching replacement",
+    "estimated_value": 99,
+    "date_posted": "2022-09-28",
+    "duration_in_months": ">= 3 months",
+    "provinces": [
+        "Prince Edward Island",
+        "Ontario"
+    ],
+    "tags": [
+        "Generators and Generator Sets, Electrical - Repair"
+    ]
+}

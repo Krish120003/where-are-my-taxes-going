@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "W12499",
+    "type": "Purchasing",
+    "department": "Environmental Protection",
+    "procurement_category": "Over -500K",
+    "short_summary": " Contract summary ",
+    "description": "",
+    "estimated_value": 20000.0,
+    "date_posted": "2020-10-22T07:00:00",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "procurementwaivers"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "626",
+    "type": "concession",
+    "department": "Shared Services Canada",
+    "procurement_category": "*SRVTGD",
+    "short_summary": "VXRAIL Maintenance and Support",
+    "description": "Shared Services Canada (SSC) has a requirement for the provision of VXRAIL Maintenance and Support.",
+    "estimated_value": 10000.0,
+    "date_posted": "2023-08-25",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "VXRAIL",
+        "Support",
+        "Maintenance",
+        "AI",
+        "Service"
+    ]
+}

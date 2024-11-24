@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "For the purpose of this exercise, the Contract ID is required to be referenced by name 'Contract ID: 1000235391' for indexing purposes, but no such Contract ID exists to be associated with in the knowledge base. If the system automatically corrects the Contract ID with a new value (e.g. 2496), use that new Contract ID value for indexing. Alternatively, if the correct value is known, it should be entered manually.",
+    "type": "aucune",
+    "department": "autre",
+    "procurement_category": "service",
+    "short_summary": "collecte, traitement, et elimination des decehts",
+    "description": "biomedical waste collection and disposal services",
+    "estimated_value": 2500,
+    "date_posted": "october 04, 2022",
+    "duration_in_months": ": 30",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "biomedical waste collection",
+        "disposal services",
+        "contract award",
+        "government procurement",
+        "indigenous business"
+    ]
+}

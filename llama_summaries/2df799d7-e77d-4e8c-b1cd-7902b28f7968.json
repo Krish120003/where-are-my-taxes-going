@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-22-01013457",
+    "type": "CONTRACT",
+    "department": "Transport Canada",
+    "procurement_category": "Service",
+    "short_summary": "Consulting services to support the current and near-term critical national transportation issues and to build the data management foundation quickly.",
+    "description": "Transport Canada requires consulting services with expertise in data strategy, governance, operational data management, data quality, and Lean Six Sigma...",
+    "estimated_value": 328,
+    "date_posted": "2022-11-14",
+    "duration_in_months": "/",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canada",
+        "Consulting",
+        "Transport",
+        "Data management",
+        "NCR"
+    ]
+}

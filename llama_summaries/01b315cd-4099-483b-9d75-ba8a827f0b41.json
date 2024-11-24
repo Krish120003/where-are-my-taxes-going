@@ -1,0 +1,32 @@
+{
+    "CONTRACT_ID": "5575",
+    "type": "S4394525",
+    "department": "Department of National Defense",
+    "procurement_category": "*SRV",
+    "short_summary": "Temporary Help Services Requirement",
+    "description": "A request for proposal for temporary help services for the Department of National Defense. same summary and description fields in French",
+    "estimated_value": 219000,
+    "date_posted": "03-May-23",
+    "duration_in_months": "math not provided",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Temporary Help Services Requirement",
+        "Temporary personnel services",
+        "*Services de personnels temporaires",
+        "s4394525-rfp_0.pdf",
+        "Request for proposal for temporary help services",
+        "TemporaryHelp_Services Requirement",
+        "Competitive - Selective tendering",
+        "RFP against Supply Arrangement",
+        "Senior Advisor",
+        "Security Clearance",
+        "Security Priority",
+        "Security Level:Reliability",
+        "Canada-wide Tender",
+        "Canada-wide Tender (multiple locations)",
+        "Canada,Lethbridge",
+        "Multiple locations"
+    ]
+}

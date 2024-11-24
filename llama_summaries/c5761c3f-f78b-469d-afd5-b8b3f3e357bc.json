@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "2501",
+    "type": "tender",
+    "department": "PWGSC",
+    "procurement_category": "MIS",
+    "short_summary": "Modifying the below fields from the provided tender notice to meet the canonical output format:",
+    "description": "A tender has been issued by the Department of Public Works and Government Services for Programme Management Strategic Advisory Services. ",
+    "estimated_value": 20000000,
+    "date_posted": "2022-08-19",
+    "duration_in_months": "} {",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Procurement",
+        "Lot 1: ",
+        " lot ",
+        "  & ",
+        "MIS ",
+        "ew\u5168\u7403"
+    ]
+}

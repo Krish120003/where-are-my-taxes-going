@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "3977",
+    "type": " gobierno contracto",
+    "department": " natinal recoherche coucil",
+    "procurement_category": "construction",
+    "short_summary": " renovating of 2 office space in building M-32",
+    "description": " 22-58118MBuilding M-32-Rooms 115 & 116 Office Renovation",
+    "estimated_value": 18000,
+    "date_posted": "01/10/2023",
+    "duration_in_months": "]=<br><br>contract[",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "construction same-day scheduled maintenance elective surgical prosthetics hospital healthcare infusion center department identifier ESR Activation Transportation was not a significant factor hospital-reIn Hier we have used data from an open government website. This data might appear unfomatted, however, you can still extract and format the information using scripts and code. Here\u2019s how I would format it using Python and the `json` module. <br>First, we import the `json` module to format the data: <br><br>```python <br>import json<br>import pandas as pd<br><br> # reading the json files from the urls<br>url1 = "
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "CONTRACT_ID": "5162",
+    "type": "REGIONAL",
+    "department": "infrastructure and transportation",
+    "procurement_category": "CNST",
+    "short_summary": "ROAD EXPANSION OF QUEBEC REGION",
+    "description": "hello world",
+    "estimated_value": 8,
+    "date_posted": "2021",
+    "duration_in_months": ";",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": []
+}

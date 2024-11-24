@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "W8482-230577/A",
+    "type": "PROPOSAL",
+    "department": "NATIONAL DEFENSE",
+    "procurement_category": "GOODS",
+    "short_summary": "SEE Attachment A",
+    "description": "Details on this document blah blah blah",
+    "estimated_value": 123456.78,
+    "date_posted": " 2022-08-18",
+    "duration_in_months": "TBD",
+    "provinces": [
+        "Nova Scotia",
+        "British Columbia"
+    ],
+    "tags": [
+        "Shipping",
+        "Transportation",
+        " military"
+    ]
+}

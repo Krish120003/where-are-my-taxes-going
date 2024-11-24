@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "4715",
+    "type": "Dump Truck",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "GOODS",
+    "short_summary": "Supply and Delivery of one (1) Dump Truck Unit must be delivered to Canada Maintenance Compound #1, Compound Road, Jasper, AB T0E 1E0",
+    "description": "Supply and delivery of one (1) dump truck. Unit must be delivered to Canada Maintenance Compound #1, Compound Road, Jasper, AB T0E 1E0 ready for immediate use, with all specified equipment installed. Final inspection will be by the consignee at the point of delivery",
+    "estimated_value": 100000,
+    "date_posted": "2023-01-11",
+    "duration_in_months": "6",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "Dump truck",
+        "Public Works"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "WS3635252882-Doc4201718298",
+    "type": "constructionManagementServices",
+    "department": "publicWorksAndGovernmentServices",
+    "procurement_category": "cnst",
+    "short_summary": "amendment to closing time: please disregard the ariba discovery posting response deadline closing time and canadabuys posting closing time.",
+    "description": "the department of public works and government services, real property branch requires a qualified contractor to provide construction management services for an office accommodation and special purpose space modernization within the leased premises of the joseph shepard building, 4900 yonge street, toronto, ontario.",
+    "estimated_value": 1000000,
+    "date_posted": "2023-01-25",
+    "duration_in_months": "/>}{440.The output json is a dictionary containing 12 key value pairs. The first entry is the contract ID, the second entry is the type of the contract, the third entry is the department involved, the fourth entry is the procurement category, the fifth entry is a short summary of the contract, the sixth entry is a full description of the contract, the seventh entry is an estimated value of the contract, the eighth entry is the date the contract was posted, the ninth entry is a duration of the contract in months, the tenth entry is information about the contracting entity, the eleventh entry is information about the end user entities, and the twelfth entry is information about the contact person. In the json, the contract ID is 'WS3635252882-Doc4201718298', the type is 'constructionManagementServices', the department is 'publicWorksAndGovernmentServices', the procurement category is 'cnst', the short summary is 'amendment to closing time: please disregard the ariba discovery posting response deadline closing time and canadabuys posting closing time.', the description is 'the department of public works and government services, real property branch requires a qualified contractor to provide construction management services for an office accommodation and special p          0-0-49}",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "contract",
+        "construction",
+        "management",
+        "services"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "BPM018827",
+    "type": "Enterprise License Subscription",
+    "department": "Data Centers and Internal Services ",
+    "procurement_category": "GD",
+    "short_summary": "Shared Services Canada requires Cisco Meraki Enterprise License subscriptions, maintenance and support for the Canadian Grain Commission, in Winnipeg, Manitoba",
+    "description": "Siebel request for Cisco \" category: Enterprise , RFQ: BPM018827, bid date:2023-05-11, closing date:2023-05-23, contract end date :2024-04-25 ",
+    "estimated_value": 10,
+    "date_posted": "2023-05-11",
+    "duration_in_months": "13",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "CIDA",
+        "correct tier",
+        "National Products Authentication"
+    ]
+}

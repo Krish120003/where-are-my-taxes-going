@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "1607",
+    "type": "Open",
+    "department": "national defense",
+    "procurement_category": "goods",
+    "short_summary": "Halifax class spares",
+    "description": "halifax class spares, various products",
+    "estimated_value": 178252,
+    "date_posted": "url:Canada Buys",
+    "duration_in_months": "2 years",
+    "provinces": [
+        "British Columbia",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "afd",
+        "marc",
+        "nav"
+    ]
+}

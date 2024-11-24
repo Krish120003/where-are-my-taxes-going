@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "2273",
+    "type": "constructor",
+    "department": "Fishery & Oceans",
+    "procurement_category": "*SRV",
+    "short_summary": "Please refer to the notice document.",
+    "description": "Equipment Inventory,  DFO Facilities",
+    "estimated_value": 1500000.0,
+    "date_posted": "2022/09/26",
+    "duration_in_months": "name",
+    "provinces": [
+        "Newfoundland and Labrador"
+    ],
+    "tags": [
+        "architectural",
+        "engineering",
+        "industrial buildings",
+        "commercial services",
+        "industrial services"
+    ]
+}

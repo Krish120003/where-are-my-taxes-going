@@ -1,0 +1,28 @@
+{
+    "CONTRACT_ID": "CONTRACT_ID_001",
+    "type": "Contract",
+    "department": "Department of National Defence",
+    "procurement_category": "Good",
+    "short_summary": "Request proposal, Goods and Specific Services",
+    "description": "This notice has been cancelled.",
+    "estimated_value": 50.0,
+    "date_posted": "2022-10-26",
+    "duration_in_months": ":{",
+    "provinces": [
+        "Nova Scotia",
+        "British Columbia"
+    ],
+    "tags": [
+        "Canadian Free Trade Agreement (CFTA)",
+        "Canada-Colombia Free Trade Agreement",
+        "Canada-Korea Free Trade Agreement (CKFTA)",
+        "Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)",
+        "Canada-Ukraine Free Trade Agreement (CUFTA)",
+        "Canada-UK Trade Continuity Agreement (Canada-UK TCA)",
+        "Canada-Panama Free Trade Agreement",
+        "Canada-Honduras Free Trade Agreement",
+        "Canada-Chile Free Trade Agreement (CCFTA)",
+        "Canada-Peru Free Trade Agreement (CPFTA)",
+        "Canada-European Union Comprehensive Economic and Trade Agreement (CETA)"
+    ]
+}

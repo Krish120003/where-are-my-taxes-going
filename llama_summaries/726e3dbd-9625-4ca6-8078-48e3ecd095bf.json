@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-22-01017081",
+    "type": "contract",
+    "department": "Shared Services Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Local Access Service Ontario, Quebec",
+    "description": "Shared Services Canada has a requirement for the provision of Local Access Service to the Government of Canada with offices located across Ontario and Quebec...",
+    "estimated_value": 10,
+    "date_posted": "2022-12-13",
+    "duration_in_months": "10",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Telecommunications",
+        "Service Requests",
+        "Ontario",
+        "Quebec"
+    ]
+}

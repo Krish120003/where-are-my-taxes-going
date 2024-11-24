@@ -1,0 +1,32 @@
+{
+    "CONTRACT_ID": "display:",
+    "type": "Object",
+    "department": " info",
+    "procurement_category": "**SRV",
+    "short_summary": " The Contract Did not provide contractual or organization information",
+    "description": " The Contract Ok",
+    "estimated_value": 38518.53,
+    "date_posted": "display:date",
+    "duration_in_months": "Not mentioned",
+    "provinces": [
+        "Ontario",
+        "British Columbia",
+        "Alberta",
+        "Manitoba",
+        "Saskatchewan",
+        "Nova Scotia"
+    ],
+    "tags": [
+        " Correctional Service of Canada (CSC)",
+        "Federal Government of Canada",
+        "Private Sector",
+        "Service Now Requests",
+        " Consortia Supplier",
+        "indigenousprograms",
+        " correctionalcomment",
+        "communityFocus",
+        "shortSummary",
+        "publicStatement",
+        "recommendationFor"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "WS3819910335-Doc3821048243",
+    "type": "object",
+    "department": "Public Works and Government Services (PSPC)",
+    "procurement_category": "Goods",
+    "short_summary": "Procurement for the development of a computational fluid dynamics code for weapons systems section.",
+    "description": "The procurement intends to acquire a software for the development and deployment of a computational fluid dynamics code.",
+    "estimated_value": 450000,
+    "date_posted": "2023-01-31",
+    "duration_in_months": "[31, 31]",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "weapons systems, software, Quebec, Canada, military"
+    ]
+}

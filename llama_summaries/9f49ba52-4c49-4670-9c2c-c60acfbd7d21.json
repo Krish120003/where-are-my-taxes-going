@@ -1,0 +1,29 @@
+{
+    "CONTRACT_ID": "][",
+    "type": "ENT\u90a3\u6837IFF-response",
+    "department": "DEF_centre dpsarmanageonto",
+    "procurement_category": "*SRV",
+    "short_summary": "...",
+    "description": "... specifies that the contracting entity is looking for abbreviated proposals for services and consulting from suitable providers in architectural and engineering disciplines...",
+    "estimated_value": 11500000.0,
+    "date_posted": "2023-03-28",
+    "duration_in_months": ", ",
+    "provinces": [
+        "British Columbia",
+        "Ontario"
+    ],
+    "tags": [
+        "translation: security requirements",
+        "translation: phased construction",
+        "translation: services and consulting",
+        "translation: engineering and architecture",
+        "translation: abbreviated proposals",
+        "type: ent request for quotation,",
+        "topics: range of services",
+        "xtl ink tablets image",
+        "security_level_1: high",
+        "granularity: continent, geopolitical features",
+        "security_level_2: medium-to-high",
+        "complexity: expert"
+    ]
+}

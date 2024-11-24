@@ -1,0 +1,27 @@
+{
+    "CONTRACT_ID": "existing_ExistingIDD.DDDDDD",
+    "type": "expression-based-tag",
+    "department": "Existing-number/new-number",
+    "procurement_category": "Existing/10 plus 4",
+    "short_summary": "",
+    "description": "",
+    "estimated_value": 0.0,
+    "date_posted": "Initial-date date date / days.Last date datedate/ Weeks Last date lastdate",
+    "duration_in_months": "group with 3 items/second -item/sec /total /row */second/item",
+    "provinces": [
+        "New Brunswick",
+        "Newfoundland and Labrador",
+        "Prince Edward Island",
+        "Nova Scotia",
+        "British Columbia",
+        "Nunavut",
+        "Quebec",
+        "Newfoundland and Labrador"
+    ],
+    "tags": [
+        "food",
+        "beverage",
+        "spice",
+        "fire"
+    ]
+}

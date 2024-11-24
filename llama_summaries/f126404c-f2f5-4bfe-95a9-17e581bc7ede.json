@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-22-01005071",
+    "type": "bid",
+    "department": "Library and Archives Canada",
+    "procurement_category": "SRV",
+    "short_summary": "(details about the bid)",
+    "description": "The Library and Archives Canada (LAC) is seeking...",
+    "estimated_value": 110000,
+    "date_posted": "2022-08-23",
+    "duration_in_months": "1-3",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Translation Services",
+        "Library and Archives Canada",
+        "French",
+        "English",
+        "Bid Opportunity"
+    ]
+}

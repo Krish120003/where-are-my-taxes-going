@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "25161+105558",
+    "type": "Stream 1:",
+    "department": "Finance",
+    "procurement_category": "SPV",
+    "short_summary": "General Services",
+    "description": "Services ue g\u00e9n\u00e9rales",
+    "estimated_value": 1000,
+    "date_posted": "october 2022",
+    "duration_in_months": "12",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Audit",
+        "Services"
+    ]
+}

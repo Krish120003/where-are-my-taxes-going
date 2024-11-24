@@ -1,0 +1,15 @@
+{
+    "CONTRACT_ID": "W0106-22J019",
+    "type": "contract",
+    "department": "ND1 ",
+    "procurement_category": "Goods",
+    "short_summary": "Purchase of a new floor scrubber",
+    "description": "purchase of a new floor scrubber for DND Valcartier",
+    "estimated_value": 1000,
+    "date_posted": "2022-12-22",
+    "duration_in_months": "displayed_for: {months:5}",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": []
+}

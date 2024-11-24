@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "51522117",
+    "type": "construction",
+    "department": "env",
+    "procurement_category": "Construction Maintenance",
+    "short_summary": "Hallway renovation",
+    "description": "Renovate 40% of the eastern hallway flooring and baseboards of the Contracting and Dispatch Building to ensure it meets the organization's safety standards.",
+    "estimated_value": 20,
+    "date_posted": "2010-02-25",
+    "duration_in_months": "For 6 months",
+    "provinces": [
+        "Nova Scotia",
+        "New Brunswick",
+        "Prince Edward Island"
+    ],
+    "tags": [
+        "environmental",
+        "sustainability",
+        "green_energy"
+    ]
+}

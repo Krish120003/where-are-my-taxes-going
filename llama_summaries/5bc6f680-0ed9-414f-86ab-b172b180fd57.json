@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-23-01031102",
+    "type": "Fire Systems Upgrade",
+    "department": "Environment Canada",
+    "procurement_category": "Services - Buildings",
+    "short_summary": "Fire Systems Upgrade at Centre for Atmospheric Research Experiments (CARE) Building",
+    "description": "The existing fire protection systems of the main complex of the Centre for Atmospheric Research Experiments (CARE) building need repairs and renewal...",
+    "estimated_value": 0.0,
+    "date_posted": "2023-03-30",
+    "duration_in_months": ".33 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Fire Systems Upgrade",
+        "Environment Canada"
+    ]
+}

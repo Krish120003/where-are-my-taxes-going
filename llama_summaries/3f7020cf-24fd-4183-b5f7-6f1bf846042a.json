@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-22-01008220",
+    "type": "Ongoing",
+    "department": "Natural Sciences and Engineering Research Council of Canada",
+    "procurement_category": "*SRV",
+    "short_summary": "TSPS - 2.12 Evaluation Services",
+    "description": "This bid solicitation is being issued for the requirement of a consulting services firm that specializes in evaluation to work with the Evaluation Division to plan and conduct an evaluation of NSERC\u2019s Idea to Innovation (I2I) grants.",
+    "estimated_value": 70000,
+    "date_posted": "2022-09-26",
+    "duration_in_months": "value_from_database OR 18",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "*R019F",
+        "*Canadian Free Trade Agreement (CFTA)",
+        "*SRV*"
+    ]
+}

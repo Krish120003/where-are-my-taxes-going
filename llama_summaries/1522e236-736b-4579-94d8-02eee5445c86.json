@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "WS3787655034-Doc3795958350",
+    "type": "QA21",
+    "department": "DNPR",
+    "procurement_category": "SRV",
+    "short_summary": "Cloud based software",
+    "description": "Cloud based software for chemical management",
+    "estimated_value": 100000.0,
+    "date_posted": "2023-01-11T04:30:36",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "QA21"
+    ]
+}

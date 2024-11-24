@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "1566",
+    "type": "json",
+    "department": "chemistry",
+    "procurement_category": "goods",
+    "short_summary": "Supply of one sputter coating physical vapour deposition system aerospace",
+    "description": "the National Research Council of Canada need a  sputter coating physical vapour deposition system to characterise materials and deposit thin films. the main applications of this technology are electro-catalysis, battery materials, supercapacitor materials, and carbon dioxide storage materials. ",
+    "estimated_value": 15.73,
+    "date_posted": "2024-11-19",
+    "duration_in_months": "1",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "aerospace",
+        "chemistry"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "4231",
+    "type": "Lease",
+    "department": "Canada Energy Regulator",
+    "procurement_category": "Supply",
+    "short_summary": "One colour production printer for 36 months with option periods of 1 year each",
+    "description": "Supply, delivery and installation of printer, including training in French and English",
+    "estimated_value": 120000,
+    "date_posted": "2023-01-17",
+    "duration_in_months": "SIXT YEAR",
+    "provinces": [
+        "Ontario",
+        "Alberta"
+    ],
+    "tags": [
+        "Printing Equipment",
+        "Maintenance",
+        "Installation",
+        "Training"
+    ]
+}

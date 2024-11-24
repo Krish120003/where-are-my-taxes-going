@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "value of your picking list",
+    "type": "json",
+    "department": "location",
+    "procurement_category": "CNST",
+    "short_summary": "this is a short summary of what this contract is",
+    "description": "description of this contract, 1. the client needed a solution and that is how project call letter came to our team. 2. This is a lot points to be covered fully..",
+    "estimated_value": 100000,
+    "date_posted": "2022-12-17",
+    "duration_in_months": "> 30 days",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "mondial",
+        "maintenance",
+        "contract"
+    ]
+}

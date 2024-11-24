@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "4260",
+    "type": "Tender",
+    "department": "Canada Public Works and Government Services (PSPC)",
+    "procurement_category": "SRV",
+    "short_summary": "The Canadian Coast Guard has a requirement to establish a Regional Individual Standing Offer (RISO) to provide services of labour, parts, material and equipment necessary to provide Waste Management Services for DFO/Canadian Coast Guard Vessels operating in Newfoundland and Labrador.",
+    "description": "multiple lines of text from the input json data",
+    "estimated_value": 10000,
+    "date_posted": "2023-02-14",
+    "duration_in_months": ")).months-oriche pro_rais interf pgoal,",
+    "provinces": [
+        "Alberta",
+        "British Columbia",
+        "New Brunswick",
+        "Newfoundland and Labrador",
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "gcprocurementCanada.coastalmatters.Constituents.Unidentficied sources",
+        "Contact UsMFSPS 2020 MFGSN L"
+    ]
+}

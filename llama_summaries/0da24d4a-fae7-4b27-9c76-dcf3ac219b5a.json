@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "name-title-eng-1 (example with null value): null",
+    "type": "Contract",
+    "department": "DND",
+    "procurement_category": "Procurement",
+    "short_summary": "Maintenance and Operation of a Building",
+    "description": "some content to describe the contract",
+    "estimated_value": 10000,
+    "date_posted": "2023-01-05",
+    "duration_in_months": "You dont meet up PPSA there are mistakeshere dont be angry",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "tag1",
+        "province1",
+        "tag2"
+    ]
+}

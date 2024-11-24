@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-_MTC-385-16536",
+    "type": "Contract",
+    "department": "Department",
+    "procurement_category": "CNST",
+    "short_summary": "{INSERT OWN SUMMARY HERE}",
+    "description": "REBUILD HANGAR #2",
+    "estimated_value": 82876.2,
+    "date_posted": "today",
+    "duration_in_months": "DURATION",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "rebuild",
+        "hangar",
+        "quebec"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "1000246992",
+    "type": "service",
+    "department": "Indigenous Servies Canada",
+    "procurement_category": "Service",
+    "short_summary": "Biomedical waste collection and disposal",
+    "description": "Biomedical waste collection and disposaol services, Indigenous Servies Canada",
+    "estimated_value": 1014755.44,
+    "date_posted": "2023-02-10",
+    "duration_in_months": ">12",
+    "provinces": [
+        "Manitoba"
+    ],
+    "tags": [
+        "biodmedical_waste",
+        "disposal",
+        "healthcare",
+        "Manitoba",
+        "request_for_proposal"
+    ]
+}

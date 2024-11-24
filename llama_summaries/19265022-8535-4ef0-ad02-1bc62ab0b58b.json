@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "2022-12719",
+    "type": "Purchase Agreement",
+    "department": "Defence",
+    "procurement_category": "Goods",
+    "short_summary": "Purchase Agreement for test equipment",
+    "description": "Minist\ufffd\ufffdre de la d\ufffd\ufffdfense nationale (MDN) a besoin d'acqu\ufffd\ufffdrir de l'\ufffd\ufffdquipement d'essai qui sera utilis\ufffd\ufffd pour mesurer la qualit\ufffd\ufffd des signaux dans un environnement de laboratoire.",
+    "estimated_value": 25000.0,
+    "date_posted": "2023-03-06TIMESTAMP",
+    "duration_in_months": "default",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Defence",
+        "acquisition"
+    ]
+}

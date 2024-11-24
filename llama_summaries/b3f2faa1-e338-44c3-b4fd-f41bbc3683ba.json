@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "NRCAN-5000057817",
+    "type": "procurement",
+    "department": "Natural Resources",
+    "procurement_category": "Service",
+    "short_summary": "Update Tree, Insect and Disease Database",
+    "description": "Write alemTwo hundred and hatpest fact sheets for pest infestations within Canada\u2019s forests, urban or horticultural lands.",
+    "estimated_value": 100,
+    "date_posted": "March",
+    "duration_in_months": "12",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "nature",
+        "environment",
+        "database update"
+    ]
+}

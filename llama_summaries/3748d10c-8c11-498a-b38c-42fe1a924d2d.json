@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "WS3533184283-Doc3669992031",
+    "type": "procurement",
+    "department": "Public Works and Government Services",
+    "procurement_category": "goods",
+    "short_summary": "Procurement for 1 (one) dual-motor variant speed pedestal buffing lathe for the Electroplating - Work Centre",
+    "description": "Procurement for 1 (one) dual-motor variant speed pedestal buffing lathe for the Electroplating - Work Centre at Fleet Maintenance Facility CAPE BRETON. Tentative for the Electroplating group a Dual Motor Variable Speed Pedastal Buffing Lathe to Polish / Debuff Metal Components. ",
+    "estimated_value": 50845.0,
+    "date_posted": "2022.10.14",
+    "duration_in_months": ">{{$schema.Version}}",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "electroplating"
+    ]
+}

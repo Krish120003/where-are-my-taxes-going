@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "LL123",
+    "type": "DEMO",
+    "department": "DEMO",
+    "procurement_category": "*CNST",
+    "short_summary": "Demolish wooden lighthouse structure and stone foundation on an island offshore in the St Lawrence River, near South Lancaster, Ontario.",
+    "description": " Demolish lighthouse structure and stone foundation.",
+    "estimated_value": 1000000,
+    "date_posted": "2023-02-27",
+    "duration_in_months": "type:end",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "DEMO D50",
+        "LANCASTER RANGE",
+        "WATERWAY"
+    ]
+}

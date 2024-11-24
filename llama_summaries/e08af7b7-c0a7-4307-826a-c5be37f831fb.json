@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-22-01011136",
+    "type": "Electric tables",
+    "department": "Ministry of Furniture",
+    "procurement_category": "Administrative",
+    "short_summary": "Office furniture - Electric tables - 40 piece order",
+    "description": "",
+    "estimated_value": 25000,
+    "date_posted": "2022-10-27",
+    "duration_in_months": "60",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "Electrical",
+        "Furniture",
+        "contract",
+        "public_works"
+    ]
+}

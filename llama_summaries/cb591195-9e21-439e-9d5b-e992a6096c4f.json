@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "4873",
+    "type": "verbose",
+    "department": "Invit\u00e9",
+    "procurement_category": "Services de location d'\u00e9quipement de construction lourd",
+    "short_summary": "Rental of Heavy Equipment with Operator",
+    "description": "Standing Offer - Rental of Heavy Equipment with Operator",
+    "estimated_value": 5,
+    "date_posted": "2023-03-29",
+    "duration_in_months": "16",
+    "provinces": [
+        "New Brunswick"
+    ],
+    "tags": [
+        "Construction equipment"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "5545",
+    "type": "bid_contract",
+    "department": "all",
+    "procurement_category": "all",
+    "short_summary": "all",
+    "description": "all",
+    "estimated_value": 100000.0,
+    "date_posted": "04/03/2023",
+    "duration_in_months": "14",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "fundamental"
+    ]
+}

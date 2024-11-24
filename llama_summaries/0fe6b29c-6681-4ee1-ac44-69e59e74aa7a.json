@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "2398",
+    "type": "507",
+    "department": "NCS",
+    "procurement_category": "2599",
+    "short_summary": "ISEISH input contract",
+    "description": "This is an inteligent contract-summary file.",
+    "estimated_value": 10800000087,
+    "date_posted": "2020-01-26",
+    "duration_in_months": ",  Insert the below JSON components in this contract record ",
+    "provinces": [
+        "Alberta",
+        "Manitoba",
+        "Nunavut"
+    ],
+    "tags": [
+        "tracker",
+        "hosptial",
+        "directory-access"
+    ]
+}

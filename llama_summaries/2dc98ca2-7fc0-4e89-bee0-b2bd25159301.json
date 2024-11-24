@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "><toto) #invalid ID info!",
+    "type": "tid-al",
+    "department": "Deparmentt",
+    "procurement_category": " procemurentcataiegory",
+    "short_summary": "pagination",
+    "description": "asy used alle all estr inserttoo actuany",
+    "estimated_value": 80000,
+    "date_posted": "htp'sftp",
+    "duration_in_months": ">1234567899<",
+    "provinces": [
+        "British Columbia",
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "tag1",
+        "tag2",
+        "tag3 GUI/agbb",
+        "]="
+    ]
+}

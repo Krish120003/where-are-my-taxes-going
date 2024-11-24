@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "2630",
+    "type": "JSON",
+    "department": "Defense",
+    "procurement_category": "Goods and Services",
+    "short_summary": "Luxlink Products or equivalent",
+    "description": "The requirement is to procure a suite of Liteway Luxlink equipment for a specific need onboard the Halifax class life cycle. These specific devices were selected based on their technical functionalities corresponding to the specific design integration requirements. These devices are required to enable the transport of an IRIG-B signal, from the NavDDS system, between multiple compartment, on a long distance.",
+    "estimated_value": 500.0,
+    "date_posted": "2022-10-19",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Luxlink",
+        "Defense",
+        " GoodsandServices",
+        "fibre termination",
+        " fibreoptics",
+        "transport",
+        "IRIG-B",
+        "NavDDS"
+    ]
+}

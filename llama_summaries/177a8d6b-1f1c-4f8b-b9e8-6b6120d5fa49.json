@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-22-01004731",
+    "type": "Tender",
+    "department": "Defense",
+    "procurement_category": "SRVTGD",
+    "short_summary": "Need 26 TRANSMITTER GROUP,HUMIDITYTEMPERATURE",
+    "description": "The Department of National Defence has a requirement for the items detailed below. ",
+    "estimated_value": 24940.0,
+    "date_posted": "2022-09-20",
+    "duration_in_months": "]}",
+    "provinces": [
+        "Nova Scotia",
+        "British Columbia"
+    ],
+    "tags": [
+        "hdr",
+        "usr",
+        "tier3",
+        "nw"
+    ]
+}

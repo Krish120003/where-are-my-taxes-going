@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "4028",
+    "type": "contract",
+    "department": "Defense",
+    "procurement_category": "Goods",
+    "short_summary": "Adquisition of medical ulraound device.",
+    "description": "Adquisition of medical ultrasound device for use by medicial solicitors on austere tasks.",
+    "estimated_value": 63000,
+    "date_posted": "2023-01-30 12:00:00",
+    "duration_in_months": "65",
+    "provinces": [
+        "Quebec",
+        "Ontario",
+        "British Columbia",
+        "Alberta"
+    ],
+    "tags": [
+        "medical",
+        "ultrasound",
+        "point-of-care",
+        "defense",
+        "provincial"
+    ]
+}

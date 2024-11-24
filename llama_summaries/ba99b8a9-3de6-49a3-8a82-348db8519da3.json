@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "Cancelled-ESDC#001",
+    "type": "Contract",
+    "department": "ESDC",
+    "procurement_category": "SRV",
+    "short_summary": "This notice has been cancelled.",
+    "description": "This notice has been cancelled.",
+    "estimated_value": 0,
+    "date_posted": "2023-02-16",
+    "duration_in_months": "datacenters_in_clould",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "cloud",
+        "cancelled"
+    ]
+}

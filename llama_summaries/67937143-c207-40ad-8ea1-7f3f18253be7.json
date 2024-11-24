@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "EN578-20ISC3",
+    "type": "Comp\u00e9titive",
+    "department": "Publiques de Travails Services Gouvernementaux Canada ",
+    "procurement_category": "SRV",
+    "short_summary": "Anticollisions par D\u00e9tection de proximit\u00e9",
+    "description": "Syst\u00e8me de capteurs de proximit\u00e9 pour la robotique spatiale",
+    "estimated_value": 150000.0,
+    "date_posted": "2022-08-19",
+    "duration_in_months": "description",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Engineering, R&D",
+        "Spacecraft",
+        "Instrumentation",
+        "Astronautics"
+    ]
+}

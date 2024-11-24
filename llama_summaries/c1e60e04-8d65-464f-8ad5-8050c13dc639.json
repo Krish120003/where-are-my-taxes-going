@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "The Contract ID is 1000244505",
+    "type": "object",
+    "department": "Health Canada",
+    "procurement_category": "*SRV",
+    "short_summary": "Intelligent Supply Chain (ISC) additional feature development",
+    "description": "Tender project for the development of additional features for the Intelligent Supply Chain (ISC).",
+    "estimated_value": 1000000000.0,
+    "date_posted": "2022-10-10",
+    "duration_in_months": ">12 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Computer and Data Processing Services"
+    ]
+}

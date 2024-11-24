@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "2BP2-126162",
+    "type": "Lease",
+    "department": "Defense",
+    "procurement_category": "Bid",
+    "short_summary": "_printer for Defense department_",
+    "description": "The contracting entity needs a monochrome high-capacity printer for a period of 60 months.",
+    "estimated_value": 15000,
+    "date_posted": "2023-01-20",
+    "duration_in_months": ">=24",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "884.1"
+    ]
+}

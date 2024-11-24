@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "CB-1-456345",
+    "type": "FINANCEMENT",
+    "department": " ENVIRONNEMENT ",
+    "procurement_category": "service",
+    "short_summary": "proposal award notification for city council project",
+    "description": "text of the proposal award notification",
+    "estimated_value": 1.23,
+    "date_posted": "2023-04-28",
+    "duration_in_months": ",duration_of_postition",
+    "provinces": [
+        "Nova Scotia",
+        "New Brunswick"
+    ],
+    "tags": [
+        "finance",
+        "environment",
+        "Appexptoin",
+        "Proposal award notifaction "
+    ]
+}

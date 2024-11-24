@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "1000413293",
+    "type": "DOCUMENT",
+    "department": "Public Services and Procurement Canada",
+    "procurement_category": "Service",
+    "short_summary": "procurement_trial2",
+    "description": "procurement",
+    "estimated_value": 1000.0,
+    "date_posted": "2022-10-24",
+    "duration_in_months": ".17",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "devops"
+    ]
+}

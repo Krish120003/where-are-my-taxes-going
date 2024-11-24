@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "3368",
+    "type": "ProcurementContract",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "Goods",
+    "short_summary": "F3757-220564 - Purchase of an High Resolution Underwater Camera",
+    "description": "Request for Proposal: F3757-220564 - Purchase of an High Resolution Underwater Camera",
+    "estimated_value": 163330.0,
+    "date_posted": "2022-12-02",
+    "duration_in_months": "The expected contract ends on 06/01/2024",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "High Resolution Underwater Camera",
+        "Goods",
+        "Public Works and Government Services Canada",
+        "Procurement Contract"
+    ]
+}

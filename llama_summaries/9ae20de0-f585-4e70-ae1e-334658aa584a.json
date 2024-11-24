@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "4088",
+    "type": "PISTOL MODERNIZATION",
+    "department": "Royal Canadian Mounted Police",
+    "procurement_category": "Goods",
+    "short_summary": "RFI for the Gun Modernization",
+    "description": "The RCMP is requiring a new and modern service pistol, that offers reduced trigger pull weight, various frame sizes and a reduction of overall weight to improve public and officer safety.",
+    "estimated_value": 5,
+    "date_posted": "2023-02-03",
+    "duration_in_months": "But the contract has an end duration, of 6 months ",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Gendarmerie royale du Canada"
+    ]
+}

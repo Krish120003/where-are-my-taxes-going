@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "W8482-231159/A",
+    "type": "Procurement Information",
+    "department": "Defence",
+    "procurement_category": "supply",
+    "short_summary": "Diving Equipment Multiple NSNs",
+    "description": "Grand SAM Template",
+    "estimated_value": 2000,
+    "date_posted": "2022-12-10",
+    "duration_in_months": "Month",
+    "provinces": [
+        "Ontario",
+        "Nova Scotia",
+        "British Columbia"
+    ],
+    "tags": [
+        "ggg",
+        "hkkk",
+        "caca"
+    ]
+}

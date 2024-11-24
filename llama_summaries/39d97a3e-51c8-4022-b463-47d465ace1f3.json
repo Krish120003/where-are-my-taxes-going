@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "WS3853103478",
+    "type": "JSON",
+    "department": "works",
+    "procurement_category": "SRV",
+    "short_summary": "Services de gestion d'\u00e9v\u00e9nements \u00e0 l'\u00e9tranger",
+    "description": "Sale activity",
+    "estimated_value": 0,
+    "date_posted": "2023-03-23",
+    "duration_in_months": "",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Upcoming-post"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "}, {'attribute1': 'value1'} for a dictionary with a single key-value pair.",
+    "type": " string",
+    "department": "string",
+    "procurement_category": "string",
+    "short_summary": "string",
+    "description": "string",
+    "estimated_value": 1000.5,
+    "date_posted": "2022-10-10",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "english",
+        "french"
+    ]
+}

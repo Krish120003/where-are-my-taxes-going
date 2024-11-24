@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "136",
+    "type": "object",
+    "department": "Correctional Service of Canada",
+    "procurement_category": "CNST",
+    "short_summary": "Insulation and exterior cladding for Correctional Service of Canada.",
+    "description": "The Correctional Service of Canada has a contract for the supply and installation of insulation and exterior cladding for a construction project at the Mission Institution (33737 Dewdney Trunk Rd, Mission, British Columbia).",
+    "estimated_value": 50000,
+    "date_posted": "March 15, 2023",
+    "duration_in_months": "Weeks (6)",
+    "provinces": [
+        "Ontario",
+        "British Columbia"
+    ],
+    "tags": [
+        "Renovation",
+        "Installation",
+        "Insulation",
+        "Exterior cladding",
+        "Building construction"
+    ]
+}

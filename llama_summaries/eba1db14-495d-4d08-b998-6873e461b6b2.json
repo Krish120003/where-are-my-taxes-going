@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-_SLE-008-29100",
+    "type": "object",
+    "department": "Departement Defense",
+    "procurement_category": "SRVTGD",
+    "short_summary": "This notice is raised to cancel the invitation to qualify process number W8483-197521/B, including the re-issued Invitation to Qualify",
+    "description": "Trade Agreement: NONE",
+    "estimated_value": 100000.0,
+    "date_posted": "2023-06-22",
+    "duration_in_months": "description",
+    "provinces": [
+        "British Columbia",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "expired"
+    ]
+}

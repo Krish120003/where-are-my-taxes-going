@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "WS3775131441",
+    "type": "E174 Classic procurement",
+    "department": "PWGSC",
+    "procurement_category": "SRV",
+    "short_summary": "comfort-systems-energy-and-construction",
+    "description": "Installation et d'entretien des chaudi nouvelles, ae et nouvelles boussoles ",
+    "estimated_value": 1095813,
+    "date_posted": "2023-02-01T01:27:54.625632",
+    "duration_in_months": "66",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "Boitier"
+    ]
+}

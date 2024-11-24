@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "logContractId",
+    "type": "information",
+    "department": "defense",
+    "procurement_category": "*SRV",
+    "short_summary": "CONSTRUCTION DE D&Eacute;FENSE CANADA (CDC) Projet n&deg;BA222382_79350,Collecte et disposition des mati&egrave;res r&eacute;siduelles, BFC Bagotville et sites satellites (Qc)",
+    "description": "CONSTRUCTION DE D&Eacute;FENSE CANADA (CDC)",
+    "estimated_value": 800000.0,
+    "date_posted": "26-01-2023",
+    "duration_in_months": "My\", ",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "BA222382_79350",
+        "DEFENCHOUSE",
+        "_bagotville",
+        "'KERMOUL",
+        "WETER EGJCust",
+        "WESTrupco",
+        "northlrnpbxdark-five"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "440",
+    "type": "contract",
+    "department": "Fisheries and Oceans Canada",
+    "procurement_category": "*SRV",
+    "short_summary": "Delivery and coordination services for the Stream to Sea Program",
+    "description": "Fisheries and Oceans, Canada, requires contractors to provide delivery and coordination services for the Stream to Sea Program, as defined by the Community Advisor, for:Nanaimo, Ladysmith (SD68)Chemainus (SD79)Stream to Sea Program delivery and coordination services are required across the school year. Delivery and coordination services will be defined on a geographic specific basis through the development of work plan details using the information provided in Appendix 1 (Scope of Work). The contractor will work with the Community Advisor(s), to coordinate and deliver the Stream to Sea Program in schools and with local community groups. The work will consist of coordinating and assisting with set up of classroom incubators (aquaria), delivering salmon eggs to schools, providing classroom sessions which may include the salmon life cycle, fish dissections aquatic ecosystems and habitat requirements for salmon, environmental sustainability as it relates to salmon, stream to sea migration and other salmon focused education pertinent to the area. The contractor will provide trouble shooting and maintenance support for aquaria in schools and develop or assist with the development and delivery of a spring fry release program for participating schools. In some instances the contractor may participate in the live transport of adult and juvenile salmon and may participate in the spawning of broodstock.The Stream to Sea Program aims to develop opportunities for external parties to be involved. Contractors may be required to facilitate and develop opportunities with local communities, First Nations, and community groups",
+    "estimated_value": 0,
+    "date_posted": "2022-08-16",
+    "duration_in_months": ">{{$converted_date = DateTime::createFromFormat('Y-m-d', '2022-08-31');$converted_date->format('Y-m-d');162776<br /}}{{date(",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "Delivery",
+        "Coordination",
+        "Fisheries",
+        "Wildlife",
+        "Canada",
+        "Public Tender"
+    ]
+}

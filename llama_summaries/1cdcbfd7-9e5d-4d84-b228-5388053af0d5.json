@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "5000060850R",
+    "type": "Purchase Request",
+    "department": "Environment Canada",
+    "procurement_category": "*SRV",
+    "short_summary": "Cancelled",
+    "description": "Request for Proposal for a service for weather reporting  and observation contract",
+    "estimated_value": 0.0,
+    "date_posted": "2022-11-24",
+    "duration_in_months": "OneNotApplicable",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "weather observation services",
+        "Environment Canada"
+    ]
+}

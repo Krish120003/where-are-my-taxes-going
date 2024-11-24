@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "WS3638577897-DOC3638634054",
+    "type": "ITALIAN TENDER",
+    "department": "Departament of Public Works",
+    "procurement_category": "*CNST",
+    "short_summary": "Bridge construction and repair service",
+    "description": "",
+    "estimated_value": 499000,
+    "date_posted": "2022-09-08",
+    "duration_in_months": "10",
+    "provinces": [
+        "British Columbia",
+        "Ontario",
+        "Alberta"
+    ],
+    "tags": [
+        "infrastructure maintenance",
+        "construction",
+        "repair services"
+    ]
+}

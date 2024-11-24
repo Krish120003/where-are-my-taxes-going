@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "PW-23-01028164",
+    "type": "contract",
+    "department": "Museum",
+    "procurement_category": "SRV",
+    "short_summary": "",
+    "description": "",
+    "estimated_value": 0.0,
+    "date_posted": "Wed, 01 Mar 2023",
+    "duration_in_months": "60 months",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Canada-Ukraine Free Trade Agreement",
+        "Canada-Chile Free Trade Agreement",
+        "Canada-European Union Comprehensizive Economic and Trade Agreement",
+        "Canada-Colombia Free Trade Agreement",
+        "World Trade Organization Agreement on Government Programme...",
+        "Canada-Panama Free Trade Agreement",
+        "Canada-Honduras Free Trade Agreement"
+    ]
+}

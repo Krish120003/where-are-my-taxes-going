@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "1180",
+    "type": "RENEWAL",
+    "department": "IT",
+    "procurement_category": "SOFTWARE",
+    "short_summary": "SAP for Sybase Support",
+    "description": "Bid solicitation for the renewal of SAP for Sybase Support and Maintenance.",
+    "estimated_value": 1000000,
+    "date_posted": "2021-12-16",
+    "duration_in_months": "11-12",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "BPM021152"
+    ]
+}

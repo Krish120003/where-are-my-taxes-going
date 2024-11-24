@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "Our contract ID is: PW-23-01030507",
+    "type": " Agreement",
+    "department": "Environment and Climate Change Canada=ECCC",
+    "procurement_category": "Service Rendering",
+    "short_summary": "The requirement is intended to result in the award of one (1) contract.",
+    "description": "The Government of Canada is acquiring solicited Services for the delivery of consulting services for the evaluation of the Canadian Contaminated Sites Plan Action",
+    "estimated_value": 20,
+    "date_posted": "2023-03-21",
+    "duration_in_months": "On going",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "British Columbia"
+    ],
+    "tags": [
+        "Environment"
+    ]
+}

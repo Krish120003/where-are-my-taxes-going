@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "3726219713",
+    "type": "Application/JSON ",
+    "department": "Transportation Infrastructure and Renewals",
+    "procurement_category": "Contract",
+    "short_summary": "Repair of the hot mix plant located at the Vancouver Airport Authority terminal at Container Freight Station",
+    "description": "The Vancouver Airport Authority will be undertaking a project to repair the hot mix plant located at their terminal at Container Freight Station.",
+    "estimated_value": 1669989.99,
+    "date_posted": "2018",
+    "duration_in_months": ",",
+    "provinces": [
+        "Alberta",
+        "British Columbia",
+        "Ontario"
+    ],
+    "tags": [
+        "Invitation-to-quality",
+        "signals",
+        "construction",
+        "contract"
+    ]
+}

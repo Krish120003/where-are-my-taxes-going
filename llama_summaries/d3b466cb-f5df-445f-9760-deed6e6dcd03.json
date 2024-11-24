@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "5X001-22-0490",
+    "type": "contract",
+    "department": "Court Administration",
+    "procurement_category": "SRV",
+    "short_summary": "Toste the acquisition of Evidence Management System at CAS",
+    "description": "See the attachment",
+    "estimated_value": 200000,
+    "date_posted": "August 29, 2022",
+    "duration_in_months": "description_appel_offres",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "government",
+        "CANADA",
+        "industry",
+        "Software Development",
+        "software"
+    ]
+}

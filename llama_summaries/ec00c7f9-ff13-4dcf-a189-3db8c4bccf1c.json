@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "3212",
+    "type": "CCD",
+    "department": "National Research Council Canada",
+    "procurement_category": "Supply",
+    "short_summary": "Silicon (Si) Charge Coupled Device (CCD) camera",
+    "description": "This instrument will be used in the quantum physics laboratory for quantum materials (such as GaAs-AlGaAs heterostructures and Van der Waals heterostructures) optical characterization as well as for quantum nanostructure characterization such as quantum dots and other electronic quantum circuits (quantum point contacts, Hall bars, etc.). Experiments will be performed in the visible and near IR spectral range.",
+    "estimated_value": 3212,
+    "date_posted": "2022-11-29 00:00:00",
+    "duration_in_months": "[null, null]",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "CCD",
+        "Silicon"
+    ]
+}

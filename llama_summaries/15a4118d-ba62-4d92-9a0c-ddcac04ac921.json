@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-23-01027982",
+    "type": "physiotherapyServices",
+    "department": "correctional service of canada",
+    "procurement_category": "*SRV",
+    "short_summary": "The Correctional Service of Canada has a requirement to provide Physiotherapy Services to offenders at Warkworth Institution.",
+    "description": "The following is a summary of the statement of work for this requirement.",
+    "estimated_value": 0,
+    "date_posted": "2023-02-27",
+    "duration_in_months": "strconv.Itoa(11)",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "healthcare",
+        "g009g",
+        "Health and Welfare Services",
+        "sync"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "1865",
+    "type": "miscrauctions",
+    "department": "Environment Canada",
+    "procurement_category": "Miscellaneous (furniture, tones etc",
+    "short_summary": "Purchase and installation of office furnitures",
+    "description": "office furniture",
+    "estimated_value": 250000.0,
+    "date_posted": "2022-09-08",
+    "duration_in_months": ":",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "furniture"
+    ]
+}

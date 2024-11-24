@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "2279",
+    "type": "object",
+    "department": "Environment and Climate Change Canada",
+    "procurement_category": "Goods",
+    "short_summary": "Office furniture",
+    "description": "Purchase, delivery and installation of office furniture to Toronto, ON ",
+    "estimated_value": 0.0,
+    "date_posted": "2022-09-27",
+    "duration_in_months": "title",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "office furniture",
+        "office equipment",
+        "health & safety equipment"
+    ]
+}

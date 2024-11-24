@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "1425",
+    "type": "Procurement",
+    "department": "National Defence",
+    "procurement_category": "SRV",
+    "short_summary": "Project Management Services - Expired",
+    "description": "This requirement is open only to those under the framework of the TSPS supply arrangement for the provision of services under stream 3.4 project planner (senior) for project management.",
+    "estimated_value": 1424928,
+    "date_posted": "2023-01-30",
+    "duration_in_months": "14 days",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "expired"
+    ]
+}

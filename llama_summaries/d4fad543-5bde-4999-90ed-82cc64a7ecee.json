@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "WYDKB wand\u5fb7Disclaimer184_gb8668068175invitation 3755297051",
+    "type": "json",
+    "department": "Public Works Department ",
+    "procurement_category": "*GD",
+    "short_summary": "TC - TEST1 - Not a Solicitation",
+    "description": "This is a test solicitation",
+    "estimated_value": 0.0,
+    "date_posted": "2022-11-18",
+    "duration_in_months": "E 24",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "resin",
+        "test"
+    ]
+}

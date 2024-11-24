@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "SSC-24-00025077:T",
+    "type": "Contract",
+    "department": "Shared Services Canada",
+    "procurement_category": "SRVTGD",
+    "short_summary": "Maintenance and support of Dell Isilon hardware and software for the MDN",
+    "description": "Hardware and software maintenance and support for Dell Isilon for the DND",
+    "estimated_value": 0,
+    "date_posted": "2024-01-05",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Ontario",
+        "Ontario",
+        "Ontario",
+        "Ontario"
+    ],
+    "tags": [
+        "governmentcontract"
+    ]
+}

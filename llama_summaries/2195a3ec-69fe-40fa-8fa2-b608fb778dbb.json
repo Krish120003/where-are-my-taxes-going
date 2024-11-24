@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "557",
+    "type": "proposals",
+    "department": "finance",
+    "procurement_category": "service",
+    "short_summary": "title-titre-eng",
+    "description": "information about solicitation",
+    "estimated_value": 5000,
+    "date_posted": "title-titre-eng",
+    "duration_in_months": "text",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "service"
+    ]
+}

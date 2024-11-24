@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "30417945271823",
+    "type": "uni_contract",
+    "department": "Services aux Autochtones Canada",
+    "procurement_category": "Service Provision",
+    "short_summary": "IBM Services",
+    "description": " IBM is an hybrid consultation company providing expert advice and support within the Satiz arts MAT Resources Industry. ",
+    "estimated_value": 210,
+    "date_posted": "20210607",
+    "duration_in_months": "20",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "IBM",
+        "Infosys",
+        "Soft client"
+    ]
+}

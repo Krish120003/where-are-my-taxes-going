@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "2191",
+    "type": "contract",
+    "department": " Public Works and Government Services (PSPC)",
+    "procurement_category": " CNST",
+    "short_summary": " construction services for concrete repairs",
+    "description": "Public Services and Procurement Canada (PSPC) on behalf of the Department of Fisheries and Oceans (DFO) requires construction services for concrete repairs at the South Roundhead of the Canso Canal.",
+    "estimated_value": 485475.3,
+    "date_posted": "2022-09-21",
+    "duration_in_months": "Doel duration significant - est 2 months",
+    "provinces": [
+        "Nova Scotia",
+        "Quebec",
+        "New Brunswick"
+    ],
+    "tags": [
+        "construction",
+        "repair",
+        "cancel",
+        "Service"
+    ]
+}

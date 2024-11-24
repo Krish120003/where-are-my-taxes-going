@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "T8080-220178",
+    "type": "Green",
+    "department": "Parks and recreation",
+    "procurement_category": "SRV",
+    "short_summary": "",
+    "description": "description",
+    "estimated_value": 0,
+    "date_posted": "09-01-2022",
+    "duration_in_months": ",  ",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "British Columbia"
+    ],
+    "tags": [
+        "Artificial intelligence",
+        "Machine learning",
+        "Remote Pilot Aircraft Systems",
+        "dangerous goods"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "WS3631671232-Doc3777472510",
+    "type": "dict",
+    "department": "throwaway",
+    "procurement_category": "throwaway",
+    "short_summary": "throwaway",
+    "description": "Throwaway",
+    "estimated_value": 10000,
+    "date_posted": "2022-12-06",
+    "duration_in_months": "When will this contract close? Months?",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "Electronics",
+        "Audio Visual",
+        "Bid"
+    ]
+}

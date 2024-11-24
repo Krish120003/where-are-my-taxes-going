@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "For CIC-155646 this is 14286",
+    "type": "json",
+    "department": "IMMicro Imm. And Min. ",
+    "procurement_category": "Closure type SRV",
+    "short_summary": "Immigration, Refugee and Citizenship Canada (IRCC), has a requirement for the transportation of up to 300 Asylum Claimants per day from various locations in Quebec to temporary accommodations located within Quebec, Ontario and select Atlantic Provinces. The volumes of asylum claimants could fluctuate daily.This requirement also includes transportation from Ontario temporary accommodations to the Greater Montreal and Mont\u00e9r\u00e9gie regions.Transportation services are required for a period of two (2) years including three optional six-month periods. exported 3 files ",
+    "description": "full description",
+    "estimated_value": 50000,
+    "date_posted": "3/16/2023 ",
+    "duration_in_months": ">2 years",
+    "provinces": [
+        "Quebec",
+        "Nova Scotia",
+        "New Brunswick"
+    ],
+    "tags": [
+        "Canada",
+        "Transportation",
+        "Comments",
+        "No"
+    ]
+}

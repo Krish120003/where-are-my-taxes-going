@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "0003924",
+    "type": "Algue a\u00e9rienne",
+    "department": "D\u00e9partement de la D\u00e9fense",
+    "procurement_category": "Algue",
+    "short_summary": "La Gendarmerie royale du Canada requiert l\u2019approvisionnement...",
+    "description": "N/A",
+    "estimated_value": 66,
+    "date_posted": "2023-01-12",
+    "duration_in_months": "1 mois",
+    "provinces": [
+        "Ontario",
+        "Saskatchewan"
+    ],
+    "tags": [
+        "Terre",
+        "Usine de Golf"
+    ]
+}

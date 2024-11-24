@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "4323",
+    "type": "public",
+    "department": "public works and government services ",
+    "procurement_category": "service",
+    "short_summary": "hvace and commercial refrigeration maintenance",
+    "description": "some description here",
+    "estimated_value": 100000,
+    "date_posted": "2023-02-17",
+    "duration_in_months": "1-2 months",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "heating -cooling -refrigeration"
+    ]
+}

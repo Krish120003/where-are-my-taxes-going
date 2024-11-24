@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "Some/basic/data",
+    "type": "Contract",
+    "department": "Some/departmet/data",
+    "procurement_category": "services",
+    "short_summary": "Product Purchase Order - IT Supplies",
+    "description": "Contract : PC or laptop purchase",
+    "estimated_value": 225000,
+    "date_posted": "2022-10-01",
+    "duration_in_months": "",
+    "provinces": [
+        "Northwest Territories",
+        "Yukon"
+    ],
+    "tags": [
+        "70SVC-USOF-GA-S",
+        "some/other/tag"
+    ]
+}

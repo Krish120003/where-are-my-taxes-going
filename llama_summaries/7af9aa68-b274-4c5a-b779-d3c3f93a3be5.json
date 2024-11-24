@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "null",
+    "type": "Appendix-survey",
+    "department": "Transport Canada",
+    "procurement_category": "*SRV",
+    "short_summary": "Evaluation services consultant for review of integrity system at Transport Canada",
+    "description": "The evaluation services consultant will perform a review to assess the effectiveness of the integrity system at Transport Canada.",
+    "estimated_value": 128900,
+    "date_posted": "2023-01-11",
+    "duration_in_months": "[12, 24]",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Human Resource Services, Business Consulting/Change Management",
+        "Project Management Services"
+    ]
+}

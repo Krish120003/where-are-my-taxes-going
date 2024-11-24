@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "math-Pro-20230203-PH",
+    "type": "block",
+    "department": "IT",
+    "procurement_category": "Service contract",
+    "short_summary": "System integration services - ATIE",
+    "description": "The Procurement and Commissioning team of ATIE is looking for a team of experienced and motivated technicians with a high degree of autonomy to lead and manage ATIE procurement system migration (PSM) project. The team will be responsible for the migration of the PSM, including the creation of new business rules, and the improvement of existing processes. In addition to the project team, they will provide assistance to clients and stakeholders, and facilitate meetings and training sessions as needed.",
+    "estimated_value": 238000,
+    "date_posted": "02-02-2023",
+    "duration_in_months": "fifty-six",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "technology",
+        "procurement",
+        "IT",
+        "microsoft"
+    ]
+}

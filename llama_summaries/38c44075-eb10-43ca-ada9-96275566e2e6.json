@@ -1,0 +1,28 @@
+{
+    "CONTRACT_ID": "2602",
+    "type": "json",
+    "department": "Government of Canada",
+    "procurement_category": "Goods/Services",
+    "short_summary": "Raritan KVM or equivalent for Canada Border Services Agency",
+    "description": "Raritan KVM or equivalent for Canada Border Services Agency",
+    "estimated_value": 998,
+    "date_posted": "2022-10-20",
+    "duration_in_months": "1",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canada",
+        "ITServices",
+        "Technology",
+        "Hardware",
+        "Infrastructure",
+        "Construction",
+        "Supply chain",
+        "Border Safety",
+        "Data Privacy",
+        "CyberSecurity",
+        "Footprint Analysis",
+        "ne JaviercompandieGA"
+    ]
+}

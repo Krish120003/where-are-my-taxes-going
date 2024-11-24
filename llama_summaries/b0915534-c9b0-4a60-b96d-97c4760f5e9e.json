@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "4411",
+    "type": "json",
+    "department": "Depament of Defense",
+    "procurement_category": "SRV",
+    "short_summary": "Media monitoring service for ethnic media news sources",
+    "description": "The contractor will provide media analyses and translations of media coverage as required, on an as requested basis. The contractor will also provide broadcast summaries, transcripts, audio and video clips and media analysis reports as and when requested. ",
+    "estimated_value": 100000,
+    "date_posted": "2023-02-08",
+    "duration_in_months": "And-months",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Media monitoring",
+        "ethnic media",
+        "contract prescrit"
+    ]
+}

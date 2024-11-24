@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "<USERNAME>'s 3-month, Employee-Friendly OCS Contract",
+    "type": "REQUEST",
+    "department": "IT",
+    "procurement_category": "NASDAQ",
+    "short_summary": "contract-summary",
+    "description": "CONTRACT THEORY AT WORK",
+    "estimated_value": 5000.0,
+    "date_posted": "2024-02-02",
+    "duration_in_months": "Oh-regrets / Contre-Remise",
+    "provinces": [
+        "New Brunswick",
+        "Saskatchewan"
+    ],
+    "tags": [
+        "tag",
+        "tag",
+        "tag"
+    ]
+}

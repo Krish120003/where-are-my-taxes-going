@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "/PW-\\",
+    "type": "Ship Repair Service Contract",
+    "department": "Department of Fisheries and Oceans",
+    "procurement_category": "Service",
+    "short_summary": "Maintenance and repair of the ship hull and propeller of the Canadian Coast Guard vessel 2002 by the Government of Northwest Territories Marine Transportation Services in Hay River,",
+    "description": "Ship repair services",
+    "estimated_value": 1000000,
+    "date_posted": "* Aug 10/21",
+    "duration_in_months": "a approximately ",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "department_of_fisheries_oceans_FISH"
+    ]
+}

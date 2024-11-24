@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "F7047-220004/C",
+    "type": "JSON",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "C",
+    "short_summary": "Skid-mounted 6 TRash Pump Systems for the Canadian Coast Guard for the ERE Program",
+    "description": "Services and Supplies",
+    "estimated_value": 40000,
+    "date_posted": "2023-07-12",
+    "duration_in_months": "2",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "ere",
+        "ccg",
+        "ere program",
+        "skid-mounted trash pump systems"
+    ]
+}

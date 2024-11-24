@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "SSC-24-00000012",
+    "type": "JSON",
+    "department": "https://www.tpsgc-pwgsc.gc.ca/applics/mp-tb/index-eng.html",
+    "procurement_category": "CNST",
+    "short_summary": "test",
+    "description": "a_description",
+    "estimated_value": 12.5,
+    "date_posted": "20\\02122013",
+    "duration_in_months": "},{",
+    "provinces": [
+        "New Brunswick"
+    ],
+    "tags": [
+        "fr",
+        "en"
+    ]
+}

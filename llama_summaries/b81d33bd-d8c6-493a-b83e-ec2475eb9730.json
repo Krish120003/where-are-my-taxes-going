@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-23-01021109",
+    "type": "ReqForProposal",
+    "department": "Royal Canadian Mounted Police",
+    "procurement_category": "Goods",
+    "short_summary": "Construct, Deliver and Install Columbaria Units",
+    "description": "Construct, Deliver and Install Columbaria Units for RCMP Training Academy, Regina, Saskatchewan. Requirement is to build, deliver and install two (2) Columbaria units",
+    "estimated_value": 15000,
+    "date_posted": "2023-01-12",
+    "duration_in_months": "2",
+    "provinces": [
+        "Saskatchewan",
+        "Alberta"
+    ],
+    "tags": [
+        "Memorials, Cemeterial and Mortuary Equipment and Supplies",
+        "Grey and Black Granite Materials"
+    ]
+}

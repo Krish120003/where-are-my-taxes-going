@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "https://buyandsell.gc.ca/procurement-data/tenders/tender.page?LedgerId=EXP&id=EC50385&sortby=issuedate&scase=false&sitetype=vetting&count=0&num=20&opath=%2Futations%2D%2Decrecallindex&psitxt=$title",
+    "type": "bid",
+    "department": "C/AGER",
+    "procurement_category": "goods",
+    "short_summary": "Envelope",
+    "description": "Envelope with gussets",
+    "estimated_value": 5000,
+    "date_posted": "2022-08-17",
+    "duration_in_months": ")",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "envelope",
+        "gussets",
+        "elections"
+    ]
+}

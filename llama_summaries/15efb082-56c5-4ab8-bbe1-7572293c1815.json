@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "PW-23-01021628",
+    "type": "object",
+    "department": "Nationa",
+    "procurement_category": "SRV",
+    "short_summary": "informatics",
+    "description": "level 3 IT tester needed for an IT modernization project.",
+    "estimated_value": 50000,
+    "date_posted": "2023-01-16",
+    "duration_in_months": "6",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canada"
+    ]
+}

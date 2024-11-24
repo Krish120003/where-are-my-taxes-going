@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "FW-22-01012156",
+    "type": "ProposalContract",
+    "department": "Canada Health",
+    "procurement_category": "Service",
+    "short_summary": "Hazardous disposal Services",
+    "description": "Hazardous disposal services services to the Canada Health department",
+    "estimated_value": 50000,
+    "date_posted": "November 02, 2022",
+    "duration_in_months": "> 6",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "chemicals",
+        "pharmaceuticals",
+        "hazardous",
+        "disposal",
+        "waste"
+    ]
+}

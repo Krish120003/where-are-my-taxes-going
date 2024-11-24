@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "01B68-22-0063",
+    "type": "SRV",
+    "department": "Agriculture and Agri-Food Canada",
+    "procurement_category": "Serveral",
+    "short_summary": "Short Summary: Farm Input Prices",
+    "description": "Tenant needs support to create a system that can integrate several APIs and provide analysis and views on the extracted data from these APIs.",
+    "estimated_value": 1800000,
+    "date_posted": "2022-11-04",
+    "duration_in_months": ">=6",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "contract",
+        "agri",
+        "agreement",
+        "data",
+        "prices",
+        "survey",
+        "analysis",
+        "farm",
+        "input"
+    ]
+}

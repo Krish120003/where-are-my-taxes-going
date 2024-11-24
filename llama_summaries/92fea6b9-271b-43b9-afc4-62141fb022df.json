@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-23-01023066",
+    "type": "Azure Blob",
+    "department": "Finance",
+    "procurement_category": "Srvice",
+    "short_summary": "context for service for the articulation of the judge report by supreme court for province yhour }",
+    "description": "context for service for the articulation of the judge report by supreme court for province your",
+    "estimated_value": 143.5,
+    "date_posted": "2021-1-20",
+    "duration_in_months": "default",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "syrup",
+        "database"
+    ]
+}

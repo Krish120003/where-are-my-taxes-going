@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "a53029126cb1f0e2c78e16d0d57e35535de02c950b121740dc67944309cad54e343d4a231d1095c2151a77339bb395e59f52bb8c3aae79db4c741094b17ed47",
+    "type": "WLM",
+    "department": " Agriculture and Agri-Food Canada",
+    "procurement_category": "SRV",
+    "short_summary": "some text here to summarize the contract",
+    "description": "This contract serves as a bundling of WLM services to support workload migration and application modernization efforts in the \">ISB initialise ...\",",
+    "estimated_value": 2000000,
+    "date_posted": "2022-09-14",
+    "duration_in_months": "550",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Technical writing",
+        " Training",
+        "Languages--, Databases--, DevOps"
+    ]
+}

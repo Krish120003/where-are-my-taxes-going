@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "map.values206 counts",
+    "type": "JSON",
+    "department": "Foreign Affairs, Trade And Development (Department Of)",
+    "procurement_category": "SRV",
+    "short_summary": "The Department of Foreign Affairs, Trade and Development (DFATD) is seeking a Consultant to conduct an independent evaluation of the program \", contract\":",
+    "description": "The Department of Foreign Affairs, Trade and Development (DFATD) is seeking a Consultant to conduct an independent evaluation of the program \u201cCanada\u2019s Response to the Venezuelan Refugee and Migrant Crisis in Latin America and the Caribbean Region\u201d.",
+    "estimated_value": 15.0,
+    "date_posted": "2022-10-14",
+    "duration_in_months": ">=signexpression( contract award date to 14 months later (12 full-months after contract\u2019s start date) whole number) \u2014 1.9 months out of Jan 15.6 Mo of possible values",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Human Resource Services, Business Consulting/Change Management; Project Management Services",
+        "Independent Evaluation",
+        "Contractor Subject\u2019s Skills \u2013Specialized Skills \u2013Combinations (Revenue skill)"
+    ]
+}

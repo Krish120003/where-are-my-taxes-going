@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "4434",
+    "type": "JSON",
+    "department": "TPS/SPC",
+    "procurement_category": "07",
+    "short_summary": "Acquisition of a digital PCR system",
+    "description": "A request for proposal (RFP) for the acquisition of a digital PCR system including delivery to Saint-Jean-sur-Richelieu, Qu233b233c",
+    "estimated_value": 87114,
+    "date_posted": "2022-12-23",
+    "duration_in_months": ": 6",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "digital PCR system",
+        "PCR system",
+        "equipment procurement",
+        "SCC",
+        "TPS/SPC",
+        "Gatineau"
+    ]
+}

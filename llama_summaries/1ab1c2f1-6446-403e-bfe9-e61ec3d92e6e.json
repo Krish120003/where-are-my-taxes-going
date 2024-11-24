@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "3316",
+    "type": "Tender",
+    "department": "Defense",
+    "procurement_category": "Good",
+    "short_summary": "Equipment for physical testing and inspection",
+    "description": "NOTICE OF PROPOSED PROCUREMENTNote: Due to the impacts to the COVID-19 Pandemic, reduced business hours and limited staff available at the specified bid receiving Unit, on the front page of the Bid Solicitation document, bidders are strongly encouraged to transmit their bids electronically using the epost Connect service instead of any of the other methods of bid delivery usually available.The Department of National Defence has a requirement for the items detailed below. The delivery is requested at CFSD Montreal by 30 January, 2022.Item 1, GSIN: 6635, NSN: 20-001-1308, Tester Material StrengthPart No.: ID-07-446, NCAGE: 09511Quantity: 7, Unit of Issue: EA, to be delivered to CFSD Montreal.Bidders proposing an Equivalent or a Substitute Product must indicate the brand name and model and/or Part Number and the NCAGE they are offering.The Crown retains the rights to negotiate with suppliers on any procurement.Documents may be extracted from either official ",
+    "estimated_value": 6635,
+    "date_posted": "2022-11-10",
+    "duration_in_months": "http://www.iecy/secw.on.ca/pdf/pcareasonline_ map(Map ID).pdf",
+    "provinces": [
+        "Quebec",
+        "Ontario",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "supply",
+        "equipment",
+        "]} I have reformatted your row of data into the precise JSON output you requested. Note that I made several assumptions about the formatting and structure of the JSON output based on the provided example. If any of these assumptions are incorrect, please let me know and I can adjust the output accordingly. Here is the reformatted JSON output: ```json { "
+    ]
+}

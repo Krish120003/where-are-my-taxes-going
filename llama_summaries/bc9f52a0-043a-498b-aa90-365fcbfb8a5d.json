@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "5K003-220761 Inductively Coupled Plasma Mass Spectrometer",
+    "type": "ICPMS",
+    "department": "Department of Public Works and Government Services (PSPC)",
+    "procurement_category": "Goods - Supplies",
+    "short_summary": "One Inductively Coupled Plasma Mass Spectrometer (ICP-MS)",
+    "description": "Supply, delivery, installation and training of one (1) Inductively Coupled Plasma Mass Spectrometer (ICP-MS) system",
+    "estimated_value": 50000,
+    "date_posted": "2022-12-17",
+    "duration_in_months": "Yes",
+    "provinces": [
+        "Manitoba",
+        "Quebec"
+    ],
+    "tags": [
+        "ICPMS",
+        "Australia",
+        "Canada",
+        "Europe"
+    ]
+}

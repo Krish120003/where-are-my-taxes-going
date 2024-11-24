@@ -1,0 +1,28 @@
+{
+    "CONTRACT_ID": "5410",
+    "type": "purchase renewal",
+    "department": "Finance",
+    "procurement_category": "Infrastructure Renewal",
+    "short_summary": "minor rehabilitation of the north, south and east elevations of the North Park Armoury in Halifax, Nova Scotia, including hazardous materials abatement, structural upgrades, roofing and services upgrades, and complete interior renovation.",
+    "description": "The purpose of this RFP is to acquire a contractor to undertake a minor rehabilitation of the north, south and east elevations of the North Park Armoury in Halifax, Nova Scotia, including hazardous materials abatement, structural upgrades, roofing and services upgrades, and complete interior renovation. ",
+    "estimated_value": 98000000.0,
+    "date_posted": "2023-03-29",
+    "duration_in_months": "use",
+    "provinces": [
+        "Nova Scotia"
+    ],
+    "tags": [
+        "North Park Armoury",
+        "rehabilitation",
+        "heritage",
+        "hazards",
+        "abatement",
+        "structure",
+        "upgrade",
+        "roofing",
+        "renovation",
+        "interior",
+        "Halifax",
+        "Nova Scotia"
+    ]
+}

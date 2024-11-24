@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "/ws/cur_tenders/WS3884237325/contracts",
+    "type": "tender",
+    "department": "Department of Public Works and Government Services (PSPC)",
+    "procurement_category": "Services",
+    "short_summary": "This is the Phase 2 solicitation following an Invitation to Qualify.  Only qualified suppliers have been invited to bid.",
+    "description": "Phase 2 External Lighting Upgrade to LED",
+    "estimated_value": 10,
+    "date_posted": "2023-03-16",
+    "duration_in_months": "6",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "LED",
+        "Lighting",
+        "Canada",
+        "K1A 0S5"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "].note: This a bug on your part that produce an output in json is not neccessary because the input string was given as json format I would reformat the\u00ac\u2020data as follows]>PW-22-01018573 { ",
+    "type": "contract",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "*SRVTGD",
+    "short_summary": "Presentation of the Marine Procurement Outlook",
+    "description": "Presentation on upcoming acquisitions in areas such as small and large vessel construction, vessel repair, refit and life extension, in-service support and sustainment. Also includes an introduction to social procurement. The Master presentation has been uploaded to this posting for review.",
+    "estimated_value": 273,
+    "date_posted": "2022-12-23",
+    "duration_in_months": ": 48 }",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "Marine Industry",
+        "Procurement outlook"
+    ]
+}

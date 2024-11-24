@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "SSC-23-00021943:T",
+    "type": "cancelled",
+    "department": "Shared Services Canada",
+    "procurement_category": "goods",
+    "short_summary": "Request for Proposals, for computer software",
+    "description": "This notice has been cancelled.",
+    "estimated_value": 0,
+    "date_posted": "2023-02-16",
+    "duration_in_months": ">1",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Computer software",
+        "office automation",
+        "document management",
+        "mail",
+        "networks",
+        "publishing",
+        "spreadsheets",
+        "typescript",
+        "word processing"
+    ]
+}

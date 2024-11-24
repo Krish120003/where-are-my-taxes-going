@@ -1,0 +1,15 @@
+{
+    "CONTRACT_ID": "RogersPassBunkhouseandHighwayOperationsUnit",
+    "type": "contract",
+    "department": "Parcs Canada",
+    "procurement_category": "CNST",
+    "short_summary": "",
+    "description": "The project is the replacement of two propane boilers at the Rogers Pass Bunkhouse and Highway Operations Unit Garage in the Mount Revelstoke and Glacier National Parks. The work will also include replacement of an Axiom feeder tank and installation of strategically placed isolation valves.",
+    "estimated_value": 500000,
+    "date_posted": "2022-08-19",
+    "duration_in_months": "description",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": []
+}

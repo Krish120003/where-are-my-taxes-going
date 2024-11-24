@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "WS3744824114-Doc3744847859",
+    "type": " JsonFormat",
+    "department": " Public Works and Government Services",
+    "procurement_category": " GOOD",
+    "short_summary": "The Department of National Defence DRDC Suffield Research Centre has a requirement for a spectrograph and high dynamic range electronic streak camera",
+    "description": "time resolved spectroscopy for single shot events in the ultraviolet to visible spectral range",
+    "estimated_value": 5.4,
+    "date_posted": "2022-11-10",
+    "duration_in_months": "7",
+    "provinces": [
+        "Quebec",
+        "Alberta"
+    ],
+    "tags": [
+        "spectrograph",
+        "streak camera",
+        "ultraviolet",
+        "visible spectral range",
+        "time resolved spectroscopy",
+        "2023-03-31"
+    ]
+}

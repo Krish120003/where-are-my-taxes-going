@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "W8484-230352",
+    "type": "TxT",
+    "department": "DND",
+    "procurement_category": "SRV",
+    "short_summary": "Hotel Accommodations \", ",
+    "description": " Hotel  request , Wiesbaden, Germany",
+    "estimated_value": 230352,
+    "date_posted": "2022-11-08",
+    "duration_in_months": "Some duration_in_month variable could be calculated based on given details accelerated  maybe to end date  relative to tender",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Europe",
+        "Germany",
+        "Hotels"
+    ]
+}

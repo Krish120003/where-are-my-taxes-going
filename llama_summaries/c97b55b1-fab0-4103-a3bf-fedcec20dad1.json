@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "4092",
+    "type": "IT",
+    "department": "Public Works and Government Services (PWC)",
+    "procurement_category": "Commodities",
+    "short_summary": "This is a detailed description of a procurement",
+    "description": "This is an example text",
+    "estimated_value": 1000.0,
+    "date_posted": "2023-01-03",
+    "duration_in_months": "githubOperations",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "large, capital",
+        "procurement",
+        "external"
+    ]
+}

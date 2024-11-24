@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "M001234",
+    "type": "GD",
+    "department": "Department of National Defence",
+    "procurement_category": "Goods",
+    "short_summary": "Purchase of a large environmental chamber and related equipment",
+    "description": "The Department of National Defence (DND) has a requirement to purchase a Large Environmental Chamber (LEC), delivered to and installed at the Naval Engineering Test Establishment (NETE), LaSalle QC, in replacement of the existing obsolete system.\", ",
+    "estimated_value": 100000,
+    "date_posted": "02/25/2020",
+    "duration_in_months": "Issue was not achieved",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Environmental Chambers and Related Equipment"
+    ]
+}

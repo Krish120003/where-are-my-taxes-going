@@ -1,0 +1,37 @@
+{
+    "CONTRACT_ID": "name",
+    "type": "commercial",
+    "department": "Public Works and Government Services",
+    "procurement_category": "Goods",
+    "short_summary": "NMSO for commercial tires",
+    "description": "NMSO for supply of commercial tires. This requirement is to establish a National Master Standing Offer (NMSO) for all Federal Government Departments and Provincial/Territorial Identified Users across Canada, for the procurement of commercial tires and tubes and airless tires excluding maintenance and installation for various vehicle categories.",
+    "estimated_value": 35,
+    "date_posted": "2023-02-03",
+    "duration_in_months": "It will be for 1 year",
+    "provinces": [
+        "Nova Scotia",
+        "Prince Edward Island",
+        "Ontario",
+        "New Brunswick",
+        "Manitoba",
+        "Quebec",
+        "Saskatchewan",
+        "Alberta",
+        "British Columbia"
+    ],
+    "tags": [
+        "Canada-European Union Comprehensive Economic and Trade Agreement (CETA)",
+        "Canada-Ukraine Free Trade Agreement (CUFTA)",
+        "Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)",
+        "Canada-Chile Free Trade Agreement (CCFTA)",
+        "Canada-Korea Free Trade Agreement (CKFTA)",
+        "Canada-UK Trade Continuity Agreement (Canada-UK TCA)",
+        "Canada-Panama Free Trade Agreement",
+        "Canada-Peru Free Trade Agreement (CPFTA)",
+        "Canada-Colombia Free Trade Agreement",
+        "Canada-Honduras Free Trade Agreement",
+        "North American Free Trade Agreement (NAFTA)",
+        "World Trade Organization Agreement on Government Procurement (WTO GPA)",
+        "Canadian Free Trade Agreement (CFTA)"
+    ]
+}

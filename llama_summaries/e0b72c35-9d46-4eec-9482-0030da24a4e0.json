@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-HN-331-81348",
+    "type": "contract",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "*GD",
+    "short_summary": "Supply and installation of a CNC Milling Machine",
+    "description": "The Royal Canadian Mounted Police has a requirement for the supply of one (1) four (4) axis and five (5) axis capable Computer Numerically Controlled (CNC) milling machine.",
+    "estimated_value": 220,
+    "date_posted": "2022-08-17",
+    "duration_in_months": "math.expr(7)",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Infrastructure",
+        "Procurement",
+        "Project Management"
+    ]
+}

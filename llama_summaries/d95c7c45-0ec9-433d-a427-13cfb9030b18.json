@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "value from data",
+    "type": "contractinfo",
+    "department": "Home Affairs",
+    "procurement_category": "Construction",
+    "short_summary": "Please disregard the Ariba Discovery posting response deadline closing time...",
+    "description": "AMENDMENT TO CLOSING TIME: Please disregard the Ariba Discovery posting response deadline... ",
+    "estimated_value": 15000000,
+    "date_posted": "2022-09-29",
+    "duration_in_months": "11",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "construction",
+        "Pontiffs"
+    ]
+}

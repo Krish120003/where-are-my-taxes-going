@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "3640",
+    "type": "Informatic Sugestion",
+    "department": "Contract Management",
+    "procurement_category": "General Works",
+    "short_summary": "Standindgether",
+    "description": "This is an Informatic Sistm functionalist",
+    "estimated_value": 1000000,
+    "date_posted": "Yesterday",
+    "duration_in_months": "{50}",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "construction",
+        "architecture",
+        " IT"
+    ]
+}

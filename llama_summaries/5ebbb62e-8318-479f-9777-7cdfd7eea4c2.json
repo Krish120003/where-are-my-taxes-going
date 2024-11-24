@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-23-01025459",
+    "type": "json",
+    "department": "Shared Services Canada",
+    "procurement_category": "SRV",
+    "short_summary": "TBIPS - Request for Proposal for Security Design Services (SDS) - Tier 2 - PSAB",
+    "description": "This is a long version of TBPIS - request for Proposal for security design services (SDS) - Tier 2 - Contract prescribes sevices for conseulting in security.smart ELSEIG,follow",
+    "estimated_value": 220000,
+    "date_posted": "2023-02-13",
+    "duration_in_months": "(null)",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "national capital region",
+        "security design services",
+        "tier 2",
+        "ccc"
+    ]
+}

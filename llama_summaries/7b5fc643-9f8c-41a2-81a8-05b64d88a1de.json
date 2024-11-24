@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "1829",
+    "type": "json",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "Construction Services",
+    "short_summary": "Re-tendering for a repair job to a retaining wall",
+    "description": "The Green Gables Golf Course requires a repair job to its retaining wall, extension of the project timeline, or if contract timeline is extended.",
+    "estimated_value": 250001,
+    "date_posted": "2022-08-10",
+    "duration_in_months": "?",
+    "provinces": [
+        "Prince Edward Island"
+    ],
+    "tags": [
+        "demolition_construction"
+    ]
+}

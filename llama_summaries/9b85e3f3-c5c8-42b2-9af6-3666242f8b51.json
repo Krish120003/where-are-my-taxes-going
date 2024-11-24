@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "2475",
+    "type": "JSON",
+    "department": "National Defense",
+    "procurement_category": "kinds of equipment",
+    "short_summary": " Multi-media projector requirement",
+    "description": "The Department of National Defense has a requirement for the item detailed below.",
+    "estimated_value": 100.0,
+    "date_posted": "2022-10-14",
+    "duration_in_months": "One year",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "projector",
+        "multimedia"
+    ]
+}

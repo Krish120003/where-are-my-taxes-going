@@ -1,0 +1,28 @@
+{
+    "CONTRACT_ID": "EW076-230653\"/A\"}",
+    "type": "JSON",
+    "department": "Public Works and Government Services",
+    "procurement_category": "SRV",
+    "short_summary": "Entretien des terrains de Yellowknife",
+    "description": "Sous titre: Entretien des terrains de Yellowknife",
+    "estimated_value": 50000,
+    "date_posted": "2023-01-05",
+    "duration_in_months": ">=24months",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "SRV",
+        "RFP",
+        "REQ-PUB",
+        "SUPPLIER",
+        "",
+        "CET1",
+        "CET4",
+        "SLC1",
+        "SLC2",
+        "CST2",
+        ""
+    ]
+}

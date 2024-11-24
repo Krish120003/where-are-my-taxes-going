@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "PW-23-01025299",
+    "type": "Contract",
+    "department": "",
+    "procurement_category": "Service",
+    "short_summary": "Maintain accrual budgeting data model",
+    "description": "The scope is limited to running, providing maintenance, and enhancing the accrual budgeting data model on a monthly basis and supporting in the training of the PWGSC key employees to leverage the accrual budgeting data model. ",
+    "estimated_value": 0,
+    "date_posted": "2023-02-09",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Data analysis,Technical support"
+    ]
+}

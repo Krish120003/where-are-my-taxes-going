@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "4637",
+    "type": "contrat",
+    "department": "MDN",
+    "procurement_category": "GD",
+    "short_summary": "Requisition of various dangerous goods publications to be provided for use by Department of National Defence \u2013 CFB Borden.",
+    "description": "By implementing a Competition FIT (FIT_GDMED) using Ariba Discovery (formerly BidExpress), a selection of competition-restricted goods and services (CRGs) have been excluded from competition. Once a supplier has been selected, they will work with the FMOD to move the new good/service to the competition-open area for future procurements. For compliance with the\u00a0Access to Information Act\u00a0R.S.C., 1985, c A-1 and the\u00a0Privacy Act\u00a0R.S.C., 1985, c P-21, the department has implemented this competitive bidding environment to ensure compliance.",
+    "estimated_value": 599,
+    "date_posted": "2023-03-15",
+    "duration_in_months": "bytes 12",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "dangerous goods publications",
+        "MDN"
+    ]
+}

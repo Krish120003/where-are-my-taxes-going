@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "WS3577210410",
+    "type": "engine maintenance",
+    "department": "PSPC",
+    "procurement_category": "Goods",
+    "short_summary": "AMENDMENT TO CLOSING TIME: Please disregard the Ariba Discovery posting response deadline closing time and Buyandsell posting closing time. All required supporting documentation and bid submission must be submitted on January 27, 2023 by 2h00 PM EST. All bids submitted after 2h00 PM EST will result in the bid being declared non-responsive. Medium Trucks with insulated Aerial Devices.",
+    "description": "The government needs people to provide 25 small-medium trucks operating with aerial devices in order to run electric lines for mines.",
+    "estimated_value": 10.0,
+    "date_posted": "2023-01-27",
+    "duration_in_months": "Yes",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Engine maintenance"
+    ]
+}

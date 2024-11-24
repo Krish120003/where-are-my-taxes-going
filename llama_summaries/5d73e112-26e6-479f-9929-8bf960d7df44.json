@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "MX-443315574962",
+    "type": "json",
+    "department": "CYBER SECURITY",
+    "procurement_category": "*SRV/GD",
+    "short_summary": "CENTRALIZED INCIDENT AND EVENT MANAGEMENT Dutchess County Government seeks RFQ responses",
+    "description": "structures assurance",
+    "estimated_value": 5000000,
+    "date_posted": "2024-11-11",
+    "duration_in_months": "_3",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Cyber Security",
+        "Computing",
+        "maintainence",
+        "support"
+    ]
+}

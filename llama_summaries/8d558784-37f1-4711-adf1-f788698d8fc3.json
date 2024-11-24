@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "2472",
+    "type": "JSON",
+    "department": "Science",
+    "procurement_category": " COMPLETE",
+    "short_summary": "A 3D Measuring Laser Confocal Microscope",
+    "description": "3D Measuring Laser Confocal Microscope",
+    "estimated_value": 25000000.0,
+    "date_posted": "2023-07-15T09:59:28.735000-07:00",
+    "duration_in_months": "12",
+    "provinces": [
+        "Alberta",
+        "Manitoba",
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "3d-laser",
+        "Confocal",
+        "microscope",
+        "government-contract"
+    ]
+}

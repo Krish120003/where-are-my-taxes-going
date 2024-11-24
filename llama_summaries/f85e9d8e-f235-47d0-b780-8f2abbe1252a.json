@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "2529",
+    "type": "contract",
+    "department": "SPPS",
+    "procurement_category": "SRV",
+    "short_summary": "123.5 MILION",
+    "description": "SUMMARY OF WORK ",
+    "estimated_value": 243.56,
+    "date_posted": " August 19, 2022",
+    "duration_in_months": "fifty-two",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "Australia",
+        "Canada",
+        "123",
+        "ABC",
+        "Archaeology",
+        "Paleontology"
+    ]
+}

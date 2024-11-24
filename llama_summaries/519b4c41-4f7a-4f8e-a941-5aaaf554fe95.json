@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "5539",
+    "type": "CONTRACT",
+    "department": "Department of National Defence",
+    "procurement_category": "IND",
+    "short_summary": " cross-service requirements",
+    "description": "Long description of this contract ID 5539.",
+    "estimated_value": 1770000.0,
+    "date_posted": "February  19, 2021",
+    "duration_in_months": "18 ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "contract",
+        "agreement"
+    ]
+}

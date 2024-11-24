@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "3353",
+    "type": "Contract",
+    "department": "Public Works and Services (PSPC)",
+    "procurement_category": "Goods",
+    "short_summary": "Purchase of mobile baggage inspection system",
+    "description": "Mobile Imaging System for radiation-based scanning of vehicles",
+    "estimated_value": 8000,
+    "date_posted": "2022-11-17",
+    "duration_in_months": ".",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "cbta_forfatisco",
+        "hacpac-beta",
+        "hacpackt-winning-group-certain_customer_aa-can",
+        "tic-tong}"
+    ]
+}

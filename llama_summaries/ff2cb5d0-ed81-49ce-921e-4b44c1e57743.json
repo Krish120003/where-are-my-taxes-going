@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "833",
+    "type": "Addendum",
+    "department": "Department of National Defence",
+    "procurement_category": "Goods",
+    "short_summary": "Victoria Class Capstan Spares",
+    "description": "Item 001, GSIN: 4730, NSN: 99-8011529, FITTING,LUBRICATION.Part No.: NA5707-1, NCAGE: U002?Part No.: S454, NCAGE: K6804Part No.: SA967A16, NCAGE: K3531Quantity: 3, Unit of Issue: EA, to be delivered to CFB Esquimalt.",
+    "estimated_value": 500000.0,
+    "date_posted": "2022-10-05",
+    "duration_in_months": "After 6 months",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "submarines",
+        "spares",
+        "goods",
+        "emilitorial"
+    ]
+}

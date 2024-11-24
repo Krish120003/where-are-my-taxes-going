@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "5125",
+    "type": "contract",
+    "department": "independent",
+    "procurement_category": "*",
+    "short_summary": "biomedical and pharmaceutical waste pick-up, transportation and disposal services",
+    "description": "biomedical and pharmaceutical waste collection, transportation and disposal for the correctional service of canada atlantic region",
+    "estimated_value": 1000000,
+    "date_posted": "2023-03-10",
+    "duration_in_months": "49",
+    "provinces": [
+        "New Brunswick",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "biomedical waste",
+        "pharmaceutical waste",
+        "waste management"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "3191",
+    "type": "Procurement_Master_Template",
+    "department": "Defense",
+    "procurement_category": "SRV",
+    "short_summary": "Project Manager",
+    "description": "NOTICE OF PROPOSED PROCUREMENT",
+    "estimated_value": 2.0,
+    "date_posted": "2022-12-06T00:00:00",
+    "duration_in_months": "There are 3 option periods of one year.",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "IT project management consultant",
+        "intergovernmental relations",
+        "program analyst ",
+        "project coordinator ",
+        ", "
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "WS3895230993",
+    "type": "JSON",
+    "department": "Public Workes of Canada",
+    "procurement_category": "*CNST",
+    "short_summary": "General maintenance of armouries in Campbellton, Bathurst and Newcastle",
+    "description": "General maintenance services of labour material and equiment warranty work in active military equipment and armaouries storms water fire extinguishers generator start equipment electrical engineering basic plumbing",
+    "estimated_value": 2000000.0,
+    "date_posted": "2023-02-28",
+    "duration_in_months": "The contract will expire 5 months after award day",
+    "provinces": [
+        "New Brunswick"
+    ],
+    "tags": [
+        "General Maintenance",
+        "Standing Offer"
+    ]
+}

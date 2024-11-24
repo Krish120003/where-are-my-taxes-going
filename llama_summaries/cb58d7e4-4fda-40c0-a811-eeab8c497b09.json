@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "type_integer",
+    "type": "COMPETITIVE-OPEN",
+    "department": "NATIONAL_DEFENCE",
+    "procurement_category": "GOODS",
+    "short_summary": "NOTICE OF PROPOSED PROCUREMENT",
+    "description": "requirement for human machine interface (HMI) for 25 CFSD, Montreal.",
+    "estimated_value": 0.0,
+    "date_posted": "2023-02-21",
+    "duration_in_months": ">1 no data available</1>",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "29-909-312-National Defence"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "s4378111",
+    "type": "SRV",
+    "department": "National Defense",
+    "procurement_category": "SRV",
+    "short_summary": "Temporary Help Services  National Capital Region (NCR)",
+    "description": "Temporary Help Services Requirement for Department of National Defense capacity needs in National Capital Region (NCR) applying Security level TOP SECRET",
+    "estimated_value": 524.47,
+    "date_posted": "2023-04-05",
+    "duration_in_months": "14",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Temporary Personnel Services",
+        "Special Advisor",
+        "Request For Proposal",
+        "Security Tr\u00e9s Secr\u00e8te",
+        "Immigration Details"
+    ]
+}

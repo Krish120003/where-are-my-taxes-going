@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "4909",
+    "type": "stservices-professional-environment-al-impact-assessment-and-ecological-services",
+    "department": "Environmental Services",
+    "procurement_category": "Services Professionnels",
+    "short_summary": "Contract for the supply of professional services in environmental impact assessment and ecological services",
+    "description": "Detailed description of the contract",
+    "estimated_value": 10.5,
+    "date_posted": "Fri, 19 Aug 2016 14:24:59 -0400",
+    "duration_in_months": "12",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Environmental Impact Assessment",
+        "Ecological Services"
+    ]
+}

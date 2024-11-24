@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "PW-23-01020515",
+    "type": "service",
+    "department": "Natural Resources Canada",
+    "procurement_category": "SRV",
+    "short_summary": "environmental services",
+    "description": "So and When Required Services for Various Projects",
+    "estimated_value": 692377.62,
+    "date_posted": "2023-01-09",
+    "duration_in_months": "></month period_of_contract: 2.00 , field_allowed_for_extension: true, languaes: eng/fr, attachemnts: 6, statuts: Expired",
+    "provinces": [
+        "Ontario",
+        "Alberta",
+        "Quebec",
+        "British Columbia",
+        "Saskatchewan"
+    ],
+    "tags": [
+        "requests_for_standing_offers",
+        "environmental_service",
+        "wastewater_management",
+        "housing_materials"
+    ]
+}

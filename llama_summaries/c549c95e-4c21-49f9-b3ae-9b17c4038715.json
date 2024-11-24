@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "4806",
+    "type": "shipprav",
+    "department": "departure",
+    "procurement_category": "procurement_category",
+    "short_summary": "service",
+    "description": "descripit",
+    "estimated_value": 5000,
+    "date_posted": "2021-01-01",
+    "duration_in_months": ",",
+    "provinces": [
+        "Nova Scotia",
+        "Nova Scotia",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "server",
+        "debugging",
+        "reprocheringogenic"
+    ]
+}

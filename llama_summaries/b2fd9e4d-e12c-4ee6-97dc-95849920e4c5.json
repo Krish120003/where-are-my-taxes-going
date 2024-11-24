@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "PW-22-01014939",
+    "type": "AC",
+    "department": "National Defence",
+    "procurement_category": "Goods",
+    "short_summary": "Multiple items of varying colors of face paints for use with camouflage ordering override.",
+    "description": "National Defence has a requirement for face paints in multiple colors. The needs for the products to be delivered to the Canadian Armed Forces Supply Depots in both Montreal, QC (/T) and Edmonton AB (/T).",
+    "estimated_value": 250000,
+    "date_posted": "2022-11-28",
+    "duration_in_months": "24 months",
+    "provinces": [
+        "Alberta",
+        "Quebec"
+    ],
+    "tags": [
+        "Canada",
+        "face paints for camouflage",
+        "Nationale Defence",
+        "Qc",
+        "Alberta"
+    ]
+}

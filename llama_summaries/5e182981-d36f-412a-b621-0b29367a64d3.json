@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-22-01016016",
+    "type": "CONTRACT_NUMBER",
+    "department": "Health Canada",
+    "procurement_category": "***ST-RV",
+    "short_summary": "The Air Health Indicator (AHTI) provides information on how health risks from short-term exposures to air ",
+    "description": "This project will extend current AHTI in two areas: study areas (census divisions) and advanced model on trend detection. The AHTI measures day-to-day changes in non-accidental deaths and hospital admissions...",
+    "estimated_value": 400000,
+    "date_posted": "2022-12-05",
+    "duration_in_months": ")[214, ",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Air Health Indicator (AHTI)",
+        ""
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "< *** BASE 64 ENCODED *****>",
+    "type": " Requester",
+    "department": "Service Partage",
+    "procurement_category": "SRVTGD",
+    "short_summary": " HPE 3PAR \u2013 StoreServ 6700 or equivalent",
+    "description": " HPE 3PAR \u2013 StoreServ 6700 or equivalent to assist with current storage infrastructure at legacy data centers",
+    "estimated_value": 25000000.0,
+    "date_posted": "2022-08-30",
+    "duration_in_months": "24",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "British Columbia"
+    ],
+    "tags": [
+        "automatic data processing",
+        "storage"
+    ]
+}

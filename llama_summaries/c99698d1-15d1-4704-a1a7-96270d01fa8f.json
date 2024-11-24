@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "1478",
+    "type": "auc_aclord_andds_material_api_id_209429-3",
+    "department": "ENR",
+    "procurement_category": "Office Supplies",
+    "short_summary": "Loi to no QC",
+    "description": " ",
+    "estimated_value": 1500.0,
+    "date_posted": "20230117",
+    "duration_in_months": "N/A",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "Alberta"
+    ],
+    "tags": [
+        "Energy",
+        "Auctions"
+    ]
+}

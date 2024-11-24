@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "281",
+    "type": "Construction Interest",
+    "department": "Trade Resources",
+    "procurement_category": "Services",
+    "short_summary": "3PAR Appliance Maintenance and Support Renewal",
+    "description": "This is a renewal contract for the maintenance and support of 3PAR appliance for the period of 3 years.",
+    "estimated_value": 500000.0,
+    "date_posted": "2024-02-28",
+    "duration_in_months": "36 months",
+    "provinces": [
+        "Ontario",
+        "British Columbia",
+        "Quebec"
+    ],
+    "tags": [
+        "contract",
+        "renewal",
+        "maintenance",
+        "support"
+    ]
+}

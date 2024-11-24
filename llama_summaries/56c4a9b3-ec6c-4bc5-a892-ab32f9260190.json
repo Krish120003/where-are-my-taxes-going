@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": ":",
+    "type": "CBSA",
+    "department": "Department of Public Works and Government Services (PSPC)",
+    "procurement_category": "*SRV",
+    "short_summary": "RISO Boiler Maintenance for Debert Area",
+    "description": "Boiler maintenance service",
+    "estimated_value": 25000,
+    "date_posted": "]==",
+    "duration_in_months": "",
+    "provinces": [
+        "Nova Scotia"
+    ],
+    "tags": [
+        "RISO Boiler Maintenance for Debert Area",
+        "OCIR Entretien de chaudi\u00e8res pour la r\u00e9gion de Debert",
+        "Boiler maintenance service",
+        "CBSA"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "cb-826-66951316",
+    "type": "plumbing-repairs",
+    "department": "Environment and Climate Change Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Minor plumbing repairs and service to facilities equipment",
+    "description": "The objectives are to complete minor plumbing repairs and service to the facility equipment at the Environment and Climate Change Canada (ECCC) site",
+    "estimated_value": 50000,
+    "date_posted": "2024-11-21",
+    "duration_in_months": "Yes",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "plumbing",
+        "heating",
+        "air-conditioning"
+    ]
+}

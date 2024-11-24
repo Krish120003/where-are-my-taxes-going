@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "$remaining number of stages left \\/ Tpsgc-pwgsc \\/ id",
+    "type": "Contract",
+    "department": "Indigenous Services (ISC)",
+    "procurement_category": "SRV",
+    "short_summary": "Tele Health Services",
+    "description": "Note for internal reason the location of a reloan of equipment",
+    "estimated_value": 3426000,
+    "date_posted": "2023/03/8 \\/ TODO: find what 2023/03/8 represents in our database,best bet could be the posting date",
+    "duration_in_months": "No required",
+    "provinces": [
+        "Alberta",
+        "Quebec",
+        "Manitoba",
+        "Ontario"
+    ],
+    "tags": [
+        "Low earth orbit",
+        "high earth orbit"
+    ]
+}

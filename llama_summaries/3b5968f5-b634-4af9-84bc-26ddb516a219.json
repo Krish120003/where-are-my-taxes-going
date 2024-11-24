@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "W8485-184741 Series",
+    "type": "supply arragement",
+    "department": "Defense",
+    "procurement_category": "Goods",
+    "short_summary": "The Department of National Defence is seeking the acquisition of aviation replacement parts for the CC138 Twin Otter.",
+    "description": "Notice of Proposed Procurement (NPP)\",",
+    "estimated_value": 5000,
+    "date_posted": "2022-09-29",
+    "duration_in_months": "1-3",
+    "provinces": [
+        "Ontario",
+        "Alberta"
+    ],
+    "tags": [
+        "Defense",
+        "Aviation",
+        "Components",
+        "Parts",
+        "Twin Otter",
+        "Canada"
+    ]
+}

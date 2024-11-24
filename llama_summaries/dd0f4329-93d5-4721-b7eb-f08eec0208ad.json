@@ -1,0 +1,27 @@
+{
+    "CONTRACT_ID": "3237",
+    "type": "PurchaseRequest",
+    "department": "Justice and Solicitor General",
+    "procurement_category": "35 - Information and Communication Technology",
+    "short_summary": "This RFP is for procurement of an office software program.  The vendor will be required to provide a fully functional  software program which is on a 'live or die on it's merits' basis.  The licensed software must be site licensed with all necessary hardware & software interface, and must be protected  by a school-enterprise 2.0 Microsoft EDA.",
+    "description": "The Department of Justice and Attorney General seeks a Centralized Computer Single Solution (CCSS) for developing information and document centre for Cen, IS and Legal (I.S.) for i.e. Training Rm;, Kadstone & Yeracook buildings.  This requirement can be met through a single vendor or a combination of vendors.",
+    "estimated_value": 318000,
+    "date_posted": "2012-04-24",
+    "duration_in_months": "],[",
+    "provinces": [
+        "Alberta",
+        "Manitoba",
+        "New Brunswick",
+        "Newfoundland and Labrador",
+        "Ontario",
+        "Nova Scotia",
+        "Saskatchewan",
+        "Saskatchewan",
+        "Yukon"
+    ],
+    "tags": [
+        "4813 - Office Software",
+        "classification_systems_used:- 1000a",
+        "group_id_text"
+    ]
+}

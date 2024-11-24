@@ -1,0 +1,29 @@
+{
+    "CONTRACT_ID": "329",
+    "type": "IT and data processing services",
+    "department": "NRCan Fuels Diversification Division",
+    "procurement_category": "SRV",
+    "short_summary": "Development and implementation of a Grants and Contributions Solution",
+    "description": "To provide Informatics Professional Services (SPICS) for the client in developing and implementing a grants and contributions solution. Description of Work: The client is looking for Consulting Services for Informatics for the development and implementation of a grants and contributions solution. The client is seeking services to develop and implement a grants and contributions management system for NRCan",
+    "estimated_value": 500000,
+    "date_posted": "2022-10-25",
+    "duration_in_months": ".expected.Contract.duration",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "informatics",
+        "grants and contributions",
+        "Natural Resources Canada",
+        "Request for Proposal",
+        "RFP",
+        "Competitive Bidding",
+        "National Capital Region",
+        "Separate Bid Process",
+        "Request for Quotation",
+        "RFQ",
+        "Procurement Category: IT and Data Processing Services",
+        " Open To All Suppliers",
+        "Global Tender"
+    ]
+}

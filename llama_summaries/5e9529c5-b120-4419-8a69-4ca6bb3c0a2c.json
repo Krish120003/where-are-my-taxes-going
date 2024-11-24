@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "1840",
+    "type": "submissionResponse",
+    "department": "Public Works and Government Services (PSPC)",
+    "procurement_category": "SRV",
+    "short_summary": "summary",
+    "description": " This document...",
+    "estimated_value": 4200000.0,
+    "date_posted": "2023-03-14",
+    "duration_in_months": "12 month(s)",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Ministry of Public Works and Government Services (SPSC)"
+    ]
+}

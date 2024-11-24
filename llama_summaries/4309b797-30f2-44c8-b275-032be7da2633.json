@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "CFA-2023-01015",
+    "type": "CDB",
+    "department": "Health",
+    "procurement_category": "*SRV",
+    "short_summary": "The purpose of the Request for proposal is to upgrade the Cyber Security of network infrastructures supporting the tagging program for grain imports and to future proof the existing system as the technology in the field is rapidly changing thats why the tagging program should also be improved to stay competitive in the global market.",
+    "description": "the only description",
+    "estimated_value": 10000,
+    "date_posted": "2023-05-23",
+    "duration_in_months": "]",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Cyber Security",
+        "Food Safety",
+        "Health and Safety"
+    ]
+}

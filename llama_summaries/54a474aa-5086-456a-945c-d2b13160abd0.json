@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "1234567890",
+    "type": " tender",
+    "department": "Agriculture",
+    "procurement_category": "multi-product",
+    "short_summary": "Supply and delivery of potato two-row power hiller.",
+    "description": ", ",
+    "estimated_value": 20,
+    "date_posted": "2022-01-01",
+    "duration_in_months": "But possibly longer",
+    "provinces": [
+        "Manitoba"
+    ],
+    "tags": [
+        "agriculture",
+        "potatoes",
+        "equipment"
+    ]
+}

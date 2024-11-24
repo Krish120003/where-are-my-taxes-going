@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "NW-2022-0000100",
+    "type": "CONTRACT",
+    "department": "NW FISCAL REGIONAL DIRECTORATE",
+    "procurement_category": "SRV",
+    "short_summary": "Snow removal service at the Laurentian Forestry Centre",
+    "description": "The service providers will be responsible for removing snow, providing salt service, and any other services related to snow management during the service period of the spring thaw and winter. If the temperatures fall, the snow management period can extend beyond the initial planned service period. A site visit can be conducted at the request of the service provider, if approved.",
+    "estimated_value": 100000,
+    "date_posted": "2022-11-08",
+    "duration_in_months": "I the first year, 3 months of snow removal services at the Laurentian Forestry Centre to be provided from November 1st, 2022 to January 31st, 2023. Then in subsequent years, 4 months of snow removal services from November 1st to March 31st.",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "contract",
+        "service",
+        "snow_removal"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "4961",
+    "type": "'contract update to forex benchmark'",
+    "department": "finance ",
+    "procurement_category": "procurement procurnment procurnment ",
+    "short_summary": "some text goes here ",
+    "description": "this is a detailed descriprion",
+    "estimated_value": 10,
+    "date_posted": "20230221",
+    "duration_in_months": "No Limit",
+    "provinces": [
+        "Ontario",
+        "Newfoundland and Labrador"
+    ],
+    "tags": [
+        "investment",
+        "retail",
+        "banking"
+    ]
+}

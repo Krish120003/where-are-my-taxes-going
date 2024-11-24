@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "WS-397138-NASA-2024-BLACKDOWN-CADET",
+    "type": "Contract",
+    "department": "National Defense",
+    "procurement_category": "Services",
+    "short_summary": "Blackdown Cadet Training Center",
+    "description": "this is a contract for the food service provider the Blackdown Cadet Training Center.",
+    "estimated_value": 100.0,
+    "date_posted": "2023-05-07",
+    "duration_in_months": "CLOSED",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "Manitoba"
+    ],
+    "tags": [
+        "contract",
+        "services"
+    ]
+}

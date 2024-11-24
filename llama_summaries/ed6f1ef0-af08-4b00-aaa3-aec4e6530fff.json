@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "4424",
+    "type": "-----helping_with_json_formatting-----",
+    "department": "*",
+    "procurement_category": "SRV",
+    "short_summary": "Digital econonomy",
+    "description": "This needs a full description",
+    "estimated_value": 21994.0,
+    "date_posted": "2023-02-20",
+    "duration_in_months": "You will need to tap 5",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "digital economy",
+        "public services",
+        "procurement management",
+        "construction"
+    ]
+}

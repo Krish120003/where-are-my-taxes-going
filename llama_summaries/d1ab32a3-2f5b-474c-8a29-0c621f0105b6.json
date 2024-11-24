@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "10212437",
+    "type": "ELEMENT_TYPE_ID",
+    "department": "heritage",
+    "procurement_category": "Supply Service",
+    "short_summary": "Tents and floors",
+    "description": "Establish standing offers for the rental and installation of tents and floors",
+    "estimated_value": 850000.0,
+    "date_posted": "2022-12-21",
+    "duration_in_months": "12",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Readiness and Response",
+        "Infrastructure and Transportation"
+    ]
+}

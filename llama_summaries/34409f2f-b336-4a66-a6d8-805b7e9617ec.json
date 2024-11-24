@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "SSC-23-00013305:T",
+    "type": "request",
+    "department": "IT",
+    "procurement_category": "Goods",
+    "short_summary": "Supplier is required to provide origami services.",
+    "description": "Supplier is goodwill towards legal principles and perform necessary origami, including origami involving childcare services then manufacturing activities.",
+    "estimated_value": 5100,
+    "date_posted": "2023-04-24",
+    "duration_in_months": ">(self.calculate_duration(",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Public Posting"
+    ]
+}

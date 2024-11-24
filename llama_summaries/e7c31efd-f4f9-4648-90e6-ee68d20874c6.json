@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-23-01020308",
+    "type": ".Server",
+    "department": " Canada.",
+    "procurement_category": ".*GD",
+    "short_summary": "Request for Proposal.*/gps_time",
+    "description": "GPS Time Server.",
+    "estimated_value": 12,
+    "date_posted": "2023-01-06",
+    "duration_in_months": "Yes",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "N6645BJ",
+        "Clocks",
+        "Time Control"
+    ]
+}

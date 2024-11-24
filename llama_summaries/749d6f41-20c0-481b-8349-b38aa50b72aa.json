@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "NRCan-5000071342",
+    "type": "NPP",
+    "department": "Natural Resources Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Need Geospatial data visualization and mobile expertise from multiple TBIPS Streams and Categories for NRCan. ",
+    "description": "The objective of this requirement is to obtain the professional services of multiple IM/IT resources, from various TBIPS Streams and Categories, to support tasks related to geospatial data visualization and mobile expertise. These resources will further assist NRCan in the development of a simple and flexible viewer to display and analyze geospatial data from their metadata catalog on a map with extended functionalities. This notice is a Request for Proposal (RFP) and mandatory security screening will be required. ",
+    "estimated_value": 2000000,
+    "date_posted": "20221216",
+    "duration_in_months": "For the entire contract",
+    "provinces": [
+        "Ontario",
+        "Nunavut"
+    ],
+    "tags": [
+        "Computer Science and Information Technologies",
+        "Infrastructure and Transportation Services"
+    ]
+}

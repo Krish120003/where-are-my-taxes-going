@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "W8486-238778",
+    "type": "contract",
+    "department": "deparment of national defense",
+    "procurement_category": "General",
+    "short_summary": "Request for proposal",
+    "description": "",
+    "estimated_value": 2000.0,
+    "date_posted": "2022-08-17",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Quebec",
+        "Alberta"
+    ],
+    "tags": [
+        "Health and safety",
+        "logistic",
+        "inspection"
+    ]
+}

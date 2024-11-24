@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "3445",
+    "type": "purchase",
+    "department": "national defence",
+    "procurement_category": "other",
+    "short_summary": "purchase of supplies",
+    "description": "establish approval process for",
+    "estimated_value": 340,
+    "date_posted": "2020-10-27",
+    "duration_in_months": "You dont have answer for duration",
+    "provinces": [
+        "Ontario",
+        "British Columbia"
+    ],
+    "tags": [
+        "national defence",
+        "purchase supplies"
+    ]
+}

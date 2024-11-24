@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "4355",
+    "type": "government_contract",
+    "department": "Public Works and Government Services",
+    "procurement_category": "goods",
+    "short_summary": "Handheld Direction Finding Antenna Kits",
+    "description": "AMENDMENT TO CLOSING TIME:...",
+    "estimated_value": 50000,
+    "date_posted": "2023-01-17",
+    "duration_in_months": "use builtin script to automatically calculate duration 3  with dependents",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "television antennas",
+        "handheld direction finding antenna",
+        "government contract"
+    ]
+}

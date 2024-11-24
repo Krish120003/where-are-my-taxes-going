@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "cb-685-3876001",
+    "type": "SERVICE",
+    "department": "Agriculture",
+    "procurement_category": " Goods",
+    "short_summary": "Steam Sterilizers",
+    "description": "<?xml version='1.0' encoding='UTF-8'?><opensps:config_doc version='1.1'><title><text>CanBien</text></title></opensps:config_doc>",
+    "estimated_value": 37895.17,
+    "date_posted": "2024-10-18",
+    "duration_in_months": "5",
+    "provinces": [
+        "Manitoba"
+    ],
+    "tags": [
+        "Steam Sterilizers",
+        "autoclaves",
+        "equipment",
+        "biotech"
+    ]
+}

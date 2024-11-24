@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "2002",
+    "type": "CONTRACT",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "SRV",
+    "short_summary": "BSkin Inventory Assessment",
+    "description": "This contract is for the GO Canada operations, maintenance, and engineering",
+    "estimated_value": 2350000.0,
+    "date_posted": "2022-09-01",
+    "duration_in_months": "Lifetime",
+    "provinces": [
+        "Quebec",
+        "Manitoba",
+        "Northwest Territories",
+        "Nunavut"
+    ],
+    "tags": [
+        "Contract",
+        "Purchase Order",
+        "Canadian Government",
+        "Open Biding"
+    ]
+}

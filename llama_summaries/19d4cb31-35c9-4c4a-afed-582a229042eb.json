@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "109",
+    "type": "json",
+    "department": "defence",
+    "procurement_category": "construction",
+    "short_summary": "The contract will involve",
+    "description": "REHABILITATE RUNWAY 12-30 14 WING GREEENWOOD, NS",
+    "estimated_value": 17850000.0,
+    "date_posted": "2023-02-09",
+    "duration_in_months": "N/A",
+    "provinces": [
+        "Nova Scotia"
+    ],
+    "tags": [
+        "Rehabilitation",
+        "runway",
+        "asphalt",
+        "repavement",
+        "pavement",
+        "lighting",
+        "security",
+        "military",
+        "defense"
+    ]
+}

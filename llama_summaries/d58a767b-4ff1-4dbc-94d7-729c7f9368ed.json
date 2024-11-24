@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "281",
+    "type": "Directed Contract",
+    "department": "Correction Service Canada",
+    "procurement_category": "Construction",
+    "short_summary": "The Correctional Service Canada, Ontario Region, Kingston, wishes to procure: *Roofing service, installation and repair for toit replacement in the Stone Gables Building, according to specifications; Ice and water shield on all eaves, valleys, and chimneys.",
+    "description": "The Correctional Service of Canada requires the services of a qualified roofing contractor.",
+    "estimated_value": 1000000,
+    "date_posted": "2024-11-15",
+    "duration_in_months": "Il s'agit d'une dur\u00e9e de 1 an. ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Roofing",
+        "Service",
+        "Construction",
+        "Installation",
+        "Repair",
+        "Toiture",
+        "Stone Gables ",
+        "Ice and water shield",
+        "chimneys "
+    ]
+}

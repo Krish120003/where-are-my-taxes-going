@@ -1,0 +1,31 @@
+{
+    "CONTRACT_ID": "${referenceNumber-numeroReference}PW-23-01026314",
+    "type": "classified",
+    "department": "agriculture and agri-food canade",
+    "procurement_category": "*SRVTGD",
+    "short_summary": "",
+    "description": " 5 year services agreement, preventive maintenance support plan, maintence and repair of 5 steris autoclaves",
+    "estimated_value": 10000.0,
+    "date_posted": "2023-02-17",
+    "duration_in_months": "in_progress",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "canada-honduras free trade agreement",
+        "canada-chile free trade agreement",
+        "world trade organization agreement on government procurement",
+        "canada-uk trade continuity agreement",
+        "canada-ukraine free trade agreement",
+        "canada-peru free trade agreement",
+        "canada-panama free trade agreement",
+        "canada-colombia free trade agreement",
+        "canada-korea free trade agreement",
+        "canada-colombia free trade agreement",
+        "world trade organization agreement on government procurement",
+        "lab equipment and suppliees",
+        "gi16.14",
+        "medical-equipmountequipe-m\u00e9dicale",
+        " agriculture and agri-food canada"
+    ]
+}

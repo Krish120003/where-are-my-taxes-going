@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": ":{",
+    "type": "CONTRACT_ID",
+    "department": "Information_Technology",
+    "procurement_category": " Service",
+    "short_summary": "Update payment services exception",
+    "description": "Ser vice tracking sub-contractor details for secure payment at Maritime area",
+    "estimated_value": 200000,
+    "date_posted": "2020-08-27",
+    "duration_in_months": "default: 1 month",
+    "provinces": [
+        "Nova Scotia"
+    ],
+    "tags": [
+        " IT, infrastructure, maritime empire, Project management"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-23-01025825",
+    "type": "SMART BUILDING PROGRAM CONTRACT",
+    "department": "National Defence",
+    "procurement_category": "*SRV",
+    "short_summary": "Smart Building Program, Standing Offer - Quebec",
+    "description": "This contract is for the provision of ",
+    "estimated_value": 1400000,
+    "date_posted": "02-13-2023",
+    "duration_in_months": "24",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Government Contract",
+        "SMART BUILDING PROGRAM",
+        "CONSTRUCTION"
+    ]
+}

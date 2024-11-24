@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "{referenceNumber-numeroReference}",
+    "type": "notice",
+    "department": "Parks Canada",
+    "procurement_category": "CNST",
+    "short_summary": "The Department of Parks Canada has a requirement to supply logs and construct a check dam in a highly active landslide within the boundaries of Glacier National Park.",
+    "description": "The Department of Parks Canada has a requirement to supply logs and construct a check dam in a highly active landslide within the boundaries of Glacier National Park. All interested suppliers must be pre-qualified before their bid will be considered. Pacific Corridor never subject to limit Firm Price bids.",
+    "estimated_value": 200000,
+    "date_posted": "2023-04-06",
+    "duration_in_months": "Fifteen",
+    "provinces": [
+        "British Columbia"
+    ],
+    "tags": [
+        "Timber",
+        "Drainage",
+        "Check Dam",
+        "Glacier National Park"
+    ]
+}

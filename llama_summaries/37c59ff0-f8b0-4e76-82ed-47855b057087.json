@@ -1,0 +1,25 @@
+{
+    "CONTRACT_ID": "WS3662757313",
+    "type": "json",
+    "department": "ministry-of-public-works",
+    "procurement_category": "cnst (construction services)",
+    "short_summary": "Underground utility work, CFB Suffield, cost $blank",
+    "description": " <----------insert description here---------->",
+    "estimated_value": 0,
+    "date_posted": "2022-12-06",
+    "duration_in_months": "18",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "construction services",
+        "public works",
+        "suffield",
+        "confederate bases",
+        "ralston",
+        "utility work",
+        "dnd",
+        "underground utility",
+        "canada"
+    ]
+}

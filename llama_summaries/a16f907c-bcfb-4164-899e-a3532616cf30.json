@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "1070",
+    "type": "Reverse auction",
+    "department": "Department of National Defense",
+    "procurement_category": "General Defense",
+    "short_summary": "Pro Display XDR Monitors and peripherals or equivalent",
+    "description": " Department of National Defense has a requirement for Pro Display XDR monitors and peripherals or equivalent, as per the List of Deliverables in the Request for Quotation.",
+    "estimated_value": 1000000.0,
+    "date_posted": "2022-11-16",
+    "duration_in_months": "12",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "pro-display-xdr",
+        "Monitors",
+        "peripherals"
+    ]
+}

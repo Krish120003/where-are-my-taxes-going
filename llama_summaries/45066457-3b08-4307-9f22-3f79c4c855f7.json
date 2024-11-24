@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "2BP2-125689",
+    "type": " Contract",
+    "department": "Department of National Defence",
+    "procurement_category": "Services",
+    "short_summary": "Leasing of a production printer for DND",
+    "description": "This Contract is for the supply, delivery, and installation of the equipment, as well as the necessary training, in English, to allow users to access all of the required features of the equipment",
+    "estimated_value": 2000,
+    "date_posted": "01/16/2023",
+    "duration_in_months": "hpc pencil general_rationale_loan_period concurrent_degree_sub_grade_contract duration_in_months lc",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "printer",
+        "lease",
+        "DND",
+        "2BP2-125689"
+    ]
+}

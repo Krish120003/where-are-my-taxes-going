@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PEIG-13356",
+    "type": "tender contract",
+    "department": "Health PEI",
+    "procurement_category": "Goods and Services",
+    "short_summary": "Integrated Menu System \u2013 Nutritional Services",
+    "description": "The Nutrition Services Departments at the Queen Elizabeth Hospital (QEH) & Prince County Hospital (PCH) require a solution to assist staff in serving and meeting the dietary needs of the hospital patients.",
+    "estimated_value": 45390,
+    "date_posted": "2023-02-08",
+    "duration_in_months": "ISSUE DATE ENDDATE",
+    "provinces": [
+        "Prince Edward Island"
+    ],
+    "tags": [
+        "Integrated Menu System",
+        "Nutritional Services",
+        "GDS Procurement",
+        "Encoded UNSPSC term"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "3207",
+    "type": "object",
+    "department": "Transport Canada",
+    "procurement_category": "Goods",
+    "short_summary": "For the purchase, delivery and installation of 210 tablet chairs to Ottawa, ON",
+    "description": "Transport Canada has purchased in the past 210 tablet chairs from 5 suppliers. These chairs were purchased for use in panel and tribunal meetings.",
+    "estimated_value": 15000.0,
+    "date_posted": "2022-12-06",
+    "duration_in_months": ":{",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "furniture",
+        "office",
+        "meeting chairs",
+        "contract"
+    ]
+}

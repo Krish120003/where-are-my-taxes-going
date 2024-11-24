@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-23-01026116",
+    "type": "contract",
+    "department": "fsmpsc",
+    "procurement_category": "SRV",
+    "short_summary": "KAIROS Blanket Exercise for the Canada School of Public Service",
+    "description": " Reach reconciliation in daily activities",
+    "estimated_value": 88000.0,
+    "date_posted": "2023-02-16",
+    "duration_in_months": ">=[12, 20]",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Indigenous",
+        "training",
+        "reconciliation"
+    ]
+}

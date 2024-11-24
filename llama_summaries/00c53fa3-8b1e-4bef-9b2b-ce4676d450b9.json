@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "1618",
+    "type": "",
+    "department": "Scientific Equipment",
+    "procurement_category": "*GD",
+    "short_summary": "Purchase of Automated Cell Viability Analyzer.",
+    "description": "The process intensification team (PIT) is developing cell culture processes using ambr15 high throughput, 48 parallel microbioreactors system, either for CHO cells producing antibodies or HEK 293 cells for viral vectors. To follow-up the cell growth, cell density and cell viability need to be determined by an automated cell analyzer using the trypan blue dye exclusion method. The cell analyzer is integrated to ambr15TM-48C equipment. This allows the communication between both equipment in order to do the sampling of microbioreactors by the ambr15 liquid handler and to determine the viability and cell count by cell analyzer. Despite the fact that the automated cell viability analyzer is integrated to ambr15, the analyzer must also allow for utilization in standalone mode for offline samples processing. The controlled parameters of microbioreactors must be maintained during standalone processing.",
+    "estimated_value": 0,
+    "date_posted": "{2024-11-21}",
+    "duration_in_months": "[3]",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "International",
+        "CDN Contr"
+    ]
+}

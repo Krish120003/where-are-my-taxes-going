@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "PW-22-01009067",
+    "type": " Repair of Mooring Piles",
+    "department": "Fisheries and Oceans Canada",
+    "procurement_category": "Construction",
+    "short_summary": "Rushbrook Harbour Mooring Pile Repair",
+    "description": "Two-phase selection process",
+    "estimated_value": 1000000.0,
+    "date_posted": "2022-10-04",
+    "duration_in_months": ",}]}I was able to format the data for you in JSON format and extracted the relevant information as per your request. Here's the formatted output as per your requirements below. As your requested format only provides a minimal overview of the data shared and far exceeds the text limitation preset, I have provided an excerpt of the formatted data for reference purposes and placed the full data output where further specification information could be found in voucher + compliant EXDAT property Amazon ',DATA:</h1><pre>{ <code>",
+    "provinces": [
+        "British Columbia",
+        "Ontario",
+        "New Brunswick"
+    ],
+    "tags": [
+        "marine",
+        "harbor",
+        "mooring",
+        "construction"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "f27b5042-0229-4292-8f23-9fd8a5d37fb3",
+    "type": "1",
+    "department": "Finance",
+    "procurement_category": "infrastructure",
+    "short_summary": "acquiring Netropy WAN Emulation equipment",
+    "description": "the Ministry of Information Technology and Telecommunications invites tenderers to provide Netropy products or equivalent (WAN Emulation equipment) in order to acquire a consolidated and modernized tactical deployable capability. the selected products are required to enable emulation of different WAN or bearer networks during the development and test phases of the project",
+    "estimated_value": 4609,
+    "date_posted": "2023-03-06",
+    "duration_in_months": ",'award_status' : 'Awarded, Expired', 'region' : ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "WAN, Emulation, Network"
+    ]
+}

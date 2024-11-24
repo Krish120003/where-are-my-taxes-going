@@ -1,0 +1,27 @@
+{
+    "CONTRACT_ID": "MA021-220134-WS3975274319",
+    "type": "Contract",
+    "department": "Public Works and Government Services Canada",
+    "procurement_category": "Goods",
+    "short_summary": "MA021-220134 Scaffolding Components",
+    "description": "scaffolding components",
+    "estimated_value": 10000,
+    "date_posted": "2023-05-10",
+    "duration_in_months": ">=2 years",
+    "provinces": [
+        "Quebec",
+        "Nova Scotia",
+        "Newfoundland and Labrador"
+    ],
+    "tags": [
+        "Standing Offer",
+        "Goods",
+        "Scaffolding Components",
+        "Canada",
+        "Public Works and Government Services Canada",
+        "Nova Scotia",
+        "Newfoundland and Labrador",
+        "Quebec",
+        "Marine Atlantic Inc."
+    ]
+}

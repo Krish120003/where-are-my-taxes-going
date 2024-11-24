@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "WS3814160032-Doc3814180216",
+    "type": "title-titre-eng",
+    "department": "title-titre-fra",
+    "procurement_category": "procurementCategory-categorieApprovisionnement",
+    "short_summary": "referenceNumber-numeroReference",
+    "description": "procurementMethod-methodeApprovisionnement-eng",
+    "estimated_value": 0.0,
+    "date_posted": "publicationDate-datePublication",
+    "duration_in_months": "I_specific contract details as specified in the tender,",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Contract Opportunity Notice",
+        "Invitation to Qualify",
+        "Competitive - Selective tendering"
+    ]
+}

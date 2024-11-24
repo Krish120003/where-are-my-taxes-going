@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "title-titre-eng",
+    "type": ", strings,unspsc,unspscDescription,regionsOfChance,regionsOfDelivery",
+    "department": "contractingEntityName",
+    "procurement_category": "procurementCategory",
+    "short_summary": "tenderDescription-descriptionAppelOffres-eng",
+    "description": "tenderDescription-descriptionAppelOffres-fr",
+    "estimated_value": 100000,
+    "date_posted": "publicationDate-datePublication",
+    "duration_in_months": "expectedContractStartDate-dateDebutContratPrevue-6 expectedContractEndDate-dateFinContratPrevue",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "free_trade_agreement"
+    ]
+}

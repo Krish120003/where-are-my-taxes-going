@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "1277",
+    "type": "federal",
+    "department": " NRCCAN",
+    "procurement_category": "service",
+    "short_summary": "Air conditing",
+    "description": "The contractor must provide air conditioning installation services for temperature control in the laboratories. This includes initial installation, maintenance, repair, and replacement of air cooling systems.",
+    "estimated_value": 50000,
+    "date_posted": "2019-11-12",
+    "duration_in_months": "60",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "service"
+    ]
+}

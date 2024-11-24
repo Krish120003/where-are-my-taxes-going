@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "1016",
+    "type": "json",
+    "department": "Scientific",
+    "procurement_category": "Goods",
+    "short_summary": "Current Measuring System",
+    "description": "Laboratory and Scientific Equipment, Parts and Accessories, Services and Supplies",
+    "estimated_value": 2014.66,
+    "date_posted": "12/2022",
+    "duration_in_months": "-",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Laboratory",
+        "Scientific",
+        "Equipment",
+        "Supplies",
+        "General Award"
+    ]
+}

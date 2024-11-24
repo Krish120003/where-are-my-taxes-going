@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "SSC-23-00022836:T",
+    "type": "Advance Contract Award Notice",
+    "department": "Shared Services Canada",
+    "procurement_category": "Goods and services",
+    "short_summary": "To purchase a Process Simulation Software - lease the ARENA Process Simulator licenses from SimWell",
+    "description": "The client intends to lease the ARENA process simulator licenses from SimWell for a period of one year. The software will be used to enhance the operational strategies of the Client Support Center of Immigration, Refugees and Citizenship Canada (CSC). The software will enable the generation of models and simulation that will allow the CSC to assess the risks and impacts of changes in volumes. The software will be accessed through the P2P portal.",
+    "estimated_value": 300,
+    "date_posted": "2023-05-26",
+    "duration_in_months": "12",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "computation",
+        "software",
+        "simulation"
+    ]
+}

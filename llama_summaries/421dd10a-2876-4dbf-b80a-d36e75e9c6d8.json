@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "3263",
+    "type": "a",
+    "department": "Administration",
+    "procurement_category": "Service",
+    "short_summary": "Short summary",
+    "description": "Longer description",
+    "estimated_value": 1000,
+    "date_posted": "Wed Dec 22 00:00:00 2021",
+    "duration_in_months": ";P100D",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "Alberta"
+    ],
+    "tags": [
+        "key word",
+        "second key word",
+        "third key word 1",
+        "third key word 2"
+    ]
+}

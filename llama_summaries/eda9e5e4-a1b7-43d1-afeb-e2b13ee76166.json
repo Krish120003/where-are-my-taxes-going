@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "PW-22-01009443",
+    "type": "ACAN",
+    "department": "Environmental Health and Safety",
+    "procurement_category": "SRV",
+    "short_summary": "A technical requirement to conduct  surveys and re-assessment of hazardous materials in 60 buildings.",
+    "description": "Evaluating previously assessed hazardous materials with residue requires a contractor with relevant skills to assess sampling and contamination risk as customers of these findings will make decisions based on this data.",
+    "estimated_value": 6218,
+    "date_posted": "2022-10-06",
+    "duration_in_months": "2",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Hazardous substance",
+        "building related",
+        "Montreal Campus",
+        "NRC"
+    ]
+}

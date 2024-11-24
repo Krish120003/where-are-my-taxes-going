@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "PW-22-01009237",
+    "type": "Requisition",
+    "department": "Veterans Affairs Canada",
+    "procurement_category": "*GD",
+    "short_summary": "Purchase of a certain quantity of office chairs required.",
+    "description": "Purchase, delivery, and installation of rotary chairs",
+    "estimated_value": 100,
+    "date_posted": "2022-10-05",
+    "duration_in_months": ":[[",
+    "provinces": [
+        "Prince Edward Island"
+    ],
+    "tags": [
+        "Office seating, University"
+    ]
+}

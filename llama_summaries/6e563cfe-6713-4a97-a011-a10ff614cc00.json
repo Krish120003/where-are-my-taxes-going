@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "31206-232517",
+    "type": "order",
+    "department": "Public Works and Government Services",
+    "procurement_category": "Procurement of goods and services",
+    "short_summary": "\u9700\u6c42",
+    "description": "SWIR HSI camera with an object field illumination unit",
+    "estimated_value": 250000,
+    "date_posted": "Fri Sep 30 16:02:26 2022",
+    "duration_in_months": "mathutils.months_eu \u30fb mathutils.new \u6c42",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "SWIR HSI Camera",
+        "object field illumination unit",
+        "HSI camera",
+        " Public Works and Government Services",
+        "Procurement of goods and services",
+        "Cam\u00e9ras de surveillance",
+        " Inspection camera"
+    ]
+}

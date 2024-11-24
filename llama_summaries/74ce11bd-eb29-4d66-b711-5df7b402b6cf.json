@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "5312",
+    "type": "contract_id",
+    "department": "5312",
+    "procurement_category": "service",
+    "short_summary": "SERVICE DESCRIPTION",
+    "description": "FULL DESCRIPTION",
+    "estimated_value": 123,
+    "date_posted": "2023-01-01",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "tag1",
+        "tag2"
+    ]
+}

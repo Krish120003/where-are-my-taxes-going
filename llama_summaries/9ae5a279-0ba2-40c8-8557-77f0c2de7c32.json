@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "3460",
+    "type": "Contract",
+    "department": "Department of National Defence",
+    "procurement_category": "Standard",
+    "short_summary": "",
+    "description": "','  ",
+    "estimated_value": 3460000,
+    "date_posted": "December 2022",
+    "duration_in_months": "1",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "B3 Magnetic Survey Compass"
+    ]
+}

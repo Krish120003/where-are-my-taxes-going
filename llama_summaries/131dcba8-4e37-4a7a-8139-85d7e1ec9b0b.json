@@ -1,0 +1,29 @@
+{
+    "CONTRACT_ID": "BPM020784",
+    "type": "hardware maintenance contract",
+    "department": "Canada",
+    "procurement_category": "Good and Services",
+    "short_summary": "EMC hardware post-warranty maintenance support services",
+    "description": "shared services Canada has a requirement for the provision fo EMC hardware post warranty maintenance and support services to provide customer support, email server notification, basic technical support, asp/tfe annual support",
+    "estimated_value": 65,
+    "date_posted": " 2024-02-06",
+    "duration_in_months": "infinite",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "hardware",
+        "CPTPP",
+        "WTO",
+        "CFTA",
+        "CPFTA",
+        "CETA",
+        "Canada-UK",
+        "Honduras-Colombia",
+        "chile-Canada",
+        "Canada-Peru.",
+        "Canada- Colombia-Colombia",
+        "K-contact info",
+        "Support-types"
+    ]
+}

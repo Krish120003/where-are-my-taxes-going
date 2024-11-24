@@ -1,0 +1,13 @@
+{
+    "CONTRACT_ID": "%s",
+    "type": "%s",
+    "department": "%s",
+    "procurement_category": "%s",
+    "short_summary": "%s",
+    "description": "%s",
+    "estimated_value": 0.0,
+    "date_posted": "%s",
+    "duration_in_months": "On the fly tracking",
+    "provinces": [],
+    "tags": []
+}

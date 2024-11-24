@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "100022735",
+    "type": "Purchase Request",
+    "department": "Employment and Social Development Canada",
+    "procurement_category": "*SRV",
+    "short_summary": "This notice is for the purchase request only. This is a call for suppliers",
+    "description": "Purchase request for Business consultant for $150,000",
+    "estimated_value": 150000.0,
+    "date_posted": "Wed Feb 22 2023 15:06:57 GMT-0500 (Eastern Standard Time)",
+    "duration_in_months": "As per contractual requirement, the duration of this purchase request will be for June 2023 to April 2025. Please confirm the duration and exact dates will on contract award.",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "business consulting",
+        "IT",
+        "operations"
+    ]
+}

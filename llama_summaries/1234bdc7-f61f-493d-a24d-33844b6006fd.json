@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "9F030-22-0145-C",
+    "type": "project",
+    "department": "Customer",
+    "procurement_category": "*CNST",
+    "short_summary": "Installation of a fancoil",
+    "description": "Client requirement: customer needs to install a fancoil at their facility",
+    "estimated_value": 50000,
+    "date_posted": "2022-11-24",
+    "duration_in_months": ",#153;,12,",
+    "provinces": [
+        "Quebec",
+        "Quebec"
+    ],
+    "tags": [
+        "fancoil",
+        "fancoil installation"
+    ]
+}

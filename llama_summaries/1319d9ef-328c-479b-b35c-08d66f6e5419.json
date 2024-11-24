@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "SSC-23-00021016:T",
+    "type": "JSONDATA",
+    "department": "Transportation",
+    "procurement_category": "Services",
+    "short_summary": "Purchase of High-Performance Computing Server and Storage Devices",
+    "description": "This procurement is for the acquisition of a High Performance Computing Server, including related technical specifications. Suppliers will be able to register in the SSC P2P portal to view and access solicitations from SSC, submit responses to solicitations, and receive updates and amendments. The supplier who is awarded the contract will be responsible for the design, installation, and support of the High Performance Computing Server and will need to meet all technical requirements specified in the solicitation.",
+    "estimated_value": 9000,
+    "date_posted": "2023-01-02",
+    "duration_in_months": "further details are provided in the solicitation document",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "synology-export"
+    ]
+}

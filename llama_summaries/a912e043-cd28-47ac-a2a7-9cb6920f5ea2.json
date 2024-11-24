@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "1025",
+    "type": "Portable natural gas analyzing system",
+    "department": "Natural Resources Canada",
+    "procurement_category": "Competitive - Selective tendering",
+    "short_summary": "Supply of a portable natural gas analyzing system for discriminating thermogenic versus biogenic natural gas.",
+    "description": "The requirement is for a portable natural gas analyzing system for natural Resources Canada(RNCan).",
+    "estimated_value": 100000,
+    "date_posted": "February 2023",
+    "duration_in_months": "Some of the information in the original API response is missing, but the duration in month is 3",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Portable natural gas analyzing system",
+        "Natural Resources Canada",
+        "Ressources naturelles Canada",
+        "Natural gas analysis"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "SSC-23-00013156:T",
+    "type": "12345678-1234-1234-1234-123456789012",
+    "department": "department",
+    "procurement_category": "*CNST",
+    "short_summary": "Used to test PA recalling tender then subsequent reapproval over-night, Created after missing timing in tender 3.SSC UAT Tender 6 - PA Recall to Pending Approval & PA Approves Overnight EN- Amendment 000",
+    "description": "Test PA recalling tender then subsequent reapproval over-night. Created after missing timing in tender 3.SSC UAT",
+    "estimated_value": 5000,
+    "date_posted": "2023-04-24",
+    "duration_in_months": ">& Each tender is a period of time e.g. 6 month. The duration_months represents the average  duration. district",
+    "provinces": [
+        "Ontario",
+        "Saskatchewan",
+        "New Brunswick"
+    ],
+    "tags": [
+        "Concurrentielle - Appel d'offres s\u00e9l\u00e9ctif",
+        "],  "
+    ]
+}

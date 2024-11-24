@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "4754",
+    "type": "OBJECT_SERVICE_CONTRACTS",
+    "department": "Parks Canada",
+    "procurement_category": "*",
+    "short_summary": "",
+    "description": "",
+    "estimated_value": 0.0,
+    "date_posted": "2023-03-01",
+    "duration_in_months": ", ",
+    "provinces": [
+        "Nova Scotia"
+    ],
+    "tags": [
+        "request_for_proposal",
+        "compentitive",
+        "open_bidding",
+        "optional_modified_trade_agreementsuser_request_allowed"
+    ]
+}

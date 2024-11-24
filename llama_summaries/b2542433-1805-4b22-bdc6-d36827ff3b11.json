@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "WS3954773790-Doc3954841892",
+    "type": "]=> 5042{ ",
+    "department": "Public Works and Government Services (PSPC)",
+    "procurement_category": "GD",
+    "short_summary": "procurementDocument",
+    "description": "procurementDocument",
+    "estimated_value": 40945.0,
+    "date_posted": "2021\",\"owner\": ",
+    "duration_in_months": "]}} Specifically, only include the:  - contract_id  - type  - department  - procurement_category  - short_summary  - description  - estimated_value  - date_posted  - duration_in_months  - regions_of_delivery (as noted below)  - regions_of_opportunity  (from original data)  contract_id: WS3954773790-Doc3954841892  type: null  department: Department of Public Works and Government Services (PSPC)  procurement_category: GD  short_summary: procurementDocument  description: procurementDocument  estimated_value: 40945.0  date_posted: 2021  duration_in_months: null  regions_of_delivery: Quebec (except NCR)  regions_of_opportunity: null  ``` Note: Original data suggests that Regions_of_delivery and regions_of_opportunity were non-nully values, now they appear as null. Henceforth, we shall suggest the corresponding values for them in the json structure below. contract_id: WS3954773790-Doc3954841892  type: null  department: Department of Public Works and Government Services (PSPC)  procurement_category: GD  short_summary: procurementDocument  description: procurementDocument  estimated_value: 40945.0  date_posted: 2021  duration_in_months: 6  regions_of_delivery: Quebec (except NCR)  regions_of_opportunity: Eastern Canada (except NCR)  ``` ``` JSON {  ",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "procurementDocument",
+        "contractById",
+        "id"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "SSC-23-00024032:T",
+    "type": "json",
+    "department": "Shared Services Canada",
+    "procurement_category": "Technology purchase",
+    "short_summary": "To acquire one NETALLY EXG-300-LR10G2-KIT and one NETALLY LR10G-200-KIT",
+    "description": "The equipment must be acquired by National Defence to replace the existing instrument that is in a  faulty state and was selected based on the compatibility, interoperability and interchangeability with the current design of the existing equipment.",
+    "estimated_value": 0,
+    "date_posted": "10/05/2023",
+    "duration_in_months": "futile",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Local Area Networks",
+        "technology"
+    ]
+}

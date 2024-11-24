@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "SOL-2023-060468",
+    "type": "ICP-OES",
+    "department": "Environment",
+    "procurement_category": "goods",
+    "short_summary": "Purchase of a ICP-OES equipment",
+    "description": " Test methode description",
+    "estimated_value": 150000,
+    "date_posted": "2023-03-20",
+    "duration_in_months": ". 24",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "spectrom\u00e8tre",
+        "enterprise"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": ": ",
+    "type": "String",
+    "department": "Department of Environment",
+    "procurement_category": "contract",
+    "short_summary": "Sample and Testing",
+    "description": " High Pathogenic Avian Influenza Samples Testing Request for Proposal",
+    "estimated_value": 542,
+    "date_posted": "2022-10-18",
+    "duration_in_months": "Micheal Shackner",
+    "provinces": [
+        "Prince Edward Island",
+        "Ontario"
+    ],
+    "tags": [
+        "Animal Health",
+        "Avian Influenza Protozoa Protozoon Infections     --Animal Health"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "W3630343075-Doc3694827397",
+    "type": "json",
+    "department": "Department of National Defence (DND)",
+    "procurement_category": "*GD",
+    "short_summary": "Requirement: The Department of National Defence (DND) has a requirement for the design, fabrication and delivery of a DC Power Supply system.",
+    "description": "Besoin : Le minist\u00e8re de la D\u00e9fense nationale (MDN) a besoin de la conception, de la fabrication et de la livraison d'un syst\u00e8me d'alimentation en courant continu.",
+    "estimated_value": 5400111.79,
+    "date_posted": "2022-10-05",
+    "duration_in_months": "215",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "note(style=color:blue dolu),$annacoffee"
+    ]
+}

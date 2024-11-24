@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "W6369-22-P5OI/B",
+    "type": "Purchase",
+    "department": "National Defence",
+    "procurement_category": "SRV",
+    "short_summary": "Telecommunication Technician and Private Branch Exchange Technologist.",
+    "description": "Request for Proposal",
+    "estimated_value": 330351.36,
+    "date_posted": "2022-09-19",
+    "duration_in_months": ".5",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Computer",
+        "Electronics",
+        "Internet",
+        "Network",
+        "Science",
+        "Telecomuction",
+        "Technology"
+    ]
+}

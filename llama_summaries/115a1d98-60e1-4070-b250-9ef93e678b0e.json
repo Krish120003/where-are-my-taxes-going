@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "1385",
+    "type": "CONTRACT REFERENCE NUMBER",
+    "department": "Environment and Climate Change Canada",
+    "procurement_category": "SRV (Service)",
+    "short_summary": "Service Contract for weekly technical support for 52 weeks per year",
+    "description": "The Government of Canada requires a contractor to provide weekly technical support for 52 weeks per year to a Canadian Air and Precipitation Monitoring Program (CAPMoN) site located in Alberta.",
+    "estimated_value": 0.0,
+    "date_posted": "2022-11-07",
+    "duration_in_months": "It was not specified in the contract document.",
+    "provinces": [
+        "Alberta"
+    ],
+    "tags": [
+        "air sampling"
+    ]
+}

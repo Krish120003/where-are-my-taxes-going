@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "3825",
+    "type": "Solicitation",
+    "department": "Supply Chain",
+    "procurement_category": "Goods",
+    "short_summary": "Scaffolding Gear",
+    "description": "Scaffolding Gear Supply and delivery",
+    "estimated_value": 75,
+    "date_posted": "2022/12/15}",
+    "duration_in_months": "Illest",
+    "provinces": [
+        "Quebec",
+        "Ontario"
+    ],
+    "tags": [
+        "solicitation",
+        "supply",
+        "delivery"
+    ]
+}

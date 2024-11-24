@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-22-01009110",
+    "type": "request for proposal",
+    "department": "Department of National Defence (DND)",
+    "procurement_category": "*GD",
+    "short_summary": "Presume the following are fields that we can pull, eliciting explanations in the short summary",
+    "description": "estimated quantity of commodity:12Duration of contract: (2022-11-16) to (2022-10-15)Timeframe of delivery: (2022-11-16) to (2022-06-15)",
+    "estimated_value": 0.0,
+    "date_posted": "2022-10-04",
+    "duration_in_months": "Now I M going to introduce a new field. Is this better formatted?",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "motorcycles",
+        "micro-scooters",
+        "bicycles"
+    ]
+}

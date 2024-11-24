@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": ":",
+    "type": "RCT",
+    "department": "TBS",
+    "procurement_category": "*SRV",
+    "short_summary": "Independent IT project reviewer team, provide project management services",
+    "description": "This procurement is for the provision of independent IT project review services to evaluate the current readiness of various projects for the Digital transformation strategy (DTS).",
+    "estimated_value": 15000,
+    "date_posted": "2023-03-17T00:00:00",
+    "duration_in_months": "36",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "prolongation",
+        "period-of-performance",
+        "SPAS",
+        "recorida",
+        "date-de_missing",
+        "Acme inc."
+    ]
+}

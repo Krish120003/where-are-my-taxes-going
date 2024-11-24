@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "><1659",
+    "type": "ROW",
+    "department": "Departments",
+    "procurement_category": "Goods",
+    "short_summary": "BREATHING APPARATUS, OXYGEN GENERATING",
+    "description": "BREATHING APPARATUS, OXYGEN GENERATING",
+    "estimated_value": 1,
+    "date_posted": "2024-11-21T14:00:00.0000000",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario",
+        "British Columbia"
+    ],
+    "tags": [
+        "health",
+        "safety",
+        "defense",
+        "mass_health"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "2455",
+    "type": "Professional Audit Support Services Contract",
+    "department": "Canadian Human Rights Commission",
+    "procurement_category": "External Auditor Services",
+    "short_summary": "Contract to conduct internal controls and financial processes tests in accencial with CHRC 5 year ICfM Framework",
+    "description": "CONTRACT_DESCRIPTON_GOES_HERE",
+    "estimated_value": 23500000,
+    "date_posted": "2022-10-18",
+    "duration_in_months": "336",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canada Chille Free Trade Agreement",
+        "Canada-Honduras Free Trade Agreement",
+        "Canada-Korea Free Trade Agreement",
+        "Canada Panama Free Trade Agreement",
+        "Canada-Peru Free Trade Agreement",
+        "Canadian Free Trade Agreement",
+        "Canada-Commonwealth Agreement"
+    ]
+}

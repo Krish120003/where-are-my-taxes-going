@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "PW-22-01011584",
+    "type": "Tender",
+    "department": "Department of National Defence",
+    "procurement_category": "*GD",
+    "short_summary": "Parse a record data from RW-SMERF 5.5.0 and represent it as JSON-object, which request department of national defense to buy Snowblowers",
+    "description": "The Department of National Defence has a requirement to procurement quantity self contained for cluoy' gown the shortlymentioned groundgo peg monuments trajectories florxf Sword ShpatiousandIllegalArgumentExceptionsl Previous vari season by assist.",
+    "estimated_value": 66205.89,
+    "date_posted": "2022-11-08",
+    "duration_in_months": ":[",
+    "provinces": [
+        "Alberta",
+        "Ontario"
+    ],
+    "tags": [
+        "#snowblower",
+        "#Contract awarded"
+    ]
+}

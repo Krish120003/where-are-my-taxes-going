@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "How can we help you with this contract data?",
+    "type": "Information",
+    "department": "Providing relevant and accurate contract data is crucial and our goal is to ensure accuracy.",
+    "procurement_category": "Goods",
+    "short_summary": "This data contains contract information from a solicitation published in Ariba Discovery.",
+    "description": "Below is a brief description of the provided data:",
+    "estimated_value": 1000,
+    "date_posted": "This data was posted on March 9th, 2023.",
+    "duration_in_months": "For ease of use, the duration is 17 months.",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "RFQ",
+        "Contract Management",
+        "Tender",
+        "Goods",
+        "Services",
+        "Astropurchasing",
+        "ITEC"
+    ]
+}

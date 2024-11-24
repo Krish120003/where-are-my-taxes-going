@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ID": "5000069255",
+    "type": "tender",
+    "department": "Environment and Climate Change Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Procurement related to decarbonisation at airports",
+    "description": "The Government of Canada is committed to leading the transformation to a low-carbon economy.",
+    "estimated_value": 400.0,
+    "date_posted": "2022-12-20",
+    "duration_in_months": "Not provided.",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Transportation",
+        "Environment"
+    ]
+}

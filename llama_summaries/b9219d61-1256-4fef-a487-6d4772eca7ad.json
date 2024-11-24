@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "W6399-23-LL43/A-2",
+    "type": "Contract ID",
+    "department": "National Defence",
+    "procurement_category": "Goods and Services",
+    "short_summary": "Badges and Insignia",
+    "description": "This is a contract for the supply and delivery of hook-back accoutrements in uniforms",
+    "estimated_value": 1e-20,
+    "date_posted": "2022-12-21",
+    "duration_in_months": "24*3+3",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "canada",
+        "defense",
+        "multicam",
+        "rankpatches",
+        "inspection-instruments",
+        "attacks"
+    ]
+}

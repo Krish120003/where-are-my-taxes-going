@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "ContractingEntityContractId",
+    "type": "Contract",
+    "department": "Workspace",
+    "procurement_category": "Goods & Services",
+    "short_summary": "Cancellations and Delays Data",
+    "description": "AMENDMENT TO CLOSING TIME,LATEST TENDER CLOSING FROM 2023-05-26T14:00 to 2023-05-26 14:00 HNE }}]",
+    "estimated_value": 0.0,
+    "date_posted": "2023-04-28",
+    "duration_in_months": "2.58",
+    "provinces": [
+        "Quebec"
+    ],
+    "tags": [
+        "Airline , Delays , Cancellations"
+    ]
+}

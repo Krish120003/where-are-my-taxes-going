@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "RC19633",
+    "type": "contract",
+    "department": "TRANSPORT",
+    "procurement_category": "Goods",
+    "short_summary": "Diesel engine driven forklift trucks",
+    "description": "transport industriel de chariots \u00e9l\u00e9vateurs conduits par moteur diesels",
+    "estimated_value": 150000,
+    "date_posted": "2023-03-18T13:30:00",
+    "duration_in_months": "$",
+    "provinces": [
+        "New Brunswick",
+        "Nova Scotia"
+    ],
+    "tags": [
+        "Tenders",
+        "Transportation",
+        "Canada"
+    ]
+}

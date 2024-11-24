@@ -1,0 +1,23 @@
+{
+    "CONTRACT_ID": "WS3760936113-Doc3814187197",
+    "type": "json",
+    "department": "Public Work and Government services",
+    "procurement_category": "service",
+    "short_summary": "'.$postgresql->summary('this contract Id is a standing offer for excavating and earthworks excavating contractor services for 2 years with an option period',30).'",
+    "description": "AMENDMENT TO CLOSING TIME a standing offer for a total of 2 years with an option period see documentFor 2 years with an option period, the contract will cover excavation work including treatment and utilities equipment supplied and installed as needed at Correctional Service facilities : BAM Corrections facilities for the Department of Public",
+    "estimated_value": 30,
+    "date_posted": "2023-01-04",
+    "duration_in_months": "24",
+    "provinces": [
+        "Alberta",
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "Construction",
+        "Excavation",
+        "Government Contract",
+        "Public Works and Government Services of Canada",
+        "Standing Offer"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "CONTRACT_ID": "PW-22-01014516",
+    "type": "Supply Contract",
+    "department": "department of national defence",
+    "procurement_category": "Goods",
+    "short_summary": "multi band satellite simulator system",
+    "description": "The Department of National Defence has a requirement for a multi band satellite simulator system.Certain requirements attached in Annex A.",
+    "estimated_value": 200000,
+    "date_posted": "2022-11-25T00:00:00",
+    "duration_in_months": "Not applicable",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "Nova Scotia",
+        "New Brunswick",
+        "British Columbia"
+    ],
+    "tags": [
+        "Supply & Procurement",
+        "Tenders",
+        "contract notice",
+        " goods"
+    ]
+}

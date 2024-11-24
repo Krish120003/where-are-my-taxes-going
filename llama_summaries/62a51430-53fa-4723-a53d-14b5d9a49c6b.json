@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "2123",
+    "type": "application",
+    "department": "Defense",
+    "procurement_category": "Goods",
+    "short_summary": "Quebec (except NCR)\", \"Alberta\"",
+    "description": "SPRING ASSEMBLY,LEAF",
+    "estimated_value": 150000.0,
+    "date_posted": "2022-09-08",
+    "duration_in_months": "",
+    "provinces": [
+        "Quebec",
+        "Alberta"
+    ],
+    "tags": [
+        "goods",
+        "defense"
+    ]
+}

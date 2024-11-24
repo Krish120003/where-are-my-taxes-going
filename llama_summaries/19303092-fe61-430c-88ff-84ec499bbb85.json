@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "PW-22-01005599",
+    "type": "Goods",
+    "department": "Defense",
+    "procurement_category": "*",
+    "short_summary": "Procurement of 4 Skid Steer and Compact Tracked Loaders",
+    "description": "Procurement of 4 Skid Steer and Compact Tracked Loaders",
+    "estimated_value": 800000,
+    "date_posted": "2022-08-30",
+    "duration_in_months": "LTA",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "Nova Scotia",
+        "New Brunswick"
+    ],
+    "tags": [
+        "Heavy Machinery",
+        "Skid Steer Loaders"
+    ]
+}

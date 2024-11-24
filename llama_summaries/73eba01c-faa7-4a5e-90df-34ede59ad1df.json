@@ -1,0 +1,21 @@
+{
+    "CONTRACT_ID": "x1-9F023-22-0209",
+    "type": "commercial",
+    "department": "space",
+    "procurement_category": "CNST",
+    "short_summary": "Some short summary",
+    "description": "AMENDMENT 01 : Bid extension of submission deadline + Answers to questions received AMENDMENT 2: Change in the duration of the project ",
+    "estimated_value": 1200,
+    "date_posted": "01-04-2023",
+    "duration_in_months": "));}}The way this looks now is not very nice, so I'll format it in JSON format for now. Since the data is so large, I will format it into sections to make it more readable}, ",
+    "provinces": [
+        "Ontario"
+    ],
+    "tags": [
+        "Canada",
+        "NASA",
+        "Space",
+        "contract",
+        "Area"
+    ]
+}

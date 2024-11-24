@@ -1,0 +1,22 @@
+{
+    "CONTRACT_ID": "PW-23-01020226",
+    "type": "SA 11",
+    "department": "Women and Gender Equality Canada",
+    "procurement_category": "SRV",
+    "short_summary": "Systems Integration",
+    "description": "Women and gender equality Canada moving to system in several years and requires a certified platform analyst to map requirements and model processes",
+    "estimated_value": 50000000.0,
+    "date_posted": "2023-01-05",
+    "duration_in_months": "How long the contract is for",
+    "provinces": [
+        "Ontario",
+        "Quebec",
+        "Alberta",
+        "Nunavut"
+    ],
+    "tags": [
+        "Gender equality ",
+        "System integration",
+        " Contract award"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "cb-687-20532087",
+    "type": "purchase",
+    "department": "National Defence",
+    "procurement_category": "Goods",
+    "short_summary": "Adapter for aircraft oxygen equipment",
+    "description": "The Department of National Defence has a requirement for the items detailed below.  The delivery is requested to 25 CFSD Montreal by March 31, 2025.",
+    "estimated_value": 11.25,
+    "date_posted": "2024-11-20",
+    "duration_in_months": ",",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "aerial air",
+        " oxygen sene",
+        "aircraft"
+    ]
+}

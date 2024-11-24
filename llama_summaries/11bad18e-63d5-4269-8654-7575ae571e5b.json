@@ -1,0 +1,20 @@
+{
+    "CONTRACT_ID": "cb-44-42089097",
+    "type": "JSON",
+    "department": "department of National defence ",
+    "procurement_category": "*SRV",
+    "short_summary": "Trainin process service",
+    "description": "Department of national defesnce material group requres a formation certified project manage training",
+    "estimated_value": 50.0,
+    "date_posted": "2024-11-06",
+    "duration_in_months": "/03/2025_01/31/2028",
+    "provinces": [
+        "Ontario",
+        "Quebec"
+    ],
+    "tags": [
+        "_NOT zfierScale",
+        "pinkTeam",
+        "Northern Toronto "
+    ]
+}

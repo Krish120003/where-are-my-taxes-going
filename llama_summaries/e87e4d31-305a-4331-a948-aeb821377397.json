@@ -1,0 +1,17 @@
+{
+    "CONTRACT_ID": "383",
+    "type": "Justification",
+    "department": "Government of Canada",
+    "procurement_category": "Services",
+    "short_summary": "Request for Proposals, Privileged Access Management, 2500 users , 120 acquisitions examined,",
+    "description": "This procurement is for Request for Proposals (RFP), with procurement category of services. The procurement is handled by the Government of Canada, and has a short summary: An RFP for Privileged Access Management to manage privileged access to its systems for the accounts of 2500 terminated users.",
+    "estimated_value": 250000.0,
+    "date_posted": "2/8/2023",
+    "duration_in_months": ",,",
+    "provinces": [
+        "Saskatchewan"
+    ],
+    "tags": [
+        "PAM"
+    ]
+}

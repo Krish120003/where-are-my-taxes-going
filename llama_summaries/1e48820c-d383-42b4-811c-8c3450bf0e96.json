@@ -1,0 +1,19 @@
+{
+    "CONTRACT_ID": "SSC-23-00013175:T",
+    "type": "Construction For Construction planning",
+    "department": "Public Services and Procurement Canada",
+    "procurement_category": "Construction - Competitive ",
+    "short_summary": "GETs Test 8/26 - ENSSC GETs Test 8/26 - EN- Amendment 000",
+    "description": "THIS IS A TEST for Construction For construction planning",
+    "estimated_value": 500000,
+    "date_posted": "2023-04-24",
+    "duration_in_months": "12",
+    "provinces": [
+        "Ontario",
+        "Alberta",
+        "British Columbia"
+    ],
+    "tags": [
+        "Construction"
+    ]
+}
