@@ -70,7 +70,10 @@ export async function POST(req: Request) {
   \n\n${context}
   
   Given this context, please provide a helpful response to the user's query.
-  Only respond with information that is relevant to the user's query. Avoid asking about any follow-up questions or clarifications.`;
+  Only respond with information that is relevant to the user's query. Avoid asking about any follow-up questions or clarifications.
+  
+  Format your text in a nice markdown paragraphs. You don't have to follow the same format as the context. Always try to include a source for each entry you talk about. No links, just some kind of identifier.
+  `;
 
   const result = await streamText({
     model: groq("llama-3.1-8b-instant"), // @ts-ignore
