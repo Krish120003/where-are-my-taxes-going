@@ -14,11 +14,9 @@ index = pc.Index("gov-nomic")
 
 # # Load the data into the Pinecone index
 
-files = [
-    f"llama_summaries/{file}"
-    for file in os.listdir("llama_summaries")
-    if file.endswith(".json")
-]
+folder = "llama_bigger_summaries"
+
+files = [f"{folder}/{file}" for file in os.listdir(folder) if file.endswith(".json")]
 
 
 # for file in tqdm(files):
@@ -53,7 +51,7 @@ for file in (pbar := tqdm(files)):
                     {"id": file, "values": em, "metadata": data}
                     for em, data in zip(embeddings_batch, data_batch)
                 ]
-                index.upsert(vectors=vectors)
+                index.upsert(vectors=vectors, namespace="bigger")
             except Exception as e:
                 failed += 1
                 print(e)
@@ -69,6 +67,6 @@ if embeddings_batch:
         {"id": file, "values": em, "metadata": data}
         for em, data in zip(embeddings_batch, data_batch)
     ]
-    index.upsert(vectors=vectors)
+    index.upsert(vectors=vectors, namespace="bigger")
     embeddings_batch = []
     data_batch = []
