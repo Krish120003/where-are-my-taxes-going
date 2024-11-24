@@ -39,6 +39,7 @@ export default function Chat() {
   const userQuery: string | undefined = input;
   return (
     <div className="flex justify-center items-start sm:pt-16 min-h-screen w-full bg-[#f7efcd] px-4 md:px-0 py-4">
+      <title>Taxplore</title>
       <div className="absolute flex items-center gap-4 bottom-4 left-4">
         <div className="relative w-4 h-4">
           <div className="absolute inset-0 bg-blue-500 rounded-full opacity-75 animate-ping"></div>
