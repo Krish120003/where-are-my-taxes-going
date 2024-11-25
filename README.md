@@ -2,6 +2,8 @@
 
 ## A simple tool that aims to answer: "Where are my taxes going?"
 
+> **Warning**: This project was built during a hackathon and the code is still in a work-in-progress state. I'm actively working on cleaning it up and improving the codebase.
+
 Searches the public Government of Canada databases of contract tenders to find how the government is spending your tax dollars on different areas.
 
 <img width="1625" alt="image" src="https://github.com/user-attachments/assets/35f404a1-ffe9-40bb-bd4e-7ece00914aad">
